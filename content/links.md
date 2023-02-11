@@ -38,7 +38,3 @@ url：https://xlap.top
 intro：Live Sensibly,Think Rationally.
 avatar：https://xlap.top/avatar.jpeg
 ```
-
-### 平台品牌
-
-![ForeverBlog logo](https://xlap.top/assets/images/logo-foreverblog.png)
