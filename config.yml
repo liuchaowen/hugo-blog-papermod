@@ -23,24 +23,24 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -80,25 +80,23 @@ params:
     kitURL: "https://kit.fontawesome.com/844a346ce0.js"
 
   socialIcons:
-    - name: notion
-      url: "https://cheman.notion.site"
-      icon: "fa-solid fa-pen"
-    - name: 10year
-      url: "https://10year.xlap.top"
-      icon: "fa-solid fa-people-group"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: notion
+    #   url: "https://cheman.notion.site"
+    #   icon: "fa-solid fa-pen"
+    # - name: 10year
+    #   url: "https://10year.xlap.top"
+    #   icon: "fa-solid fa-people-group"
     - name: github
       url: "https://github.com/liuchaowen"
     - name: email
-      url: "mailto:i@xlap.top"
+      url: "mailto:cheman@xlap.top"
       icon: "fa-solid fa-envelope"
-    - name: woodcut
-      url: "https://dongbaz.xlap.top"
-      icon: "fa-brands fa-d-and-d"
-    - name: hometv
-      url: "https://tv.xlap.top"
-      icon: "fa-solid fa-tv"
+    # - name: woodcut
+    #   url: "https://dongbaz.xlap.top"
+    #   icon: "fa-brands fa-d-and-d"
+    # - name: hometv
+    #   url: "https://tv.xlap.top"
+    #   icon: "fa-solid fa-tv"
 
   analytics:
     google:
@@ -114,8 +112,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/liuchaowen/hugo-blog-papermod/tree/main/content"
+    Text: "[edit]" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
