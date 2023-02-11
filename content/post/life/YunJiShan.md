@@ -2,6 +2,7 @@
 title: "韶关云髻山徒步之旅"
 date: 2023-01-01T09:59:05+08:00
 draft: false
+categories: ["生活"]
 tags: ["徒步","旅行","韶关"]
 description: 一次愉悦的随意的徒步之旅
 author: "CHAO"

@@ -2,6 +2,7 @@
 title: "Flutter3新特性学习"
 date: 2022-12-26T16:59:05+08:00
 draft: false
+categories: ["技术"]
 tags: ["flutter","dev","新特性"]
 description: 粗略地看看flutter3.0版本有什么新特性
 author: "CHAO"

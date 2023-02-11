@@ -27,14 +27,14 @@ draft: false
 |       [算法花园](https://xiang578.com)       |        一万人来一百次的岛        |
 |    [physixfan](https://www.physixfan.com)    |  细推物理须行乐 何用浮名绊此身  |
 | [anran758](https://anran758.github.io/blog) |             前端技术             |
-|     [神奇的战士](https://thinkhard.tech)     |       书写是为了更好地思考       |
+|      [木木木木木](https://immmmm.com/)      |             书法技术             |
 |  [架构师修炼之道](https://tianmingxing.com)  |       求知若渴，虚心如愚。       |
 
 ### 互链格式
 
 ```txt
-title：ChemanLau
-url：https://xlap.top
+title：XLapTop
+url：https://blog.xlap.top
 intro：Live Sensibly,Think Rationally.
 avatar：https://xlap.top/avatar.jpeg
 ```

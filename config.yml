@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi~"
-    Content: 欢迎来到我的博客
+    Title: "Hi~ Welcome!"
+    Content: Live Sensibly,Think Rationally.
   
   fontAwesome:
     kitURL: "https://kit.fontawesome.com/844a346ce0.js"

@@ -2,6 +2,7 @@
 title: "Kinect4AlphaRobot"
 date: 2022-12-28T10:26:24+08:00
 draft: false
+categories: ["技术"]
 tags: [“dev","机器人","体感","控制"]
 description: 使用kinect体感控制机器人
 author: "CHAO"
