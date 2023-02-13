@@ -38,5 +38,5 @@ draft: false
 title：XLapTop
 url：https://blog.xlap.top
 intro：Live Sensibly,Think Rationally.
-avatar：https://xlap.top/avatar.jpeg
+avatar：https://blog.xlap.top/avatar.jpeg
 ```
