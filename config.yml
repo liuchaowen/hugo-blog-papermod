@@ -27,9 +27,9 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -37,10 +37,10 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
-  showtoc: true
-  tocopen: true
+  showtoc: false
+  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -124,7 +124,7 @@ params:
 menu:
   main:
     - identifier: about
-      name: 友邻
+      name: 关于
       url: /about/
       weight: 10
     - identifier: tags

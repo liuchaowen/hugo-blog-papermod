@@ -25,22 +25,22 @@ UseHugoToc: true
 ---
 基于Kinect 2.0 与 Alpha 1s 阿尔法机器人的体感控制开发，项目是两位成员@Cheman @JYang 完成。
 
-### 项目说明
+## 项目说明
 
 项目通过Kinect捕捉人体动作数据，通过蓝牙模块控制 Alpha Robot （优必选阿尔法机器人1S）
 
-### 演示视频
+## 演示视频
 
 [https://share.weiyun.com/IhiifkW6](https://share.weiyun.com/IhiifkW6)
 
-### 项目技术点
+## 项目技术点
 
 * 蓝牙通信串口开发（项目可实现的基础）
 * Kinect获取到的骨骼节点三维坐标数据与Alpha 1S电机转动角度的转换运算
 * 机器人动作重心偏移解决方法（未解决）
 * 解决Kinect排除多人数据捕捉干扰方法（未解决）
 
-### 项目硬件模块
+## 项目硬件模块
 
 ![bluemodel](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220645xhyws3tsjj3g5jw1.jpg)
 ![kinect2.0](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220645of84nu2lf522f2fs.jpg)
@@ -80,13 +80,13 @@ Kinect One 2.0（可同时记录6个人的20个关节点）
 
 9、运行项目程序 （应该有动作了，祝你好运），也可以自己打包生成BIN文件  ，下次直接双击运行就可了，因为代码目录里的BIN文件是基于我的电脑环境的，所以在你的电脑可能会不行，USB口一致性的问题，也可以在VS里下载个打包插件，这样能生成EXE，也是可以的
 
-### 开发软件环境
+## 开发软件环境
 
 * Kinect for Windows  SDK  2.0(附带kinect browser与kinect studio)
 * 串口调试助手
 * Visual Studio 2017（本项目使用C#）
 
-### 实现原理思路
+## 实现原理思路
 
 ![yuanli](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220646w805w0z9tnujzndj.png)
 
@@ -112,7 +112,7 @@ Kinect One 2.0（可同时记录6个人的20个关节点）
 * 右胳膊肘 (Elbow Right)- 右手腕(Wrist Right)
 * 右手腕(Wrist Right)- 右手 (Hand Right)
 
-#### Kinect 人体感应示意图
+## Kinect 人体感应示意图
 
 ![yuanli](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220646vdm7sky2na3a3du3.jpg)
 
@@ -126,7 +126,7 @@ Kinect One 2.0（可同时记录6个人的20个关节点）
 手从竖直立正抬至P状态为动作过程分析，r为与初始位置时的角度；
 每一帧获取到的r值随运动改变，电机也将即时改变角度；
 
-#### 体感控制示意图（面向设备）
+## 体感控制示意图（面向设备）
 
 ![jishuan](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220646iz4fz300105fpf7s.jpg)
 
