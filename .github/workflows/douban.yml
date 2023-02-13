@@ -1,10 +1,7 @@
 name: douban
 on: 
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  schedule:
+  - cron: "5 * * * *"
 
 jobs:
   douban:
@@ -22,7 +19,7 @@ jobs:
         id: 76509802
         type: movie
         format: csv
-        dir: ./douban
+        dir: ./data/douban
 
     - name: book
       uses: lizheming/doumark-action@master
@@ -30,11 +27,11 @@ jobs:
         id: 76509802
         type: book
         format: csv
-        dir: ./douban
+        dir: ./data/douban
 
     - name: Commit
       uses: EndBug/add-and-commit@v8
       with:
         message: 'chore: update douban data'
-        add: './douban'
+        add: './data/douban'
         commit: --f
