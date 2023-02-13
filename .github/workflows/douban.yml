@@ -33,5 +33,5 @@ jobs:
       uses: EndBug/add-and-commit@v8
       with:
         message: 'chore: update douban data'
-        add: './douban'
+        add: './data/douban'
         commit: --f
