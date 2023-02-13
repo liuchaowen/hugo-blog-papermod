@@ -1,7 +1,10 @@
 name: douban
 on:
-  schedule:
-    - cron: "5 * * * *"
+  # schedule:
+  #   - cron: "120 * * * *"
+  push:
+      branches: ["main"]
+  workflow_dispatch:
 
 jobs:
   douban:
