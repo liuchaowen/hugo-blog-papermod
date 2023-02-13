@@ -7,8 +7,8 @@ draft: false
 ---
 ## 近期观影
 
-\{\{< movies >\}\}
+{{< movies >}}
 
 ## 近期阅读
 
-\{\{< books >\}\}
+{{< books >}}

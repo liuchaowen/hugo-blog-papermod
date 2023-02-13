@@ -1,7 +1,7 @@
 name: douban
 on:
   schedule:
-    - cron: "360 * * * *"
+    - cron: "*/360 * * * *"
   # push:
   #     branches: ["main"]
   # workflow_dispatch:
