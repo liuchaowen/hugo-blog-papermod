@@ -1,19 +1,19 @@
 name: douban
-on: 
+on:
   schedule:
-  - cron: "5 * * * *"
+    - cron: "5 * * * *"
 
 jobs:
   douban:
     name: Douban mark data sync
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+      - name: Checkout
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
-    - name: movie
+      - name: movie
         uses: lizheming/doumark-action@master
         with:
           id: 76509802
@@ -21,7 +21,7 @@ jobs:
           format: csv
           dir: ./data/douban
 
-    - name: book
+      - name: book
         uses: lizheming/doumark-action@master
         with:
           id: 76509802
@@ -29,8 +29,8 @@ jobs:
           format: csv
           dir: ./data/douban
 
-    - name: Commit
+      - name: Commit
         uses: EndBug/add-and-commit@v8
         with:
-          message: 'chore: update douban data'
-          add: './data/douban'
+          message: "chore: update douban data"
+          add: "./data/douban"
