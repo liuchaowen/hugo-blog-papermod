@@ -19,7 +19,15 @@ jobs:
         id: 76509802
         type: movie
         format: csv
-        dir: ./douban
+        dir: ./data/douban
+
+    - name: book
+      uses: lizheming/doumark-action@master
+      with:
+        id: 76509802
+        type: book
+        format: csv
+        dir: ./data/douban
 
     - name: Commit
       uses: EndBug/add-and-commit@v8
