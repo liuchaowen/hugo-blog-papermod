@@ -1,10 +1,10 @@
 name: douban
 on:
-  schedule:
-    - cron: "*/360 * * * *"
-  # push:
-  #     branches: ["main"]
-  # workflow_dispatch:
+  # schedule:
+  #   - cron: "*/360 * * * *"
+  push:
+      branches: ["main"]
+  workflow_dispatch:
 
 jobs:
   douban:
