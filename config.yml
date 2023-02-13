@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "XlapTop"
+    text: "XLapTop"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
