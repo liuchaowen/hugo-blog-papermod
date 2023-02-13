@@ -24,3 +24,4 @@ jobs:
       with:
         message: 'chore: update douban data'
         add: './douban'
+        commit: --f
