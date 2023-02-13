@@ -127,14 +127,18 @@ menu:
       name: 关于
       url: /about/
       weight: 10
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 20
     - identifier: tags
       name: 标签
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: links
       name: 友邻
       url: /links/
-      weight: 30
+      weight: 40
   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
