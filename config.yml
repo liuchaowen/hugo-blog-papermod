@@ -135,10 +135,14 @@ menu:
       name: 标签
       url: /tags/
       weight: 30
-    - identifier: friends
-      name: 友邻
-      url: /friends/
+    - identifier: links
+      name: 友链
+      url: /links/
       weight: 40
+    # - identifier: friends
+    #   name: 朋友圈
+    #   url: /friends/
+    #   weight: 50
   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
