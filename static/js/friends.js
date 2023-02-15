@@ -2,7 +2,7 @@
 Last Modified time : 20220326 15:38 by https://immmmm.com
 已适配 FriendCircle 公共库和主库
 */
-
+document.getElementsByTagName("body")[0].classList.add("list"); 
 //默认数据
 var fdata = {
   jsonurl: "",

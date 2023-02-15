@@ -2,35 +2,20 @@
 Last Modified time : 20220211 98:00 by https://immmmm.com
 已适配 FriendCircle 公共库和主库
 */
-:root {
-    --gap: 24px;
-    --content-gap: 20px;
-    --nav-width: 1024px;
-    --main-width: 720px;
-    --header-height: 60px;
-    --footer-height: 60px;
-    --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+:root{
+  --lmm-hover: #eea2a4;
+  --lmm-fontcolor: #363636;
+  --lmm-background: #f7f9fe;
+  --lmm-floorcolor: #a9a9b3;
+  --lmm-dark-fontcolor: #a9a9b3;
+  --lmm-dack-background: #252627;
+  --lmm-dark-floorcolor: #454545;
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --hljs-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+  --lmm-fontcolor: #a9a9b3;
+  --lmm-background: #252627;
+  --lmm-floorcolor: #454545;
 }
 /* 基本信息 */
 #cf-state {font-size:16px;border-radius:8px;box-shadow:none;max-width:810px;margin:auto;overflow:hidden;display:flex;flex-direction:row;flex-wrap:wrap;padding:8px 0;}
@@ -67,7 +52,7 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
 #cf-overshow{bottom: 100%;left:0;transition: all 0.3s ease;z-index: 999;}
 #cf-overlay.cf-show-now{left:0;}
 #cf-overshow.cf-show-now{bottom:0;}
-.cf-overshow{text-align: center;border-radius: 20px;position: absolute;width: 320px;min-height:170px;left: 50%;top:50%;transform: translate(-50%,-50%);box-shadow: 0 12px 40px rgba(0, 0, 0, 0.093);background: var(--theme);}
+.cf-overshow{text-align: center;border-radius: 20px;position: absolute;width: 320px;min-height:170px;left: 50%;top:50%;transform: translate(-50%,-50%);box-shadow: 0 12px 40px rgba(0, 0, 0, 0.093);background: var(--lmm-background);}
 .cf-overshow-head:hover img.cf-img-avatar{transform:rotate(360deg);transition:0.8s;}
 .cf-overshow .cf-overshow-head a{color: var(--lmm-hover);display:block;text-align:center;font-weight:bold;margin-top:-5px;padding:5px 8px 5px;text-decoration: none;}
 .cf-overshow img.cf-img-avatar{background:#fff;width: 80px;height: 80px;border-radius: 50%;margin: -45px auto 0 !important;box-shadow: 0 12px 40px rgb(0 0 0 / 9%);transform:rotate(-360deg);transition:0.8s;}
@@ -80,10 +65,10 @@ Last Modified time : 20220211 98:00 by https://immmmm.com
 /* 颜色 */
 .cf-article .cf-article-title:hover{letter-spacing:2px;color:var(--lmm-hover) !important;}
 #cf-more i.fas:hover{color:var(--lmm-hover);}
-#cf-state,#cf-more {background:var(--theme);color:var(--lmm-fontcolor);}
+#cf-state,#cf-more {background:var(--lmm-background);color:var(--lmm-fontcolor);}
 #cf-change,.cf-time-updated,.cf-time-created,.cf-article-floor{color:var(--lmm-floorcolor);}
 .cf-article-author,.cf-article a.cf-article-title,.cf-article:hover .cf-article-floor,.cf-article:hover .cf-time-created,.cf-article:hover .cf-time-updated{color:var(--lmm-fontcolor);}
-.cf-article {background:var(--hljs-bg);}
+.cf-article {background:var(--lmm-background);}
 #cf-change span:hover{color:var(--lmm-hover);cursor:pointer;}
 #cf-change .cf-change-now{color:var(--lmm-hover);font-weight:800;}
 .cf-overshow p a:hover{color:var(--lmm-hover) !important;}
