@@ -6,7 +6,8 @@ document.getElementsByTagName("body")[0].classList.add("list");
 //默认数据
 var fdata = {
   jsonurl: "",
-  apiurl: "",
+  apiurl: "https://hugo-friendcircle-api.xlap.top/",
+  // apiurl:"https://hexo-circle-of-friends-steel.vercel.app/",
   apipublieurl: "https://fcircle-pub.rct.cool/", //默认公共库
   initnumber: 20, //首次加载文章数
   stepnumber: 10, //更多加载文章数
@@ -179,7 +180,12 @@ function fetchNextArticle() {
     var fetchUrl =
       UrlNow + "rule=" + sortNow + "&start=" + start + "&end=" + end;
     //console.log(fetchUrl)
-    fetch(fetchUrl)
+    fetch(fetchUrl, {
+      mode: "no-cors",
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+      },
+    })
       .then((res) => res.json())
       .then((json) => {
         var nextArticle = eval(json.article_data);
