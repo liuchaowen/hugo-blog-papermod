@@ -16,8 +16,8 @@ draft: false
 * Dongbaz 东巴人木刻：[https://dongbaz.xlap.top](https://dongbaz.xlap.top)
 * Foreverblog 十年约友之头像墙：[https://10year.xlap.top](https://10year.xlap.top)
 * HomeTV 家庭电视引导页：[https://tv.xlap.top](https://tv.xlap.top)
-* PullDoublePinDomain 查询未注册的双拼域名脚本：[[Github Repository]](https://github.com/liuchaowen/pull-double-pinyin-domain.git)
-* FlutterFlipClock 翻页时钟App：[[Github Repository]](https://e.coding.net/cheman/app/flutter_flipclock.git)
+* [PullDoublePinDomain](https://github.com/liuchaowen/pull-double-pinyin-domain.git) 查询未注册的双拼域名脚本：
+* [FlutterFlipClock](https://e.coding.net/cheman/app/flutter_flipclock.git) 一个翻页时钟App
 
 ### 我的友邻
 
