@@ -23,7 +23,7 @@ draft: false
 
 {{< friend des="生活喜欢勇敢的人 用结果去证明一切" url="https://www.rickychen.top" src="https://i.imgtg.com/2023/02/15/dk7ol.jpg" name="陈阿叔" >}}
 {{< friend des="养了一只叫火锅的猫" url="https://maoshu.me" src="https://i.imgtg.com/2023/02/15/dknVb.jpg" name="猫叔" >}}
-{{< friend des="Just like old time!" url="http://www.zhuiyibai.cn" src="https://i.imgtg.com/2023/02/15/dkigP.png/" name="追忆白" >}}
+{{< friend des="Just like old time!" url="http://www.zhuiyibai.cn" src="https://i.imgtg.com/2023/02/15/dkigP.png" name="追忆白" >}}
 {{< friend des="读万卷书 行万里路" url="https://blog.becomingcelia.com" src="https://i.imgtg.com/2023/02/15/dkNrg.jpg" name="Celia" >}}
 {{< friend des="一座奇妙的小孤岛. " url="https://www.mole9630.top" src="https://i.imgtg.com/2023/02/15/dkhW6.jpg" name="摩尔の镇" >}}
 {{< friend des="点滴记录和分享" url="https://minirizhi.com" src="https://i.imgtg.com/2023/02/15/dkeQB.png" name="迷你日志" >}}
