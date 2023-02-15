@@ -82,16 +82,22 @@ params:
   socialIcons:
     - name: cv
       url: "https://cheman.notion.site"
+      title: "Notion笔记"
     - name: anilist
       url: "https://10year.xlap.top"
+      title: "十年之约头像墙"
     - name: github
       url: "https://github.com/liuchaowen"
+      title: "代码托管"
     - name: email
       url: "mailto:cheman@xlap.top"
+      title: "邮箱"
     - name: microblog
       url: "https://dongbaz.xlap.top"
+      title: "东巴人木刻"
     - name: googlepodcasts
       url: "https://tv.xlap.top"
+      title: "家庭电视导航"
 
   analytics:
     google:

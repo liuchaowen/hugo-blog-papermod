@@ -39,3 +39,23 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
     frame.contentWindow.postMessage({ type: "set-theme", theme: theme }, "*");
   }
 });
+
+function randomPost() {
+  fetch("/sitemap.xml")
+    .then((res) => res.text())
+    .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then((data) => {
+      let ls = data.querySelectorAll("url loc");
+      let locationHref, locSplit;
+      let list = [];
+      ls.forEach((element) => {
+        var ele = element.innerHTML;
+        var ele_split = ele.split("/")[3] || "";
+        if (ele_split == "post") {
+          list.push(ele);
+        }
+      });
+      locationHref = list[Math.floor(Math.random() * list.length)];
+      location.href = locationHref;
+    });
+}
