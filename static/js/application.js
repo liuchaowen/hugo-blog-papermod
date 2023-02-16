@@ -1,3 +1,10 @@
+/**
+ * utteranc主题切换
+ * utteranc:基于github issue的静态评论插件
+ * [因为只能github账号登录才能评论，对非开发人员不友好，故弃用，改用twikoo]
+ */
+
+/*
 var DARK_THEME = "github-dark";
 var LIGHT_THEME = "github-light";
 var REPO = "liuchaowen/hugo-blog-papermod";
@@ -39,7 +46,11 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
     frame.contentWindow.postMessage({ type: "set-theme", theme: theme }, "*");
   }
 });
+*/
 
+/**
+ * 随机阅读文章
+ */
 function randomPost() {
   fetch("/sitemap.xml")
     .then((res) => res.text())
