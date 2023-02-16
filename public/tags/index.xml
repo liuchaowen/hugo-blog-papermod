@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/</link>
+    <description>Recent content in Tags on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jan 2023 09:59:05 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>徒步</title>
+      <link>https://blog.xlap.top/tags/%E5%BE%92%E6%AD%A5/</link>
+      <pubDate>Sun, 01 Jan 2023 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E5%BE%92%E6%AD%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>旅行</title>
+      <link>https://blog.xlap.top/tags/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Sun, 01 Jan 2023 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>韶关</title>
+      <link>https://blog.xlap.top/tags/%E9%9F%B6%E5%85%B3/</link>
+      <pubDate>Sun, 01 Jan 2023 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E9%9F%B6%E5%85%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dev</title>
+      <link>https://blog.xlap.top/tags/dev/</link>
+      <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>体感</title>
+      <link>https://blog.xlap.top/tags/%E4%BD%93%E6%84%9F/</link>
+      <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E4%BD%93%E6%84%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>控制</title>
+      <link>https://blog.xlap.top/tags/%E6%8E%A7%E5%88%B6/</link>
+      <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E6%8E%A7%E5%88%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器人</title>
+      <link>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flutter</title>
+      <link>https://blog.xlap.top/tags/flutter/</link>
+      <pubDate>Mon, 26 Dec 2022 16:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>新特性</title>
+      <link>https://blog.xlap.top/tags/%E6%96%B0%E7%89%B9%E6%80%A7/</link>
+      <pubDate>Mon, 26 Dec 2022 16:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/tags/%E6%96%B0%E7%89%B9%E6%80%A7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
