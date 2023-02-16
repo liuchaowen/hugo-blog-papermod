@@ -6,7 +6,7 @@ document.getElementsByTagName("body")[0].classList.add("list");
 //默认数据
 var fdata = {
   jsonurl: "",
-  apiurl: "https://api.xlap.top/",
+  apiurl: "https://api.fc.xlap.top/",
   // apiurl:"https://hexo-circle-of-friends-steel.vercel.app/",
   apipublieurl: "https://fcircle-pub.rct.cool/", //默认公共库
   initnumber: 20, //首次加载文章数
