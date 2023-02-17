@@ -48,9 +48,7 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 });
 */
 
-/**
- * 随机阅读文章
- */
+/* 随机阅读文章 */
 function randomPost() {
   fetch("/sitemap.xml")
     .then((res) => res.text())
