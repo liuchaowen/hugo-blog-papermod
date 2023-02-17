@@ -123,7 +123,8 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ["title", "permalink", "summary"]
+    
 menu:
   main:
     - identifier: about
@@ -139,7 +140,7 @@ menu:
       url: /tags/
       weight: 30
     - identifier: friends
-      name: 友圈
+      name: 博友圈
       url: /friends/
       weight: 40
     - identifier: links
