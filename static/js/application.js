@@ -62,7 +62,9 @@ function randomPost() {
       ls.forEach((element) => {
         var ele = element.innerHTML;
         var ele_split = ele.split("/")[3] || "";
-        if (ele_split == "post") {
+        var ele_split_tail = ele.split("/")[4] || "";
+        console.log(ele_split, ele_split_tail);
+        if (ele_split == "post" && ele_split_tail != "") {
           list.push(ele);
         }
       });
