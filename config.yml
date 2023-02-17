@@ -2,7 +2,9 @@ baseURL: "https://blog.xlap.top/"
 title: Blog - XLapTop
 paginate: 5
 theme: PaperMod
+
 languageCode: "zh-cn"
+defaultContentLanguage: zh
 # 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true 
 hasCJKLanguage: true 
 
@@ -114,7 +116,7 @@ params:
 
   editPost:
     URL: "https://github.com/liuchaowen/hugo-blog-papermod/tree/main/content"
-    Text: "[edit]" # edit text
+    Text: "Repo" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
