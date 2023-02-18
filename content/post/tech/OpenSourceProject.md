@@ -46,7 +46,7 @@ UseHugoToc: true
 {{< github title="freeCodeCamp/freeCodeCamp" >}}
 * YouDontKnowJS - JS核心技术研究
 {{< github title="getify/You-Dont-Know-JS" >}}
-* Memos - 开源的碎言碎言广场模块
+* Memos - 开源的碎言碎语广场模块
 {{< github title="usememos/memos" >}}
 * Twikoo - 开源的评论模块
 {{< github title="imaegoo/twikoo" >}}
