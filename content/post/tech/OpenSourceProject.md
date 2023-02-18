@@ -46,3 +46,9 @@ UseHugoToc: true
 {{< github title="freeCodeCamp/freeCodeCamp" >}}
 * YouDontKnowJS - JS核心技术研究
 {{< github title="getify/You-Dont-Know-JS" >}}
+* Memos - 开源的碎言碎言广场模块
+{{< github title="usememos/memos" >}}
+* Twikoo - 开源的评论模块
+{{< github title="imaegoo/twikoo" >}}
+* FriendsCircle - 开源的博友圈模块
+{{< github title="Rock-Candy-Tea/hexo-circle-of-friends" >}}
