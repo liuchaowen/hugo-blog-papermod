@@ -140,18 +140,22 @@ menu:
       name: 归档
       url: /archives/
       weight: 20
-    - identifier: tags
-      name: 标签
-      url: /tags/
-      weight: 30
-    - identifier: friends
-      name: 博友圈
-      url: /friends/
+    # - identifier: tags
+    #   name: 标签
+    #   url: /tags/
+    #   weight: 30
+    - identifier: says
+      name: 言录
+      url: /says/
       weight: 40
+    - identifier: friends
+      name: 文集
+      url: /friends/
+      weight: 50
     - identifier: links
       name: 友链
       url: /links/
-      weight: 50
+      weight: 60
   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

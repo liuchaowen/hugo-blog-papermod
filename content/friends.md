@@ -1,4 +1,4 @@
 ---
-title: 朋友圈
+title: 友文
 layout: "friends"
 ---
