@@ -12,6 +12,7 @@ draft: false
 {{< friend des="一座奇妙的小孤岛. " url="https://www.mole9630.top" src="https://i.imgtg.com/2023/02/15/dkhW6.jpg" name="摩尔の镇" >}}
 {{< friend des="点滴记录和分享" url="https://minirizhi.com" src="https://i.imgtg.com/2023/02/15/dkeQB.png" name="迷你日志" >}}
 {{< friend des="繁华似锦觅安宁 淡云流水度此生" url="https://blog.rain888.cn" src="https://i.imgtg.com/2023/02/15/dkr3s.png" name="旧时繁华" >}}
+{{< friend des="世界上每个角落都有人过着相似的人生..." url="https://id25.cn/" src="https://i.imgtg.com/2023/02/21/sibmI.jpg" name="贰拾伍" >}}
 
 ### 收藏博主
 
