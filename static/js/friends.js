@@ -150,7 +150,7 @@ function loadFcircleShow(userinfo, articledata) {
       <div class="cf-overshow">
         <div class="cf-overshow-head">
           <img class="cf-img-avatar avatar" src="${userinfo.avatar}" alt="avatar" onerror="this.src='${fdata.error_img}'; this.onerror = null;">
-          <a class="" target="_blank" rel="noopener nofollow" href="${userinfo.link}">${userinfo.author}</a>
+          <a class="" target="_blank" rel="noopener nofollow" href="${userinfo.link}">${userinfo.name}</a>
         </div>
         <div class="cf-overshow-content">
   `;
