@@ -14,7 +14,7 @@ description: "no-comments"
 
 ### 项目维护
 
-* [DongbazWoodcut]([https://dongbaz.xlap.top](https://dongbaz.xlap.top)) 东巴人木刻
+* [DongbazWoodcut](https://dongbaz.xlap.top) 东巴人木刻
 * [10YearBlogWall](https://10year.xlap.top) 十年之约博客墙
 * [HomeTV](https://tv.xlap.top) 家庭电视引导页
 * [PullDoublePYDomain](https://github.com/liuchaowen/pull-double-pinyin-domain.git) 查询未注册的双拼域名脚本

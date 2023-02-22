@@ -1,4 +1,4 @@
 ---
-title: 友文
+title: 文集
 layout: "friends"
 ---

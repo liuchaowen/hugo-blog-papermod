@@ -1,4 +1,4 @@
 ---
-title: 友言
+title: 言录
 layout: "says"
 ---
