@@ -96,6 +96,14 @@ params:
       url: "mailto:cheman@xlap.top"
       title: "邮箱"
       newtab: true 
+    - name: rss
+      url: "/index.xml"
+      title: "RSS"
+      newtab: true 
+    - name: dev
+      url: "/tags/"
+      title: "标签"
+      newtab: true 
     - name: search
       url: /search/
       title: "搜索"
