@@ -4,67 +4,80 @@ Last Modified time : 20221120 21:32 by https://immmmm.com
 */
 const urls = [
   {
+    name: "XLapTop",
     host: "https://api.mm.xlap.top/",
     creatorId: "1",
     imgsrc: "https://i.imgtg.com/2023/02/21/sF8UD.jpg",
   },
   {
+    name: "林木木",
     host: "https://me.edui.fun/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/ba83fa02fc4b2ba621514941307e21be",
   },
   {
+    name: "Elizen",
     host: "https://bb.elizen.me/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/f65df4d87240feb1cb247857a621a48f",
   },
   {
+    name: "大大的小蜗牛",
     host: "https://memos.eallion.com/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/171e4c30959e8c077a6c58b958624b31",
   },
   {
+    name: "xsinger.me",
     host: "https://isay.live/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/f0e33f4d097fe2e9fd74b9b129e7a655",
   },
   {
+    name: "noionion",
     host: "https://memos.noionion.cn/",
     creatorId: "1",
     imgsrc: "https://cdn.sep.cc/avatar/d240a727ea154be465796ef2644aac16",
   },
   {
+    name: "胡家小子",
     host: "https://qzone.boyhu.cn/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/55be217893c75baf8571837197de4a3e",
   },
   {
+    name: "老陳网志",
     host: "https://me.chenplus.com/",
     creatorId: "101",
     imgsrc: "https://chenyyds.com/avatar.png",
   },
   {
+    name: "Snippets",
     host: "https://memos.life97.top/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/d41d8cd98f00b204e9800998ecf8427e",
   },
   {
+    name: "1900",
     host: "https://memos.1900.live/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/cc38267b10cc25dfc62209f8ca34589e",
   },
   {
+    name: "SeerSu",
     host: "https://bb.seersu.top/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/84b712148a63b44dd97ede997bc3efa5",
   },
   {
+    name: "Aiko",
     host: "https://memo.wananaiko.com/",
     creatorId: "1",
     imgsrc:
       "https://thirdqq.qlogo.cn/g?b=sdk&k=7AFd0gic7wVsNg2ToQrQU2w&s=140&t=1583250600",
   },
   {
+    name: "拾月",
     host: "https://memos.skyue.com/",
     creatorId: "1",
     imgsrc: "https://cdn.sep.cc/avatar/c3fb4bb4d5101284ddd672fb722cdd7d",
@@ -98,6 +111,8 @@ function allUrls() {
     myHtml +=
       '<div class="bbs-urls " onclick="urlsNow(this)" data-host="' +
       urls[i].host +
+      '" data-name="' +
+      urls[i].name +
       '" data-creatorId="' +
       urls[i].creatorId +
       '" data-imgsrc="' +
@@ -145,12 +160,14 @@ function urlsNow(e) {
     var type = e.getAttribute("data-type");
     if (type == "random") {
       var num = Math.round(Math.random() * (urls.length - 1));
+      nameNow = urls[num].name;
       hostNow = urls[num].host;
       creIdNow = urls[num].creatorId;
       imgsrcNow = urls[num].imgsrc;
       domUrls[num].classList.add("url-now");
     } else {
       domUrls[e.getAttribute("data-index")].classList.add("url-now");
+      nameNow = e.getAttribute("data-name");
       hostNow = e.getAttribute("data-host");
       creIdNow = e.getAttribute("data-creatorId");
       imgsrcNow = e.getAttribute("data-imgsrc");
@@ -168,7 +185,7 @@ function urlsNow(e) {
           bbsData = {
             updatedTs: resValue.updatedTs,
             creatorId: resValue.creatorId,
-            creator: resValue.creator.nickname || resValue.creator.name,
+            creator: nameNow,
             imgsrc: imgsrcNow,
             content: resValue.content,
             resourceList: resValue.resourceList,
@@ -213,7 +230,7 @@ function getNextList() {
         nextData = {
           updatedTs: resValue.updatedTs,
           creatorId: resValue.creatorId,
-          creator: resValue.creator.nickname || resValue.creator.name,
+          creator: nameNow,
           imgsrc: imgsrcNow,
           content: resValue.content,
           resourceList: resValue.resourceList,
@@ -261,7 +278,7 @@ const fetchBBser = async () => {
           bbsData = {
             updatedTs: resValue.updatedTs,
             creatorId: resValue.creatorId,
-            creator: resValue.creator?.nickname || resValue.creator?.name,
+            creator: urls[i].name,
             imgsrc: urls[i].imgsrc,
             content: resValue.content,
             resourceList: resValue.resourceList,
