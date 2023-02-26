@@ -59,12 +59,6 @@ const urls = [
     imgsrc: "https://cdn.sep.cc/avatar/84b712148a63b44dd97ede997bc3efa5",
   },
   {
-    host: "https://memos.icebear.tech/",
-    creatorId: "1",
-    imgsrc:
-      "https://www.domon.cn/content/images/size/w150/2020/06/xavatar_shiba-3.jpg.pagespeed.ic.3PcXeGZpNB.webp",
-  },
-  {
     host: "https://memo.wananaiko.com/",
     creatorId: "1",
     imgsrc:
@@ -267,7 +261,7 @@ const fetchBBser = async () => {
           bbsData = {
             updatedTs: resValue.updatedTs,
             creatorId: resValue.creatorId,
-            creator: resValue.creator.nickname || resValue.creator.name,
+            creator: resValue.creator?.nickname || resValue.creator?.name,
             imgsrc: urls[i].imgsrc,
             content: resValue.content,
             resourceList: resValue.resourceList,
