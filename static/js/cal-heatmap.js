@@ -26,36 +26,32 @@ xmlDoc = xhttp.responseXML;
 
 //遍历元素
 var rootEle = xmlDoc.getElementsByTagName("channel")[0]["children"];
-for (const key in rootEle) {
-  if (Object.hasOwnProperty.call(rootEle, key)) {
-    const element = rootEle[key];
-    if (element.nodeName == "item") {
-      var child = element["children"];
-      var pubDate = child[2];
-      if (pubDate && pubDate.textContent) {
-        var date = new Date(pubDate.textContent);
-        var dateFormat =
-          date.getFullYear() +
-          "-" +
-          Appendzero(date.getMonth() + 1) +
-          "-" +
-          Appendzero(date.getDate());
-        if (resultObj.hasOwnProperty(dateFormat)) {
-          resultObj[dateFormat]++;
-        } else {
-          resultObj[dateFormat] = 1;
-        }
+for (var key in rootEle) {
+  var element = rootEle[key];
+  if (element.nodeName == "item") {
+    var child = element["children"];
+    var pubDate = child[2];
+    if (pubDate && pubDate.textContent) {
+      var date = new Date(pubDate.textContent);
+      var dateFormat =
+        date.getFullYear() +
+        "-" +
+        Appendzero(date.getMonth() + 1) +
+        "-" +
+        Appendzero(date.getDate());
+      if (resultObj.hasOwnProperty(dateFormat)) {
+        resultObj[dateFormat]++;
+      } else {
+        resultObj[dateFormat] = 1;
       }
     }
   }
 }
 //遍历obj，放入list
-for (const key in resultObj) {
-  if (Object.hasOwnProperty.call(resultObj, key)) {
-    const value = resultObj[key];
-    var tmpJson = { date: key, value: value };
-    resultList.push(tmpJson);
-  }
+for (var key in resultObj) {
+  var val = resultObj[key];
+  var tmpJson = { date: key, value: val };
+  resultList.push(tmpJson);
 }
 console.log("HeatMap处理后的结果", resultList);
 
@@ -127,13 +123,7 @@ cal.paint({
 });
 
 //事件处理
-var tooltipSpan = document.getElementById("tooltip-span");
 cal.on("mouseover", (event, timestamp, value) => {
   var date = new Date(timestamp).toLocaleDateString();
   console.log(date + "," + value + " post");
-  tooltipSpan.innerHTML = "<span>" + date + "</span>";
-  var x = event.clientX,
-    y = event.clientY;
-  tooltipSpan.style.top = y  "px";
-  tooltipSpan.style.left = x  "px";
 });
