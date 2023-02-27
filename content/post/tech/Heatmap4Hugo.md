@@ -239,6 +239,6 @@ cal.on("mouseover", (event, timestamp, value) => {
 
 ### 后续问题
 
-* [ ] dark/light主题切换问题
+* [X] dark/light主题切换问题
 * [ ] 自定义data字段，tooltip显示
 * [ ] 点击日期进入相关post页面

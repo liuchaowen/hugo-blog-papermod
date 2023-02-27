@@ -30,32 +30,37 @@ for (var key in rootEle) {
   var element = rootEle[key];
   if (element.nodeName == "item") {
     var child = element["children"];
+    var title = child[0];
     var pubDate = child[2];
-    if (pubDate && pubDate.textContent) {
-      var date = new Date(pubDate.textContent);
-      var dateFormat =
-        date.getFullYear() +
-        "-" +
-        Appendzero(date.getMonth() + 1) +
-        "-" +
-        Appendzero(date.getDate());
-      if (resultObj.hasOwnProperty(dateFormat)) {
-        resultObj[dateFormat]++;
-      } else {
-        resultObj[dateFormat] = 1;
-      }
+    if (pubDate.textContent == "" || title.textContent == "") {
+      continue;
+    }
+    var date = new Date(pubDate.textContent);
+    var dateFormat =
+      date.getFullYear() +
+      "-" +
+      Appendzero(date.getMonth() + 1) +
+      "-" +
+      Appendzero(date.getDate());
+    if (resultObj.hasOwnProperty(dateFormat)) {
+      resultObj[dateFormat]["num"]++;
+      resultObj[dateFormat]["postTitles"] += "," + title.textContent;
+    } else {
+      resultObj[dateFormat] = {};
+      resultObj[dateFormat]["num"] = 1;
+      resultObj[dateFormat]["postTitles"] = title.textContent;
     }
   }
 }
 //遍历obj，放入list
 for (var key in resultObj) {
   var val = resultObj[key];
-  var tmpJson = { date: key, value: val };
+  var tmpJson = { date: key, value: val["num"], title: val["postTitles"] };
   resultList.push(tmpJson);
 }
-console.log("HeatMap处理后的结果", resultList);
+// console.log("HeatMap处理后的结果", resultList);
 
-/*渲染数据*/
+/*获取数据*/
 
 //获取上几个星期的天
 function getLastNWeeksDate(n) {
@@ -94,9 +99,13 @@ const cal = new CalHeatmap();
 //   subDomain: { type: "day", label: "D", sort: "asc" },
 // });
 
-//两个月，即8周
-cal.paint({
-  theme: "dark",
+/*深色与明亮主题初始值判断*/
+var isDark = document.body.className.includes("dark");
+// console.log("是否深色主题", isDark);
+
+/* 参数 */
+var options = {
+  theme: isDark ? "dark" : "light",
   verticalOrientation: true,
   date: {
     start: firstday, //开始时间为上8-2个周的周一
@@ -135,7 +144,22 @@ cal.paint({
       domain: [0, 5], //文章数阈值：[min,max]
     },
   },
+};
+
+/*深色与明亮主题切换监听*/
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  // var isCurDark = document.body.className.includes("dark");
+  // isDark = !isCurDark;
+  // console.log("切换主题,是否深色", isDark);
+  // options.theme = isDark ? "dark" : "light";
+  // cal.destroy();
+  // cal.paint(options);
+  // 由于没有重新渲染的函数，只能刷新界面
+  location.reload();
 });
+
+/*渲染*/
+cal.paint(options);
 
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
