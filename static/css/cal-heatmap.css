@@ -1,11 +1,2 @@
 .first-entry { position: relative;display: flex;flex-direction: row;justify-content: space-between;align-items: center; min-height: 320px;}
 #cal-heatmap { float:right }
-
-.tooltip span {
-    display:none;
-}
-.tooltip:hover span {
-    display:block;
-    position:fixed;
-    overflow:hidden;
-}
