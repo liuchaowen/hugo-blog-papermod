@@ -5,7 +5,7 @@ draft: false
 categories: ["技术"]
 tags: [“dev","机器人","体感","控制"]
 description: 使用kinect体感控制机器人
-author: "CHAO"
+author: "Chao"
 showToc: true
 TocOpen: false
 hidemeta: false
