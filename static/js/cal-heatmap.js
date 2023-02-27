@@ -1,7 +1,7 @@
 /*结果变量*/
-
-var resultObj = {};
-var resultList = [];
+const weekNum = 8;
+const resultObj = {};
+const resultList = [];
 
 /*获取index.xml页面的数据*/
 
@@ -18,7 +18,7 @@ if (window.XMLHttpRequest) {
   xhttp = new ActiveXObject("Microsoft.XMLHTTP");
 }
 
-var localurl = "/index.xml";
+var localurl = "/index.xml"; //ssr地址
 xhttp.overrideMimeType("text/xml");
 xhttp.open("GET", localurl, false);
 xhttp.send(null);
@@ -57,12 +57,20 @@ console.log("HeatMap处理后的结果", resultList);
 
 /*渲染数据*/
 
-//获取上个月的头天
-function getLastMonthFirstDate() {
-  var date = new Date();
-  var firstDay = new Date(date.getFullYear(), date.getMonth() - 1, 1);
-  return firstDay;
+//获取上几个星期的天
+function getLastNWeeksDate(n) {
+  const now = new Date();
+  return new Date(now.getFullYear(), now.getMonth(), now.getDate() - 7 * n);
 }
+//获取这星期的周一
+function getMonday(d) {
+  d = new Date(d);
+  var day = d.getDay(),
+    diff = d.getDate() - day + (day == 0 ? -6 : 1); // adjust when day is sunday
+  return new Date(d.setDate(diff));
+}
+var lastnweekday = getLastNWeeksDate(weekNum - 2);
+var firstday = getMonday(lastnweekday);
 
 const cal = new CalHeatmap();
 
@@ -90,7 +98,11 @@ const cal = new CalHeatmap();
 cal.paint({
   theme: "dark",
   verticalOrientation: true,
-  date: { start: getLastMonthFirstDate() }, //开始时间为上个月的第一天，即看前一个月与当前月的数据
+  date: {
+    start: firstday, //开始时间为上8-2个周的周一
+    highlight: new Date(),
+    locale: { weekStart: 1 }, //周一为第一天
+  },
   domain: {
     type: "week",
     label: {
@@ -98,12 +110,15 @@ cal.paint({
       text: null, //不显示标签
     },
   },
-  range: 8,
+  range: weekNum,
   subDomain: {
     width: 12,
     height: 12,
     type: "day",
-    label: "D",
+    // label: "D", //D是显示日期的日；null是不显示；回调函数是自定义
+    label: function (timestamp, value) {
+      return value;
+    },
     sort: "asc",
   },
   data: {
@@ -125,5 +140,11 @@ cal.paint({
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
   var date = new Date(timestamp).toLocaleDateString();
-  console.log(date + "," + value + " post");
+  if (value == null) {
+    value = 0;
+  }
+  tippy(event.target, {
+    placement: "top",
+    content: date + " , " + value + " Posts",
+  });
 });
