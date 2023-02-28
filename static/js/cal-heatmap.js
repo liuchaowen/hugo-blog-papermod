@@ -105,7 +105,7 @@ var isDark = document.body.className.includes("dark");
 
 /* 参数 */
 var options = {
-  animationDuration: 500,
+  animationDuration: 200,
   theme: isDark ? "dark" : "light",
   verticalOrientation: true,
   date: {
