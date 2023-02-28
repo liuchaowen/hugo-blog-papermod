@@ -37,14 +37,14 @@ UseHugoToc: true
 
 直接使用hugo变量，但网站有点问题
 
-官方:
+*官方:*
 
 ```html
 {{ $posts := (where .Site.RegularPages "Section" "==" "posts") }}
 {{ $postCount := len $posts }}
 ```
 
-林木木:
+*林木木:*
 
 ```html
 共 {{ len (where .Site.RegularPages "Section" "posts") }} 篇文章
@@ -140,12 +140,14 @@ getAllUrls(false,(urllist)=>{
 放在head，调用时如下
 
 ```html
-<p><span id="words-num"> {{ printf "%.1f" $wordnum }}w</span> 个字数</p>
+<span> {{ printf "%.1f" $wordnum }}w</span>
 ```
 
-#### 点赞数
+#### 标签数
 
-待完成
+```javascript
+{{ len site.Taxonomies.tags.ByCount }}
+```
 
 #### 互链数
 
