@@ -70,3 +70,4 @@ function randomPost() {
       location.href = locationHref;
     });
 }
+

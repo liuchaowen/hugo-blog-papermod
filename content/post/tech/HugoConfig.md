@@ -1,0 +1,112 @@
+---
+title: "Hugo个人博客站点常用配置"
+date: 2023-02-28T14:40:13+08:00
+draft: false
+categories: ["技术"]
+tags: ["hugo","配置"]
+description: 有一些小问题需要记录一下，方便后来者使用
+author: "Chao"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
+# 站点统计数据
+
+## 流量统计
+
+国内可以使用百度统计、cnzz、51la、或者cloudflare等免费统计工具
+
+### 文章阅读统计
+
+卜算子，或者自己搭个云函数
+
+### 站内统计
+
+#### 文章数统计
+
+直接使用hugo变量，但网站有点问题
+
+官方:
+
+```html
+{{ $posts := (where .Site.RegularPages "Section" "==" "posts") }}
+{{ $postCount := len $posts }}
+```
+
+林木木:
+
+```html
+共 {{ len (where .Site.RegularPages "Section" "posts") }} 篇文章
+```
+
+有些主题是做过优化的，不用.Site，直接使用site变量，还有就是如果你的文章目录不是posts，像我的改成post，这个相应也要更改，不然运行报错。
+
+#### 运行天数
+
+```javascript
+function show_run_day() {
+  var BirthDay = new Date("12/27/2022 00:00:00");
+  var today = new Date();
+  var timeold = (today.getTime() - BirthDay.getTime());
+  var sectimeold = timeold / 1000
+  var msPerDay = 24 * 60 * 60 * 1000
+  var e_daysold = timeold / msPerDay
+  var daysold = Math.floor(e_daysold);
+  console.log('stat day',daysold)
+  document.getElementById("run-num").innerHTML = daysold;
+}
+show_run_day();
+```
+
+放到html的body结束前就好了
+
+#### 评论数
+
+待完成
+
+#### 总字数
+
+林木木（基于他的小改）:
+
+```html
+{{ $scratch := newScratch}}
+{{ range (where site.Pages "Kind" "page") }}
+    {{ $scratch.Add "total" .WordCount }}
+{{ end }}
+{{ $wordnum := div ($scratch.Get "total") 10000}}
+```
+
+放在head，调用时如下
+
+```html
+<p><span id="words-num"> {{ printf "%.1f" $wordnum }}w</span> 个字数</p>
+```
+
+#### 点赞数
+
+待完成
+
+#### 互链数
+
+```html
+{{ $linknum := "-"}}
+{{ range (where site.Pages "RelPermalink" "/links/") }}
+    {{ $linklist := findRE `(?s)<div class="archive-item links-item cf-friends" .*?>.*?</div>` .Content }}
+    {{ $linknum = len $linklist }}
+{{ end }}
+```
+
+/links/ 为你.md的文件名
