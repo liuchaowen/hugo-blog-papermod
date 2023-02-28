@@ -18,6 +18,7 @@
 }
 
 .site-stat{
+    color: var(--secondary);
     font-size: 14px;
     margin-left: 12px;
 }

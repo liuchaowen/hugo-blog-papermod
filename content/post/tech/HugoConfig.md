@@ -75,7 +75,57 @@ show_run_day();
 
 #### 评论数
 
-待完成
+遍历sitemap.xml，获取post的路径list，调用twikoo的api接口，获取总评论数
+
+```javascript
+
+/* 获取所有路径 */
+function getAllUrls(isFullUrl,cb){
+  fetch("/sitemap.xml")
+  .then((res) => res.text())
+  .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then((data) => {
+    let ls = data.querySelectorAll("url loc");
+    let locationHref, locSplit;
+    let list = [];
+    ls.forEach((element) => {
+      var ele = element.innerHTML;
+      var ele_split = ele.split("/")[3] || "";
+      var ele_split_tail = ele.split("/")[4] || "";
+      if (ele_split == "post" && ele_split_tail != "") {
+        if (isFullUrl) {
+          list.push(ele);
+        }
+        else{
+          var uriList = new URL(ele);
+          list.push(uriList.pathname);
+        }
+      }
+    });
+    cb && cb(list);
+  });
+}
+
+/* 评论数统计 */
+getAllUrls(false,(urllist)=>{
+  twikoo.getCommentsCount({
+    envId: 'https://[vercel地址或者是你自定义的后端域名地址]', // 环境 ID
+    // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
+    urls: urllist,
+    includeReply: false // 评论数是否包括回复，默认：false
+  }).then(function (res) {
+    var count = 0;
+    for (let index = 0; index < res.length; index++) {
+      const element = res[index];
+      count += element.count
+    }
+    document.getElementById("comment-num").innerHTML = count;
+  }).catch(function (err) {
+    // 发生错误
+    console.error('twikoo err',err);
+  });
+})
+```
 
 #### 总字数
 

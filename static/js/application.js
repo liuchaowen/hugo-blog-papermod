@@ -48,26 +48,37 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 });
 */
 
-/* 随机阅读文章 */
-function randomPost() {
+/* 获取所有路径 */
+function getAllUrls(isFullUrl,cb){
   fetch("/sitemap.xml")
-    .then((res) => res.text())
-    .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then((data) => {
-      let ls = data.querySelectorAll("url loc");
-      let locationHref, locSplit;
-      let list = [];
-      ls.forEach((element) => {
-        var ele = element.innerHTML;
-        var ele_split = ele.split("/")[3] || "";
-        var ele_split_tail = ele.split("/")[4] || "";
-        console.log(ele_split, ele_split_tail);
-        if (ele_split == "post" && ele_split_tail != "") {
+  .then((res) => res.text())
+  .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then((data) => {
+    let ls = data.querySelectorAll("url loc");
+    let locationHref, locSplit;
+    let list = [];
+    ls.forEach((element) => {
+      var ele = element.innerHTML;
+      var ele_split = ele.split("/")[3] || "";
+      var ele_split_tail = ele.split("/")[4] || "";
+      if (ele_split == "post" && ele_split_tail != "") {
+        if (isFullUrl) {
           list.push(ele);
         }
-      });
-      locationHref = list[Math.floor(Math.random() * list.length)];
-      location.href = locationHref;
+        else{
+          var uriList = new URL(ele);
+          list.push(uriList.pathname);
+        }
+      }
     });
+    cb && cb(list);
+  });
 }
 
+/* 随机阅读文章 */
+function randomPost() {
+  getAllUrls(true,(list)=>{
+    locationHref = list[Math.floor(Math.random() * list.length)];
+    location.href = locationHref;
+  })
+}
