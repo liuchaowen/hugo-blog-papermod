@@ -29,10 +29,11 @@ draft: false
 
 ### 特别鸣谢
 
-{{< friend des="书法技术" url="https://immmmm.com" src="https://i.imgtg.com/2023/02/15/dkHij.jpg" name="林木木" >}}
-{{< brand des="十年之约:一个人的寂寞，一群人的狂欢。" url="https://www.foreverblog.cn" src="https://img.foreverblog.cn/logo_en_default.png" height="32" width="160">}}
-{{< brand des="每个博客都是一座宝藏" url="https://bf.zzxworld.com" src="https://bf.zzxworld.com/images/logo-v2.png" height="32" width="100">}}
-{{< brand des="寻我:在文字之间找到我" url="https://seekbetter.me" src="/image/logo.svg" height="32" width="100">}}
+{{< friend des="前端技术" url="https://immmmm.com" src="https://i.imgtg.com/2023/02/15/dkHij.jpg" name="林木木" >}}
+{{< brand des="十年之约：一个人的寂寞，一群人的狂欢。" url="https://www.foreverblog.cn" src="https://img.foreverblog.cn/logo_en_default.png" height="32" width="160">}}
+{{< brand des="BF：每个博客都是一座宝藏" url="https://bf.zzxworld.com" src="https://bf.zzxworld.com/images/logo-v2.png" height="32" width="100">}}
+{{< brand des="寻我：在文字之间找到我" url="https://seekbetter.me" src="/image/logo.svg" height="32" width="100">}}
+{{< brand des="个站商店：一个精致的，带社交元素的个人网站发布平台，博客收录网站" url="https://storeweb.cn" src="/image/storeweb.png" height="32" width="32">}}
 
 ### 互链格式
 
