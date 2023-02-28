@@ -23,17 +23,15 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
-# 站点统计数据
-
 ## 流量统计
 
 国内可以使用百度统计、cnzz、51la、或者cloudflare等免费统计工具
 
-### 文章阅读统计
+## 文章阅读统计
 
 卜算子，或者自己搭个云函数
 
-### 站内统计
+## 站内统计
 
 #### 文章数统计
 
@@ -160,3 +158,21 @@ getAllUrls(false,(urllist)=>{
 ```
 
 /links/ 为你.md的文件名
+
+## 功能系统
+
+### 评论功能
+
+twikoo + vercel + free mongodb
+
+### 广播广场
+
+memos + vps主机 + docker  (racknerd一年费用80左右)
+
+### 豆瓣书影
+
+github + action
+
+### 链友文集
+
+vercel
