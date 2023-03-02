@@ -102,6 +102,10 @@ const cal = new CalHeatmap();
 /*深色与明亮主题初始值判断*/
 var isDark = document.body.className.includes("dark");
 // console.log("是否深色主题", isDark);
+var hlDate =  new Date().toLocaleDateString();
+var hlArr = hlDate.split('/');
+var dateFormat =hlArr[0] +"-" +Appendzero(hlArr[1]) +"-" +Appendzero(hlArr[2]);
+var realHLDate = new Date(dateFormat);
 
 /* 参数 */
 var options = {
@@ -110,9 +114,8 @@ var options = {
   verticalOrientation: true,
   date: {
     start: firstday, //开始时间为上8-2个周的周一
-    highlight: new Date(),
+    highlight: [realHLDate], 
     locale: { weekStart: 1 }, //周一为第一天
-    timezone: 'Asia/Shanghai'
   },
   domain: {
     type: "week",

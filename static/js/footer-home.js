@@ -2,7 +2,6 @@
 fetch('https://v1.hitokoto.cn')
     .then(response => response.json())
     .then(data => {
-      console.log(data)
       var str = `${data.hitokoto} —— ${data.from_who||""}《${data.from}》`;
       const hitokoto = document.querySelector('#hitokoto_text')
       hitokoto.innerText = str
