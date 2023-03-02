@@ -41,7 +41,6 @@ UseHugoToc: true
 
 在themes/xxx/layouts/partials/extend_head.html 尾部插入代码：
 
-```html
 {{- if .IsHome }}
 {{- /* cal-heatmap */}}
 <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -52,7 +51,6 @@ UseHugoToc: true
 <script src="https://unpkg.com/@popperjs/core@2"></script>
 <script src="https://unpkg.com/tippy.js@6"></script>
 {{- end }}
-```
 
 放在首页就做个IF判断，上部分是cal-heatmap依赖，下部分是鼠标移到小格子显示的tooltip依赖。
 
@@ -93,32 +91,37 @@ for (var key in rootEle) {
   var element = rootEle[key];
   if (element.nodeName == "item") {
     var child = element["children"];
+    var title = child[0];
     var pubDate = child[2];
-    if (pubDate && pubDate.textContent) {
-      var date = new Date(pubDate.textContent);
-      var dateFormat =
-        date.getFullYear() +
-        "-" +
-        Appendzero(date.getMonth() + 1) +
-        "-" +
-        Appendzero(date.getDate());
-      if (resultObj.hasOwnProperty(dateFormat)) {
-        resultObj[dateFormat]++;
-      } else {
-        resultObj[dateFormat] = 1;
-      }
+    if (pubDate.textContent == "" || title.textContent == "") {
+      continue;
+    }
+    var date = new Date(pubDate.textContent);
+    var dateFormat =
+      date.getFullYear() +
+      "-" +
+      Appendzero(date.getMonth() + 1) +
+      "-" +
+      Appendzero(date.getDate());
+    if (resultObj.hasOwnProperty(dateFormat)) {
+      resultObj[dateFormat]["num"]++;
+      resultObj[dateFormat]["postTitles"] += "," + title.textContent;
+    } else {
+      resultObj[dateFormat] = {};
+      resultObj[dateFormat]["num"] = 1;
+      resultObj[dateFormat]["postTitles"] = title.textContent;
     }
   }
 }
 //遍历obj，放入list
 for (var key in resultObj) {
   var val = resultObj[key];
-  var tmpJson = { date: key, value: val };
+  var tmpJson = { date: key, value: val["num"], title: val["postTitles"] };
   resultList.push(tmpJson);
 }
-console.log("HeatMap处理后的结果", resultList);
+// console.log("HeatMap处理后的结果", resultList);
 
-/*渲染数据*/
+/*获取数据*/
 
 //获取上几个星期的天
 function getLastNWeeksDate(n) {
@@ -157,14 +160,20 @@ const cal = new CalHeatmap();
 //   subDomain: { type: "day", label: "D", sort: "asc" },
 // });
 
-//两个月，即8周
-cal.paint({
-  theme: "dark",
+/*深色与明亮主题初始值判断*/
+var isDark = document.body.className.includes("dark");
+// console.log("是否深色主题", isDark);
+
+/* 参数 */
+var options = {
+  animationDuration: 200,
+  theme: isDark ? "dark" : "light",
   verticalOrientation: true,
   date: {
     start: firstday, //开始时间为上8-2个周的周一
     highlight: new Date(),
     locale: { weekStart: 1 }, //周一为第一天
+    timezone: 'Asia/Shanghai'
   },
   domain: {
     type: "week",
@@ -198,29 +207,56 @@ cal.paint({
       domain: [0, 5], //文章数阈值：[min,max]
     },
   },
+};
+
+/*深色与明亮主题切换监听*/
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  location.reload();// 由于没有重新渲染的函数，只能刷新界面
 });
+
+/*渲染*/
+cal.paint(options);
 
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
-  var date = new Date(timestamp).toLocaleDateString();
+  var date = new Date(timestamp);
+  var dateFormat = Appendzero(date.getMonth() + 1) +"/" +Appendzero(date.getDate());
+  var str= '周'+'日一二三四五六'.charAt(new Date(timestamp).getDay());
+  var tips = "";
   if (value == null) {
-    value = 0;
+    tips = str+" "+dateFormat+ " , 懒虫";
+  }
+  else{
+    tips = str+" "+dateFormat + " , " + value + " 篇";
   }
   tippy(event.target, {
     placement: "top",
-    content: date + " , " + value + " Posts",
+    content: tips,
   });
 });
-
 ```
 
 多种样式，如显示1年，1个月，2个月等自行修改代码，因为我的主题适合规规矩矩的，所以使用8周为时间单位。
 
-(可忽略) 在static/css 新增主逻辑文件cal-heatmap.css，更新看本人的github项目
+(可忽略) 在static/css 新增主逻辑文件footer-home.css，更新看本人的github项目
 
 ```css
-.first-entry { position: relative;display: flex;flex-direction: row;justify-content: space-between;align-items: center; min-height: 320px;}
-#cal-heatmap { float:right }
+.first-entry {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 320px;
+}
+
+.cal-heatmap-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: max-content;
+}
 ```
 
 ### 引入主文件
@@ -231,7 +267,7 @@ cal.on("mouseover", (event, timestamp, value) => {
 {{- if .IsHome }}
 {{- /* cal-heatmap */ -}}
 <script type="text/javascript" src="js/cal-heatmap.js"></script>
-<link rel="stylesheet" href="css/cal-heatmap.css"></script>
+<link rel="stylesheet" href="css/footer-home.css">
 {{- end }}
 ```
 

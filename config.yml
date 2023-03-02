@@ -79,7 +79,7 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
+  # home-info mode(弃用)
   homeInfoParams:
     Title: "Hi~ X One!"
     Content: Live a Peaceful life,Take ownership Of your Path.
@@ -143,27 +143,18 @@ menu:
     - identifier: about
       name: 关于
       url: /about/
-      weight: 10
     - identifier: archives
       name: 归档
       url: /archives/
-      weight: 20
-    # - identifier: tags
-    #   name: 标签
-    #   url: /tags/
-    #   weight: 30
     - identifier: says
       name: 言录
       url: /says/
-      weight: 40
     - identifier: friends
       name: 文集
       url: /friends/
-      weight: 50
     - identifier: links
-      name: 友链
+      name: 友邻
       url: /links/
-      weight: 60
   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

@@ -149,7 +149,7 @@ getAllUrls(false,(urllist)=>{
 {{ len site.Taxonomies.tags.ByCount }}
 ```
 
-#### 互链数
+#### 友邻数
 
 ```html
 {{ $linknum := "-"}}
@@ -175,6 +175,14 @@ memos + vps主机 + docker  (racknerd一年费用80左右)
 
 github + action
 
-### 链友文集
+### 友邻文集
 
 vercel
+
+## 总结
+
+以上都是基于最低成本的做法，使用免费的资源与开源的技术为宗旨，来搭建一个十年的博客。
+
+之前，我用过WP/Typecho/Hexo/Solo/VuePress等博客系统，像Hugo这样的静态博客是我认为最简单，上手最舒服的，拓展性与自由度都非常地好。
+
+作为前端开发者，它是我心目中最好的开源博客系统。

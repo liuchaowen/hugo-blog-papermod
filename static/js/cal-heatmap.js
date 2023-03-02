@@ -163,7 +163,7 @@ cal.on("mouseover", (event, timestamp, value) => {
   var str= '周'+'日一二三四五六'.charAt(new Date(timestamp).getDay());
   var tips = "";
   if (value == null) {
-    tips = str+" "+dateFormat+ " , 懒虫";
+    tips = str+" "+dateFormat+ " , 懒虫!";
   }
   else{
     tips = str+" "+dateFormat + " , " + value + " 篇";
