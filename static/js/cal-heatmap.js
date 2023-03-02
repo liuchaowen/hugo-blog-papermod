@@ -112,6 +112,7 @@ var options = {
     start: firstday, //开始时间为上8-2个周的周一
     highlight: new Date(),
     locale: { weekStart: 1 }, //周一为第一天
+    timezone: 'Asia/Shanghai'
   },
   domain: {
     type: "week",
@@ -164,12 +165,18 @@ cal.paint(options);
 
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
-  var date = new Date(timestamp).toLocaleDateString();
+  var date = new Date(timestamp);
+  var dateFormat = Appendzero(date.getMonth() + 1) +"/" +Appendzero(date.getDate());
+  var str= '周'+'日一二三四五六'.charAt(new Date(timestamp).getDay());
+  var tips = "";
   if (value == null) {
-    value = 0;
+    tips = str+" "+dateFormat+ " , 懒虫";
+  }
+  else{
+    tips = str+" "+dateFormat + " , " + value + " 篇";
   }
   tippy(event.target, {
     placement: "top",
-    content: date + " , " + value + " Posts",
+    content: tips,
   });
 });
