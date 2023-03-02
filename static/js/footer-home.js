@@ -1,3 +1,14 @@
+/* 一言 */
+fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      console.log(data)
+      var str = `${data.hitokoto} —— ${data.from_who||""}《${data.from}》`;
+      const hitokoto = document.querySelector('#hitokoto_text')
+      hitokoto.innerText = str
+    })
+    .catch(console.error)
+
 /* 查看今年Heatmap */
 function viewMoreHeapmap() {
   var imgObj = document.getElementById("view-more-icon");
@@ -50,7 +61,7 @@ function show_run_day() {
   var msPerDay = 24 * 60 * 60 * 1000
   var e_daysold = timeold / msPerDay
   var daysold = Math.floor(e_daysold);
-  document.getElementById("run-num").innerHTML = daysold;
+  document.getElementById("run-num").innerHTML = daysold+"d";
 }
 show_run_day();
 

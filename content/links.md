@@ -40,6 +40,6 @@ draft: false
 ```txt
 title：XLapTop
 url：https://blog.xlap.top
-intro：Live Sensibly,Think Rationally.
+intro：Live a peaceful life, Take of your path.
 avatar：https://blog.xlap.top/avatar.jpeg
 ```

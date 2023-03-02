@@ -25,3 +25,7 @@
     float: right;
     margin-left: 5px;
 }
+
+.entry-content span{
+    color: #eea2a4;
+}

@@ -38,7 +38,7 @@ UseHugoToc: true
   {{< github title="FrontEndGitHub/FrontEndGitHub" >}}
 * FlutterTiktok - 解决大陆人装国外版拼音
   {{< github title="DingMouRen/flutter_tiktok" >}}
-* FlutterDouyu - 开源版鱼
+* FlutterDouyu - 开源版斗鱼
   {{< github title="yukilzw/dy_flutter" >}}
 * FlutterFair - 解决Flutter热更新
   {{< github title="wuba/fair" >}}

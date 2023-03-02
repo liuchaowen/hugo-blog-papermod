@@ -81,8 +81,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi~ Welcome!"
-    Content: Live Sensibly,Think Rationally.
+    Title: "Hi~ X One!"
+    Content: Live a Peaceful life,Take ownership Of your Path.
   
   fontAwesome:
     kitURL: "https://kit.fontawesome.com/844a346ce0.js"
