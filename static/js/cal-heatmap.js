@@ -150,14 +150,7 @@ var options = {
 
 /*深色与明亮主题切换监听*/
 document.getElementById("theme-toggle").addEventListener("click", () => {
-  // var isCurDark = document.body.className.includes("dark");
-  // isDark = !isCurDark;
-  // console.log("切换主题,是否深色", isDark);
-  // options.theme = isDark ? "dark" : "light";
-  // cal.destroy();
-  // cal.paint(options);
-  // 由于没有重新渲染的函数，只能刷新界面
-  location.reload();
+  location.reload();// 由于没有重新渲染的函数，只能刷新界面
 });
 
 /*渲染*/
