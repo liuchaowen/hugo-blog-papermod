@@ -1,13 +1,3 @@
-/* 一言 */
-fetch('https://v1.hitokoto.cn')
-    .then(response => response.json())
-    .then(data => {
-      var str = `${data.hitokoto} —— ${data.from_who||""}《${data.from}》`;
-      const hitokoto = document.querySelector('#hitokoto_text')
-      hitokoto.innerText = str
-    })
-    .catch(console.error)
-
 /* 查看今年Heatmap */
 function viewMoreHeapmap() {
   var imgObj = document.getElementById("view-more-icon");

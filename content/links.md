@@ -40,6 +40,6 @@ draft: false
 ```txt
 title：XLapTop
 url：https://blog.xlap.top
-intro：Live A Peaceful Life, Take Of Your Path.
+intro：Live A Peaceful Life,Take Of Your Path.(平淡生活，走自己的路)
 avatar：https://blog.xlap.top/avatar.jpeg
 ```
