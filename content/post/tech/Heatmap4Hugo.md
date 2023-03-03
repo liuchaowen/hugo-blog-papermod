@@ -43,13 +43,19 @@ UseHugoToc: true
 
 {{- if .IsHome }}
 {{- /* cal-heatmap */}}
+
 <script src="https://d3js.org/d3.v7.min.js"></script>
+
 <script src="https://unpkg.com/cal-heatmap@4.0.0-beta.9/dist/cal-heatmap.min.js"></script>
+
 <link rel="stylesheet" href="https://unpkg.com/cal-heatmap@4.0.0-beta.9/dist/cal-heatmap.css"></script>
 
 {{/* tooltip */}}
+
 <script src="https://unpkg.com/@popperjs/core@2"></script>
+
 <script src="https://unpkg.com/tippy.js@6"></script>
+
 {{- end }}
 
 放在首页就做个IF判断，上部分是cal-heatmap依赖，下部分是鼠标移到小格子显示的tooltip依赖。
@@ -276,5 +282,5 @@ cal.on("mouseover", (event, timestamp, value) => {
 ### 后续问题
 
 * [X] dark/light主题切换问题
-* [ ] 自定义data字段，tooltip显示
-* [ ] 点击日期进入相关post页面
+* [X] tooltip显示
+* [X] 点击日期进入相关post页面
