@@ -40,6 +40,6 @@ draft: false
 ```txt
 title：XLapTop
 url：https://blog.xlap.top
-intro：Live a peaceful life, Take of your path.
+intro：Live A Peaceful Life, Take Of Your Path.
 avatar：https://blog.xlap.top/avatar.jpeg
 ```
