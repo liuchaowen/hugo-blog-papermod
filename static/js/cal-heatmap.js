@@ -210,10 +210,8 @@ cal.on('click', (event, timestamp, value) => {
   var dateObj = listObj[ymd];
   if (dateObj) {
     var urlList = dateObj.url;
-    console.log(ymd, urlList)
     if (urlList && urlList.length > 0) {
       var locationHref = urlList[Math.floor(Math.random() * urlList.length)];
-      console.log(locationHref)
       location.href = locationHref;
     }
   }
