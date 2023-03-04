@@ -223,22 +223,63 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 /*渲染*/
 cal.paint(options);
 
+/*初始点击的数据*/
+let listObj = {}
+function initClickUrls() {
+  fetch("/index.xml")
+    .then((res) => res.text())
+    .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then((data) => {
+      let ls = data.querySelectorAll("channel item");
+      listObj = {};
+      ls.forEach(element => {
+        let eleCollect = element.children;
+        let dateStr = eleCollect.item(2).textContent;
+        let url = eleCollect.item(3).textContent;
+        let dateTs = Date.parse(dateStr);
+        var date = new Date(dateTs);
+        var ymd = date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
+        if (listObj.hasOwnProperty(ymd)) {
+          listObj[ymd]['url'].push(url);
+        }
+        else {
+          listObj[ymd] = { 'date': ymd, 'url': [url] };
+        }
+      });
+      console.log(listObj)
+    });
+}
+initClickUrls();
+
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
   var date = new Date(timestamp);
-  var dateFormat = Appendzero(date.getMonth() + 1) +"/" +Appendzero(date.getDate());
-  var str= '周'+'日一二三四五六'.charAt(new Date(timestamp).getDay());
+  var dateFormat = Appendzero(date.getMonth() + 1) + "/" + Appendzero(date.getDate());
+  var str = '周' + '日一二三四五六'.charAt(new Date(timestamp).getDay());
   var tips = "";
   if (value == null) {
-    tips = str+" "+dateFormat+ " , 懒虫";
+    tips = str + " " + dateFormat + " , 懒虫!";
   }
-  else{
-    tips = str+" "+dateFormat + " , " + value + " 篇";
+  else {
+    tips = str + " " + dateFormat + " , " + value + " 篇";
   }
   tippy(event.target, {
     placement: "top",
     content: tips,
   });
+});
+
+cal.on('click', (event, timestamp, value) => {
+  var date = new Date(timestamp);
+  var ymd = date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
+  var dateObj = listObj[ymd];
+  if (dateObj) {
+    var urlList = dateObj.url;
+    if (urlList && urlList.length > 0) {
+      var locationHref = urlList[Math.floor(Math.random() * urlList.length)];
+      location.href = locationHref;
+    }
+  }
 });
 ```
 

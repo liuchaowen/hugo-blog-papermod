@@ -22,6 +22,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
+* GitHubChineseTop - 中文热门开源项目
+  {{< github title="GrowingGit/GitHub-Chinese-Top-Charts" >}}
+* ieaseMusic - 无敌首选的mac/linux在线音乐客户端
+  {{< github title="trazyn/ieaseMusic" >}}
 * Petal - 豆瓣FM客户端
   {{< github title="ilime/Petal" >}}
 * UnblockNeteaseMusic - 解锁网易云音乐客户端变灰歌曲
