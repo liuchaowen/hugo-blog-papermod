@@ -26,8 +26,8 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Blog - XLapTop
   description: "A blog for XLapTop"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Chao
+  keywords: [Blog, XLapTop, PaperMod, Hugo]
+  author: Cheman
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "Mon, January 2, 2006"
@@ -60,7 +60,7 @@ params:
     safari_pinned_tab: "/icon/safari-pinned-tab.svg"
 
   label:
-    text: "Laptop"
+    text: "LapTop"
     icon: logo.png
     iconHeight: 35
 
