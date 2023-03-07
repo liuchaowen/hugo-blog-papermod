@@ -1,3 +1,7 @@
+# Hugo 时间默认为格林威治时间，因为中国的时间比格林威治时间早 8 个小时，
+# 格林威治时间没有到你配置的时间的时候，文章是不会出现在文章列表里的。
+buildfuture: true
+
 baseURL: "https://blog.xlap.top/"
 title: Blog - XLapTop
 paginate: 5
@@ -5,6 +9,7 @@ theme: PaperMod
 
 languageCode: "zh-cn"
 defaultContentLanguage: zh
+timeZone: "Asia/Shanghai"
 # 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true 
 hasCJKLanguage: true 
 

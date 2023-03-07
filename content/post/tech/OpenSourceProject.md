@@ -26,7 +26,9 @@ UseHugoToc: true
   {{< github title="GrowingGit/GitHub-Chinese-Top-Charts" >}}
 * ieaseMusic - 无敌首选的mac/linux在线音乐客户端
   {{< github title="trazyn/ieaseMusic" >}}
-* Petal - 豆瓣FM客户端
+* 洛雪音乐 - 无敌首选的android在线音乐客户端
+  {{< github title="lyswhut/lx-music-mobile" >}}
+* Petal - 豆瓣FM客户端(Mac/Win)
   {{< github title="ilime/Petal" >}}
 * UnblockNeteaseMusic - 解锁网易云音乐客户端变灰歌曲
   {{< github title="nondanee/UnblockNeteaseMusic" >}}
