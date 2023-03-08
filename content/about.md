@@ -13,9 +13,9 @@ description: "no-comments"
 {{< books >}}
 
 ### 项目维护
-
-* [DongbazWoodcut](https://dongbaz.xlap.top) 东巴人木刻
-* [10YearBlogWall](https://10year.xlap.top) 十年之约博客墙
-* [HomeTV](https://tv.xlap.top) 家庭电视引导页
+* [Kinect4AlphaRobot](/post/tech/kinect4alpharobot/) 体感控制机器人
+* [DongbazWoodcut](https://project.xlap.top/dongbaz) 东巴人木刻
+* [10YearBlogWall](https://project.xlap.top/10year) 十年之约博客墙
+* [HomeTV](https://project.xlap.top/hometv) 家庭电视引导页
 * [PullDoublePYDomain](https://github.com/liuchaowen/pull-double-pinyin-domain.git) 查询未注册的双拼域名脚本
-* [FlutterFlipClock](https://e.coding.net/cheman/app/flutter_flipclock.git) 一个翻页时钟App
+* [FlutterFlipClock](https://github.com/liuchaowen/flutter-flipclock.git) 一个基于Flutter的翻页时钟App
