@@ -60,7 +60,7 @@ getAllUrls(false, (urllist) => {
     envId: 'https://db.twk.xlap.top', // 环境 ID
     // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
     urls: urllist,
-    includeReply: false // 评论数是否包括回复，默认：false
+    includeReply: true // 评论数是否包括回复，默认：false
   }).then(function (res) {
     var count = 0;
     for (let index = 0; index < res.length; index++) {
