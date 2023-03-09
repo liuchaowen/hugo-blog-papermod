@@ -13,6 +13,10 @@ timeZone: "Asia/Shanghai"
 # 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true 
 hasCJKLanguage: true 
 
+taxonomies:
+  category: categories
+  tag: tags
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

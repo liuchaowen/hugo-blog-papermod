@@ -182,7 +182,6 @@ function initClickUrls() {
           listObj[ymd] = { 'date': ymd, 'url': [url] };
         }
       });
-      console.log(listObj)
     });
 }
 initClickUrls();
