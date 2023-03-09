@@ -75,7 +75,7 @@ show_run_day();
 
 遍历sitemap.xml，获取post的路径list，调用twikoo的api接口，获取总评论数
 
-```javascript
+{{< code javascript >}}
 
 /* 获取所有路径 */
 function getAllUrls(isFullUrl,cb){
@@ -110,7 +110,7 @@ getAllUrls(false,(urllist)=>{
     envId: 'https://[vercel地址或者是你自定义的后端域名地址]', // 环境 ID
     // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
     urls: urllist,
-    includeReply: false // 评论数是否包括回复，默认：false
+    includeReply: true // 评论数是否包括回复，默认：false
   }).then(function (res) {
     var count = 0;
     for (let index = 0; index < res.length; index++) {
@@ -123,7 +123,8 @@ getAllUrls(false,(urllist)=>{
     console.error('twikoo err',err);
   });
 })
-```
+
+{{< /code >}}
 
 #### 总字数
 
@@ -160,6 +161,25 @@ getAllUrls(false,(urllist)=>{
 ```
 
 /links/ 为你.md的文件名
+
+## 编辑内容
+
+### 文章编写方式
+
+obsidian：
+
+本地使用obsidian 或者 部署云obsidian实现在线编辑
+
+vscode:
+
+本地使用VScode+md即时可视化插件
+
+两者各有优缺，前者偏向非技术的，后者偏向经常改技术的。当站点趋于稳定后，基本只有内容变更的话，前者会香一点。因为我是前端技术开发的，喜欢折腾功能，所有会倾向后者。后者命令调试+可视化+代码编写，无敌。
+
+### 代码块折叠
+{{<github title="jiridj/hugo-collapsible-code">}}
+
+详细看教程
 
 ## 功能系统
 
