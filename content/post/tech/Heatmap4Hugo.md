@@ -63,8 +63,7 @@ UseHugoToc: true
 ### 编写主文件
 
 在static/js 新增主逻辑文件cal-heatmap.js，更新看本人的github项目
-
-```javascript
+{{< code javascript >}}
 /*结果变量*/
 const weekNum = 8;
 const resultObj = {};
@@ -169,6 +168,10 @@ const cal = new CalHeatmap();
 /*深色与明亮主题初始值判断*/
 var isDark = document.body.className.includes("dark");
 // console.log("是否深色主题", isDark);
+var hlDate = new Date().toLocaleDateString();
+var hlArr = hlDate.split('/');
+var dateFormat = hlArr[0] + "-" + Appendzero(hlArr[1]) + "-" + Appendzero(hlArr[2]);
+var realHLDate = new Date(dateFormat);
 
 /* 参数 */
 var options = {
@@ -177,9 +180,8 @@ var options = {
   verticalOrientation: true,
   date: {
     start: firstday, //开始时间为上8-2个周的周一
-    highlight: new Date(),
+    highlight: [realHLDate],
     locale: { weekStart: 1 }, //周一为第一天
-    timezone: 'Asia/Shanghai'
   },
   domain: {
     type: "week",
@@ -268,7 +270,6 @@ cal.on("mouseover", (event, timestamp, value) => {
     content: tips,
   });
 });
-
 cal.on('click', (event, timestamp, value) => {
   var date = new Date(timestamp);
   var ymd = date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
@@ -281,8 +282,7 @@ cal.on('click', (event, timestamp, value) => {
     }
   }
 });
-```
-
+{{</code>}}
 多种样式，如显示1年，1个月，2个月等自行修改代码，因为我的主题适合规规矩矩的，所以使用8周为时间单位。
 
 (可忽略) 在static/css 新增主逻辑文件footer-home.css，更新看本人的github项目
