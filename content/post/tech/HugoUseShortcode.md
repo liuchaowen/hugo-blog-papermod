@@ -148,3 +148,8 @@ UseHugoToc: true
 ```
 
 需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
+
+## Memos 最近图集
+{{< album >}}
+## Memos 最近言录
+{{< memos >}}

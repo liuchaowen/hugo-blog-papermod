@@ -12,7 +12,12 @@ description: "no-comments"
 
 {{< books >}}
 
-### 项目维护
+### 近期图册  [🔗](https://api.mm.xlap.top)
+
+{{< album >}}
+
+### 项目维护 [🔗](https://github.com/liuchaowen/project.xlap.top)
+
 * [Kinect4AlphaRobot](/post/tech/kinect4alpharobot/) 体感控制机器人
 * [DongbazWoodcut](https://project.xlap.top/dongbaz) 东巴人木刻
 * [FlutterFlipClock](https://github.com/liuchaowen/flutter-flipclock.git) 一个基于Flutter的翻页时钟App
