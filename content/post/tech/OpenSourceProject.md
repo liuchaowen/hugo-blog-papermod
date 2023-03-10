@@ -66,3 +66,7 @@ UseHugoToc: true
   {{< github title="bxm0927/canvas-special" >}}
 * Luckysheet(Univer) - 在线Excel
   {{< github title="dream-num/Luckysheet" >}}
+* RainEffect - 下雨效果
+  {{< github title="codrops/RainEffect" >}}
+* EdexUI- 电影里的黑客装逼界面
+  {{< github title="GitSquared/edex-ui" >}}
