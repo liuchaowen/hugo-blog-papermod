@@ -35,6 +35,80 @@ UseHugoToc: true
 
 由于常规的md插入的代码不支持折叠，如果代码太长会很不友好，所以要用简码让代码展开收起
 
+head引入代码：
+{{<code javascript>}}
+var height = "300px";
+
+if (
+  document.readyState === "complete" ||
+    (document.readyState !== "loading" && !document.documentElement.doScroll)
+) {
+  makeCollapsible();
+} else {
+  document.addEventListener("DOMContentLoaded", makeCollapsible);
+}
+
+function toggle(e) {
+  e.preventDefault();
+  var link = e.target;
+  var div = link.parentElement.parentElement;
+
+  if (link.innerHTML == "&nbsp;展开&nbsp;") {
+    link.innerHTML = "&nbsp;收起&nbsp;";
+    div.style.maxHeight = "";
+    div.style.overflow = "none";
+  }
+  else {
+    link.innerHTML = "&nbsp;展开&nbsp;";
+    div.style.maxHeight = height;
+    div.style.overflow = "hidden";
+    div.scrollIntoView({ behavior: 'smooth' });
+  }
+}
+
+function makeCollapsible() {
+  var divs = document.querySelectorAll('.highlight-wrapper');
+
+  for (i=0; i < divs.length; i++) {
+    var div = divs[i];
+    if (div.offsetHeight > parseInt(height, 10)) {
+      div.style.maxHeight = height;
+      div.style.overflow = "hidden";
+
+    var e = document.createElement('div');
+      e.className = "highlight-link";
+
+    var html = '`<a href="">`&nbsp;展开&nbsp;`</a>`';
+      e.innerHTML = html;
+      div.appendChild(e);
+    }
+  }
+
+  var links = document.querySelectorAll('.highlight-link');
+  for (i=0; i<links.length; i++) {
+    var link = links[i];
+    link.addEventListener('click', toggle);
+  }
+}
+{{</code>}}
+
+```css
+/*css*/
+.highlight-wrapper {
+    position: relative;
+}
+
+.highlight-link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.highlight-link a{
+    box-shadow: 0 0px;
+}
+```
+
 ## github 源卡片
 
 ```html
@@ -60,8 +134,8 @@ UseHugoToc: true
 ```html
 \{\{< game "https://www.yystv.cn/g/36">\}\}
 ```
-详情点击 [林木木](https://immmmm.com/hugo-shortcodes-game/) 
 
+详情点击 [林木木](https://immmmm.com/hugo-shortcodes-game/)
 
 ## music 网易云音乐歌单
 
@@ -80,6 +154,7 @@ UseHugoToc: true
 ```html
 \{\{< ppt src="ppt网址" >\}\}
 ```
+
 详情点击 [Sulv](https://www.sulvblog.cn/posts/blog/shortcodes)
 
 ## gallery 画廊
@@ -87,6 +162,7 @@ UseHugoToc: true
 ```html
 \{\{< gallery "images/dirname">\}\}
 ```
+
 ## figure 作者/人物/角色
 
 ```html
@@ -98,6 +174,7 @@ UseHugoToc: true
 ```html
 \{\{< books >\}\} or \{\{< movies>\}\}
 ```
+
 需要搭建服务，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-douban/)
 
 ## douban 某个书影
@@ -150,6 +227,9 @@ UseHugoToc: true
 需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
 
 ## Memos 最近图集
+
 {{< album >}}
+
 ## Memos 最近言录
+
 {{< memos >}}
