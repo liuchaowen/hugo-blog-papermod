@@ -58,3 +58,11 @@ UseHugoToc: true
   {{< github title="imaegoo/twikoo" >}}
 * FriendsCircle - 开源的博友圈模块
   {{< github title="Rock-Candy-Tea/hexo-circle-of-friends" >}}
+* CSS-Inspiration - 玩转css
+  {{< github title="chokcoco/CSS-Inspiration" >}}
+* reveal.js - 在线幻灯片
+  {{< github title="hakimel/reveal.js" >}}
+* canvas-special - 玩转canvas
+  {{< github title="bxm0927/canvas-special" >}}
+* Luckysheet(Univer) - 在线Excel
+  {{< github title="dream-num/Luckysheet" >}}
