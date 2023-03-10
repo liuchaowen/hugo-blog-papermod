@@ -106,6 +106,8 @@ function makeCollapsible() {
 
 .highlight-link a{
     box-shadow: 0 0px;
+    font-size: 14px;
+    color: #eea2a4;
 }
 ```
 
