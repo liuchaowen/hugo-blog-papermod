@@ -104,41 +104,23 @@ function makeCollapsible() {
 }
 
 //事件处理
-function initCodeHlEvent() {
-  var divs = document.querySelectorAll('.highlight-wrapper');
-  for (i = 0; i < divs.length; i++) {
-    divs[i].addEventListener("mouseover", ()=>{
-      showMouseOver()
-    });
-    divs[i].addEventListener("mouseout", ()=>{
-      showMouseOut()
-    });
-  }
-}
-
-function showMouseOver() {
-  var tags = document.querySelectorAll('.highlight-before');
-  for (i = 0; i < tags.length; i++) {
-    var tag = tags[i];
-    tag.style.display = "block";
-  }
-}
-
-function showMouseOut() {
-  var tags = document.querySelectorAll('.highlight-before');
-  for (i = 0; i < tags.length; i++) {
-    var tag = tags[i];
-    tag.style.display = "none";
-  }
-}
-
 window.onload = function () {
-  initCodeHlEvent();
+  var divs = document.querySelectorAll('.highlight-wrapper');
+  var eleItems = [].slice.call(divs);
+  eleItems.forEach(function (item, idx) {
+      item.addEventListener('mouseover', function () {
+        var tag = item.querySelectorAll('.highlight-before')[0];
+        tag.style.display = "block";
+      });
+      item.addEventListener('mouseout', function () {
+        var tag = item.querySelectorAll('.highlight-before')[0];
+        tag.style.display = "none";
+      });
+  });
 }
 {{</code>}}
 
-```css
-/*css*/
+{{<code css>}}
 .highlight-wrapper {
     position: relative;
 }
@@ -153,6 +135,10 @@ window.onload = function () {
     opacity: .8;
     padding: 2.5px 10px;
     border-radius: 5px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 .highlight-link {
@@ -166,7 +152,7 @@ window.onload = function () {
     font-size: 14px;
     color: #eea2a4;
 }
-```
+{{</code>}}
 
 ## github 源卡片
 

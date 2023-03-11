@@ -12,6 +12,10 @@
     opacity: .8;
     padding: 2.5px 10px;
     border-radius: 5px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 .highlight-link {
@@ -20,9 +24,8 @@
     right: 0;
 }
 
-.highlight-link a{
+.highlight-link a {
     box-shadow: 0 0px;
     font-size: 14px;
     color: #eea2a4;
 }
-
