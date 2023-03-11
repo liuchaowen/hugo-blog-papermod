@@ -2,6 +2,18 @@
     position: relative;
 }
 
+.highlight-before {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 2;
+    color: white;
+    background-color: #333333;
+    opacity: .8;
+    padding: 2.5px 10px;
+    border-radius: 5px;
+}
+
 .highlight-link {
     position: absolute;
     bottom: 0;
@@ -13,3 +25,4 @@
     font-size: 14px;
     color: #eea2a4;
 }
+

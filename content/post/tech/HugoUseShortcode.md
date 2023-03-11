@@ -33,7 +33,19 @@ UseHugoToc: true
 \{\{</code>\}\}
 ```
 
-由于常规的md插入的代码不支持折叠，如果代码太长会很不友好，所以要用简码让代码展开收起
+常规的md插入的代码不支持折叠，如果代码太长会很不友好，所以要用简码让代码展开收起; 
+以下为接入过程，由于有评友说了些不一样的需求，本人小改了一下：
+code.html
+```html
+<div class="highlight-wrapper">
+    <div class="highlight-before" style="display:none">{{ .Get 0 }}</div>
+    {{ if len .Params | eq 2 }}
+        {{ highlight (trim .Inner "\n\r") (.Get 0) (.Get 1) }}
+    {{ else }}
+        {{ highlight (trim .Inner "\n\r") (.Get 0) "" }}
+    {{ end }}
+</div>
+```
 
 head引入代码：
 {{<code javascript>}}
@@ -41,7 +53,7 @@ var height = "300px";
 
 if (
   document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
+  (document.readyState !== "loading" && !document.documentElement.doScroll)
 ) {
   makeCollapsible();
 } else {
@@ -69,26 +81,59 @@ function toggle(e) {
 function makeCollapsible() {
   var divs = document.querySelectorAll('.highlight-wrapper');
 
-  for (i=0; i < divs.length; i++) {
+  for (i = 0; i < divs.length; i++) {
     var div = divs[i];
     if (div.offsetHeight > parseInt(height, 10)) {
       div.style.maxHeight = height;
       div.style.overflow = "hidden";
 
-    var e = document.createElement('div');
+      var e = document.createElement('div');
       e.className = "highlight-link";
 
-    var html = '`<a href="">`&nbsp;展开&nbsp;`</a>`';
+      var html = '<a href="">&nbsp;展开&nbsp;</a>';
       e.innerHTML = html;
       div.appendChild(e);
     }
   }
 
   var links = document.querySelectorAll('.highlight-link');
-  for (i=0; i<links.length; i++) {
+  for (i = 0; i < links.length; i++) {
     var link = links[i];
     link.addEventListener('click', toggle);
   }
+}
+
+//事件处理
+function initCodeHlEvent() {
+  var divs = document.querySelectorAll('.highlight-wrapper');
+  for (i = 0; i < divs.length; i++) {
+    divs[i].addEventListener("mouseover", ()=>{
+      showMouseOver()
+    });
+    divs[i].addEventListener("mouseout", ()=>{
+      showMouseOut()
+    });
+  }
+}
+
+function showMouseOver() {
+  var tags = document.querySelectorAll('.highlight-before');
+  for (i = 0; i < tags.length; i++) {
+    var tag = tags[i];
+    tag.style.display = "block";
+  }
+}
+
+function showMouseOut() {
+  var tags = document.querySelectorAll('.highlight-before');
+  for (i = 0; i < tags.length; i++) {
+    var tag = tags[i];
+    tag.style.display = "none";
+  }
+}
+
+window.onload = function () {
+  initCodeHlEvent();
 }
 {{</code>}}
 
@@ -96,6 +141,18 @@ function makeCollapsible() {
 /*css*/
 .highlight-wrapper {
     position: relative;
+}
+
+.highlight-before {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 2;
+    color: white;
+    background-color: #333333;
+    opacity: .8;
+    padding: 2.5px 10px;
+    border-radius: 5px;
 }
 
 .highlight-link {

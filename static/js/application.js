@@ -49,47 +49,46 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 */
 
 /* 获取所有路径 */
-function getAllUrls(isFullUrl,cb){
+function getAllUrls(isFullUrl, cb) {
   fetch("/sitemap.xml")
-  .then((res) => res.text())
-  .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
-  .then((data) => {
-    let ls = data.querySelectorAll("url loc");
-    let locationHref, locSplit;
-    let list = [];
-    ls.forEach((element) => {
-      var ele = element.innerHTML;
-      var ele_split = ele.split("/")[3] || "";
-      var ele_split_tail = ele.split("/")[4] || "";
-      if (ele_split == "post" && ele_split_tail != "") {
-        if (isFullUrl) {
-          list.push(ele);
+    .then((res) => res.text())
+    .then((str) => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then((data) => {
+      let ls = data.querySelectorAll("url loc");
+      let locationHref, locSplit;
+      let list = [];
+      ls.forEach((element) => {
+        var ele = element.innerHTML;
+        var ele_split = ele.split("/")[3] || "";
+        var ele_split_tail = ele.split("/")[4] || "";
+        if (ele_split == "post" && ele_split_tail != "") {
+          if (isFullUrl) {
+            list.push(ele);
+          }
+          else {
+            var uriList = new URL(ele);
+            list.push(uriList.pathname);
+          }
         }
-        else{
-          var uriList = new URL(ele);
-          list.push(uriList.pathname);
-        }
-      }
+      });
+      cb && cb(list);
     });
-    cb && cb(list);
-  });
 }
 
 /* 随机阅读文章 */
 function randomPost() {
-  getAllUrls(true,(list)=>{
+  getAllUrls(true, (list) => {
     locationHref = list[Math.floor(Math.random() * list.length)];
     location.href = locationHref;
   })
 }
 
 /* 代码折叠 */
-
 var height = "300px";
 
 if (
   document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
+  (document.readyState !== "loading" && !document.documentElement.doScroll)
 ) {
   makeCollapsible();
 } else {
@@ -117,7 +116,7 @@ function toggle(e) {
 function makeCollapsible() {
   var divs = document.querySelectorAll('.highlight-wrapper');
 
-  for (i=0; i < divs.length; i++) {
+  for (i = 0; i < divs.length; i++) {
     var div = divs[i];
     if (div.offsetHeight > parseInt(height, 10)) {
       div.style.maxHeight = height;
@@ -133,8 +132,41 @@ function makeCollapsible() {
   }
 
   var links = document.querySelectorAll('.highlight-link');
-  for (i=0; i<links.length; i++) {
+  for (i = 0; i < links.length; i++) {
     var link = links[i];
     link.addEventListener('click', toggle);
   }
+}
+
+//事件处理
+function initCodeHlEvent() {
+  var divs = document.querySelectorAll('.highlight-wrapper');
+  for (i = 0; i < divs.length; i++) {
+    divs[i].addEventListener("mouseover", ()=>{
+      showMouseOver()
+    });
+    divs[i].addEventListener("mouseout", ()=>{
+      showMouseOut()
+    });
+  }
+}
+
+function showMouseOver() {
+  var tags = document.querySelectorAll('.highlight-before');
+  for (i = 0; i < tags.length; i++) {
+    var tag = tags[i];
+    tag.style.display = "block";
+  }
+}
+
+function showMouseOut() {
+  var tags = document.querySelectorAll('.highlight-before');
+  for (i = 0; i < tags.length; i++) {
+    var tag = tags[i];
+    tag.style.display = "none";
+  }
+}
+
+window.onload = function () {
+  initCodeHlEvent();
 }
