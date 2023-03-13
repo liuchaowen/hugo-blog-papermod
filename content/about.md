@@ -4,6 +4,11 @@ date: 2022-12-26T16:58:51+08:00
 draft: false
 description: "no-comments"
 ---
+### 关于本人 [🔗](https://github.com/liuchaowen)
+
+|||||||
+|:------|:------:|:------:|:------:|------:|
+|{{< figure src="https://blog.xlap.top/avatar.jpeg" width="90" height="90" title="ChemanLau" link="https://blog.xlap.top">}}||<p>Web/App Developer</p>||![Web/App Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=liuchaowen&layout=compact&hide_border=true&langs_count=8)|
 ### 近期观影 [🔗](/movies)
 
 {{< movies >}}
