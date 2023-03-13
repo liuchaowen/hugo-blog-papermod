@@ -97,6 +97,10 @@ params:
     kitURL: "https://kit.fontawesome.com/844a346ce0.js"
 
   socialIcons:
+    - name: freepik
+      url: "https://liuchaowen.github.io/front-end-roadmap"
+      title: "技术路线"
+      newtab: true
     - name: github
       url: "https://github.com/liuchaowen"
       title: "代码托管"
