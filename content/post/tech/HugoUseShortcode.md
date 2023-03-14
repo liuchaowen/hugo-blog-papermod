@@ -227,7 +227,7 @@ window.onload = function () {
 \{\{< ppt src="ppt网址" >\}\}
 ```
 
-详情点击 [Sulv](https://www.sulvblog.cn/posts/blog/shortcodes)
+详情点击 {{< link "Sulv" "https://www.sulvblog.cn/posts/blog/shortcodes" >}}
 
 ## gallery 画廊
 
@@ -251,7 +251,7 @@ window.onload = function () {
 ```
 
 详细效果看[关于](/about)
-需要搭建服务，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-douban/)
+需要搭建服务，详情点击 {{< link "林木木" "https://immmmm.com/hugo-shortcodes-recently-by-douban/" >}}
 
 ## douban 某个书影
 
@@ -309,7 +309,8 @@ window.onload = function () {
 \{\{< album >\}\}
 ```
 
-需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
+需要搭建memos，详情点击 {{< link "林木木" "https://immmmm.com/hugo-shortcodes-recently-by-memos/" >}}
+\
 效果：
 {{< album >}}
 
@@ -319,6 +320,7 @@ window.onload = function () {
 \{\{< memos >\}\}
 ```
 
-需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
+需要搭建memos，详情点击 {{< link "林木木" "https://immmmm.com/hugo-shortcodes-recently-by-memos/" >}}
+\
 效果：
 {{< memos >}}
