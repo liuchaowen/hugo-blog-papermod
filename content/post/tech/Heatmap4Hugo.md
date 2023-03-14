@@ -3,7 +3,7 @@ title: "Heatmap4Hugo每日文章数热力图"
 date: 2023-02-27T23:30:26+08:00
 draft: false
 categories: ["技术"]
-tags: ["heatmap","hugo",“热力图"]
+tags: ["heatmap","hugo","热力图"]
 description: 
 author: "Chao"
 showToc: true
@@ -282,7 +282,7 @@ cal.on('click', (event, timestamp, value) => {
     }
   }
 });
-{{</code>}}
+{{`</code>`}}
 多种样式，如显示1年，1个月，2个月等自行修改代码，因为我的主题适合规规矩矩的，所以使用8周为时间单位。
 
 (可忽略) 在static/css 新增主逻辑文件footer-home.css，更新看本人的github项目
