@@ -187,6 +187,8 @@ window.onload = function () {
 ```html
 \{\{< game "https://www.yystv.cn/g/36">\}\}
 ```
+
+效果：
 {{< game "https://www.yystv.cn/g/36">}}
 
 ## music 网易云音乐歌单
@@ -207,6 +209,17 @@ window.onload = function () {
 效果：
 {{< innerlink src="/post/tech/HugoUseShortcode.md" >}}
 我去掉了摘要，因为加上.Summary会运行不成功，未找到原因，如有大神知道请评论留言。
+
+## link 外链跳转
+
+```html
+\{\{< link "林木木" "https://immmmm.com" >\}\}
+```
+
+效果：
+{{< link "林木木" "https://immmmm.com" >}}
+\
+注意要修改link.html的跳转地址
 
 ## ppt 幻灯片
 
