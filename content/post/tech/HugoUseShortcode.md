@@ -210,7 +210,7 @@ window.onload = function () {
 {{< innerlink src="/post/tech/HugoUseShortcode.md" >}}
 我去掉了摘要，因为加上.Summary会运行不成功，未找到原因，如有大神知道请评论留言。
 
-## link 外链跳转
+## link 外链跳转（带提示）
 
 ```html
 \{\{< link "林木木" "https://immmmm.com" >\}\}
@@ -220,7 +220,115 @@ window.onload = function () {
 {{< link "林木木" "https://immmmm.com" >}}
 \
 注意要修改link.html的跳转地址
-
+\
+下面是跳转代码jump.html
+{{<code html>}}
+<!DOCTYPE html>
+<head>
+<style>
+    .box {
+      height: 100vh;
+      background-color: #f4f5f5;
+    }
+    .box .tip-box {
+      position: absolute;
+      left: 50%;
+      top: 30%;
+      max-width: 624px;
+      width: 86%;
+      background-color: #fff;
+      transform: translateX(-50%);
+      padding: 30px 40px 0;
+      box-sizing: border-box;
+      border: 1px solid #e5e6eb;
+      border-radius: 2px;
+    }
+    .box .tip-box .logo-box .text{
+        display: block;
+        position: absolute;
+        top: -38px;
+        left: 36px;
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .box .tip-box .logo-box .logo {
+      display: block;
+      width: 35px;
+      height: 35px;
+      position: absolute;
+      top: -40px;
+      left: 0;
+    }
+    .box .tip-box .content .title {
+      font-size: 18px;
+      line-height: 24px;
+    }
+    .box .tip-box .content .link {
+      padding: 16px 0 24px;
+      border-bottom: 1px solid #e5e6eb;
+      position: relative;
+      color: gray;
+      font-size: 14px;
+    }
+    .box .tip-box .content .btn {
+      display: block;
+      margin: 20px 0 24px auto;
+      color: #fff;
+      border-radius: 3px;
+      border: none;
+      background: #eea2a4;
+      height: 32px;
+      font-size: 14px;
+      padding: 0 14px;
+      cursor: pointer;
+      outline: 0;
+    }
+    </style>
+    <script>
+        // 获取 url
+        var url = "";
+        function getTargetURL() {
+            console.log(window.location.href)
+              var query = window.location.href.split("?")[1] || "";
+              var target = query.split("target=")[1] || "";
+               url = window.decodeURIComponent(target);
+              document.getElementById('target-link').innerHTML = url;
+              console.log(url)
+        }
+        // 跳转页面
+        function navigateToTarget() {
+              if (!url) {
+                return;
+              }
+              window.location.href = url;
+        }
+        window.onload = function(){
+            getTargetURL(); // 获取 url
+        }
+        </script>
+</head>
+<body>
+    <div class="box">
+        <div class="tip-box">
+            <div class="logo-box">
+                <img
+                class="logo"
+                src="https://blog.xlap.top/logo.png"
+              />
+              <span class="text">LapTop</span>
+            </div>
+          <div class="content">
+            <div class="title">
+              即将离开 Cheman 的博客，请注意账号财产安全
+            </div>
+            <div class="link" id="target-link"></div>
+            <button class="btn" onclick="navigateToTarget()">继续访问</button>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
+{{</code>}}
 ## ppt 幻灯片
 
 ```html
