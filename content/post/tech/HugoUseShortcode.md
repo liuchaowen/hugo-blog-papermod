@@ -160,27 +160,34 @@ window.onload = function () {
 \{\{< github title="liuchaowen/hugo-blog-papermod" >\}\}
 ```
 
+效果：
+{{< github title="liuchaowen/hugo-blog-papermod" >}}
 只需要把repo的id放入即可，会自动去组装卡片，很方便
 
 ## youtube 油管视频
 
 ```html
-\{\{< youtube 09jf3ow9jfw >\}\}
+\{\{< youtube "AYEeCauuRsA" >\}\}
 ```
+
+效果：
+{{< youtube "AYEeCauuRsA" >}}
 
 ## bilibili B站视频
 
 ```html
-\{\{< bilibili BV号 >\}\}
+\{\{< bilibili "BV1Jo4y167JP" >\}\}
 ```
+
+效果：
+{{< bilibili "BV1Jo4y167JP" >}}
 
 ## game 游戏卡片
 
 ```html
 \{\{< game "https://www.yystv.cn/g/36">\}\}
 ```
-
-详情点击 [林木木](https://immmmm.com/hugo-shortcodes-game/)
+{{< game "https://www.yystv.cn/g/36">}}
 
 ## music 网易云音乐歌单
 
@@ -188,11 +195,18 @@ window.onload = function () {
 \{\{< music id="1443928242" >\}\}
 ```
 
+效果：
+{{< music id="1443928242" >}}
+
 ## innerlink 内链文章
 
 ```html
-\{\{< innerlink src="https://blog.xlap.top/post/tech/hugouseshortcode/" >\}\}
+\{\{< innerlink src="/post/tech/HugoUseShortcode.md" >\}\}
 ```
+
+效果：
+{{< innerlink src="/post/tech/HugoUseShortcode.md" >}}
+我去掉了摘要，因为加上.Summary会运行不成功，未找到原因，如有大神知道请评论留言。
 
 ## ppt 幻灯片
 
@@ -214,12 +228,16 @@ window.onload = function () {
 \{\{< figure src="https://blog.xlap.top/avatar.jpeg" width="50" height="50" title="Cheman" link="https://blog.xlap.top">\}\}
 ```
 
+效果：
+{{< figure src="https://blog.xlap.top/avatar.jpeg" width="50" height="50" title="Cheman" link="https://blog.xlap.top">}}
+
 ## douban 我看过的书影
 
 ```html
 \{\{< books >\}\} or \{\{< movies>\}\}
 ```
 
+详细效果看[关于](/about)
 需要搭建服务，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-douban/)
 
 ## douban 某个书影
@@ -229,6 +247,11 @@ window.onload = function () {
 \{\{< douban "https://movie.douban.com/subject/35267208/">\}\}
 ```
 
+效果：
+{{< douban "https://book.douban.com/subject/35496106/">}}
+{{< douban "https://movie.douban.com/subject/35267208/">}}
+书还有点问题，待解决
+
 ## collapse 可折叠文本
 
 ```html
@@ -236,6 +259,11 @@ window.onload = function () {
   this is content
 \{\{</collapse>\}\}
 ```
+
+效果：
+{{<collapse summary="**A Title**">}}
+  this is content
+{{</collapse>}}
 
 ## html 原代码
 
@@ -246,6 +274,13 @@ window.onload = function () {
   </p>
 \{\{< /rawhtml >\}\}
 ```
+
+效果：
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
 
 ## rtl or ltr 右左方向文本(藏文) 未懂
 
@@ -262,6 +297,8 @@ window.onload = function () {
 ```
 
 需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
+效果：
+{{< album >}}
 
 ## memos 说说动态
 
@@ -270,7 +307,5 @@ window.onload = function () {
 ```
 
 需要搭建memos，详情点击 [林木木](https://immmmm.com/hugo-shortcodes-recently-by-memos/)
-
-## Memos 最近言录
-
+效果：
 {{< memos >}}
