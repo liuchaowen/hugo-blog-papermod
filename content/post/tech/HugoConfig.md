@@ -202,7 +202,7 @@ vercel
 
 ### 有意思的404页面
 
-自己选一个试试 [点击这里](https://freefrontend.com/html-funny-404-pages/) ，看我的404页面 [点击这里](https://blog.xlap.top/404page)
+自己选一个试试 {{< link "点击这里" "https://freefrontend.com/html-funny-404-pages/" >}} ，看我的404页面 [点击这里](https://blog.xlap.top/404page)
 
 ## 总结
 

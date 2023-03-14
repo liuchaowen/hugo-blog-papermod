@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
-请去掉"{}"前后的"/"字符
+请去掉"{}"前后的"\"字符
 
 ## code 代码
 
@@ -219,7 +219,7 @@ window.onload = function () {
 效果：
 {{< link "林木木" "https://immmmm.com" >}}
 \
-注意要修改link.html的跳转地址
+注意要修改link.html的跳转地址,注意空格注意空格注意空格
 \
 下面是跳转代码jump.html
 {{<code html>}}
