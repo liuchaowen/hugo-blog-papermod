@@ -177,7 +177,8 @@ vscode:
 两者各有优缺，前者偏向非技术的，后者偏向经常改技术的。当站点趋于稳定后，基本只有内容变更的话，前者会香一点。因为我是前端技术开发的，喜欢折腾功能，所有会倾向后者。后者命令调试+可视化+代码编写，无敌。
 
 ### 代码块折叠
-{{<github title="jiridj/hugo-collapsible-code">}}
+
+{{`<github title="jiridj/hugo-collapsible-code">`}}
 
 详细看教程
 
@@ -198,6 +199,10 @@ github + action
 ### 友邻文集
 
 vercel
+
+### 有意思的404页面
+
+自己选一个试试 [点击这里](https://freefrontend.com/html-funny-404-pages/) ，看我的404页面 [点击这里](https://blog.xlap.top/404page)
 
 ## 总结
 
