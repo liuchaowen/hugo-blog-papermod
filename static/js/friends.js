@@ -105,7 +105,7 @@ function loadArticleItem(datalist, start, end) {
       var item = datalist[i];
       articleItem += `
       <div class="cf-article">
-        <a class="cf-article-title" href="${
+        <a class="cf-article-title" href="https://project.xlap.top/jump/?target=${
           item.link
         }" target="_blank" rel="noopener nofollow" data-title="${item.title}">${
         item.title
