@@ -169,12 +169,11 @@ function initWordCloud(){
           "backgroundColor": '#333', // 背景颜色
           "rotateRatio": 1 // 字体倾斜(旋转)概率，1代表总是倾斜(旋转)
       });
-  WordCloud(canvas, options);
+   new WordCloud(canvas, options);
 }
 
 
 /* 加载完成后 */
 window.onload = function () {
   initCodeExpand();
-  initWordCloud();
 }
