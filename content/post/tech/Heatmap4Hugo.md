@@ -41,6 +41,7 @@ UseHugoToc: true
 
 在themes/xxx/layouts/partials/extend_head.html 尾部插入代码：
 
+{{<code html>}}
 {{- if .IsHome }}
 {{- /* cal-heatmap */}}
 
@@ -57,6 +58,7 @@ UseHugoToc: true
 <script src="https://unpkg.com/tippy.js@6"></script>
 
 {{- end }}
+{{</code>}}
 
 放在首页就做个IF判断，上部分是cal-heatmap依赖，下部分是鼠标移到小格子显示的tooltip依赖。
 
@@ -282,7 +284,7 @@ cal.on('click', (event, timestamp, value) => {
     }
   }
 });
-{{`</code>`}}
+{{</code>}}
 多种样式，如显示1年，1个月，2个月等自行修改代码，因为我的主题适合规规矩矩的，所以使用8周为时间单位。
 
 (可忽略) 在static/css 新增主逻辑文件footer-home.css，更新看本人的github项目
