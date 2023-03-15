@@ -31,7 +31,7 @@ UseHugoToc: true
 
 ## 演示视频
 
-[https://share.weiyun.com/IhiifkW6](https://share.weiyun.com/IhiifkW6)
+{{< link "点击播放" "https://share.weiyun.com/IhiifkW6" >}}
 
 ## 项目技术点
 
@@ -48,22 +48,22 @@ UseHugoToc: true
 
 BLE蓝牙4.0串口模块，购买链接：
 
-* [带底板HC-05主从机一体蓝牙模块 无线串口透传通讯 兼容arduino ](https://item.taobao.com/item.htm?spm=a230r.1.14.62.55cc54ccJ5Dicz&id=39244262350&ns=1&abbucket=15#detail)
-* [CH340G代替PL2303 USB转TTL 转串口 中九升级小板 刷机线 STC下载](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16248799899.14.5ec6546ewcZDPA&id=17817178269)
+\ {{< link "带底板HC-05主从机一体蓝牙模块 无线串口透传通讯 兼容arduino" "https://item.taobao.com/item.htm?spm=a230r.1.14.62.55cc54ccJ5Dicz&id=39244262350&ns=1&abbucket=15#detail" >}}
+\ {{< link "CH340G代替PL2303 USB转TTL 转串口 中九升级小板 刷机线 STC下载" "https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16248799899.14.5ec6546ewcZDPA&id=17817178269" >}}
 
 Kinect One 2.0（可同时记录6个人的20个关节点）
 
-* [XBOX ONE/S Kinect 2.0感应器 开发高清体感摄像头 Kinect体感器](https://item.jd.com/11466539367.html?jd_pop=ba27070e-17ed-489b-900c-178a9b63ff51&abt=0)
-* [Alpha 1s 阿尔法机器人](https://item.jd.com/10536803062.html)（16个自由度）
-* [Win8系统以上的主机](https://item.jd.com/3879331.html)（支持USB3.0+内存在4G以上）
+\ {{< link "XBOX ONE/S Kinect 2.0感应器 开发高清体感摄像头 Kinect体感器" "https://item.jd.com/11466539367.html?jd_pop=ba27070e-17ed-489b-900c-178a9b63ff51&abt=0" >}}
+\ {{< link "Alpha 1s 阿尔法机器人" "https://item.jd.com/10536803062.html" >}}（16个自由度）
+\ {{< link "Win8系统以上的主机" "https://item.jd.com/3879331.html" >}}（支持USB3.0+内存在4G以上）
 
 开发环境搭建：
 
 1、找一台Win8系统以上的主机（支持USB3.0+内存在4G以上）
 
-2、[安装Kinect开发环境](http://www.microsoft.com/en-us/download/details.aspx?id=44561)  完成后插入Kinect设备看是否正常
+2、{{< link "安装Kinect开发环境" "http://www.microsoft.com/en-us/download/details.aspx?id=44561" >}}  完成后插入Kinect设备看是否正常
 
-3、[安装.net framework ](https://www.microsoft.com/en-us/download/details.aspx?id=17851)与  [visual studio 开发环境 ](https://visualstudio.microsoft.com/)
+3、{{< link "安装.net framework" "https://www.microsoft.com/en-us/download/details.aspx?id=17851" >}} 与 {{< link "visual studio 开发环境" "https://visualstudio.microsoft.com/" >}}
 
 4、打开vs ,  导入项目工程文件
 
@@ -71,8 +71,9 @@ Kinect One 2.0（可同时记录6个人的20个关节点）
 
 6、去优必优官网下载蓝牙控制指令文档
 
-* [蓝牙控制指令文档](https://assets-new.ubtrobot.com/Alpha%201%20%E7%B3%BB%E5%88%97%E8%93%9D%E7%89%99%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE.pdf?download)
-* [用户使用说明书 ](https://assets-new.ubtrobot.com/Alpha%201S%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf?download)
+* {{< link "蓝牙控制指令文档" "https://assets-new.ubtrobot.com/Alpha%201%20%E7%B3%BB%E5%88%97%E8%93%9D%E7%89%99%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE.pdf?download" >}}
+* {{< link "用户使用说明书" "https://assets-new.ubtrobot.com/Alpha%201S%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf?download" >}}
+
 
 7、确定可以通过PC发送指令给机器人，机器人能动
 
