@@ -46,7 +46,7 @@ UseHugoToc: true
 ```
 
 style具体代码
-{{<code css>}}
+{{`<code css>`}}
 .word-color:nth-child(7n + 1) {
     color: rgb(202, 110, 255);
   }
@@ -115,18 +115,21 @@ style具体代码
   .word-animate:nth-child(7n + 7) {
     animation-delay: 18s;
   }
-{{</code>}}
+{{`</code>`}}
 
 ## 接入代码
 
 找到layouts/_default/terms.html，把原来的注释掉，用wc2替代
-{{<code html>}}
+{{`<code html>`}}
+
 <!--标签云-->
+
 <div id="sourrounding_div" style="width:100%;height:100%;min-height: 500px;">
     <div id="tag-canvas"></div>
 </div>
 
 <script src="/js/wordcloud2.js"></script>
+
 {{- range $key, $value := .Data.Terms.Alphabetical }}
     {{ if eq "" ($.Scratch.Get "tagsMap") }}
         {{ $.Scratch.Set "tagsMap" (slice (dict .Name .Count))  }}
@@ -135,7 +138,8 @@ style具体代码
     {{ end }}
 {{- end }}
 {{ $result := ($.Scratch.Get "tagsMap")}}
-<span id="tag-temp" style="display:none">{{$result | jsonify }}</span>
+`<span id="tag-temp" style="display:none">`{{$result | jsonify }}
+
 <script>
     //因为前期每个标签值比较小，帮X一个系数
     var XISHU = 20;
@@ -179,7 +183,7 @@ style具体代码
                 element.innerHTML = `<a href="/tags/${text}" style="color: inherit;">${text}</a>`;
             });
         });
-    
+  
 </script>
 
 <!-- <ul class="terms-tags">
@@ -194,4 +198,12 @@ style具体代码
     {{- end }}
     {{- end }}
 </ul> -->
-{{</code>}}
+
+{{`</code>`}}
+
+## 拓展选项
+
+* [X] 切换深色浅色主题，标签颜色改变
+* [X] 动态响应式尺寸
+* [X] 词云动态展示效果
+* [ ] 词云聚合显示成一个特定形状
