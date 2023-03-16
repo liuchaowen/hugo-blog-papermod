@@ -2,9 +2,9 @@
 title: "Hugo的标签使用词云WordCloud2展示"
 date: 2023-03-16T13:41:23+08:00
 draft: false
-categories: []
-tags: []
-description: 
+categories: ["技术"]
+tags: ["hugo","wordcloud","词云","标签云"]
+description: 让你的标签展示更加好看，更加直观
 author: "Chao"
 showToc: true
 TocOpen: false
@@ -46,7 +46,7 @@ UseHugoToc: true
 ```
 
 style具体代码
-{{`<code css>`}}
+{{<code css>}}
 .word-color:nth-child(7n + 1) {
     color: rgb(202, 110, 255);
   }
@@ -115,12 +115,12 @@ style具体代码
   .word-animate:nth-child(7n + 7) {
     animation-delay: 18s;
   }
-{{`</code>`}}
+{{</code>}}
 
 ## 接入代码
 
 找到layouts/_default/terms.html，把原来的注释掉，用wc2替代
-{{`<code html>`}}
+{{<code html>}}
 
 <!--标签云-->
 
@@ -199,7 +199,7 @@ style具体代码
     {{- end }}
 </ul> -->
 
-{{`</code>`}}
+{{</code>}}
 
 ## 拓展选项
 
