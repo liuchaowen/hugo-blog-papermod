@@ -152,28 +152,3 @@ function initCodeExpand(){
       });
   });
 }
-
-/* 标签云 */
-function initWordCloud(){
-  var wordFreqData = [['各位观众',45],['词云', 21],['来啦!!!',13]];
-  var canvas = document.getElementById('word-cloud');
-  var options = eval({
-          "list": wordFreqData,//或者[['各位观众',45],['词云', 21],['来啦!!!',13]],只要格式满足这样都可以
-          "gridSize": 6, // 密集程度 数字越小越密集
-          "weightFactor": 1, // 字体大小=原始大小*weightFactor
-          "maxFontSize": 60, //最大字号
-          "minFontSize": 14, //最小字号
-          "fontWeight": 'normal', //字体粗细
-          "fontFamily": 'Times, serif', // 字体
-          "color": 'random-light', // 字体颜色 'random-dark' 或者 'random-light'
-          "backgroundColor": '#333', // 背景颜色
-          "rotateRatio": 1 // 字体倾斜(旋转)概率，1代表总是倾斜(旋转)
-      });
-   new WordCloud(canvas, options);
-}
-
-
-/* 加载完成后 */
-window.onload = function () {
-  initCodeExpand();
-}

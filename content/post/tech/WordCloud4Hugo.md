@@ -160,6 +160,7 @@ style具体代码
     var isDark = document.body.className.includes("dark");
     WordCloud(canvas, {
           "list": arr,//或者[['各位观众',45],['词云', 21],['来啦!!!',13]],只要格式满足这样都可以
+          "shape": "pentagon", //形状 circle (default), cardioid (心型), diamond, square, triangle-forward, triangle, pentagon, and star.
           "gridSize": 6, // 密集程度 数字越小越密集
           "weightFactor": 1, // 字体大小=原始大小*weightFactor
           "fontWeight": 'normal', //字体粗细
@@ -206,4 +207,4 @@ style具体代码
 * [X] 切换深色浅色主题，标签颜色改变
 * [X] 动态响应式尺寸
 * [X] 词云动态展示效果
-* [ ] 词云聚合显示成一个特定形状
+* [X] 词云聚合显示成一个特定形状（js版本只支持shape参数，python版本支持latter和mark一张png图方式)
