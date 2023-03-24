@@ -371,7 +371,7 @@ window.onload = function () {
 效果：
 {{< douban "https://book.douban.com/subject/35496106/">}}
 {{< douban "https://movie.douban.com/subject/35267208/">}}
-书还有点问题，待解决
+需要你在你的豆瓣账户上看过某本书或某部影视，然后Github Action运行同步生成douban db数据，才能起作用。
 
 ## collapse 可折叠文本
 
