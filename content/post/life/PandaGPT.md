@@ -23,8 +23,6 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
-体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。
-
 体验地址：{{< link "PandaGPT官网" "https://app.pandagpt.io" >}}
 
 阅读《空谷幽兰》
