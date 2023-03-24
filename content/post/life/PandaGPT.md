@@ -2,9 +2,9 @@
 title: "初次体验PandaGPT读一本书"
 date: 2023-03-24T12:04:46+08:00
 draft: false
-categories: ["技术"]
+categories: ["生活"]
 tags: ["ChatGPT","PandaGPT","AI","人工智能"]
-description: 
+description: 体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。
 author: "Cheman"
 showToc: true
 TocOpen: false
