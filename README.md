@@ -1,6 +1,6 @@
 # hugo-blog-papermod
 
-My New Hugo Blog with PaperMod Theme
+buildcode:  1
 
 本地调试命令
 
