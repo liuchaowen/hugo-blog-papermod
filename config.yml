@@ -168,6 +168,9 @@ menu:
     - identifier: links
       name: 友邻
       url: /links/
+    - identifier: goods
+      name: 好物
+      url: /goods/
   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
