@@ -1,32 +1,3 @@
-/* 查看今年Heatmap */
-function viewMoreHeapmap() {
-  var imgObj = document.getElementById("view-more-icon");
-  if (imgObj.src.includes("arrow-left.svg")) {
-    //月份
-    imgObj.src = "/image/arrow-right.svg";
-    cal.paint(monthOptions);
-  } else {
-    //周
-    imgObj.src = "/image/arrow-left.svg";
-    cal.paint(weekOptions);
-  }
-  //显隐info
-  setTimeout(() => {
-    var infoDiv = document.getElementsByClassName("home-info")[0];
-    var statDiv = document.getElementsByClassName("site-stat")[0];
-    if (infoDiv.style.display === "none") {
-      infoDiv.style.display = "block";
-    } else {
-      infoDiv.style.display = "none";
-    }
-    if (statDiv.style.display === "none") {
-      statDiv.style.display = "block";
-    } else {
-      statDiv.style.display = "none";
-    }
-  }, 100);
-}
-
 /* 站点统计数据 */
 function show_run_day() {
   var BirthDay = new Date("12/27/2022 00:00:00");

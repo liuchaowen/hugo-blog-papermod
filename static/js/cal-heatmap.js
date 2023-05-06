@@ -74,12 +74,12 @@ function getMonday(d) {
     diff = d.getDate() - day + (day == 0 ? -6 : 1); // adjust when day is sunday
   return new Date(d.setDate(diff));
 }
-//获取上12个月的第一天
+//获取上8个月前的第一天
 function getLastTwelveMonthDate() {
-  var date = new Date();
-  date.setDate(1);//日期设置为这个月的1号
-  date.setMonth(date.getMonth() - 12);//修改月份
-  return date;
+  var day = new Date();
+  day.setDate(1); //日期设置为这个月的1号
+  day.setMonth(day.getMonth() - 8); //修改月份
+  return new Date(day);
 }
 var lastnweekday = getLastNWeeksDate(weekNum - 2);
 var weekFirstDay = getMonday(lastnweekday);
@@ -141,7 +141,6 @@ var weekOptions = {
 var monthOptions = {
   date: {
     start: monthStartDate,
-    locale: "zh",
   },
   animationDuration: 200,
   theme: isDark ? "dark" : "light",
@@ -159,11 +158,40 @@ var monthOptions = {
 };
 /*深色与明亮主题切换监听*/
 document.getElementById("theme-toggle").addEventListener("click", () => {
-  location.reload();// 由于没有重新渲染的函数，只能刷新界面
+  location.reload(); // 由于没有重新渲染的函数，只能刷新界面
 });
 
 /*渲染*/
 cal.paint(weekOptions);
+
+/* 查看今年Heatmap */
+function viewMoreHeapmap() {
+  var imgObj = document.getElementById("view-more-icon");
+  if (imgObj.src.includes("arrow-left.svg")) {
+    // console.log("切换成月份", monthOptions);
+    imgObj.src = "/image/arrow-right.svg";
+    cal.paint(monthOptions);
+  } else {
+    // console.log("切换成周", weekOptions);
+    imgObj.src = "/image/arrow-left.svg";
+    cal.paint(weekOptions);
+  }
+  //显隐info
+  setTimeout(() => {
+    var infoDiv = document.getElementsByClassName("home-info")[0];
+    var statDiv = document.getElementsByClassName("site-stat")[0];
+    if (infoDiv.style.display === "none") {
+      infoDiv.style.display = "block";
+    } else {
+      infoDiv.style.display = "none";
+    }
+    if (statDiv.style.display === "none") {
+      statDiv.style.display = "block";
+    } else {
+      statDiv.style.display = "none";
+    }
+  }, 100);
+}
 
 /*初始点击的数据*/
 let listObj = {}
