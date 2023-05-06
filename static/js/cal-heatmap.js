@@ -74,46 +74,33 @@ function getMonday(d) {
     diff = d.getDate() - day + (day == 0 ? -6 : 1); // adjust when day is sunday
   return new Date(d.setDate(diff));
 }
+//获取上12个月的第一天
+function getLastTwelveMonthDate() {
+  var date = new Date();
+  date.setDate(1);//日期设置为这个月的1号
+  date.setMonth(date.getMonth() - 12);//修改月份
+  return date;
+}
 var lastnweekday = getLastNWeeksDate(weekNum - 2);
-var firstday = getMonday(lastnweekday);
-
+var weekFirstDay = getMonday(lastnweekday);
+var monthStartDate = getLastTwelveMonthDate();
 const cal = new CalHeatmap();
-
-//一年
-// cal.paint({
-//   theme: "dark",
-//   domain: { type: "month" },
-//   subDomain: { type: "day", label: "D", sort: "asc" },
-// });
-
-//一月
-// cal.paint({
-//   theme: "dark",
-//   domain: {
-//     type: "month",
-//     label: {
-//       text: null, //不显示标签
-//     },
-//   },
-//   range: 1,
-//   subDomain: { type: "day", label: "D", sort: "asc" },
-// });
 
 /*深色与明亮主题初始值判断*/
 var isDark = document.body.className.includes("dark");
 // console.log("是否深色主题", isDark);
 var hlDate = new Date().toLocaleDateString();
-var hlArr = hlDate.split('/');
+var hlArr = hlDate.split("/");
 var dateFormat = hlArr[0] + "-" + Appendzero(hlArr[1]) + "-" + Appendzero(hlArr[2]);
 var realHLDate = new Date(dateFormat);
 
-/* 参数 */
-var options = {
+/* 周参数 */
+var weekOptions = {
   animationDuration: 200,
   theme: isDark ? "dark" : "light",
   verticalOrientation: true,
   date: {
-    start: firstday, //开始时间为上8-2个周的周一
+    start: weekFirstDay, //开始时间为上8-2个周的周一
     highlight: [realHLDate],
     locale: { weekStart: 1 }, //周一为第一天
   },
@@ -150,14 +137,33 @@ var options = {
     },
   },
 };
-
+/* 月参数 */
+var monthOptions = {
+  date: {
+    start: monthStartDate,
+    locale: "zh",
+  },
+  animationDuration: 200,
+  theme: isDark ? "dark" : "light",
+  verticalOrientation: false,
+  domain: { type: "month" },
+  subDomain: {
+    width: 12,
+    height: 12,
+    type: "day",
+    label: function (timestamp, value) {
+      return value;
+    },
+    sort: "asc",
+  },
+};
 /*深色与明亮主题切换监听*/
 document.getElementById("theme-toggle").addEventListener("click", () => {
   location.reload();// 由于没有重新渲染的函数，只能刷新界面
 });
 
 /*渲染*/
-cal.paint(options);
+cal.paint(weekOptions);
 
 /*初始点击的数据*/
 let listObj = {}

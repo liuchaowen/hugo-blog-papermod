@@ -1,43 +1,14 @@
 /* 查看今年Heatmap */
-
-//获取上12个月的第一天
-function getLastTwelveMonthDate() {
-  var date = new Date();
-  date.setDate(1);//日期设置为这个月的1号
-  date.setMonth(date.getMonth() - 12);//修改月份
-  return date;
-}
-var startDate = getLastTwelveMonthDate();
 function viewMoreHeapmap() {
-  console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaa')
   var imgObj = document.getElementById("view-more-icon");
   if (imgObj.src.includes("arrow-left.svg")) {
+    //月份
     imgObj.src = "/image/arrow-right.svg";
-    
-    //一年
-    cal.paint({
-      date: {
-        start: startDate,
-        locale: 'zh', 
-      },
-      animationDuration: 200,
-      theme: isDark ? "dark" : "light",
-      verticalOrientation: false,
-      domain: { type: "month" },
-      subDomain: {
-        width: 12,
-        height: 12,
-        type: "day",
-        label: function (timestamp, value) {
-          return value;
-        },
-        sort: "asc",
-      },
-    });
+    cal.paint(monthOptions);
   } else {
+    //周
     imgObj.src = "/image/arrow-left.svg";
-    options.verticalOrientation = true;
-    cal.paint(options);
+    cal.paint(weekOptions);
   }
   //显隐info
   setTimeout(() => {
@@ -60,10 +31,10 @@ function viewMoreHeapmap() {
 function show_run_day() {
   var BirthDay = new Date("12/27/2022 00:00:00");
   var today = new Date();
-  var timeold = (today.getTime() - BirthDay.getTime());
-  var sectimeold = timeold / 1000
-  var msPerDay = 24 * 60 * 60 * 1000
-  var e_daysold = timeold / msPerDay
+  var timeold = today.getTime() - BirthDay.getTime();
+  var sectimeold = timeold / 1000;
+  var msPerDay = 24 * 60 * 60 * 1000;
+  var e_daysold = timeold / msPerDay;
   var daysold = Math.floor(e_daysold);
   document.getElementById("run-num").innerHTML = daysold + "d";
 }
@@ -71,23 +42,26 @@ show_run_day();
 
 /* 评论数统计 */
 getAllUrls(false, (urllist) => {
-  twikoo.getCommentsCount({
-    envId: 'https://db.twk.xlap.top', // 环境 ID
-    // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
-    urls: urllist,
-    includeReply: true // 评论数是否包括回复，默认：false
-  }).then(function (res) {
-    var count = 0;
-    for (let index = 0; index < res.length; index++) {
-      const element = res[index];
-      count += element.count
-    }
-    document.getElementById("comment-num").innerHTML = count;
-  }).catch(function (err) {
-    // 发生错误
-    console.error('twikoo err', err);
-  });
-})
+  twikoo
+    .getCommentsCount({
+      envId: "https://db.twk.xlap.top", // 环境 ID
+      // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
+      urls: urllist,
+      includeReply: true, // 评论数是否包括回复，默认：false
+    })
+    .then(function (res) {
+      var count = 0;
+      for (let index = 0; index < res.length; index++) {
+        const element = res[index];
+        count += element.count;
+      }
+      document.getElementById("comment-num").innerHTML = count;
+    })
+    .catch(function (err) {
+      // 发生错误
+      console.error("twikoo err", err);
+    });
+});
 
 /* 解决加载刷新首页闪屏问题 */
 var statDiv = document.getElementsByClassName("site-stat")[0];
