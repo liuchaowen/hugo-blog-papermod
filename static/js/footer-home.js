@@ -1,10 +1,25 @@
 /* 查看今年Heatmap */
+
+//获取上12个月的第一天
+function getLastTwelveMonthDate() {
+  var date = new Date();
+  date.setDate(1);//日期设置为这个月的1号
+  date.setMonth(date.getMonth() - 12);//修改月份
+  return date;
+}
+var startDate = getLastTwelveMonthDate();
 function viewMoreHeapmap() {
+  console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaa')
   var imgObj = document.getElementById("view-more-icon");
   if (imgObj.src.includes("arrow-left.svg")) {
     imgObj.src = "/image/arrow-right.svg";
+    
     //一年
     cal.paint({
+      date: {
+        start: startDate,
+        locale: 'zh', 
+      },
       animationDuration: 200,
       theme: isDark ? "dark" : "light",
       verticalOrientation: false,
@@ -50,7 +65,7 @@ function show_run_day() {
   var msPerDay = 24 * 60 * 60 * 1000
   var e_daysold = timeold / msPerDay
   var daysold = Math.floor(e_daysold);
-  document.getElementById("run-num").innerHTML = daysold+"d";
+  document.getElementById("run-num").innerHTML = daysold + "d";
 }
 show_run_day();
 
