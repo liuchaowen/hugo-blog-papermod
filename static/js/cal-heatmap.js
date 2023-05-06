@@ -223,7 +223,7 @@ initClickUrls();
 //事件处理
 cal.on("mouseover", (event, timestamp, value) => {
   var date = new Date(timestamp);
-  var dateFormat = Appendzero(date.getMonth() + 1) + "/" + Appendzero(date.getDate());
+  var dateFormat = date.getFullYear() + "/" + Appendzero(date.getMonth() + 1) + "/" + Appendzero(date.getDate());
   var str = '周' + '日一二三四五六'.charAt(new Date(timestamp).getDay());
   var tips = "";
   if (value == null) {
