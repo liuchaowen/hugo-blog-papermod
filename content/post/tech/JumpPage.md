@@ -121,22 +121,22 @@ header的js
 {{</code>}}
 
 {{<code html>}}
-    `<div class="box">`
-        `<div class="tip-box">`
-            `<div class="logo-box">`
-                `<img                 class="logo"                 src="https://blog.xlap.top/logo.png"               />`
-              `<span class="text">`LapTop
-            `</div>`
+    <div class="box">
+        <div class="tip-box">
+            <div class="logo-box">
+                <img                 class="logo"                 src="https://blog.xlap.top/logo.png"               />
+              <span class="text">`LapTop
+            </div>
 
-    `<div class="content">`
-            `<div class="title">`
+    <div class="content">
+            <div class="title">
               即将离开 Cheman 的博客，请注意账号财产安全
-            `</div>`
-            `<div class="link" id="target-link"></div>`
-            `<button class="btn" onclick="navigateToTarget()">`继续访问 `</button>`
-          `</div>`
-        `</div>`
-      `</div>`
+            </div>
+            <div class="link" id="target-link"></div>
+            <button class="btn" onclick="navigateToTarget()">`继续访问 `</button>
+          </div>
+        </div>
+      </div>
 {{</code>}}
 
 然后在需要跳转的地方直接拼接地址即可，如：
