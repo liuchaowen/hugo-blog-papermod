@@ -2,6 +2,8 @@
 # 格林威治时间没有到你配置的时间的时候，文章是不会出现在文章列表里的。
 buildfuture: true
 
+ignoreErrors: ["error-remote-getjson"] # 解决Build错误的问题
+
 baseURL: "https://blog.xlap.top/"
 title: Blog - XLapTop
 paginate: 5
