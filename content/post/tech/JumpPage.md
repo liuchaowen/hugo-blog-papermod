@@ -2,8 +2,8 @@
 title: "做个免费简单的跳转提示页"
 date: 2023-05-22T09:21:46+08:00
 draft: false
-categories: ["tech"]
-tags: ["free","jumppage","跳转页","跳转提示"]
+categories: ["技术"]
+tags: ["跳转页","跳转提示"]
 description: 使用Github Pages做个纯静态的跳转提示页功能
 author: "Cheman"
 showToc: true
@@ -34,7 +34,7 @@ UseHugoToc: true
 
 单个 HTML 代码(index.html)：
 header的css
-{{<code css>}} 
+{{`<code css>`}}
 .box { height: 100vh; background-color: #f4f5f5; }
 
     .box .tip-box {
@@ -95,9 +95,9 @@ header的css
       cursor: pointer;
       outline: 0;
     }
-{{</code>}}
+{{`</code>`}}
 header的js
-{{<code js>}}
+{{`<code js>`}}
   // 获取 url
         var url = "";
         function getTargetURL() {
@@ -118,16 +118,13 @@ header的js
         window.onload = function(){
             getTargetURL(); // 获取 url
         }
-{{</code>}}
+{{`</code>`}}
 
-{{<code html>}}
+{{`<code html>`}}
     `<div class="box">`
         `<div class="tip-box">`
             `<div class="logo-box">`
-                `<img
-                class="logo"
-                src="https://blog.xlap.top/logo.png"
-              />`
+                `<img                 class="logo"                 src="https://blog.xlap.top/logo.png"               />`
               `<span class="text">`LapTop
             `</div>`
 
@@ -136,11 +133,11 @@ header的js
               即将离开 Cheman 的博客，请注意账号财产安全
             `</div>`
             `<div class="link" id="target-link"></div>`
-            `<button class="btn" onclick="navigateToTarget()">`继续访问`</button>`
+            `<button class="btn" onclick="navigateToTarget()">`继续访问 `</button>`
           `</div>`
         `</div>`
       `</div>`
-{{</code>}}
+{{`</code>`}}
 
 然后在需要跳转的地方直接拼接地址即可，如：
 
