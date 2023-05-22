@@ -34,7 +34,7 @@ UseHugoToc: true
 
 单个 HTML 代码(index.html)：
 header的css
-{{`<code css>`}}
+{{<code css>}}
 .box { height: 100vh; background-color: #f4f5f5; }
 
     .box .tip-box {
@@ -95,9 +95,9 @@ header的css
       cursor: pointer;
       outline: 0;
     }
-{{`</code>`}}
+{{</code>}}
 header的js
-{{`<code js>`}}
+{{<code js>}}
   // 获取 url
         var url = "";
         function getTargetURL() {
@@ -118,9 +118,9 @@ header的js
         window.onload = function(){
             getTargetURL(); // 获取 url
         }
-{{`</code>`}}
+{{</code>}}
 
-{{`<code html>`}}
+{{<code html>}}
     `<div class="box">`
         `<div class="tip-box">`
             `<div class="logo-box">`
@@ -137,7 +137,7 @@ header的js
           `</div>`
         `</div>`
       `</div>`
-{{`</code>`}}
+{{</code>}}
 
 然后在需要跳转的地方直接拼接地址即可，如：
 
