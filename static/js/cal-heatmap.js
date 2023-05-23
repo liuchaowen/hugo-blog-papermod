@@ -78,8 +78,10 @@ function getMonday(d) {
 function getLastTwelveMonthDate() {
   var day = new Date();
   day.setDate(1); //日期设置为这个月的1号
-  day.setMonth(day.getMonth() - 8); //修改月份
-  return new Date(day);
+  day.setMonth(day.getMonth() - (8 - 1)); //修改月份
+  var res = new Date(day);
+  console.log(res)
+  return res;
 }
 var lastnweekday = getLastNWeeksDate(weekNum - 2);
 var weekFirstDay = getMonday(lastnweekday);
