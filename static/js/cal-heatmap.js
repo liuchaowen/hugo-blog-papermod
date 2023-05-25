@@ -74,18 +74,25 @@ function getMonday(d) {
     diff = d.getDate() - day + (day == 0 ? -6 : 1); // adjust when day is sunday
   return new Date(d.setDate(diff));
 }
-//获取上8个月前的第一天
-function getLastTwelveMonthDate() {
+//获取上n个月前的第一天
+function getLastNMonthFirstDate(n) {
   var day = new Date();
   day.setDate(1); //日期设置为这个月的1号
-  day.setMonth(day.getMonth() - (8 - 1)); //修改月份
+  day.setMonth(day.getMonth() - (n - 1)); //修改月份
   var res = new Date(day);
-  console.log(res)
   return res;
+}
+//获取上当前月的最后一天
+function getCurMonthLastDate() {
+  var cur = new Date();
+  cur.setMonth(cur.getMonth() + 1); //修改月份
+  cur.setDate(0);
+  return cur;
 }
 var lastnweekday = getLastNWeeksDate(weekNum - 2);
 var weekFirstDay = getMonday(lastnweekday);
-var monthStartDate = getLastTwelveMonthDate();
+var monthStartDate = getLastNMonthFirstDate(9);
+var monthMaxDate = getCurMonthLastDate();
 const cal = new CalHeatmap();
 
 /*深色与明亮主题初始值判断*/
