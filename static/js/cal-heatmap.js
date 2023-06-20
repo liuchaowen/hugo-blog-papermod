@@ -91,7 +91,7 @@ function getCurMonthLastDate() {
 }
 var lastnweekday = getLastNWeeksDate(weekNum - 2);
 var weekFirstDay = getMonday(lastnweekday);
-var monthStartDate = getLastNMonthFirstDate(9);
+var monthStartDate = getLastNMonthFirstDate(8);
 var monthMaxDate = getCurMonthLastDate();
 const cal = new CalHeatmap();
 
