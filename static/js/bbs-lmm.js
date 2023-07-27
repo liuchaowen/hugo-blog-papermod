@@ -9,24 +9,24 @@ const urls = [
     creatorId: "1",
     imgsrc: "https://i.imgtg.com/2023/02/21/sF8UD.jpg",
   },
-  // {
-  //   name: "林木木",
-  //   host: "https://me.edui.fun/",
-  //   creatorId: "101",
-  //   imgsrc: "https://cdn.sep.cc/avatar/ba83fa02fc4b2ba621514941307e21be",
-  // },
+  {
+    name: "林木木",
+    host: "https://me.edui.fun/",
+    creatorId: "1",
+    imgsrc: "https://cdn.sep.cc/avatar/ba83fa02fc4b2ba621514941307e21be",
+  },
   {
     name: "Elizen",
     host: "https://bb.elizen.me/",
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/f65df4d87240feb1cb247857a621a48f",
   },
-  // {
-  //   name: "大大的小蜗牛",
-  //   host: "https://memos.eallion.com/",
-  //   creatorId: "101",
-  //   imgsrc: "https://cdn.sep.cc/avatar/171e4c30959e8c077a6c58b958624b31",
-  // },
+  {
+    name: "大大的小蜗牛",
+    host: "https://memos.eallion.com/",
+    creatorId: "101",
+    imgsrc: "https://cdn.sep.cc/avatar/171e4c30959e8c077a6c58b958624b31",
+  },
   {
     name: "xsinger.me",
     host: "https://isay.live/",
@@ -51,18 +51,18 @@ const urls = [
     creatorId: "101",
     imgsrc: "https://chenyyds.com/avatar.png",
   },
-  // {
-  //   name: "Snippets",
-  //   host: "https://memos.life97.top/",
-  //   creatorId: "101",
-  //   imgsrc: "https://cdn.sep.cc/avatar/d41d8cd98f00b204e9800998ecf8427e",
-  // },
-  // {
-  //   name: "1900",
-  //   host: "https://memos.1900.live/",
-  //   creatorId: "101",
-  //   imgsrc: "https://cdn.sep.cc/avatar/cc38267b10cc25dfc62209f8ca34589e",
-  // },
+  {
+    name: "Snippets",
+    host: "https://memos.life97.top/",
+    creatorId: "101",
+    imgsrc: "https://cdn.sep.cc/avatar/d41d8cd98f00b204e9800998ecf8427e",
+  },
+  {
+    name: "1900",
+    host: "https://memos.1900.live/",
+    creatorId: "101",
+    imgsrc: "https://cdn.sep.cc/avatar/cc38267b10cc25dfc62209f8ca34589e",
+  },
   {
     name: "SeerSu",
     host: "https://bb.seersu.top/",
@@ -79,8 +79,14 @@ const urls = [
   {
     name: "拾月",
     host: "https://memos.skyue.com/",
-    creatorId: "1",
+    creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/c3fb4bb4d5101284ddd672fb722cdd7d",
+  },
+  {
+    name: "vlieo",
+    host: "https://memos.vlieo.com/",
+    creatorId: "1",
+    imgsrc: "https://i.imgtg.com/2023/07/27/OiksLq.webp",
   },
 ];
 
@@ -273,18 +279,20 @@ const fetchBBser = async () => {
       var status = results[i].status;
       if (status == "fulfilled") {
         var resultsRes = results[i].value;
-        for (var j = 0; j < resultsRes.length; j++) {
-          var resValue = resultsRes[j];
-          bbsData = {
-            updatedTs: resValue.updatedTs,
-            creatorId: resValue.creatorId,
-            creator: urls[i].name,
-            imgsrc: urls[i].imgsrc,
-            content: resValue.content,
-            resourceList: resValue.resourceList,
-            url: urls[i].host,
-          };
-          bbsDatas.push(bbsData);
+        if (resultsRes != undefined && resultsRes.length > 0) {
+          for (var j = 0; j < resultsRes.length; j++) {
+            var resValue = resultsRes[j];
+            bbsData = {
+              updatedTs: resValue.updatedTs,
+              creatorId: resValue.creatorId,
+              creator: urls[i].name,
+              imgsrc: urls[i].imgsrc,
+              content: resValue.content,
+              resourceList: resValue.resourceList,
+              url: urls[i].host,
+            };
+            bbsDatas.push(bbsData);
+          }
         }
       }
     }
