@@ -425,9 +425,7 @@ function updateHTMl(data) {
       '<li class=""><div class="bbs-avatar"><img src="' +
       data[i].imgsrc +
       '" alt=""><a href="' +
-      data[i].url +
-      "u/" +
-      data[i].creatorId +
+    data[i].url +
       '" target="_blank" rel="noopener noreferrer" class="bbs-creator">' +
       data[i].creator +
       '</a><span class="bbs-dot">·</span><span class="bbs-date">' +
