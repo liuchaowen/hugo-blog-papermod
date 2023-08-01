@@ -12,15 +12,15 @@ const urls = [
   {
     name: "林木木",
     host: "https://me.edui.fun/",
-    creatorId: "1",
+    creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/ba83fa02fc4b2ba621514941307e21be",
   },
-  {
-    name: "Elizen",
-    host: "https://bb.elizen.me/",
-    creatorId: "101",
-    imgsrc: "https://cdn.sep.cc/avatar/f65df4d87240feb1cb247857a621a48f",
-  },
+  // {
+  //   name: "Elizen",
+  //   host: "https://bb.elizen.me/",
+  //   creatorId: "101",
+  //   imgsrc: "https://cdn.sep.cc/avatar/f65df4d87240feb1cb247857a621a48f",
+  // },
   {
     name: "大大的小蜗牛",
     host: "https://memos.eallion.com/",
@@ -33,18 +33,18 @@ const urls = [
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/f0e33f4d097fe2e9fd74b9b129e7a655",
   },
-  {
-    name: "noionion",
-    host: "https://memos.noionion.cn/",
-    creatorId: "1",
-    imgsrc: "https://cdn.sep.cc/avatar/d240a727ea154be465796ef2644aac16",
-  },
-  {
-    name: "胡家小子",
-    host: "https://qzone.boyhu.cn/",
-    creatorId: "101",
-    imgsrc: "https://cdn.sep.cc/avatar/55be217893c75baf8571837197de4a3e",
-  },
+  // {
+  //   name: "noionion",
+  //   host: "https://memos.noionion.cn/",
+  //   creatorId: "101",
+  //   imgsrc: "https://cdn.sep.cc/avatar/d240a727ea154be465796ef2644aac16",
+  // },
+  // {
+  //   name: "胡家小子",
+  //   host: "https://qzone.boyhu.cn/",
+  //   creatorId: "101",
+  //   imgsrc: "https://cdn.sep.cc/avatar/55be217893c75baf8571837197de4a3e",
+  // },
   {
     name: "老陳网志",
     host: "https://me.chenplus.com/",
@@ -69,17 +69,17 @@ const urls = [
     creatorId: "101",
     imgsrc: "https://cdn.sep.cc/avatar/84b712148a63b44dd97ede997bc3efa5",
   },
-  {
-    name: "Aiko",
-    host: "https://memo.wananaiko.com/",
-    creatorId: "1",
-    imgsrc:
-      "https://thirdqq.qlogo.cn/g?b=sdk&k=7AFd0gic7wVsNg2ToQrQU2w&s=140&t=1583250600",
-  },
+  // {
+  //   name: "Aiko",
+  //   host: "https://memo.wananaiko.com/",
+  //   creatorId: "101",
+  //   imgsrc:
+  //     "https://thirdqq.qlogo.cn/g?b=sdk&k=7AFd0gic7wVsNg2ToQrQU2w&s=140&t=1583250600",
+  // },
   {
     name: "拾月",
     host: "https://memos.skyue.com/",
-    creatorId: "101",
+    creatorId: "1",
     imgsrc: "https://cdn.sep.cc/avatar/c3fb4bb4d5101284ddd672fb722cdd7d",
   },
   {
@@ -186,8 +186,8 @@ function urlsNow(e) {
         //console.log(resdata)
         bbDom.innerHTML = "";
         bbsDatas.length = 0;
-        for (var j = 0; j < resdata.data.length; j++) {
-          var resValue = resdata.data[j];
+        for (var j = 0; j < resdata.length; j++) {
+          var resValue = resdata[j];
           bbsData = {
             updatedTs: resValue.updatedTs,
             creatorId: resValue.creatorId,
@@ -221,7 +221,7 @@ function getNextList() {
   fetch(bbUrl)
     .then((res) => res.json())
     .then((resdata) => {
-      nextDom = resdata.data;
+      nextDom = resdata;
       nextLength = nextDom.length;
       page++;
       offset = 10 * (page - 1);
