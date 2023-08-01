@@ -4,7 +4,7 @@ Last Modified time : 20221120 21:32 by https://immmmm.com
 */
 const urls = [
   {
-    name: "XLapTop",
+    name: "xlap.top",
     host: "https://api.mm.xlap.top/",
     creatorId: "1",
     imgsrc: "https://i.imgtg.com/2023/02/21/sF8UD.jpg",
@@ -179,7 +179,7 @@ function urlsNow(e) {
       imgsrcNow = e.getAttribute("data-imgsrc");
     }
     bbUrlNow =
-      hostNow + "api/memo?creatorId=" + creIdNow + "&rowStatus=NORMAL&limit=10";
+      hostNow + "api/v1/memo?creatorId=" + creIdNow + "&rowStatus=NORMAL&limit=10";
     fetch(bbUrlNow)
       .then((res) => res.json())
       .then((resdata) => {
@@ -262,13 +262,13 @@ const fetchBBser = async () => {
           2000,
           fetch(
             url.host +
-              "api/memo?creatorId=" +
+            "api/v1/memo?creatorId=" +
               url.creatorId +
               "&rowStatus=NORMAL&limit=" +
               limit
           )
             .then((response) => response.json())
-            .then((resdata) => resdata.data)
+            .then((resdata) => resdata)
         )
       //url => fetch(url.host+"api/memo?creatorId="+url.creatorId+"&rowStatus=NORMAL&limit="+limit).then(response => response.json()).then(resdata => resdata.data)
     )
