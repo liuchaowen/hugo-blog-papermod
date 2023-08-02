@@ -35,7 +35,14 @@ draft: false
 {{< brand des="寻我：在文字之间找到我" url="https://seekbetter.me" src="/image/logo.svg" height="32" width="100">}}
 {{< brand des="个站商店：一个精致的，带社交元素的个人网站发布平台，博客收录网站" url="https://storeweb.cn" src="/image/storeweb.png" height="32" width="32">}}
 
-### 互链格式
+### 广播言录
+
+```txt
+host:"你的 Memos 托管网址",
+twiEnv:'你的 Twikoo 托管网址',
+```
+
+### 成为友邻
 
 ```txt
 title：XLapTop
