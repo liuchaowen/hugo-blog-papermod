@@ -2,7 +2,23 @@
 Last Modified time : 20220326 15:38 by https://immmmm.com
 已适配 FriendCircle 公共库和主库
 */
-document.getElementsByTagName("body")[0].classList.add("list"); 
+document.getElementsByTagName("body")[0].classList.add("list");
+//公共函数
+async function postData(url = "", data = {}) {
+  // Default options are marked with *
+  const response = await fetch(url, {
+    method: "GET", // *GET, POST, PUT, DELETE, etc.
+    mode: "cors", // no-cors, *cors, same-origin
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
+  return response.json(); // parses JSON response into native JavaScript objects
+}
+function getTimeStr(datestr) {
+  var date = new Date(datestr);
+  return date.toLocaleString();
+}
 //默认数据
 var fdata = {
   jsonurl: "",
@@ -70,11 +86,9 @@ function loadStatistical(sdata) {
       </div>
     </div>
     <div id="cf-change">
-        <span id="cf-change-created" data-sort="created" onclick="changeSort(event)" class="${
-          sortNow == "created" ? "cf-change-now" : ""
-        }">Created</span> | <span id="cf-change-updated" data-sort="updated" onclick="changeSort(event)" class="${
-    sortNow == "updated" ? "cf-change-now" : ""
-  }" >Updated</span>
+        <span id="cf-change-created" data-sort="created" onclick="changeSort(event)" class="${sortNow == "created" ? "cf-change-now" : ""
+    }">Created</span> | <span id="cf-change-updated" data-sort="updated" onclick="changeSort(event)" class="${sortNow == "updated" ? "cf-change-now" : ""
+    }" >Updated</span>
     </div>
   </div>
   `;
@@ -82,7 +96,7 @@ function loadStatistical(sdata) {
     <div id="cf-more" class="cf-new-add" onclick="loadNextArticle()"><i class="fas fa-angle-double-down"></i></div>
     <div id="cf-footer" class="cf-new-add">
      <span id="cf-version-up" onclick="checkVersion()"></span>
-     <span class="cf-data-lastupdated">更新于：${sdata.last_updated_time}</span>
+     <span class="cf-data-lastupdated">更新于：${getTimeStr(sdata.last_updated_time)}</span>
       Powered by <a target="_blank" href="https://github.com/Rock-Candy-Tea/hexo-circle-of-friends" target="_blank">FriendCircle</a>
     </div>
     <div id="cf-overlay" class="cf-new-add" onclick="closeShow()"></div>
@@ -104,32 +118,27 @@ function loadArticleItem(datalist, start, end) {
   if (start < articleNum) {
     for (var i = start; i < endFor; i++) {
       var item = datalist[i];
+      var date = item.updated;
+
+
       articleItem += `
       <div class="cf-article">
-        <a class="cf-article-title" href="https://project.xlap.top/jump/?target=${
-          item.link
-        }" target="_blank" rel="noopener nofollow" data-title="${item.title}">${
-        item.title
-      }</a>
+        <a class="cf-article-title" href="https://project.xlap.top/jump/?target=${item.link
+        }" target="_blank" rel="noopener nofollow" data-title="${item.title}">${item.title
+        }</a>
         <span class="cf-article-floor">${item.floor}</span>
         <div class="cf-article-avatar no-lightbox flink-item-icon">
-          <img class="cf-img-avatar avatar" src="${
-            item.avatar
-          }" alt="avatar" onerror="this.src='${
-        fdata.error_img
-      }'; this.onerror = null;">
-          <a onclick="openMeShow(event)" data-link="${
-            item.link
-          }" class="" target="_blank" rel="noopener nofollow" href="javascript:;"><span class="cf-article-author">${
-        item.author
-      }</span></a>
+          <img class="cf-img-avatar avatar" src="${item.avatar
+        }" alt="avatar" onerror="this.src='${fdata.error_img
+        }'; this.onerror = null;">
+          <a onclick="openMeShow(event)" data-link="${item.link
+        }" class="" target="_blank" rel="noopener nofollow" href="javascript:;"><span class="cf-article-author">${item.author
+        }</span></a>
           <span class="cf-article-time">
-            <span class="cf-time-created" style="${
-              sortNow == "created" ? "" : "display:none"
-            }"><i class="far fa-calendar-alt">发表于</i>${item.created}</span>
-            <span class="cf-time-updated" style="${
-              sortNow == "updated" ? "" : "display:none"
-            }"><i class="fas fa-history">更新于</i>${item.updated}</span>
+            <span class="cf-time-created" style="${sortNow == "created" ? "" : "display:none"
+        }"><i class="far fa-calendar-alt">发表于</i>${item.created}</span>
+            <span class="cf-time-updated" style="${sortNow == "updated" ? "" : "display:none"
+        }"><i class="fas fa-history">更新于</i>${item.updated}</span>
           </span>
         </div>
       </div>
@@ -167,19 +176,6 @@ function loadFcircleShow(userinfo, articledata) {
     .insertAdjacentHTML("beforeend", showHtml);
   document.getElementById("cf-overshow").className = "cf-show-now";
 }
-
-async function postData(url = "", data = {}) {
-  // Default options are marked with *
-  const response = await fetch(url, {
-    method: "GET", // *GET, POST, PUT, DELETE, etc.
-    mode: "cors", // no-cors, *cors, same-origin
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-    },
-  });
-  return response.json(); // parses JSON response into native JavaScript objects
-}
-
 
 // 预载下一页文章，存为本地数据 nextArticle
 function fetchNextArticle() {
