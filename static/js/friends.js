@@ -6,10 +6,11 @@ document.getElementsByTagName("body")[0].classList.add("list");
 //默认数据
 var fdata = {
   jsonurl: "",
-  apiurl: "https://api.fc.xlap.top/",
+  apiurl: "https://fcircle-pub.rct.cool/",
+  // apiurl: "https://api.fc.xlap.top/",
   // apiurl:"https://hexo-circle-of-friends-steel.vercel.app/",
   apipublieurl: "https://fcircle-pub.rct.cool/", //默认公共库
-  initnumber: 20, //首次加载文章数
+  initnumber: 10, //首次加载文章数
   stepnumber: 10, //更多加载文章数
   article_sort: "created", //文章排序 updated or created
   error_img: "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c",
@@ -167,6 +168,19 @@ function loadFcircleShow(userinfo, articledata) {
   document.getElementById("cf-overshow").className = "cf-show-now";
 }
 
+async function postData(url = "", data = {}) {
+  // Default options are marked with *
+  const response = await fetch(url, {
+    method: "GET", // *GET, POST, PUT, DELETE, etc.
+    mode: "cors", // no-cors, *cors, same-origin
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
+  return response.json(); // parses JSON response into native JavaScript objects
+}
+
+
 // 预载下一页文章，存为本地数据 nextArticle
 function fetchNextArticle() {
   var start = document.getElementsByClassName("cf-article").length;
@@ -179,21 +193,15 @@ function fetchNextArticle() {
     UrlNow = localStorage.getItem("urlNow");
     var fetchUrl =
       UrlNow + "rule=" + sortNow + "&start=" + start + "&end=" + end;
-    //console.log(fetchUrl)
-    fetch(fetchUrl, {
-      mode: "no-cors",
-      headers: {
-        "Access-Control-Allow-Origin": "*",
-      },
-    })
-      .then((res) => res.json())
-      .then((json) => {
-        var nextArticle = eval(json.article_data);
-        console.log(
-          "已预载" + "?rule=" + sortNow + "&start=" + start + "&end=" + end
-        );
-        localStorage.setItem("nextArticle", JSON.stringify(nextArticle));
-      });
+    // console.log('预载下一页文章', fetchUrl)
+    postData(fetchUrl).then((data) => {
+      // console.log(data); // JSON data parsed by `data.json()` call
+      var nextArticle = eval(data.article_data);
+      console.log(
+        "已预载" + "?rule=" + sortNow + "&start=" + start + "&end=" + end
+      );
+      localStorage.setItem("nextArticle", JSON.stringify(nextArticle));
+    });
   } else if ((start = articleNum)) {
     document.getElementById(
       "cf-more"
@@ -204,42 +212,36 @@ function fetchNextArticle() {
 function loadNextArticle() {
   var nextArticle = JSON.parse(localStorage.getItem("nextArticle"));
   var articleItem = "";
-  for (var i = 0; i < nextArticle.length; i++) {
-    var item = nextArticle[i];
-    articleItem += `
-      <div class="cf-article">
-        <a class="cf-article-title" href="${
-          item.link
-        }" target="_blank" rel="noopener nofollow" data-title="${item.title}">${
-      item.title
-    }</a>
-        <span class="cf-article-floor">${item.floor}</span>
-        <div class="cf-article-avatar no-lightbox flink-item-icon">
-          <img class="cf-img-avatar avatar" src="${
-            item.avatar
-          }" alt="avatar" onerror="this.src='${
-      fdata.error_img
-    }'; this.onerror = null;">
-          <a onclick="openMeShow(event)" data-link="${
-            item.link
-          }" class="" target="_blank" rel="noopener nofollow" href="javascript:;"><span class="cf-article-author">${
-      item.author
-    }</span></a>
-          <span class="cf-article-time">
-            <span class="cf-time-created" style="${
-              sortNow == "created" ? "" : "display:none"
-            }"><i class="far fa-calendar-alt">发表于</i>${item.created}</span>
-            <span class="cf-time-updated" style="${
-              sortNow == "updated" ? "" : "display:none"
-            }"><i class="fas fa-history">更新于</i>${item.updated}</span>
-          </span>
+  if (nextArticle) {
+    for (var i = 0; i < nextArticle.length; i++) {
+      var item = nextArticle[i];
+      articleItem += `
+        <div class="cf-article">
+          <a class="cf-article-title" href="${item.link
+        }" target="_blank" rel="noopener nofollow" data-title="${item.title}">${item.title
+        }</a>
+          <span class="cf-article-floor">${item.floor}</span>
+          <div class="cf-article-avatar no-lightbox flink-item-icon">
+            <img class="cf-img-avatar avatar" src="${item.avatar
+        }" alt="avatar" onerror="this.src='${fdata.error_img
+        }'; this.onerror = null;">
+            <a onclick="openMeShow(event)" data-link="${item.link
+        }" class="" target="_blank" rel="noopener nofollow" href="javascript:;"><span class="cf-article-author">${item.author
+        }</span></a>
+            <span class="cf-article-time">
+              <span class="cf-time-created" style="${sortNow == "created" ? "" : "display:none"
+        }"><i class="far fa-calendar-alt">发表于</i>${item.created}</span>
+              <span class="cf-time-updated" style="${sortNow == "updated" ? "" : "display:none"
+        }"><i class="fas fa-history">更新于</i>${item.updated}</span>
+            </span>
+          </div>
         </div>
-      </div>
-      `;
+        `;
+    }
+    container.insertAdjacentHTML("beforeend", articleItem);
+    // 同时预载下一页文章
+    fetchNextArticle();
   }
-  container.insertAdjacentHTML("beforeend", articleItem);
-  // 同时预载下一页文章
-  fetchNextArticle();
 }
 // 没有更多文章
 function loadNoArticle() {
