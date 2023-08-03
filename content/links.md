@@ -16,6 +16,7 @@ draft: false
 
 ### 收藏博主
 
+{{< friend des="思考" url="https://elizen.me/" src="https://blog.xlap.top/logo-gray.png" name="Elizen" >}}
 {{< friend des="学习/技术/投资，我关注的三个焦点" url="https://www.bmpi.dev" src="https://i.imgtg.com/2023/02/15/dkKiK.png" name="BMPI" >}}
 {{< friend des="Transparent Thoughts " url="http://gigix.thoughtworkers.org" src="https://i.imgtg.com/2023/02/15/dkZ4a.jpg" name="透明思考" >}}
 {{< friend des="会当凌绝顶，一览众山小。" url="https://jiajunhuang.com" src="https://i.imgtg.com/2023/02/15/dkv2S.png" name="编程随想" >}}
