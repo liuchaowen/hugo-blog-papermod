@@ -16,13 +16,13 @@ var cdnGravatar = "https://cravatar.cn/avatar/"
 const urls = [
   { home: "https://blog.xlap.top/", host: "https://api.mm.xlap.top/", apiV1: 'v1/', creatorId: "1", comment: '1', twiEnv: 'https://db.twk.xlap.top/', imgsrc: cdnGravatar + "9855359e235402ea030ccd7aad041164" },
   { home: "https://immmmm.com/", host: "https://me.edui.fun/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://metk.edui.fun/', imgsrc: cdnGravatar + "ba83fa02fc4b2ba621514941307e21be" },
-  { home: "https://eallion.com/", host: "https://memos.eallion.com/", apiV1: 'v1/', creatorId: "101", comment: '1', artEnv: 'https://api.eallion.com/artalk/', artSite: 'memos', imgsrc: cdnGravatar + "171e4c30959e8c077a6c58b958624b31" },
+  { home: "https://eallion.com/", host: "https://memos.eallion.com/", apiV1: 'v1/', creatorId: "101", comment: '', artEnv: 'https://api.eallion.com/artalk/', artSite: 'memos', imgsrc: cdnGravatar + "171e4c30959e8c077a6c58b958624b31" },
   { home: "https://xsinger.me/", host: "https://isay.live/", apiV1: 'v1/', creatorId: "101", comment: '', imgsrc: cdnGravatar + "f0e33f4d097fe2e9fd74b9b129e7a655" },
   { home: "https://chenyyds.com/", host: "https://me.chenplus.com/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://twikoo.chenyyds.com/', imgsrc: "https://chenyyds.com/avatar.png" },
   { home: "https://life97.top/", host: "https://memos.life97.top/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://say.life97.top/', imgsrc: cdnGravatar + "d41d8cd98f00b204e9800998ecf8427e" },
   { home: "https://1900.live/", host: "https://memos.1900.live/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://comment.1900.live/', imgsrc: cdnGravatar + "cc38267b10cc25dfc62209f8ca34589e" },
   { home: "https://seersu.me/", host: "https://bb.seersu.top/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://twikoo.seersu.me/', imgsrc: cdnGravatar + "84b712148a63b44dd97ede997bc3efa5" },
-  { home: "https://www.skyue.com/", host: "https://memos.skyue.com/", apiV1: 'v1/', creatorId: "1", comment: '1', artEnv: 'https://artalk.skyue.com', artSite: '拾月微博', imgsrc: cdnGravatar + "c3fb4bb4d5101284ddd672fb722cdd7d" },
+  { home: "https://www.skyue.com/", host: "https://memos.skyue.com/", apiV1: 'v1/', creatorId: "1", comment: '', artEnv: 'https://artalk.skyue.com', artSite: '拾月微博', imgsrc: cdnGravatar + "c3fb4bb4d5101284ddd672fb722cdd7d" },
   { home: "https://nuoea.com/", host: "https://memos.nuoea.com/", apiV1: 'v1/', creatorId: "101", comment: '1', twiEnv: 'https://twikoo.nuoea.com/', imgsrc: cdnGravatar + "020d365ea2596ef6d516143bb0552704" },
   { home: "https://www.xzgljiang.com/", host: "https://memos.xzgljiang.com/", apiV1: '', creatorId: "1", comment: '1', twiEnv: 'https://twikoo.une.xzgljiang.com/', imgsrc: cdnGravatar + "a892fd3321ab65a1c5d9c7a54a04c881" },
   { home: "https://cooolr.cn/", host: "https://m.cooolr.cn/", apiV1: '', creatorId: "1", comment: '1', twiEnv: 'https://tk.cooolr.cn/', imgsrc: cdnGravatar + "7422f8bebdb99f6594e029f603ccb926" },
@@ -35,12 +35,12 @@ const urls = [
   { home: "https://memos.ee/", host: "https://t.memos.ee/", apiV1: '', creatorId: "1", comment: '1', twiEnv: 'https://twikoo.memos.ee', imgsrc: cdnGravatar + "f2e928a6f8548a1088d336e541ae1b9d" },
   { home: "https://dongjunke.cn/", host: "https://memos.dongjunke.cn/", apiV1: 'v1/', creatorId: "1", comment: '1', twiEnv: 'https://twikoo.dongjunke.cn/', imgsrc: cdnGravatar + "42542189ddb33064599dc88a5149bea7" },
   { home: "https://xrat.net/", host: "https://memos.xrat.net/", apiV1: '', creatorId: "2", comment: '1', artEnv: 'https://vlabs.synology.me:96', artSite: 'memos.xrat.net', imgsrc: cdnGravatar + "0ab677e14d21d941f64d98192d6168e7" },
-  { home: "https://www.isolitude.cn/", host: "https://me.isolitude.cn/", apiV1: 'v1/', creatorId: "1", comment: '1', artEnv: 'https://artalk.isolitude.cn/', artSite: '自说自话王国', imgsrc: cdnGravatar + "924916294598a950bb80d78012dc3aac" },
-  { home: "https://laozhang.org/", host: "https://memos.laozhang.org/", apiV1: 'v1/', creatorId: "1", comment: '1', artEnv: 'https://artalk.laozhang.org/', artSite: 'memos', imgsrc: cdnGravatar + "679666f7bd1af3e55f0e51dd70ed161c" },
-  { home: "https://koobai.com/", host: "https://memos.koobai.com/", apiV1: 'v1/', creatorId: "1", comment: '1', artEnv: 'https://c.koobai.com', artSite: '空白唠叨', imgsrc: cdnGravatar + "3b3d336a7d389b7ae8531cbe177ae9b7" },
-  { home: "https://veryjack.com/", host: "https://say.veryjack.com/", apiV1: 'v1/', creatorId: "1", comment: '1', artEnv: 'https://artalk.veryjack.com', artSite: 'Jack\'s Space', imgsrc: cdnGravatar + "7a41a0e8e1df8e964fa1268193b03508" },
-  { home: "https://usj.cc/", host: "https://memos.usj.cc/", apiV1: '', creatorId: "1", comment: '1', artEnv: 'https://artalk.usj.cc', artSite: '优世界', imgsrc: cdnGravatar + "1cce0a22c2c7648eab76ec876c6a54d9" },
-  { home: "https://blog.roccoshi.top/", host: "https://memos.roccoshi.top/", apiV1: 'v1/', creatorId: "1", comment: '1', imgsrc: "https://youpai.roccoshi.top/img/avatar.jpg" },
+  { home: "https://www.isolitude.cn/", host: "https://me.isolitude.cn/", apiV1: 'v1/', creatorId: "1", comment: '', artEnv: 'https://artalk.isolitude.cn/', artSite: '自说自话王国', imgsrc: cdnGravatar + "924916294598a950bb80d78012dc3aac" },
+  { home: "https://laozhang.org/", host: "https://memos.laozhang.org/", apiV1: 'v1/', creatorId: "1", comment: '', artEnv: 'https://artalk.laozhang.org/', artSite: 'memos', imgsrc: cdnGravatar + "679666f7bd1af3e55f0e51dd70ed161c" },
+  { home: "https://koobai.com/", host: "https://memos.koobai.com/", apiV1: 'v1/', creatorId: "1", comment: '', artEnv: 'https://c.koobai.com', artSite: '空白唠叨', imgsrc: cdnGravatar + "3b3d336a7d389b7ae8531cbe177ae9b7" },
+  { home: "https://veryjack.com/", host: "https://say.veryjack.com/", apiV1: 'v1/', creatorId: "1", comment: '', artEnv: 'https://artalk.veryjack.com', artSite: 'Jack\'s Space', imgsrc: cdnGravatar + "7a41a0e8e1df8e964fa1268193b03508" },
+  { home: "https://usj.cc/", host: "https://memos.usj.cc/", apiV1: '', creatorId: "1", comment: '', artEnv: 'https://artalk.usj.cc', artSite: '优世界', imgsrc: cdnGravatar + "1cce0a22c2c7648eab76ec876c6a54d9" },
+  { home: "https://blog.roccoshi.top/", host: "https://memos.roccoshi.top/", apiV1: 'v1/', creatorId: "1", comment: '', imgsrc: "https://youpai.roccoshi.top/img/avatar.jpg" },
   { home: "https://elizen.me/", host: "https://bb.elizen.me/", apiV1: '', creatorId: "101", comment: '', imgsrc: cdnGravatar + "f65df4d87240feb1cb247857a621a48f" },
   { home: "https://www.cyuanx.icu/", host: "https://mome.cyuanx.icu/", apiV1: '', creatorId: "1", comment: '', imgsrc: "https://www.cyuanx.icu/wp-content/uploads/2023/03/cropped-07b4b32029661fd9ce1200ac9b937f1.jpg" },
   { home: "https://noionion.top/", host: "https://memos.noionion.cn/", apiV1: '', creatorId: "1", comment: '', imgsrc: cdnGravatar + "d240a727ea154be465796ef2644aac16" },
@@ -247,9 +247,7 @@ const fetchBBser = async () => {
         return arrData
       })
     )
-    //url => fetch(url.host+"api/memo?creatorId="+url.creatorId+"&rowStatus=NORMAL&limit="+limit).then(response => response.json()).then(resdata => resdata.data)
   )).then(results => {
-    //console.log(results)
     bbDom.innerHTML = ''
     for (var i = 0; i < results.length; i++) {
       var status = results[i].status
@@ -450,15 +448,17 @@ function loadTwikoo(e) {
   var memoPath = e.getAttribute("data-path")
   var memoId = e.getAttribute("data-id")
   var twikooDom = document.querySelector('.twikoo-' + memoId);
+  //twikooDom 当前评论容器 d-none 隐藏评论
+  //如果当前评论容器有隐藏,则显示
   if (twikooDom.classList.contains('d-none')) {
-    document.querySelectorAll('.item-comment').forEach((item) => { item.classList.add('d-none'); })
+    //隐藏所有评论
+    document.querySelectorAll('.item-comment').forEach((item) => {
+      item.classList.add('d-none');
+    })
+    //如果没有评论,则显示
     if (!document.getElementById("twikoo")) {
       twikooDom.classList.remove('d-none');
       var domClass = document.getElementsByClassName(EnvNow + 'memo-' + memoId)
-      window.scrollTo({
-        top: domClass[0].offsetTop - 30,
-        behavior: "smooth"
-      });
       twikoo.init({
         envId: memoEnv,
         el: '#' + EnvNow + 'twikoo-' + memoId,
@@ -469,6 +469,7 @@ function loadTwikoo(e) {
       }, 600)
     }
   } else {
+    //如果当前评论容器没有隐藏,则隐藏
     twikooDom.classList.add('d-none');
   }
 }
@@ -488,10 +489,6 @@ function loadArtalk(e) {
     if (!document.getElementById("artalk")) {
       ArtalkDom.classList.remove('d-none');
       var domClass = document.getElementsByClassName(EnvNow + 'memo-' + memoId)
-      window.scrollTo({
-        top: domClass[0].offsetTop - 30,
-        behavior: "smooth"
-      });
       Artalk.init({
         el: '#' + EnvNow + 'artalk-' + memoId,
         pageKey: '/m/' + memoId,
