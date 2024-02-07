@@ -11,7 +11,7 @@ function show_run_day() {
   var yuMonth = yuDays / 30;
   var monStr = Math.floor(yuMonth) > 0 ? Math.floor(yuMonth) + "m" : "";
   var yearStr = Math.floor(eYear) > 0 ? Math.floor(eYear) + "y" : "";
-  var html = '<span title="已运行' + Math.floor(eDays) + '天">' + (yearStr + monStr) + '</span>'
+  var html = '<span title="已运行' + Math.floor(eDays) + '天">' + (yearStr + monStr) + '</span>';
   document.getElementById("run-num").innerHTML = html;
 }
 show_run_day();
