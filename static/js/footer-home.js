@@ -1,13 +1,18 @@
 /* 站点统计数据 */
 function show_run_day() {
-  var BirthDay = new Date("12/27/2022 00:00:00");
+  var birthDay = new Date("12/27/2022 00:00:00");
   var today = new Date();
-  var timeold = today.getTime() - BirthDay.getTime();
+  var timeold = today.getTime() - birthDay.getTime();
   var sectimeold = timeold / 1000;
   var msPerDay = 24 * 60 * 60 * 1000;
-  var e_daysold = timeold / msPerDay;
-  var daysold = Math.floor(e_daysold);
-  document.getElementById("run-num").innerHTML = daysold + "d";
+  var eDays = timeold / msPerDay;
+  var eYear = eDays / 365;
+  var yuDays = eDays % 365;
+  var yuMonth = yuDays / 30;
+  var monStr = Math.floor(yuMonth) > 0 ? Math.floor(yuMonth) + "m" : "";
+  var yearStr = Math.floor(eYear) > 0 ? Math.floor(eYear) + "y" : "";
+  var html = '<span title="已运行' + Math.floor(eDays) + '天">' + (yearStr + monStr) + '</span>'
+  document.getElementById("run-num").innerHTML = html;
 }
 show_run_day();
 
