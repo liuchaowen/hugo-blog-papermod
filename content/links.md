@@ -27,6 +27,7 @@ draft: false
 {{< friend des="一万人来一百次的岛" url="https://xiang578.com" src="https://i.imgtg.com/2023/02/15/dkRrX.png" name="算法花园" >}}
 {{< friend des="细推物理须行乐 何用浮名绊此身" url="https://www.physixfan.com" src="https://i.imgtg.com/2023/02/15/dktQt.jpg" name="physixfan" >}}
 {{< friend des="前端技术" url="https://anran758.github.io/blog" src="https://i.imgtg.com/2023/02/15/dk4Cx.jpg" name="anran758" >}}
+{{< friend des="1000Hour" url="https://1000h.org/" src="https://blog.xlap.top/logo-gray.png" name="1000hour" >}}
 
 ### 特别鸣谢
 
