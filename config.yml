@@ -164,9 +164,9 @@ menu:
     # - identifier: says
     #   name: 言录
     #   url: /says/
-    - identifier: articles
-      name: 文集
-      url: /articles/
+    # - identifier: articles
+    #   name: 文集
+    #   url: /articles/
     - identifier: links
       name: 友邻
       url: /links/
