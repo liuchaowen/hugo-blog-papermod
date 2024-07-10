@@ -12,8 +12,8 @@ theme: PaperMod
 languageCode: "zh-cn"
 defaultContentLanguage: zh
 timeZone: "Asia/Shanghai"
-# 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true 
-hasCJKLanguage: true 
+# 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true
+hasCJKLanguage: true
 
 taxonomies:
   category: categories
@@ -94,7 +94,7 @@ params:
   homeInfoParams:
     Title: "Hi~ X One!"
     Content: Live a Peaceful life,Take ownership Of your Path.
-  
+
   fontAwesome:
     kitURL: "https://kit.fontawesome.com/844a346ce0.js"
 
@@ -106,23 +106,23 @@ params:
     - name: github
       url: "https://github.com/liuchaowen"
       title: "代码托管"
-      newtab: true 
+      newtab: true
     - name: email
       url: "mailto:cheman@xlap.top"
       title: "邮箱"
-      newtab: true 
+      newtab: true
     - name: rss
       url: "/index.xml"
       title: "RSS"
-      newtab: true 
+      newtab: true
     - name: dev
       url: "/tags/"
       title: "标签"
-      newtab: true 
+      newtab: true
     - name: search
       url: /search/
       title: "搜索"
-      newtab: false 
+      newtab: false
 
   analytics:
     google:
@@ -152,7 +152,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary"]
-    
+
 menu:
   main:
     - identifier: about
@@ -161,19 +161,19 @@ menu:
     - identifier: archives
       name: 归档
       url: /archives/
-    - identifier: says
-      name: 言录
-      url: /says/
+    # - identifier: says
+    #   name: 言录
+    #   url: /says/
     - identifier: articles
       name: 文集
       url: /articles/
     - identifier: links
       name: 友邻
       url: /links/
-    - identifier: goods
-      name: 好物
-      url: /goods/
-  
+    # - identifier: goods
+    #   name: 好物
+    #   url: /goods/
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
