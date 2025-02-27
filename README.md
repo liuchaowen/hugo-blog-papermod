@@ -13,3 +13,7 @@ hugo new post/tech/NewPost.md
 或
 
 hugo new post/life/NewPost.md
+
+发布：
+
+hugo

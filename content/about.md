@@ -6,9 +6,10 @@ description: "no-comments"
 ---
 ### 关于本人 [🔗](https://github.com/liuchaowen)
 
-|||||||
-|:------|:------:|:------:|:------:|------:|
-|{{< figure src="https://blog.xlap.top/avatar.jpeg" width="90" height="90" title="ChemanLau" link="https://blog.xlap.top">}}||<p>Web/App Developer</p>||![Web/App Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=liuchaowen&layout=compact&hide_border=true&langs_count=8)|
+|                                                                                                                             |  |                                  |  |                                                                                                                                       |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-: | :------------------------------: | :-: | ------------------------------------------------------------------------------------------------------------------------------------: |
+| {{< figure src="https://blog.xlap.top/avatar.jpeg" width="90" height="90" title="ChemanLau" link="https://blog.xlap.top">}} |  | `<p>`Web/App Developer`</p>` |  | ![Web/App Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=liuchaowen&layout=compact&hide_border=true&langs_count=8) |
+
 ### 近期观影 [🔗](/movies)
 
 {{< movies >}}
@@ -25,4 +26,4 @@ description: "no-comments"
 
 * [Kinect4AlphaRobot](/post/tech/kinect4alpharobot/) 体感控制机器人
 * [DongbazWoodcut](https://project.xlap.top/dongbaz) 东巴人木刻
-* [FlutterFlipClock](https://github.com/liuchaowen/flutter-flipclock.git) 一个基于Flutter的翻页时钟App
+* [FlutterFlipClock](https://project.xlap.top/flipclock/) 一个基于Flutter的翻页时钟App
