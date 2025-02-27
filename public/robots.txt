@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://blog.xlap.top/sitemap.xml
