@@ -1,0 +1,35 @@
+.first-entry {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 320px;
+}
+
+.cal-heatmap-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: max-content;
+}
+
+.site-stat{
+    color: var(--secondary);
+    font-size: 14px;
+    margin-left: 12px;
+}
+.site-stat span{
+    color: #eea2a4;
+    float: right;
+    margin-left: 5px;
+}
+
+.entry-header span{
+    color: #eea2a4;
+}
+
+.entry-content span{
+    color: #eea2a4;
+}
