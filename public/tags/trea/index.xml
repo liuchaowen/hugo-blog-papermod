@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trea on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/trea/</link>
+    <description>Recent content in Trea on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Apr 2025 14:45:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/trea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用VSCode接入DeepSeek V3平替Cursor与Trae的AI编程方案</title>
+      <link>https://blog.xlap.top/post/tech/vscodeai/</link>
+      <pubDate>Tue, 22 Apr 2025 14:45:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/vscodeai/</guid>
+      <description>在深入体验 AI 编程的这几天里，我深刻感受到，程序员们完全可以借助 AI 的力量来提升工作效率，节省脑力。 平时需要一天完成的工作量，现在半天都不用就做</description>
+    </item>
+    
+  </channel>
+</rss>

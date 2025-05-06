@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/hugo/</link>
+    <description>Recent content in hugo on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Mar 2023 13:41:23 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo的标签使用词云WordCloud2展示</title>
+      <link>https://blog.xlap.top/post/tech/wordcloud4hugo/</link>
+      <pubDate>Thu, 16 Mar 2023 13:41:23 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/wordcloud4hugo/</guid>
+      <description>让你的标签展示更加好看，更加直观</description>
+    </item>
+    
+    <item>
+      <title>Hugo使用简码Shortcode指南</title>
+      <link>https://blog.xlap.top/post/tech/hugouseshortcode/</link>
+      <pubDate>Thu, 09 Mar 2023 15:51:45 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/hugouseshortcode/</guid>
+      <description>记录平时使用的调用方法，方便写文章时调用</description>
+    </item>
+    
+    <item>
+      <title>Hugo个人博客站点常用配置</title>
+      <link>https://blog.xlap.top/post/tech/hugoconfig/</link>
+      <pubDate>Tue, 28 Feb 2023 14:40:13 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/hugoconfig/</guid>
+      <description>有一些小问题需要记录一下，方便后来者使用</description>
+    </item>
+    
+    <item>
+      <title>Heatmap4Hugo每日文章数热力图</title>
+      <link>https://blog.xlap.top/post/tech/heatmap4hugo/</link>
+      <pubDate>Mon, 27 Feb 2023 23:30:26 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/heatmap4hugo/</guid>
+      <description>初衷与思路 想做在Hugo做一个类似Github那样的每日提交热度图，找到了一个很火的项目： 思路：使用rss的数据，即 [domain]/ind</description>
+    </item>
+    
+  </channel>
+</rss>

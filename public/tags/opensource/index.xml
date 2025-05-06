@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>opensource on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/opensource/</link>
+    <description>Recent content in opensource on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Jan 2023 16:59:05 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>好玩有用的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/opensourceproject/</link>
+      <pubDate>Wed, 18 Jan 2023 16:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/opensourceproject/</guid>
+      <description>罗列好玩有用的开源项目，方便日后寻找</description>
+    </item>
+    
+  </channel>
+</rss>

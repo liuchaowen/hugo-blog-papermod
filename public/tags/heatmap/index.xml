@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>heatmap on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/heatmap/</link>
+    <description>Recent content in heatmap on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 27 Feb 2023 23:30:26 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/heatmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heatmap4Hugo每日文章数热力图</title>
+      <link>https://blog.xlap.top/post/tech/heatmap4hugo/</link>
+      <pubDate>Mon, 27 Feb 2023 23:30:26 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/heatmap4hugo/</guid>
+      <description>初衷与思路 想做在Hugo做一个类似Github那样的每日提交热度图，找到了一个很火的项目： 思路：使用rss的数据，即 [domain]/ind</description>
+    </item>
+    
+  </channel>
+</rss>

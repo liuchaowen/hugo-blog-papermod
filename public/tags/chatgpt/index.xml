@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ChatGPT on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 24 Mar 2023 12:04:46 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初次体验PandaGPT读一本书</title>
+      <link>https://blog.xlap.top/post/life/pandagpt/</link>
+      <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
+      <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>flutter on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/flutter/</link>
+    <description>Recent content in flutter on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 22 Feb 2024 17:28:04 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于Flutter3的FlipClock翻页时钟</title>
+      <link>https://blog.xlap.top/post/tech/flipclock/</link>
+      <pubDate>Thu, 22 Feb 2024 17:28:04 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/flipclock/</guid>
+      <description>项目地址 https://github.com/liuchaowen/flutter-flipclock 项目初衷 家里客厅需要一个时钟，但是太普通的不好看，想要那种复古的翻页时钟，一看要两百多，然后家里有许多的旧手机，为什么不直接搞个A</description>
+    </item>
+    
+    <item>
+      <title>Flutter3新特性学习</title>
+      <link>https://blog.xlap.top/post/tech/flutter3/</link>
+      <pubDate>Mon, 26 Dec 2022 16:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/flutter3/</guid>
+      <description>粗略地看看flutter3.0版本有什么新特性</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 24 Mar 2023 12:04:46 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初次体验PandaGPT读一本书</title>
+      <link>https://blog.xlap.top/post/life/pandagpt/</link>
+      <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
+      <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
+    </item>
+    
+    <item>
+      <title>中国消失的传统村落</title>
+      <link>https://blog.xlap.top/post/life/chinacountryside/</link>
+      <pubDate>Sun, 05 Mar 2023 17:20:41 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/chinacountryside/</guid>
+      <description>中国古村落之殇 10年消失90万个</description>
+    </item>
+    
+    <item>
+      <title>韶关云髻山徒步之旅</title>
+      <link>https://blog.xlap.top/post/life/yunjishan/</link>
+      <pubDate>Sun, 01 Jan 2023 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/yunjishan/</guid>
+      <description>一次愉悦的随意的徒步之旅</description>
+    </item>
+    
+    <item>
+      <title>星月童话，一部安静看完的电影</title>
+      <link>https://blog.xlap.top/post/life/xiyuetonghua/</link>
+      <pubDate>Mon, 06 Jun 2022 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/xiyuetonghua/</guid>
+      <description>一个人看的电影，淡淡的感觉又回味无穷</description>
+    </item>
+    
+    <item>
+      <title>我收藏的纪录片</title>
+      <link>https://blog.xlap.top/post/life/favordocumentary/</link>
+      <pubDate>Wed, 16 Jun 2021 09:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/favordocumentary/</guid>
+      <description>喜欢看纪录片，真实</description>
+    </item>
+    
+    <item>
+      <title>初创这条小船，怎样才能不沉？</title>
+      <link>https://blog.xlap.top/post/life/startupsay/</link>
+      <pubDate>Sun, 30 May 2021 16:59:05 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/life/startupsay/</guid>
+      <description>此文为本人刚毕业时所写，文笔与思想都略显稚嫩，见谅</description>
+    </item>
+    
+  </channel>
+</rss>

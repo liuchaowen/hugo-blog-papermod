@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AIGC on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/aigc/</link>
+    <description>Recent content in AIGC on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 27 Feb 2025 14:45:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/aigc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>告别繁琐创作！XLapTop AI聚合平台开启智能创作新纪元</title>
+      <link>https://blog.xlap.top/post/tech/xlaptop/</link>
+      <pubDate>Thu, 27 Feb 2025 14:45:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/xlaptop/</guid>
+      <description>您是否还在为这些事烦恼？ 💻 辗转于十余个AI平台反复登录切换？ 💸 为每个工具单独充值消耗预算？ ⏳ 看着创作灵感在繁琐操作中流失？ XLapTop AI聚合平台带来</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shortcode on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/shortcode/</link>
+    <description>Recent content in shortcode on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Mar 2023 15:51:45 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo使用简码Shortcode指南</title>
+      <link>https://blog.xlap.top/post/tech/hugouseshortcode/</link>
+      <pubDate>Thu, 09 Mar 2023 15:51:45 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/hugouseshortcode/</guid>
+      <description>记录平时使用的调用方法，方便写文章时调用</description>
+    </item>
+    
+  </channel>
+</rss>
