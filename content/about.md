@@ -6,9 +6,9 @@ description: "no-comments"
 ---
 ### 关于本人 [🔗](https://github.com/liuchaowen)
 
-|                                                                                                                             |  |                                  |  |                                                                                                                                       |
-| :-------------------------------------------------------------------------------------------------------------------------- | :-: | :------------------------------: | :-: | ------------------------------------------------------------------------------------------------------------------------------------: |
-| {{< figure src="https://blog.xlap.top/avatar.jpeg" width="90" height="90" title="ChemanLau" link="https://blog.xlap.top">}} |  | `<p>`Web/App Developer`</p>` |  | ![Web/App Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=liuchaowen&layout=compact&hide_border=true&langs_count=8) |
+|                                                                                                                             |       |                   |       |      |
+| :-------------------------------------------------------------------------------------------------------------------------- | :---: | :---------------: | :---: | ---: |
+| {{< figure src="https://blog.xlap.top/avatar.jpeg" width="90" height="90" title="ChemanLau" link="https://blog.xlap.top">}} |       | Web/App Developer |       |      |
 
 ### 近期观影 [🔗](/movies)
 
@@ -18,12 +18,12 @@ description: "no-comments"
 
 {{< books >}}
 
-### 近期图册  [🔗](https://api.mm.xlap.top)
-
-{{< album >}}
 
 ### 项目维护 [🔗](https://github.com/liuchaowen/project.xlap.top)
 
-* [Kinect4AlphaRobot](/post/tech/kinect4alpharobot/) 体感控制机器人
-* [DongbazWoodcut](https://project.xlap.top/dongbaz) 东巴人木刻
-* [FlutterFlipClock](https://project.xlap.top/flipclock/) 一个基于Flutter的翻页时钟App
+* [X API](https://api.xlap.top) AI接口中转站
+* [AITools](https://aitools.uno) AI工具集导航
+* [XLapTop](https://www.xlap.top) 张国荣·顶级
+* [X News](https://news.xlap.top) 新闻站
+* [Dongbaz](https://project.xlap.top/dongbaz) 东巴人木刻
+* [FlipClock](https://project.xlap.top/flipclock/) 一个基于Flutter的翻页时钟App
