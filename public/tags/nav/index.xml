@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>nav on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/nav/</link>
-    <description>Recent content in nav on Blog - XLapTop</description>
+    <title>Nav on Blog - XLapTop</title>
+    <link>http://localhost:1313/tags/nav/</link>
+    <description>Recent content in Nav on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nav/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/nav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>https://blog.xlap.top/post/tech/aitools/</link>
+      <link>http://localhost:1313/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
-      <description>VanNav - 基于Go导航网站开源项目 闲来无事，折腾不止。 [点击前往]</description>
+      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
+
+
+&lt;article class=&#34;shortcode-card&#34;&gt;
+  &lt;a href=&#34;https://github.com/Mereithhh/van-nav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    &lt;header&gt;
+      &lt;img alt=&#34;Mereithhh/van-nav&#34; src=&#34;https://opengraph.githubassets.com/1/Mereithhh/van-nav&#34; /&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;shortcode-card-content&#34;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+&lt;/article&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://s2.loli.net/2025/02/27/KAME4ceLnVzJuho.jpg&#34; alt=&#34;AITools.uno&#34;  title=&#34;主界面&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;闲来无事，折腾不止。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aitools.uno&#34;&gt;[点击前往]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

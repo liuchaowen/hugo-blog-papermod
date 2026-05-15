@@ -2,202 +2,269 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog - XLapTop</title>
-    <link>https://blog.xlap.top/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:45:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用VSCode接入DeepSeek V3平替Cursor与Trae的AI编程方案</title>
-      <link>https://blog.xlap.top/post/tech/vscodeai/</link>
-      <pubDate>Tue, 22 Apr 2025 14:45:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/vscodeai/</guid>
-      <description>在深入体验 AI 编程的这几天里，我深刻感受到，程序员们完全可以借助 AI 的力量来提升工作效率，节省脑力。 平时需要一天完成的工作量，现在半天都不用就做</description>
-    </item>
-    
+    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>https://blog.xlap.top/post/tech/aitools/</link>
+      <link>http://localhost:1313/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
-      <description>VanNav - 基于Go导航网站开源项目 闲来无事，折腾不止。 [点击前往]</description>
-    </item>
-    
-    <item>
-      <title>告别繁琐创作！XLapTop AI聚合平台开启智能创作新纪元</title>
-      <link>https://blog.xlap.top/post/tech/xlaptop/</link>
-      <pubDate>Thu, 27 Feb 2025 14:45:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/xlaptop/</guid>
-      <description>您是否还在为这些事烦恼？ 💻 辗转于十余个AI平台反复登录切换？ 💸 为每个工具单独充值消耗预算？ ⏳ 看着创作灵感在繁琐操作中流失？ XLapTop AI聚合平台带来</description>
+      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
+
+
+&lt;article class=&#34;shortcode-card&#34;&gt;
+  &lt;a href=&#34;https://github.com/Mereithhh/van-nav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    &lt;header&gt;
+      &lt;img alt=&#34;Mereithhh/van-nav&#34; src=&#34;https://opengraph.githubassets.com/1/Mereithhh/van-nav&#34; /&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;shortcode-card-content&#34;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+&lt;/article&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://s2.loli.net/2025/02/27/KAME4ceLnVzJuho.jpg&#34; alt=&#34;AITools.uno&#34;  title=&#34;主界面&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;闲来无事，折腾不止。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aitools.uno&#34;&gt;[点击前往]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>基于Flutter3的FlipClock翻页时钟</title>
-      <link>https://blog.xlap.top/post/tech/flipclock/</link>
+      <link>http://localhost:1313/post/tech/flipclock/</link>
       <pubDate>Thu, 22 Feb 2024 17:28:04 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/flipclock/</guid>
-      <description>项目地址 https://github.com/liuchaowen/flutter-flipclock 项目初衷 家里客厅需要一个时钟，但是太普通的不好看，想要那种复古的翻页时钟，一看要两百多，然后家里有许多的旧手机，为什么不直接搞个A</description>
+      <guid>http://localhost:1313/post/tech/flipclock/</guid>
+      <description>&lt;h3 id=&#34;项目地址&#34;&gt;项目地址&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/liuchaowen/flutter-flipclock&#34;&gt;https://github.com/liuchaowen/flutter-flipclock&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;项目初衷&#34;&gt;项目初衷&lt;/h3&gt;
+&lt;p&gt;家里客厅需要一个时钟，但是太普通的不好看，想要那种复古的翻页时钟，一看要两百多，然后家里有许多的旧手机，为什么不直接搞个APP呢，但是应用商店找不到想要的，于是用Flutter开发了一个。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>做个免费简单的跳转提示页</title>
-      <link>https://blog.xlap.top/post/tech/jumppage/</link>
+      <link>http://localhost:1313/post/tech/jumppage/</link>
       <pubDate>Mon, 22 May 2023 09:21:46 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/jumppage/</guid>
+      <guid>http://localhost:1313/post/tech/jumppage/</guid>
       <description>使用Github Pages做个纯静态的跳转提示页功能</description>
     </item>
     
     <item>
       <title>初次体验PandaGPT读一本书</title>
-      <link>https://blog.xlap.top/post/life/pandagpt/</link>
+      <link>http://localhost:1313/post/life/pandagpt/</link>
       <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
+      <guid>http://localhost:1313/post/life/pandagpt/</guid>
       <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
     </item>
     
     <item>
       <title>Hugo的标签使用词云WordCloud2展示</title>
-      <link>https://blog.xlap.top/post/tech/wordcloud4hugo/</link>
+      <link>http://localhost:1313/post/tech/wordcloud4hugo/</link>
       <pubDate>Thu, 16 Mar 2023 13:41:23 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/wordcloud4hugo/</guid>
+      <guid>http://localhost:1313/post/tech/wordcloud4hugo/</guid>
       <description>让你的标签展示更加好看，更加直观</description>
     </item>
     
     <item>
       <title>Hugo使用简码Shortcode指南</title>
-      <link>https://blog.xlap.top/post/tech/hugouseshortcode/</link>
+      <link>http://localhost:1313/post/tech/hugouseshortcode/</link>
       <pubDate>Thu, 09 Mar 2023 15:51:45 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/hugouseshortcode/</guid>
+      <guid>http://localhost:1313/post/tech/hugouseshortcode/</guid>
       <description>记录平时使用的调用方法，方便写文章时调用</description>
     </item>
     
     <item>
       <title>中国消失的传统村落</title>
-      <link>https://blog.xlap.top/post/life/chinacountryside/</link>
+      <link>http://localhost:1313/post/life/chinacountryside/</link>
       <pubDate>Sun, 05 Mar 2023 17:20:41 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/chinacountryside/</guid>
+      <guid>http://localhost:1313/post/life/chinacountryside/</guid>
       <description>中国古村落之殇 10年消失90万个</description>
     </item>
     
     <item>
       <title>Hugo个人博客站点常用配置</title>
-      <link>https://blog.xlap.top/post/tech/hugoconfig/</link>
+      <link>http://localhost:1313/post/tech/hugoconfig/</link>
       <pubDate>Tue, 28 Feb 2023 14:40:13 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/hugoconfig/</guid>
+      <guid>http://localhost:1313/post/tech/hugoconfig/</guid>
       <description>有一些小问题需要记录一下，方便后来者使用</description>
     </item>
     
     <item>
       <title>Heatmap4Hugo每日文章数热力图</title>
-      <link>https://blog.xlap.top/post/tech/heatmap4hugo/</link>
+      <link>http://localhost:1313/post/tech/heatmap4hugo/</link>
       <pubDate>Mon, 27 Feb 2023 23:30:26 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/heatmap4hugo/</guid>
-      <description>初衷与思路 想做在Hugo做一个类似Github那样的每日提交热度图，找到了一个很火的项目： 思路：使用rss的数据，即 [domain]/ind</description>
+      <guid>http://localhost:1313/post/tech/heatmap4hugo/</guid>
+      <description>&lt;h3 id=&#34;初衷与思路&#34;&gt;初衷与思路&lt;/h3&gt;
+&lt;p&gt;想做在Hugo做一个类似Github那样的每日提交热度图，找到了一个很火的项目：&lt;/p&gt;
+
+
+&lt;article class=&#34;shortcode-card&#34;&gt;
+  &lt;a href=&#34;https://github.com/wa0x6e/cal-heatmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    &lt;header&gt;
+      &lt;img alt=&#34;wa0x6e/cal-heatmap&#34; src=&#34;https://opengraph.githubassets.com/1/wa0x6e/cal-heatmap&#34; /&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;shortcode-card-content&#34;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+&lt;/article&gt;
+&lt;p&gt;思路：使用rss的数据，即 [domain]/index.xml为数据源，使用纯JS前端做逻辑。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>好玩有用的开源项目</title>
-      <link>https://blog.xlap.top/post/tech/opensourceproject/</link>
+      <link>http://localhost:1313/post/tech/opensourceproject/</link>
       <pubDate>Wed, 18 Jan 2023 16:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/opensourceproject/</guid>
+      <guid>http://localhost:1313/post/tech/opensourceproject/</guid>
       <description>罗列好玩有用的开源项目，方便日后寻找</description>
     </item>
     
     <item>
       <title>韶关云髻山徒步之旅</title>
-      <link>https://blog.xlap.top/post/life/yunjishan/</link>
+      <link>http://localhost:1313/post/life/yunjishan/</link>
       <pubDate>Sun, 01 Jan 2023 09:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/yunjishan/</guid>
+      <guid>http://localhost:1313/post/life/yunjishan/</guid>
       <description>一次愉悦的随意的徒步之旅</description>
     </item>
     
     <item>
       <title>Kinect4AlphaRobot</title>
-      <link>https://blog.xlap.top/post/tech/kinect4alpharobot/</link>
+      <link>http://localhost:1313/post/tech/kinect4alpharobot/</link>
       <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/kinect4alpharobot/</guid>
+      <guid>http://localhost:1313/post/tech/kinect4alpharobot/</guid>
       <description>使用kinect体感控制机器人</description>
     </item>
     
     <item>
       <title>Flutter3新特性学习</title>
-      <link>https://blog.xlap.top/post/tech/flutter3/</link>
+      <link>http://localhost:1313/post/tech/flutter3/</link>
       <pubDate>Mon, 26 Dec 2022 16:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/flutter3/</guid>
+      <guid>http://localhost:1313/post/tech/flutter3/</guid>
       <description>粗略地看看flutter3.0版本有什么新特性</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blog.xlap.top/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 26 Dec 2022 16:58:51 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>no-comments</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blog.xlap.top/goods/</link>
+      <link>http://localhost:1313/goods/</link>
       <pubDate>Mon, 26 Dec 2022 16:58:51 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/goods/</guid>
+      <guid>http://localhost:1313/goods/</guid>
       <description>no-comments</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://blog.xlap.top/links/</link>
+      <link>http://localhost:1313/links/</link>
       <pubDate>Mon, 26 Dec 2022 16:58:51 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/links/</guid>
-      <description>我的友邻 陈阿叔 猫叔 追忆白 Celia 摩尔の镇 迷你日志 旧时繁华 贰拾伍 收藏博主 Elizen BMPI 透明思考 编程随想 Random Thoughts 臨池不輟 Go Further 编程沉思录 算法花园 physixfan anran758 1000hour 特别鸣谢 林木木 广</description>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;h3 id=&#34;我的友邻&#34;&gt;我的友邻&lt;/h3&gt;
+&lt;p&gt;
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=生活喜欢勇敢的人&amp;#32;用结果去证明一切 &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dk7ol.jpg&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://www.rickychen.top&#34; &gt;陈阿叔&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=养了一只叫火锅的猫 &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dknVb.jpg&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://maoshu.me&#34; &gt;猫叔&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=Just&amp;#32;like&amp;#32;old&amp;#32;time! &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dkigP.png&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=http://www.zhuiyibai.cn&#34; &gt;追忆白&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=读万卷书&amp;#32;行万里路 &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dkNrg.jpg&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://blog.becomingcelia.com&#34; &gt;Celia&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=一座奇妙的小孤岛.&amp;#32; &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dkhW6.jpg&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://www.mole9630.top&#34; &gt;摩尔の镇&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=点滴记录和分享 &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dkeQB.png&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://minirizhi.com&#34; &gt;迷你日志&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=繁华似锦觅安宁&amp;#32;淡云流水度此生 &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/15/dkr3s.png&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://blog.rain888.cn&#34; &gt;旧时繁华&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;archive-item links-item cf-friends&#34; title=世界上每个角落都有人过着相似的人生... &gt;
+	&lt;img loading=&#34;lazy&#34; class=&#34;archive-list-image avatar&#34; src=&#34;https://i.imgtg.com/2023/02/21/sibmI.jpg&#34;/&gt;
+	&lt;a rel=&#34;noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://project.xlap.top/jump/?target=https://id25.cn/&#34; &gt;贰拾伍&lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>星月童话，一部安静看完的电影</title>
-      <link>https://blog.xlap.top/post/life/xiyuetonghua/</link>
+      <link>http://localhost:1313/post/life/xiyuetonghua/</link>
       <pubDate>Mon, 06 Jun 2022 09:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/xiyuetonghua/</guid>
+      <guid>http://localhost:1313/post/life/xiyuetonghua/</guid>
       <description>一个人看的电影，淡淡的感觉又回味无穷</description>
     </item>
     
     <item>
       <title>我收藏的纪录片</title>
-      <link>https://blog.xlap.top/post/life/favordocumentary/</link>
+      <link>http://localhost:1313/post/life/favordocumentary/</link>
       <pubDate>Wed, 16 Jun 2021 09:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/favordocumentary/</guid>
+      <guid>http://localhost:1313/post/life/favordocumentary/</guid>
       <description>喜欢看纪录片，真实</description>
     </item>
     
     <item>
       <title>初创这条小船，怎样才能不沉？</title>
-      <link>https://blog.xlap.top/post/life/startupsay/</link>
+      <link>http://localhost:1313/post/life/startupsay/</link>
       <pubDate>Sun, 30 May 2021 16:59:05 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/startupsay/</guid>
+      <guid>http://localhost:1313/post/life/startupsay/</guid>
       <description>此文为本人刚毕业时所写，文笔与思想都略显稚嫩，见谅</description>
     </item>
     
@@ -205,37 +272,37 @@
     
     <item>
       <title>文集</title>
-      <link>https://blog.xlap.top/articles/</link>
+      <link>http://localhost:1313/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.xlap.top/articles/</guid>
+      <guid>http://localhost:1313/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>我的观影</title>
-      <link>https://blog.xlap.top/movies/</link>
+      <link>http://localhost:1313/movies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.xlap.top/movies/</guid>
+      <guid>http://localhost:1313/movies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>我的阅读</title>
-      <link>https://blog.xlap.top/books/</link>
+      <link>http://localhost:1313/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.xlap.top/books/</guid>
+      <guid>http://localhost:1313/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>言录</title>
-      <link>https://blog.xlap.top/says/</link>
+      <link>http://localhost:1313/says/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.xlap.top/says/</guid>
+      <guid>http://localhost:1313/says/</guid>
       <description></description>
     </item>
     

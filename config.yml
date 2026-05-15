@@ -2,11 +2,10 @@
 # 格林威治时间没有到你配置的时间的时候，文章是不会出现在文章列表里的。
 buildfuture: true
 
-ignoreErrors: ["error-remote-getjson"] # 解决Build错误的问题
-
 baseURL: "https://blog.xlap.top/"
 title: Blog - XLapTop
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 languageCode: "zh-cn"
@@ -23,8 +22,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -131,6 +128,9 @@ params:
       SiteVerificationTag: "XYZabc"
     yandex:
       SiteVerificationTag: "XYZabc"
+
+  social:
+    twitter: ""
 
   cover:
     hidden: true # hide everywhere but not in structured data

@@ -138,17 +138,17 @@ function makeCollapsible() {
   }
 }
 
-function initCodeExpand(){
+function initCodeExpand() {
   var divs = document.querySelectorAll('.highlight-wrapper');
   var eleItems = [].slice.call(divs);
   eleItems.forEach(function (item, idx) {
-      item.addEventListener('mouseover', function () {
-        var tag = item.querySelectorAll('.highlight-before')[0];
-        tag.style.display = "block";
-      });
-      item.addEventListener('mouseout', function () {
-        var tag = item.querySelectorAll('.highlight-before')[0];
-        tag.style.display = "none";
-      });
+    item.addEventListener('mouseover', function () {
+      var tag = item.querySelectorAll('.highlight-before')[0];
+      tag.style.display = "block";
+    });
+    item.addEventListener('mouseout', function () {
+      var tag = item.querySelectorAll('.highlight-before')[0];
+      tag.style.display = "none";
+    });
   });
 }

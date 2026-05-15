@@ -2,40 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>人工智能 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <link>http://localhost:1313/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
     <description>Recent content in 人工智能 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>https://blog.xlap.top/post/tech/aitools/</link>
+      <link>http://localhost:1313/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
-      <description>VanNav - 基于Go导航网站开源项目 闲来无事，折腾不止。 [点击前往]</description>
-    </item>
-    
-    <item>
-      <title>告别繁琐创作！XLapTop AI聚合平台开启智能创作新纪元</title>
-      <link>https://blog.xlap.top/post/tech/xlaptop/</link>
-      <pubDate>Thu, 27 Feb 2025 14:45:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/xlaptop/</guid>
-      <description>您是否还在为这些事烦恼？ 💻 辗转于十余个AI平台反复登录切换？ 💸 为每个工具单独充值消耗预算？ ⏳ 看着创作灵感在繁琐操作中流失？ XLapTop AI聚合平台带来</description>
+      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
+
+
+&lt;article class=&#34;shortcode-card&#34;&gt;
+  &lt;a href=&#34;https://github.com/Mereithhh/van-nav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    &lt;header&gt;
+      &lt;img alt=&#34;Mereithhh/van-nav&#34; src=&#34;https://opengraph.githubassets.com/1/Mereithhh/van-nav&#34; /&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;shortcode-card-content&#34;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+&lt;/article&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://s2.loli.net/2025/02/27/KAME4ceLnVzJuho.jpg&#34; alt=&#34;AITools.uno&#34;  title=&#34;主界面&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;闲来无事，折腾不止。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aitools.uno&#34;&gt;[点击前往]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>初次体验PandaGPT读一本书</title>
-      <link>https://blog.xlap.top/post/life/pandagpt/</link>
+      <link>http://localhost:1313/post/life/pandagpt/</link>
       <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
+      <guid>http://localhost:1313/post/life/pandagpt/</guid>
       <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
     </item>
     
