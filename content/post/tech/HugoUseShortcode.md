@@ -182,15 +182,6 @@ window.onload = function () {
 效果：
 {{< bilibili "BV1Jo4y167JP" >}}
 
-## game 游戏卡片
-
-```html
-\{\{< game "https://www.yystv.cn/g/36">\}\}
-```
-
-效果：
-{{< game "https://www.yystv.cn/g/36">}}
-
 ## music 网易云音乐歌单
 
 ```html
