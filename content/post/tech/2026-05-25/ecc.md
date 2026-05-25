@@ -1,3 +1,11 @@
+---
+title: "ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## 一、项目概述

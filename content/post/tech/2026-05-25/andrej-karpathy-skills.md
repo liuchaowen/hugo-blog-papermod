@@ -1,3 +1,11 @@
+---
+title: "andrej-karpathy-skills — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # andrej-karpathy-skills — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
 ## 一、项目概述

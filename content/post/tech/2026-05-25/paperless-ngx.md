@@ -1,3 +1,11 @@
+---
+title: "paperless-ngx — A community-supported supercharged document management system: scan, index and archive all your documents"
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # paperless-ngx — A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## 一、项目概述

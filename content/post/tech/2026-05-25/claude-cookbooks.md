@@ -1,3 +1,11 @@
+---
+title: "claude-cookbooks — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # claude-cookbooks — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
 ## 一、项目概述

@@ -1,3 +1,11 @@
+---
+title: "knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 ## 一、项目概述

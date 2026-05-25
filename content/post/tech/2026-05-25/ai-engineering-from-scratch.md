@@ -1,3 +1,11 @@
+---
+title: "ai-engineering-from-scratch — Learn it. Build it. Ship it for others."
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # ai-engineering-from-scratch — Learn it. Build it. Ship it for others.
 
 ## 一、项目概述

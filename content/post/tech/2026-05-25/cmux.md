@@ -1,3 +1,11 @@
+---
+title: "cmux — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents"
+date: 2026-05-25
+draft: false
+tags: ["GitHub Trending", "开源项目"]
+categories: ["开源项目", "技术博客"]
+---
+
 # cmux — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 ## 一、项目概述
