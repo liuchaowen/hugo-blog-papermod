@@ -3,7 +3,7 @@ title: "ECC 深度技术解析：AI Agent 工作的原生操作系统"
 date: 2026-05-25
 draft: false
 tags: ["GitHub", "开源", "AI Agent", "Claude Code", "开发工具"]
-categories: ["技术", "开源"]
+categories: ["技术"]
 description: ""
 author: "Cheman"
 showToc: true

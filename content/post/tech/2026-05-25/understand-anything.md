@@ -3,7 +3,7 @@ title: "Understand Anything：把任意代码库变成可交互知识图谱"
 date: 2026-05-25
 draft: false
 tags: ["GitHub", "开源", "知识图谱", "代码分析", "Claude Code", "AI编程"]
-categories: ["技术", "开源"]
+categories: ["技术"]
 description: ""
 author: "Cheman"
 showToc: true
