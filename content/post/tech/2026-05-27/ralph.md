@@ -1,12 +1,26 @@
 ---
 title: "Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器"
 date: 2026-05-27T14:50:00+08:00
+description: "Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。"
+author: "Cheman"
 draft: false
 tags: ["AI", "Agent", "Claude Code", "开源", "自动化"]
 categories: ["技术博客", "AI工具"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
-
-# Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器
 
 ## 一、项目概述
 
