@@ -1,12 +1,26 @@
 ---
 title: "Compound Engineering Plugin：让每个工程单元都比上一个更容易"
 date: 2026-05-29T06:01:00+08:00
+description: "深入解析 Compound Engineering Plugin：通过 AI Skills 和 Agents 实现工程工作的复利式增长。每个工程单元都让后续工作变得更简单，而非更难。"
+author: "Cheman"
 slug: compound-engineering-plugin
 tags: ["AI", "Developer Tools", "Claude Code", "Productivity", "GitHub Trending"]
 categories: ["Tech"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
-
-# Compound Engineering Plugin：让每个工程单元都比上一个更容易
 
 今天在 GitHub Trending (daily) 上看到一个有意思的项目：**Compound Engineering Plugin**，它提出了一个很有意思的工程理念——**每个工程单元都应该让后续的工作变得更简单，而不是更难**。
 
