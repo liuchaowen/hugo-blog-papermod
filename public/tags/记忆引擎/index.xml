@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>记忆引擎 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E5%BC%95%E6%93%8E/</link>
+    <description>Recent content in 记忆引擎 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</guid>
+      <description>Supermemory 是一款专为 AI 设计的状态级记忆与上下文层，支持多框架集成、RAG &#43; Memory 混合搜索，在 LongMemEval、LoCoMo、ConvoMem 三大权威基准上均取得第一名的成绩。</description>
+    </item>
+    
+  </channel>
+</rss>

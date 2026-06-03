@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI 编程 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in AI 编程 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/harness/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/harness/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Harness&lt;/strong&gt; 是 revfactory 团队开源的 Claude Code 插件（Marketplace ID: &lt;code&gt;harness-marketplace&lt;/code&gt;），它的核心定位是 &lt;strong&gt;&amp;ldquo;Team-Architecture Factory&amp;rdquo;（智能体团队架构工厂）&lt;/strong&gt;。只需对 Claude Code 说一句「build a harness for this project」，它就能自动分析你的领域描述，把复杂任务分解为一组协调工作的专业智能体（Agent），并为它们生成配套的 Skills。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>gstack：Garry Tan 的 AI 驱动工程团队工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/gstack/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/gstack/</guid>
+      <description>深入解析 Garry Tan 的 gstack 项目——如何通过 23 个专业角色和 8 个强力工具，将 Claude Code 转变为虚拟工程团队，实现单人 810 倍生产力提升。</description>
+    </item>
+    
+  </channel>
+</rss>

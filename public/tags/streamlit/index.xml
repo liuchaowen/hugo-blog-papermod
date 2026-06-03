@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Streamlit on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/streamlit/</link>
+    <description>Recent content in Streamlit on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</guid>
+      <description>MoneyPrinterTurbo 是一个只需提供主题或关键词，即可全自动生成视频文案、素材、字幕和背景音乐并合成高清短视频的开源项目，支持多种LLM和TTS服务。</description>
+    </item>
+    
+  </channel>
+</rss>

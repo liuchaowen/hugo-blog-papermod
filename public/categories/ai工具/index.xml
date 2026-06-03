@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in AI工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
+    </item>
+    
+    <item>
+      <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</guid>
+      <description>Impeccable 是一套面向 AI 编程助手的设计技能包，提供 7 大设计领域参考文件、23 条设计命令和 27 条反模式规则，从根本上解决 AI 生成前端界面同质化严重的问题。</description>
+    </item>
+    
+    <item>
+      <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</guid>
+      <description>OpenBMB开源的VoxCPM2是一款无分词器TTS系统，支持30种语言语音生成、声音设计与可控克隆，48kHz高保真输出，Apache 2.0商业友好许可。</description>
+    </item>
+    
+    <item>
+      <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</guid>
+      <description>Crawl4AI 是一款专为大型语言模型优化的开源 Web 爬虫工具，可将网页内容转换为干净的 Markdown 格式，适用于 RAG、Agent 和数据管道场景。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</guid>
+      <description>Claude Code Harness 为 Claude Code 提供了一套纪律化的交付循环，通过 5 个动词技能（Plan、Work、Review、Sync、Release）将散乱的 Agent 工作转化为可追踪、可验证、可发布的工程流程。</description>
+    </item>
+    
+    <item>
+      <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>
+      <pubDate>Wed, 27 May 2026 14:50:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ralph/</guid>
+      <description>Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。</description>
+    </item>
+    
+    <item>
+      <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
+    </item>
+    
+    <item>
+      <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</guid>
+      <description>MoneyPrinterTurbo 是一个只需提供主题或关键词，即可全自动生成视频文案、素材、字幕和背景音乐并合成高清短视频的开源项目，支持多种LLM和TTS服务。</description>
+    </item>
+    
+    <item>
+      <title>Superpowers：让编程 Agent 拥有「超能力」的完整开发方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</guid>
+      <description>Superpowers 是一套专为编程 Agent 打造的完整软件开发方法论，通过可组合技能系统，让 AI 编码助手从「乱写代码」变成「有章法的工程师」。</description>
+    </item>
+    
+  </channel>
+</rss>

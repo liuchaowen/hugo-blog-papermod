@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开源 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90/</link>
+    <description>Recent content in 开源 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</guid>
+      <description>Open-LLM-VTuber 是一个支持实时语音对话、视觉感知和 Live2D 虚拟形象的 AI 伴侣项目，可完全离线运行，跨平台兼容 macOS/Linux/Windows，支持桌面宠物模式与丰富的 LLM/TTS/ASR 后端。</description>
+    </item>
+    
+    <item>
+      <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>Godot Engine：开源跨平台游戏引擎的佼佼者</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</guid>
+      <description>探索 Godot Engine —— 开源跨平台游戏引擎的佼佼者，全面解析其架构、特性与应用场景。</description>
+    </item>
+    
+    <item>
+      <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
+      <description>深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40&#43; AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/</guid>
+      <description>探索 GitHub Docs 开源项目，了解其文档工程实践与 OpenTelemetry 可观测性建设。</description>
+    </item>
+    
+    <item>
+      <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
+    </item>
+    
+    <item>
+      <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</guid>
+      <description>pi-subagents 是 Pi coding agent 的扩展，允许主会话将任务委派给专门的子 Agent（scout、planner、worker、reviewer、oracle 等），支持链式和并行执行，适用于代码审查、研究、实现等场景。</description>
+    </item>
+    
+    <item>
+      <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</guid>
+      <description>Project N.O.M.A.D. 是一款开源离线知识与教育服务器，基于 Docker 封装 Ollama AI 助手、Kiwix 离线百科、Kolibri 学习平台、ProtoMaps 离线地图等工具，一条命令完成部署，离线可用、零遥测，适合偏远地区、教育机构或隐私敏感场景。</description>
+    </item>
+    
+    <item>
+      <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</guid>
+      <description>Supermemory 是一款专为 AI 设计的状态级记忆与上下文层，支持多框架集成、RAG &#43; Memory 混合搜索，在 LongMemEval、LoCoMo、ConvoMem 三大权威基准上均取得第一名的成绩。</description>
+    </item>
+    
+    <item>
+      <title>TradingAgents：基于多智能体LLM的金融交易框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/tradingagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/tradingagents/</guid>
+      <description>TradingAgents 是一个多智能体交易框架，通过部署专门的LLM驱动智能体（包括基本面分析师、情绪分析师、技术分析师、交易员、风险管理团队等）协作评估市场状况并制定交易决策，镜像真实世界交易公司的动态。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
+    </item>
+    
+    <item>
+      <title>Scrapling：自适应智能爬虫框架，让数据采集不再头疼</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</guid>
+      <description>Scrapling 是一款现代化的 Python 爬虫框架，集自适应解析、反爬虫绕过、全站并发爬取于一体。其解析器能自动应对网页结构变化，内置 StealthyFetcher 可绕过 Cloudflare Turnstile 等反爬机制，同时提供类 Scrapy 的 Spider API，是从单请求到大规模爬取的统一解决方案。</description>
+    </item>
+    
+    <item>
+      <title>stable-worldmodel：世界模型研究的可复现平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
+      <description>stable-worldmodel 是一个面向世界模型研究的统一平台，提供数据收集、训练和模型预测控制评估的标准化接口，支持多种环境和基线实现，大幅提升研究代码的可复现性。</description>
+    </item>
+    
+    <item>
+      <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</guid>
+      <description>OpenBMB开源的VoxCPM2是一款无分词器TTS系统，支持30种语言语音生成、声音设计与可控克隆，48kHz高保真输出，Apache 2.0商业友好许可。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Skills&lt;/strong&gt; 是 Anthropic 官方开源的技能（Skills）框架，旨在通过简单的文件夹结构为 Claude 提供专业任务能力。每个 Skill 是一个包含 &lt;code&gt;SKILL.md&lt;/code&gt; 指令文件的独立文件夹，Claude 在运行时动态加载这些指令，从而在文档创建、数据分析、Web 测试等特定领域获得显著增强的表现。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</guid>
+      <description>codecrafters-io/build-your-own-x 是 GitHub 上最著名的自学资源清单之一，收录了 30&#43; 个技术方向、数百篇『从零实现』风格的深度教程，涵盖编译器、操作系统、数据库、神经网络、Docker、Git 等核心领域，是程序员系统性提升底层能力的必读项目。</description>
+    </item>
+    
+    <item>
+      <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</guid>
+      <description>Crawl4AI 是一款专为大型语言模型优化的开源 Web 爬虫工具，可将网页内容转换为干净的 Markdown 格式，适用于 RAG、Agent 和数据管道场景。</description>
+    </item>
+    
+    <item>
+      <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</guid>
+      <description>深入解析 OpenMOSS 团队开源的 MOSS-TTS Family，涵盖高精度语音合成、对话生成、声音设计、实时 TTS 和音效生成五大模型</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</guid>
+      <description>Claude Code Harness 为 Claude Code 提供了一套纪律化的交付循环，通过 5 个动词技能（Plan、Work、Review、Sync、Release）将散乱的 Agent 工作转化为可追踪、可验证、可发布的工程流程。</description>
+    </item>
+    
+    <item>
+      <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/heretic/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/heretic/</guid>
+      <description>Heretic 是一款能够全自动移除大语言模型审查机制（安全对齐）的开源工具，通过方向消融技术实现无需昂贵后训练的模型去审查化。</description>
+    </item>
+    
+    <item>
+      <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>
+      <pubDate>Wed, 27 May 2026 14:50:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ralph/</guid>
+      <description>Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。</description>
+    </item>
+    
+    <item>
+      <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
+    </item>
+    
+    <item>
+      <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</guid>
+      <description>MoneyPrinterTurbo 是一个只需提供主题或关键词，即可全自动生成视频文案、素材、字幕和背景音乐并合成高清短视频的开源项目，支持多种LLM和TTS服务。</description>
+    </item>
+    
+    <item>
+      <title>OpenStock：开源股票市场交易平台技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/openstock/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/openstock/</guid>
+      <description>深入解析 OpenStock 开源股票平台的技术架构、核心功能实现与部署方案</description>
+    </item>
+    
+    <item>
+      <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/twenty/</guid>
+      <description>深入解析 Twenty 开源 CRM 的架构设计、技术栈选型与技术实现细节</description>
+    </item>
+    
+    <item>
+      <title>ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</guid>
+      <description>ZOZO开源的ppf-contact-solver是一个高性能物理接触求解器，支持超过1.8亿接触点的可扩展模拟，采用GPU加速和有限元方法，提供完整的Python API和Blender插件。</description>
+    </item>
+    
+    <item>
+      <title>gstack：Garry Tan 的 AI 驱动工程团队工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/gstack/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/gstack/</guid>
+      <description>深入解析 Garry Tan 的 gstack 项目——如何通过 23 个专业角色和 8 个强力工具，将 Claude Code 转变为虚拟工程团队，实现单人 810 倍生产力提升。</description>
+    </item>
+    
+    <item>
+      <title>Paperless-ngx：现代化开源文档管理系统完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</guid>
+      <description>Paperless-ngx 是一个强大的开源文档管理系统，能够将纸质文档转换为可搜索的数字化档案。本文深入解析其架构设计、技术栈选型、安装部署及实战经验。</description>
+    </item>
+    
+    <item>
+      <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</guid>
+      <description>Taste Skill 是一套可移植的 Agent Skills，专门解决 AI 生成前端界面千篇一律的问题，提供更强的布局、排版、动效和间距控制。</description>
+    </item>
+    
+    <item>
+      <title>cmux：专为 AI 编码代理打造的 macOS 原生终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/cmux/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/cmux/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;cmux 是一个基于 Ghostty 引擎构建的 macOS 原生终端应用，专门为运行 AI 编码代理（如 Claude Code、Codex）而优化。它解决了开发者在并行运行多个 AI 代理会话时的核心痛点：如何快速识别哪个代理需要你的输入确认。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ECC 深度技术解析：AI Agent 工作的原生操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/ecc/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/ecc/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ECC&lt;/strong&gt;（Everything Claude Code）是一个为 AI Agent 工作流设计的原生操作系统，在 GitHub 上获得了惊人的 &lt;strong&gt;182K+ stars&lt;/strong&gt; 和 &lt;strong&gt;28K+ forks&lt;/strong&gt;，拥有 &lt;strong&gt;170+ 贡献者&lt;/strong&gt;。该项目起源于 Anthropic 黑客松的获奖作品，经过 10+ 个月的密集日常使用和产品构建演进，已成为一个完整的生产级系统。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

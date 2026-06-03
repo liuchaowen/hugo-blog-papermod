@@ -2,22 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Blog - XLapTop</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://blog.xlap.top/tags/ai/</link>
     <description>Recent content in AI on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</guid>
+      <description>Open-LLM-VTuber 是一个支持实时语音对话、视觉感知和 Live2D 虚拟形象的 AI 伴侣项目，可完全离线运行，跨平台兼容 macOS/Linux/Windows，支持桌面宠物模式与丰富的 LLM/TTS/ASR 后端。</description>
+    </item>
+    
+    <item>
+      <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</guid>
+      <description>深入解析 Babylon 公司推出的 AI 代理编排框架 Babysitter，如何通过过程代码化、质量门禁、人为审批中断点等机制，确保 AI 代理严格按预期执行复杂任务。</description>
+    </item>
+    
+    <item>
+      <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</guid>
+      <description>pi-subagents 是 Pi coding agent 的扩展，允许主会话将任务委派给专门的子 Agent（scout、planner、worker、reviewer、oracle 等），支持链式和并行执行，适用于代码审查、研究、实现等场景。</description>
+    </item>
+    
+    <item>
+      <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</guid>
+      <description>Project N.O.M.A.D. 是一款开源离线知识与教育服务器，基于 Docker 封装 Ollama AI 助手、Kiwix 离线百科、Kolibri 学习平台、ProtoMaps 离线地图等工具，一条命令完成部署，离线可用、零遥测，适合偏远地区、教育机构或隐私敏感场景。</description>
+    </item>
+    
+    <item>
+      <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</guid>
+      <description>Supermemory 是一款专为 AI 设计的状态级记忆与上下文层，支持多框架集成、RAG &#43; Memory 混合搜索，在 LongMemEval、LoCoMo、ConvoMem 三大权威基准上均取得第一名的成绩。</description>
+    </item>
+    
+    <item>
+      <title>Compound Engineering Plugin：让每个工程单元都比上一个更容易</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</link>
+      <pubDate>Fri, 29 May 2026 06:01:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</guid>
+      <description>深入解析 Compound Engineering Plugin：通过 AI Skills 和 Agents 实现工程工作的复利式增长。每个工程单元都让后续工作变得更简单，而非更难。</description>
+    </item>
+    
+    <item>
+      <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</guid>
+      <description>byoungd/English-level-up-tips 是一个系统性的英语进阶学习指南，结合2026年最新的AI工具生态（Gemini、ChatGPT、Claude、Perplexity、DeepL Write），提供从听说读写到AI辅助的完整训练回路。</description>
+    </item>
+    
+    <item>
+      <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>
+      <pubDate>Wed, 27 May 2026 14:50:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ralph/</guid>
+      <description>Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。</description>
+    </item>
+    
+    <item>
+      <title>gstack：Garry Tan 的 AI 驱动工程团队工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/gstack/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/gstack/</guid>
+      <description>深入解析 Garry Tan 的 gstack 项目——如何通过 23 个专业角色和 8 个强力工具，将 Claude Code 转变为虚拟工程团队，实现单人 810 倍生产力提升。</description>
+    </item>
+    
+    <item>
+      <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</guid>
+      <description>Taste Skill 是一套可移植的 Agent Skills，专门解决 AI 生成前端界面千篇一律的问题，提供更强的布局、排版、动效和间距控制。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Cybersecurity Skills: AI 智能体的网络安全技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Cybersecurity Skills&lt;/strong&gt; 是一个面向 AI 智能体的网络安全技能库，收录了 &lt;strong&gt;754 个生产级安全技能&lt;/strong&gt;，覆盖 &lt;strong&gt;26 个安全领域&lt;/strong&gt;，同时映射到五大行业框架：MITRE ATT&amp;amp;CK、NIST CSF 2.0、MITRE ATLAS、MITRE D3FEND 和 NIST AI RMF。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Superpowers：让编程 Agent 拥有「超能力」的完整开发方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</guid>
+      <description>Superpowers 是一套专为编程 Agent 打造的完整软件开发方法论，通过可组合技能系统，让 AI 编码助手从「乱写代码」变成「有章法的工程师」。</description>
+    </item>
+    
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>http://localhost:1313/post/tech/aitools/</link>
+      <link>https://blog.xlap.top/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
       <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
 
 
@@ -37,10 +155,10 @@
     
     <item>
       <title>初次体验PandaGPT读一本书</title>
-      <link>http://localhost:1313/post/life/pandagpt/</link>
+      <link>https://blog.xlap.top/post/life/pandagpt/</link>
       <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/life/pandagpt/</guid>
+      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
       <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
     </item>
     

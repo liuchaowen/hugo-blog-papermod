@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skills on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/skills/</link>
+    <description>Recent content in Skills on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Skills&lt;/strong&gt; 是 Anthropic 官方开源的技能（Skills）框架，旨在通过简单的文件夹结构为 Claude 提供专业任务能力。每个 Skill 是一个包含 &lt;code&gt;SKILL.md&lt;/code&gt; 指令文件的独立文件夹，Claude 在运行时动态加载这些指令，从而在文档创建、数据分析、Web 测试等特定领域获得显著增强的表现。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

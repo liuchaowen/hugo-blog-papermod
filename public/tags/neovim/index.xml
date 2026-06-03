@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neovim on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/neovim/</link>
+    <description>Recent content in Neovim on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/fff/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/fff/</guid>
+      <description>FFF 是一个 Rust 编写的文件搜索工具库，支持 MCP Server、Neovim 插件、Node SDK 和 C 语言库等多种接口。相比 ripgrep 和 fzf，它通过常驻内存索引、frecency 排序和抗拼写错误匹配，在重复搜索场景下实现亚 10ms 响应。</description>
+    </item>
+    
+  </channel>
+</rss>

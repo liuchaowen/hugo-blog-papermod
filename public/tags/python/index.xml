@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/python/</link>
+    <description>Recent content in Python on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrapling：自适应智能爬虫框架，让数据采集不再头疼</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</guid>
+      <description>Scrapling 是一款现代化的 Python 爬虫框架，集自适应解析、反爬虫绕过、全站并发爬取于一体。其解析器能自动应对网页结构变化，内置 StealthyFetcher 可绕过 Cloudflare Turnstile 等反爬机制，同时提供类 Scrapy 的 Spider API，是从单请求到大规模爬取的统一解决方案。</description>
+    </item>
+    
+    <item>
+      <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</guid>
+      <description>Crawl4AI 是一款专为大型语言模型优化的开源 Web 爬虫工具，可将网页内容转换为干净的 Markdown 格式，适用于 RAG、Agent 和数据管道场景。</description>
+    </item>
+    
+    <item>
+      <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/heretic/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/heretic/</guid>
+      <description>Heretic 是一款能够全自动移除大语言模型审查机制（安全对齐）的开源工具，通过方向消融技术实现无需昂贵后训练的模型去审查化。</description>
+    </item>
+    
+    <item>
+      <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</guid>
+      <description>MarkItDown 是微软开源的轻量级 Python 工具，支持 PDF、Word、Excel、PPT、图片、音频等十余种格式一键转为 Markdown，专为 LLM 文本分析流水线设计。</description>
+    </item>
+    
+    <item>
+      <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</guid>
+      <description>MoneyPrinterTurbo 是一个只需提供主题或关键词，即可全自动生成视频文案、素材、字幕和背景音乐并合成高清短视频的开源项目，支持多种LLM和TTS服务。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Claude Cookbooks：开发者必备的 Claude API 实战指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</guid>
+      <description>深入解析 Anthropic 官方 Claude Cookbooks 项目，包含分类、RAG、工具调用、多模态等核心能力的实战代码示例与最佳实践。</description>
+    </item>
+    
+  </channel>
+</rss>

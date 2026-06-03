@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LangGraph on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/langgraph/</link>
+    <description>Recent content in LangGraph on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
+    </item>
+    
+  </channel>
+</rss>

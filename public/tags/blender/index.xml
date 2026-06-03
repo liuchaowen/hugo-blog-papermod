@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blender on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/blender/</link>
+    <description>Recent content in Blender on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</guid>
+      <description>ZOZO开源的ppf-contact-solver是一个高性能物理接触求解器，支持超过1.8亿接触点的可扩展模拟，采用GPU加速和有限元方法，提供完整的Python API和Blender插件。</description>
+    </item>
+    
+  </channel>
+</rss>

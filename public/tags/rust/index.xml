@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rust on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/rust/</link>
+    <description>Recent content in Rust on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/fff/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/fff/</guid>
+      <description>FFF 是一个 Rust 编写的文件搜索工具库，支持 MCP Server、Neovim 插件、Node SDK 和 C 语言库等多种接口。相比 ripgrep 和 fzf，它通过常驻内存索引、frecency 排序和抗拼写错误匹配，在重复搜索场景下实现亚 10ms 响应。</description>
+    </item>
+    
+    <item>
+      <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
+      <description>深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40&#43; AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。</description>
+    </item>
+    
+    <item>
+      <title>iii：零集成架构的后端统一运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/iii/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/iii/</guid>
+      <description>iii 是一个革命性的后端统一运行时，通过 Worker、Function、Trigger 三个原语将队列、定时任务、HTTP、状态管理、可观测性等基础设施统一到一个实时系统表面，实现零集成的服务编排体验。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>记忆系统 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 记忆系统 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,27 @@
 ---
 title: "Machine Learning for Trading: A Comprehensive Guide"
-date: 2026-06-02T04:13:00+08:00  
+date: 2026-06-02
 description: "Explore the official code repository for Machine Learning for Trading 2nd Edition with over 150 Jupyter Notebooks covering ML techniques."
 author: "Cheman"
-draft: false  
-tags: ["quantitative trading", "machine learning", "algorithmic trading"]
+slug: "machine-learning-for-trading"
+draft: false
 categories: ["Quantitative Trading"]
-showToc : true TocOpen : false---
+tags: ["quantitative trading", "machine learning", "algorithmic trading"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
 ## Opening  
 
 The stefan-jansen/machine-learning-for-trading repository contains the official code for the second edition of *Machine Learningfor Trading*. This comprehensive collection of over150 Jupyter Notebooks serves as both a practical guide and theoretical foundationfor developing algorithmic trading strategies powered by ML techniques.

@@ -11,14 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:45:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用VSCode接入DeepSeek V3平替Cursor与Trae的AI编程方案</title>
-      <link>https://blog.xlap.top/post/tech/vscodeai/</link>
-      <pubDate>Tue, 22 Apr 2025 14:45:24 +0800</pubDate>
+      <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/vscodeai/</guid>
-      <description>在深入体验 AI 编程的这几天里，我深刻感受到，程序员们完全可以借助 AI 的力量来提升工作效率，节省脑力。 平时需要一天完成的工作量，现在半天都不用就做</description>
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</guid>
+      <description>Impeccable 是一套面向 AI 编程助手的设计技能包，提供 7 大设计领域参考文件、23 条设计命令和 27 条反模式规则，从根本上解决 AI 生成前端界面同质化严重的问题。</description>
+    </item>
+    
+    <item>
+      <title>Superpowers：让编程 Agent 拥有「超能力」的完整开发方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</guid>
+      <description>Superpowers 是一套专为编程 Agent 打造的完整软件开发方法论，通过可组合技能系统，让 AI 编码助手从「乱写代码」变成「有章法的工程师」。</description>
     </item>
     
   </channel>

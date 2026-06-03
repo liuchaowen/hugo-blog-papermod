@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>架构设计 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 架构设计 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iii：零集成架构的后端统一运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/iii/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/iii/</guid>
+      <description>iii 是一个革命性的后端统一运行时，通过 Worker、Function、Trigger 三个原语将队列、定时任务、HTTP、状态管理、可观测性等基础设施统一到一个实时系统表面，实现零集成的服务编排体验。</description>
+    </item>
+    
+  </channel>
+</rss>

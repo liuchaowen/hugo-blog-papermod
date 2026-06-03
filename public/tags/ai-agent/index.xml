@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Agent on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai-agent/</link>
+    <description>Recent content in AI Agent on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/headroom/</guid>
+      <description>Headroom 是一个面向 AI Agent 的上下文压缩工具，支持库调用、代理模式、MCP 服务器三种部署方式，内置6种压缩算法，在保留精度的前提下实现60-95%的Token节省，且压缩可逆。</description>
+    </item>
+    
+    <item>
+      <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/fff/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/fff/</guid>
+      <description>FFF 是一个 Rust 编写的文件搜索工具库，支持 MCP Server、Neovim 插件、Node SDK 和 C 语言库等多种接口。相比 ripgrep 和 fzf，它通过常驻内存索引、frecency 排序和抗拼写错误匹配，在重复搜索场景下实现亚 10ms 响应。</description>
+    </item>
+    
+    <item>
+      <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
+      <description>深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40&#43; AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。</description>
+    </item>
+    
+    <item>
+      <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
+    </item>
+    
+    <item>
+      <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/harness/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/harness/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Harness&lt;/strong&gt; 是 revfactory 团队开源的 Claude Code 插件（Marketplace ID: &lt;code&gt;harness-marketplace&lt;/code&gt;），它的核心定位是 &lt;strong&gt;&amp;ldquo;Team-Architecture Factory&amp;rdquo;（智能体团队架构工厂）&lt;/strong&gt;。只需对 Claude Code 说一句「build a harness for this project」，它就能自动分析你的领域描述，把复杂任务分解为一组协调工作的专业智能体（Agent），并为它们生成配套的 Skills。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
+    </item>
+    
+    <item>
+      <title>ECC 深度技术解析：AI Agent 工作的原生操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/ecc/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/ecc/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ECC&lt;/strong&gt;（Everything Claude Code）是一个为 AI Agent 工作流设计的原生操作系统，在 GitHub 上获得了惊人的 &lt;strong&gt;182K+ stars&lt;/strong&gt; 和 &lt;strong&gt;28K+ forks&lt;/strong&gt;，拥有 &lt;strong&gt;170+ 贡献者&lt;/strong&gt;。该项目起源于 Anthropic 黑客松的获奖作品，经过 10+ 个月的密集日常使用和产品构建演进，已成为一个完整的生产级系统。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

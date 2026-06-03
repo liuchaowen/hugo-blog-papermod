@@ -11,14 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:45:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用VSCode接入DeepSeek V3平替Cursor与Trae的AI编程方案</title>
-      <link>https://blog.xlap.top/post/tech/vscodeai/</link>
-      <pubDate>Tue, 22 Apr 2025 14:45:24 +0800</pubDate>
+      <title>Karpathy 式 Claude Code 编程指南：四大原则提升 AI 编码质量</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
       
-      <guid>https://blog.xlap.top/post/tech/vscodeai/</guid>
-      <description>在深入体验 AI 编程的这几天里，我深刻感受到，程序员们完全可以借助 AI 的力量来提升工作效率，节省脑力。 平时需要一天完成的工作量，现在半天都不用就做</description>
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</guid>
+      <description>基于 Andrej Karpathy 对 LLM 编码问题的观察，提炼出四大原则帮助 Claude Code 生成更高质量的代码</description>
+    </item>
+    
+    <item>
+      <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
     </item>
     
   </channel>

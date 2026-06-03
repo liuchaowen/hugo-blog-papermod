@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pi on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/pi/</link>
+    <description>Recent content in Pi on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</guid>
+      <description>pi-subagents 是 Pi coding agent 的扩展，允许主会话将任务委派给专门的子 Agent（scout、planner、worker、reviewer、oracle 等），支持链式和并行执行，适用于代码审查、研究、实现等场景。</description>
+    </item>
+    
+  </channel>
+</rss>

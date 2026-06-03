@@ -2,22 +2,286 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术 on Blog - XLapTop</title>
-    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+    <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 技术 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/headroom/</guid>
+      <description>Headroom 是一个面向 AI Agent 的上下文压缩工具，支持库调用、代理模式、MCP 服务器三种部署方式，内置6种压缩算法，在保留精度的前提下实现60-95%的Token节省，且压缩可逆。</description>
+    </item>
+    
+    <item>
+      <title>Open-LLM-VTuber：开源离线运行的 AI 虚拟伴侣，支持语音对话与 Live2D 形象</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/open-llm-vtuber/</guid>
+      <description>Open-LLM-VTuber 是一个支持实时语音对话、视觉感知和 Live2D 虚拟形象的 AI 伴侣项目，可完全离线运行，跨平台兼容 macOS/Linux/Windows，支持桌面宠物模式与丰富的 LLM/TTS/ASR 后端。</description>
+    </item>
+    
+    <item>
+      <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>Godot Engine：开源跨平台游戏引擎的佼佼者</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</guid>
+      <description>探索 Godot Engine —— 开源跨平台游戏引擎的佼佼者，全面解析其架构、特性与应用场景。</description>
+    </item>
+    
+    <item>
+      <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</guid>
+      <description>GitHub Trending 热门项目 developer-portfolios 评测：收录全球 1742&#43; 开发者个人作品集，覆盖 React/Vue/Next.js/Framer 等主流技术栈，提供可直接复制的设计参考，帮助你快速搭建专业级个人主页。</description>
+    </item>
+    
+    <item>
+      <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</guid>
+      <description>深入解析 Babylon 公司推出的 AI 代理编排框架 Babysitter，如何通过过程代码化、质量门禁、人为审批中断点等机制，确保 AI 代理严格按预期执行复杂任务。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/</guid>
+      <description>探索 GitHub Docs 开源项目，了解其文档工程实践与 OpenTelemetry 可观测性建设。</description>
+    </item>
+    
+    <item>
+      <title>Pi Sub-Agents：让 AI 父会话委派任务给专注子 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/pi-subagents/</guid>
+      <description>pi-subagents 是 Pi coding agent 的扩展，允许主会话将任务委派给专门的子 Agent（scout、planner、worker、reviewer、oracle 等），支持链式和并行执行，适用于代码审查、研究、实现等场景。</description>
+    </item>
+    
+    <item>
+      <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</guid>
+      <description>Project N.O.M.A.D. 是一款开源离线知识与教育服务器，基于 Docker 封装 Ollama AI 助手、Kiwix 离线百科、Kolibri 学习平台、ProtoMaps 离线地图等工具，一条命令完成部署，离线可用、零遥测，适合偏远地区、教育机构或隐私敏感场景。</description>
+    </item>
+    
+    <item>
+      <title>Supermemory：让 AI 拥有持久记忆的上下文引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/supermemory/</guid>
+      <description>Supermemory 是一款专为 AI 设计的状态级记忆与上下文层，支持多框架集成、RAG &#43; Memory 混合搜索，在 LongMemEval、LoCoMo、ConvoMem 三大权威基准上均取得第一名的成绩。</description>
+    </item>
+    
+    <item>
+      <title>TradingAgents：基于多智能体LLM的金融交易框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/tradingagents/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/tradingagents/</guid>
+      <description>TradingAgents 是一个多智能体交易框架，通过部署专门的LLM驱动智能体（包括基本面分析师、情绪分析师、技术分析师、交易员、风险管理团队等）协作评估市场状况并制定交易决策，镜像真实世界交易公司的动态。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
+    </item>
+    
+    <item>
+      <title>Scrapling：自适应智能爬虫框架，让数据采集不再头疼</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</guid>
+      <description>Scrapling 是一款现代化的 Python 爬虫框架，集自适应解析、反爬虫绕过、全站并发爬取于一体。其解析器能自动应对网页结构变化，内置 StealthyFetcher 可绕过 Cloudflare Turnstile 等反爬机制，同时提供类 Scrapy 的 Spider API，是从单请求到大规模爬取的统一解决方案。</description>
+    </item>
+    
+    <item>
+      <title>stable-worldmodel：世界模型研究的可复现平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
+      <description>stable-worldmodel 是一个面向世界模型研究的统一平台，提供数据收集、训练和模型预测控制评估的标准化接口，支持多种环境和基线实现，大幅提升研究代码的可复现性。</description>
+    </item>
+    
+    <item>
+      <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</guid>
+      <description>codecrafters-io/build-your-own-x 是 GitHub 上最著名的自学资源清单之一，收录了 30&#43; 个技术方向、数百篇『从零实现』风格的深度教程，涵盖编译器、操作系统、数据库、神经网络、Docker、Git 等核心领域，是程序员系统性提升底层能力的必读项目。</description>
+    </item>
+    
+    <item>
+      <title>Crawl4AI：专为 LLM 设计的开源 Web 爬虫与数据抓取工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/crawl4ai/</guid>
+      <description>Crawl4AI 是一款专为大型语言模型优化的开源 Web 爬虫工具，可将网页内容转换为干净的 Markdown 格式，适用于 RAG、Agent 和数据管道场景。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</guid>
+      <description>Claude Code Harness 为 Claude Code 提供了一套纪律化的交付循环，通过 5 个动词技能（Plan、Work、Review、Sync、Release）将散乱的 Agent 工作转化为可追踪、可验证、可发布的工程流程。</description>
+    </item>
+    
+    <item>
+      <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/heretic/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/heretic/</guid>
+      <description>Heretic 是一款能够全自动移除大语言模型审查机制（安全对齐）的开源工具，通过方向消融技术实现无需昂贵后训练的模型去审查化。</description>
+    </item>
+    
+    <item>
+      <title>iii：零集成架构的后端统一运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/iii/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/iii/</guid>
+      <description>iii 是一个革命性的后端统一运行时，通过 Worker、Function、Trigger 三个原语将队列、定时任务、HTTP、状态管理、可观测性等基础设施统一到一个实时系统表面，实现零集成的服务编排体验。</description>
+    </item>
+    
+    <item>
+      <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</guid>
+      <description>MarkItDown 是微软开源的轻量级 Python 工具，支持 PDF、Word、Excel、PPT、图片、音频等十余种格式一键转为 Markdown，专为 LLM 文本分析流水线设计。</description>
+    </item>
+    
+    <item>
+      <title>ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</guid>
+      <description>ZOZO开源的ppf-contact-solver是一个高性能物理接触求解器，支持超过1.8亿接触点的可扩展模拟，采用GPU加速和有限元方法，提供完整的Python API和Blender插件。</description>
+    </item>
+    
+    <item>
+      <title>FreeDomain：500 万用户信赖的免费域名注册平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</guid>
+      <description>DigitalPlatDev/FreeDomain 是一个提供免费域名注册服务的开源项目，支持 .DPDNS.ORG、.US.KG 等多个后缀，已帮助超过 50 万用户拥有自己的免费域名。</description>
+    </item>
+    
+    <item>
+      <title>Paperless-ngx：现代化开源文档管理系统完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</guid>
+      <description>Paperless-ngx 是一个强大的开源文档管理系统，能够将纸质文档转换为可搜索的数字化档案。本文深入解析其架构设计、技术栈选型、安装部署及实战经验。</description>
+    </item>
+    
+    <item>
+      <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</guid>
+      <description>Taste Skill 是一套可移植的 Agent Skills，专门解决 AI 生成前端界面千篇一律的问题，提供更强的布局、排版、动效和间距控制。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Cybersecurity Skills: AI 智能体的网络安全技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Cybersecurity Skills&lt;/strong&gt; 是一个面向 AI 智能体的网络安全技能库，收录了 &lt;strong&gt;754 个生产级安全技能&lt;/strong&gt;，覆盖 &lt;strong&gt;26 个安全领域&lt;/strong&gt;，同时映射到五大行业框架：MITRE ATT&amp;amp;CK、NIST CSF 2.0、MITRE ATLAS、MITRE D3FEND 和 NIST AI RMF。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ECC 深度技术解析：AI Agent 工作的原生操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/ecc/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/ecc/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ECC&lt;/strong&gt;（Everything Claude Code）是一个为 AI Agent 工作流设计的原生操作系统，在 GitHub 上获得了惊人的 &lt;strong&gt;182K+ stars&lt;/strong&gt; 和 &lt;strong&gt;28K+ forks&lt;/strong&gt;，拥有 &lt;strong&gt;170+ 贡献者&lt;/strong&gt;。该项目起源于 Anthropic 黑客松的获奖作品，经过 10+ 个月的密集日常使用和产品构建演进，已成为一个完整的生产级系统。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Superpowers：让编程 Agent 拥有「超能力」的完整开发方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</guid>
+      <description>Superpowers 是一套专为编程 Agent 打造的完整软件开发方法论，通过可组合技能系统，让 AI 编码助手从「乱写代码」变成「有章法的工程师」。</description>
+    </item>
+    
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>http://localhost:1313/post/tech/aitools/</link>
+      <link>https://blog.xlap.top/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
       <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
 
 
@@ -37,10 +301,10 @@
     
     <item>
       <title>基于Flutter3的FlipClock翻页时钟</title>
-      <link>http://localhost:1313/post/tech/flipclock/</link>
+      <link>https://blog.xlap.top/post/tech/flipclock/</link>
       <pubDate>Thu, 22 Feb 2024 17:28:04 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/flipclock/</guid>
+      <guid>https://blog.xlap.top/post/tech/flipclock/</guid>
       <description>&lt;h3 id=&#34;项目地址&#34;&gt;项目地址&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/liuchaowen/flutter-flipclock&#34;&gt;https://github.com/liuchaowen/flutter-flipclock&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;项目初衷&#34;&gt;项目初衷&lt;/h3&gt;
@@ -49,46 +313,46 @@
     
     <item>
       <title>做个免费简单的跳转提示页</title>
-      <link>http://localhost:1313/post/tech/jumppage/</link>
+      <link>https://blog.xlap.top/post/tech/jumppage/</link>
       <pubDate>Mon, 22 May 2023 09:21:46 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/jumppage/</guid>
+      <guid>https://blog.xlap.top/post/tech/jumppage/</guid>
       <description>使用Github Pages做个纯静态的跳转提示页功能</description>
     </item>
     
     <item>
       <title>Hugo的标签使用词云WordCloud2展示</title>
-      <link>http://localhost:1313/post/tech/wordcloud4hugo/</link>
+      <link>https://blog.xlap.top/post/tech/wordcloud4hugo/</link>
       <pubDate>Thu, 16 Mar 2023 13:41:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/wordcloud4hugo/</guid>
+      <guid>https://blog.xlap.top/post/tech/wordcloud4hugo/</guid>
       <description>让你的标签展示更加好看，更加直观</description>
     </item>
     
     <item>
       <title>Hugo使用简码Shortcode指南</title>
-      <link>http://localhost:1313/post/tech/hugouseshortcode/</link>
+      <link>https://blog.xlap.top/post/tech/hugouseshortcode/</link>
       <pubDate>Thu, 09 Mar 2023 15:51:45 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/hugouseshortcode/</guid>
+      <guid>https://blog.xlap.top/post/tech/hugouseshortcode/</guid>
       <description>记录平时使用的调用方法，方便写文章时调用</description>
     </item>
     
     <item>
       <title>Hugo个人博客站点常用配置</title>
-      <link>http://localhost:1313/post/tech/hugoconfig/</link>
+      <link>https://blog.xlap.top/post/tech/hugoconfig/</link>
       <pubDate>Tue, 28 Feb 2023 14:40:13 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/hugoconfig/</guid>
+      <guid>https://blog.xlap.top/post/tech/hugoconfig/</guid>
       <description>有一些小问题需要记录一下，方便后来者使用</description>
     </item>
     
     <item>
       <title>Heatmap4Hugo每日文章数热力图</title>
-      <link>http://localhost:1313/post/tech/heatmap4hugo/</link>
+      <link>https://blog.xlap.top/post/tech/heatmap4hugo/</link>
       <pubDate>Mon, 27 Feb 2023 23:30:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/heatmap4hugo/</guid>
+      <guid>https://blog.xlap.top/post/tech/heatmap4hugo/</guid>
       <description>&lt;h3 id=&#34;初衷与思路&#34;&gt;初衷与思路&lt;/h3&gt;
 &lt;p&gt;想做在Hugo做一个类似Github那样的每日提交热度图，找到了一个很火的项目：&lt;/p&gt;
 
@@ -106,28 +370,28 @@
     
     <item>
       <title>好玩有用的开源项目</title>
-      <link>http://localhost:1313/post/tech/opensourceproject/</link>
+      <link>https://blog.xlap.top/post/tech/opensourceproject/</link>
       <pubDate>Wed, 18 Jan 2023 16:59:05 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/opensourceproject/</guid>
+      <guid>https://blog.xlap.top/post/tech/opensourceproject/</guid>
       <description>罗列好玩有用的开源项目，方便日后寻找</description>
     </item>
     
     <item>
       <title>Kinect4AlphaRobot</title>
-      <link>http://localhost:1313/post/tech/kinect4alpharobot/</link>
+      <link>https://blog.xlap.top/post/tech/kinect4alpharobot/</link>
       <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/kinect4alpharobot/</guid>
+      <guid>https://blog.xlap.top/post/tech/kinect4alpharobot/</guid>
       <description>使用kinect体感控制机器人</description>
     </item>
     
     <item>
       <title>Flutter3新特性学习</title>
-      <link>http://localhost:1313/post/tech/flutter3/</link>
+      <link>https://blog.xlap.top/post/tech/flutter3/</link>
       <pubDate>Mon, 26 Dec 2022 16:59:05 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/flutter3/</guid>
+      <guid>https://blog.xlap.top/post/tech/flutter3/</guid>
       <description>粗略地看看flutter3.0版本有什么新特性</description>
     </item>
     

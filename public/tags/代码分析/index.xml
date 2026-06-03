@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代码分析 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 代码分析 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

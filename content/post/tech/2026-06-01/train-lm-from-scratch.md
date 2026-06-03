@@ -1,11 +1,27 @@
 ---
 title: "从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南"
-date: 2026--0-
+date: 2026-06-01
 description: "详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。"
 author: "Cheman"
-slug: train-lm-from-scratchdraftboolcategories:[技术开源AI]
-tags:[GitHub开源技术LLMPyTorchTransformer]
-showToc:truTocOpenfalsehidemetafalsecommentsfalsedisableHLJS:falsedisableSharefalsehideSummary:falsesearchHiddentrueShowReadingTime:truShowBreadCrumbs:truShowPostNavLinks:truShowWordCount:truShowRssButtonInSectionTermListstrueUseHugoToc：true---
+slug: "train-lm-from-scratch"
+draft: false
+categories: ["技术", "开源", "AI"]
+tags: ["GitHub", "开源", "技术", "LLM", "PyTorch", "Transformer"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
 
 今天在 GitHub Trending上看到一个有意思的项目：**train-lm-from-scratch**，这个项目实现了从零开始使用PyTorch构建Transformer模型来训练大语言模型。
 

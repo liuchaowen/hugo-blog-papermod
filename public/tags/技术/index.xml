@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
+    </item>
+    
+  </channel>
+</rss>

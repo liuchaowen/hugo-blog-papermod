@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Claude on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/claude/</link>
+    <description>Recent content in Claude on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</guid>
+      <description>深入解析 Babylon 公司推出的 AI 代理编排框架 Babysitter，如何通过过程代码化、质量门禁、人为审批中断点等机制，确保 AI 代理严格按预期执行复杂任务。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Skills&lt;/strong&gt; 是 Anthropic 官方开源的技能（Skills）框架，旨在通过简单的文件夹结构为 Claude 提供专业任务能力。每个 Skill 是一个包含 &lt;code&gt;SKILL.md&lt;/code&gt; 指令文件的独立文件夹，Claude 在运行时动态加载这些指令，从而在文档创建、数据分析、Web 测试等特定领域获得显著增强的表现。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</guid>
+      <description>byoungd/English-level-up-tips 是一个系统性的英语进阶学习指南，结合2026年最新的AI工具生态（Gemini、ChatGPT、Claude、Perplexity、DeepL Write），提供从听说读写到AI辅助的完整训练回路。</description>
+    </item>
+    
+    <item>
+      <title>gstack：Garry Tan 的 AI 驱动工程团队工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/gstack/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/gstack/</guid>
+      <description>深入解析 Garry Tan 的 gstack 项目——如何通过 23 个专业角色和 8 个强力工具，将 Claude Code 转变为虚拟工程团队，实现单人 810 倍生产力提升。</description>
+    </item>
+    
+    <item>
+      <title>Karpathy 式 Claude Code 编程指南：四大原则提升 AI 编码质量</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</guid>
+      <description>基于 Andrej Karpathy 对 LLM 编码问题的观察，提炼出四大原则帮助 Claude Code 生成更高质量的代码</description>
+    </item>
+    
+    <item>
+      <title>Superpowers：让编程 Agent 拥有「超能力」的完整开发方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/superpowers/</guid>
+      <description>Superpowers 是一套专为编程 Agent 打造的完整软件开发方法论，通过可组合技能系统，让 AI 编码助手从「乱写代码」变成「有章法的工程师」。</description>
+    </item>
+    
+  </channel>
+</rss>

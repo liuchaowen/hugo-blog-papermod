@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skill on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/skill/</link>
+    <description>Recent content in Skill on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</guid>
+      <description>Taste Skill 是一套可移植的 Agent Skills，专门解决 AI 生成前端界面千篇一律的问题，提供更强的布局、排版、动效和间距控制。</description>
+    </item>
+    
+  </channel>
+</rss>

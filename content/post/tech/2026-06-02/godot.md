@@ -1,15 +1,26 @@
 ---
 title: "Godot Engine：开源跨平台游戏引擎的佼佼者"
-date: 2026-06-02T00:01:00+08:00
+date: 2026-06-02
+description: "探索 Godot Engine —— 开源跨平台游戏引擎的佼佼者，全面解析其架构、特性与应用场景。"
 author: "技术探索者"
-categories:
-  - "技术"
-tags:
-  - "游戏开发"
-  - "开源"
-  - "Godot"
-  - "游戏引擎"
-description: "探索 Godot Engine —— "
+slug: "godot-engine"
+draft: false
+categories: ["技术"]
+tags: ["游戏开发", "开源", "Godot", "游戏引擎"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
 
 ## 🎮 Godot Engine —— "

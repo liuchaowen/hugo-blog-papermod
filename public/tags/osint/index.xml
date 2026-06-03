@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSINT on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/osint/</link>
+    <description>Recent content in OSINT on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/flowsint/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/flowsint/</guid>
+      <description>Flowsint 是一款基于图数据库的开源 OSINT 工具，支持域名、IP、社交媒体、加密货币等多维度情报关联探索，通过可视化图谱界面让调查分析变得直观高效。</description>
+    </item>
+    
+  </channel>
+</rss>

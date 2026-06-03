@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自托管 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/</link>
+    <description>Recent content in 自托管 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
+    </item>
+    
+    <item>
+      <title>Paperless-ngx：现代化开源文档管理系统完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</guid>
+      <description>Paperless-ngx 是一个强大的开源文档管理系统，能够将纸质文档转换为可搜索的数字化档案。本文深入解析其架构设计、技术栈选型、安装部署及实战经验。</description>
+    </item>
+    
+  </channel>
+</rss>

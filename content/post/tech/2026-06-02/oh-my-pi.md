@@ -3,11 +3,25 @@ title: "oh-my-pi：把 IDE 能力接入编码智能体的终极方案"
 date: 2026-06-02
 description: "深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40+ AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。"
 author: "Cheman"
-slug: oh-my-pi
+slug: "oh-my-pi"
 draft: false
-categories: [开源项目]
-tags: [GitHub Trendingmeticulous exploration below...]
-showToc: trueTocOpen falseh idemeta falsecomments falsedisableHLJS falsedisableShare falseshowSummary falsearchHidden trueshowReadingTime trueShowBreadCrumbs trueshowPostNavLinks trueshowWordCount truesShowRssButtonInSectionTermList trueUseHugoToc true---
+categories: ["开源项目"]
+tags: ["GitHub", "开源", "IDE", "AI Agent", "Rust"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
 
 今天在 GitHub Trending看到的这个项目让我眼前一亮：**oh‑my‑pi**（简称 **omp**）——它不是一个「套壳」的 AI  助手，而是把 **IDE  的核心能力（LSP、DAP、Git）直接焊进了智能体的工具链**，让模型真正能「理解」你的代码库。
 

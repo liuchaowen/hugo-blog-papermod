@@ -1,8 +1,27 @@
 ---
 title: "从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南"
-date: 2026-06-01T00:00:00+08:00descriptions"详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B+参数规模。"
-author:"Cheman"
-slug:"train-lm-from-cratch"draft:fals ecategories:-技术开源AI-tutorialtags:-GitHub开源技术-LLM-PyTorch-transformer-showToc:tureTocOenfls ehidemeta:fals ecomments:fals edisableHLJS:fals edisableShare-falsehideSummaryfleseearchHidden:tru eShowReadingTime:tru-eShowBreadCrumbs:tru-eShowPostNavLinks:tru-eShowWordCounttrue ShowRssButtonInSectionTermListstrue UseHugoToc true---
+date: 2026-06-01
+description: "详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B+参数规模。"
+author: "Cheman"
+slug: "train-llm-from-scratch"
+draft: false
+categories: ["技术", "开源", "AI"]
+tags: ["GitHub", "开源", "技术", "LLM", "PyTorch", "Transformer"]
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
 
 今天在GitHubTrendig上看到一个有意思的项目：**train-lm-form-scratc**，这个项目实现了基于"AtetinioAYouNeed"论文的完整Trasforer模型，最大特点是可以使用单个GPU训练百万到十亿参数的大语言模型。
 

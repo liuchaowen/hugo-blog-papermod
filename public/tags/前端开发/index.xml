@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>前端开发 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 前端开发 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</guid>
+      <description>Impeccable 是一套面向 AI 编程助手的设计技能包，提供 7 大设计领域参考文件、23 条设计命令和 27 条反模式规则，从根本上解决 AI 生成前端界面同质化严重的问题。</description>
+    </item>
+    
+  </channel>
+</rss>

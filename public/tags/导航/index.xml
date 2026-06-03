@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>导航 on Blog - XLapTop</title>
-    <link>http://localhost:1313/tags/%E5%AF%BC%E8%88%AA/</link>
+    <link>https://blog.xlap.top/tags/%E5%AF%BC%E8%88%AA/</link>
     <description>Recent content in 导航 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Feb 2025 17:06:57 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic Cybersecurity Skills: AI 智能体的网络安全技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Cybersecurity Skills&lt;/strong&gt; 是一个面向 AI 智能体的网络安全技能库，收录了 &lt;strong&gt;754 个生产级安全技能&lt;/strong&gt;，覆盖 &lt;strong&gt;26 个安全领域&lt;/strong&gt;，同时映射到五大行业框架：MITRE ATT&amp;amp;CK、NIST CSF 2.0、MITRE ATLAS、MITRE D3FEND 和 NIST AI RMF。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>http://localhost:1313/post/tech/aitools/</link>
+      <link>https://blog.xlap.top/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/tech/aitools/</guid>
+      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
       <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
 
 

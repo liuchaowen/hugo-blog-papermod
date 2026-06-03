@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/react/</link>
+    <description>Recent content in React on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</guid>
+      <description>GitHub Trending 热门项目 developer-portfolios 评测：收录全球 1742&#43; 开发者个人作品集，覆盖 React/Vue/Next.js/Framer 等主流技术栈，提供可直接复制的设计参考，帮助你快速搭建专业级个人主页。</description>
+    </item>
+    
+    <item>
+      <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/twenty/</guid>
+      <description>深入解析 Twenty 开源 CRM 的架构设计、技术栈选型与技术实现细节</description>
+    </item>
+    
+  </channel>
+</rss>

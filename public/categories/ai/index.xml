@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/ai/</link>
+    <description>Recent content in AI on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/headroom/</guid>
+      <description>Headroom 是一个面向 AI Agent 的上下文压缩工具，支持库调用、代理模式、MCP 服务器三种部署方式，内置6种压缩算法，在保留精度的前提下实现60-95%的Token节省，且压缩可逆。</description>
+    </item>
+    
+    <item>
+      <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
+    </item>
+    
+    <item>
+      <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Skills&lt;/strong&gt; 是 Anthropic 官方开源的技能（Skills）框架，旨在通过简单的文件夹结构为 Claude 提供专业任务能力。每个 Skill 是一个包含 &lt;code&gt;SKILL.md&lt;/code&gt; 指令文件的独立文件夹，Claude 在运行时动态加载这些指令，从而在文档创建、数据分析、Web 测试等特定领域获得显著增强的表现。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/heretic/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/heretic/</guid>
+      <description>Heretic 是一款能够全自动移除大语言模型审查机制（安全对齐）的开源工具，通过方向消融技术实现无需昂贵后训练的模型去审查化。</description>
+    </item>
+    
+    <item>
+      <title>cmux：专为 AI 编码代理打造的 macOS 原生终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/cmux/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/cmux/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;cmux 是一个基于 Ghostty 引擎构建的 macOS 原生终端应用，专门为运行 AI 编码代理（如 Claude Code、Codex）而优化。它解决了开发者在并行运行多个 AI 代理会话时的核心痛点：如何快速识别哪个代理需要你的输入确认。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

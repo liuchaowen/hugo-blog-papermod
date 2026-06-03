@@ -12,7 +12,16 @@ TocOpen: false
 hidemeta: false
 comments: false
 disableHLJS: false
-disableShareAccount falsehideSummarySearchHidden trueShowReadingTime true ShowBreadCrumbs trueShowPostNavLinks trueshort showwordcount Trueshort showrssbuttonInsectiontermlist TrueUseHugoT ocTrue---
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+---
 
 今天在 GitHub Trending   
 ##一**、项目概述**

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/tech/</link>
+    <description>Recent content in Tech on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 May 2026 06:01:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compound Engineering Plugin：让每个工程单元都比上一个更容易</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</link>
+      <pubDate>Fri, 29 May 2026 06:01:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</guid>
+      <description>深入解析 Compound Engineering Plugin：通过 AI Skills 和 Agents 实现工程工作的复利式增长。每个工程单元都让后续工作变得更简单，而非更难。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI编码 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E7%BC%96%E7%A0%81/</link>
+    <description>Recent content in AI编码 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cmux：专为 AI 编码代理打造的 macOS 原生终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-25/cmux/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-25/cmux/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;cmux 是一个基于 Ghostty 引擎构建的 macOS 原生终端应用，专门为运行 AI 编码代理（如 Claude Code、Codex）而优化。它解决了开发者在并行运行多个 AI 代理会话时的核心痛点：如何快速识别哪个代理需要你的输入确认。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

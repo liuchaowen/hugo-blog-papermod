@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DNS on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/dns/</link>
+    <description>Recent content in DNS on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeDomain：500 万用户信赖的免费域名注册平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</guid>
+      <description>DigitalPlatDev/FreeDomain 是一个提供免费域名注册服务的开源项目，支持 .DPDNS.ORG、.US.KG 等多个后缀，已帮助超过 50 万用户拥有自己的免费域名。</description>
+    </item>
+    
+  </channel>
+</rss>

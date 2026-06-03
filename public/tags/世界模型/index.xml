@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>世界模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 世界模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>stable-worldmodel：世界模型研究的可复现平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
+      <description>stable-worldmodel 是一个面向世界模型研究的统一平台，提供数据收集、训练和模型预测控制评估的标准化接口，支持多种环境和基线实现，大幅提升研究代码的可复现性。</description>
+    </item>
+    
+  </channel>
+</rss>

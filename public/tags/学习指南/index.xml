@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>学习指南 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 学习指南 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</guid>
+      <description>byoungd/English-level-up-tips 是一个系统性的英语进阶学习指南，结合2026年最新的AI工具生态（Gemini、ChatGPT、Claude、Perplexity、DeepL Write），提供从听说读写到AI辅助的完整训练回路。</description>
+    </item>
+    
+  </channel>
+</rss>

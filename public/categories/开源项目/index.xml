@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开源项目 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</link>
+    <description>Recent content in 开源项目 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
+      <description>深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40&#43; AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。</description>
+    </item>
+    
+    <item>
+      <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/skills/</guid>
+      <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anthropic Skills&lt;/strong&gt; 是 Anthropic 官方开源的技能（Skills）框架，旨在通过简单的文件夹结构为 Claude 提供专业任务能力。每个 Skill 是一个包含 &lt;code&gt;SKILL.md&lt;/code&gt; 指令文件的独立文件夹，Claude 在运行时动态加载这些指令，从而在文档创建、数据分析、Web 测试等特定领域获得显著增强的表现。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</guid>
+      <description>深入解析 OpenMOSS 团队开源的 MOSS-TTS Family，涵盖高精度语音合成、对话生成、声音设计、实时 TTS 和音效生成五大模型</description>
+    </item>
+    
+    <item>
+      <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</guid>
+      <description>byoungd/English-level-up-tips 是一个系统性的英语进阶学习指南，结合2026年最新的AI工具生态（Gemini、ChatGPT、Claude、Perplexity、DeepL Write），提供从听说读写到AI辅助的完整训练回路。</description>
+    </item>
+    
+    <item>
+      <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
+    </item>
+    
+    <item>
+      <title>MoneyPrinterTurbo：基于AI的全自动短视频生成工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/moneyprinterturbo/</guid>
+      <description>MoneyPrinterTurbo 是一个只需提供主题或关键词，即可全自动生成视频文案、素材、字幕和背景音乐并合成高清短视频的开源项目，支持多种LLM和TTS服务。</description>
+    </item>
+    
+    <item>
+      <title>OpenStock：开源股票市场交易平台技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/openstock/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/openstock/</guid>
+      <description>深入解析 OpenStock 开源股票平台的技术架构、核心功能实现与部署方案</description>
+    </item>
+    
+    <item>
+      <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-27/twenty/</guid>
+      <description>深入解析 Twenty 开源 CRM 的架构设计、技术栈选型与技术实现细节</description>
+    </item>
+    
+    <item>
+      <title>Anthropic Claude Cookbooks：开发者必备的 Claude API 实战指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</guid>
+      <description>深入解析 Anthropic 官方 Claude Cookbooks 项目，包含分类、RAG、工具调用、多模态等核心能力的实战代码示例与最佳实践。</description>
+    </item>
+    
+    <item>
+      <title>Karpathy 式 Claude Code 编程指南：四大原则提升 AI 编码质量</title>
+      <link>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</guid>
+      <description>基于 Andrej Karpathy 对 LLM 编码问题的观察，提炼出四大原则帮助 Claude Code 生成更高质量的代码</description>
+    </item>
+    
+  </channel>
+</rss>
