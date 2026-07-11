@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SDK on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/sdk/</link>
+    <description>Recent content in SDK on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Copilot SDK：为你的应用嵌入生产级 AI Agent 工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</guid>
+      <description>GitHub Copilot SDK 开源项目深度解析：如何将 Copilot 的生产级 Agent 运行时嵌入到你的应用程序中，支持 Python、TypeScript、Go、.NET、Java、Rust 六大语言SDK，无需自建编排系统。</description>
+    </item>
+    
+  </channel>
+</rss>

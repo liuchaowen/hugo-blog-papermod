@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PostgreSQL on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</guid>
+      <description>微软开源的 pg_durable 扩展将持久化执行模式带入 PostgreSQL，用 SQL DSL 定义工作流步骤，自动检查点恢复，无需外部编排服务。</description>
+    </item>
+    
+    <item>
+      <title>Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/odoo/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/odoo/</guid>
+      <description>深入解析 Odoo 开源 ERP 平台的架构设计、技术栈选型、核心模块实现原理，以及从源码角度理解其模块化设计和数据库模型，为企业数字化转型提供技术参考。</description>
+    </item>
+    
+  </channel>
+</rss>

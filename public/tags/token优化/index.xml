@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/token%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/token%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/caveman/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/caveman/</guid>
+      <description>Caveman 是一个 Claude Code 技能/插件，支持 30&#43; AI 编程助手，通过精简输出语言减少约 75% 的输出 Token，同时保持完整的技术准确性。本文深度解析其工作原理、安装方式、实际收益和技术实现。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

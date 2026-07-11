@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/html/</link>
+    <description>Recent content in HTML on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</guid>
+      <description>HyperFrames 是 HeyGen 开源的一款 HTML-to-Video 框架，支持将 HTML、CSS、动画转换为确定性 MP4 视频。本文深入解析其技术架构、与 Remotion 的对比，以及在 AI Agent 视频生产中的应用。</description>
+    </item>
+    
+  </channel>
+</rss>

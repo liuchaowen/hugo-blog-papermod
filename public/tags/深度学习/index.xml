@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyTorch：深度学习领域的首选框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
+    <item>
+      <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
+      <description>LingBot-Map 是 Robbyant 团队发布的流式 3D 重建基础模型，通过 Geometric Context Transformer 架构统一坐标定位、几何线索和长期漂移校正，支持超长序列（&amp;gt;10000 帧）的稳定推理，在多个基准上达到 SOTA 性能。</description>
+    </item>
+    
+    <item>
+      <title>Google TimesFM：谷歌开源的时间序列基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</guid>
+      <description>TimesFM 是 Google Research 开发的时间序列基础模型，支持 200M 参数、16K 上下文长度，可进行点预测和分位数预测，适用于金融、能源、零售等领域的时序预测任务。</description>
+    </item>
+    
+    <item>
+      <title>Supervision — Roboflow 开源计算机视觉工具箱，让你的 CV 项目如虎添翼</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/supervision/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/supervision/</guid>
+      <description>Supervision 是 Roboflow 推出的 Python 计算机视觉工具库，提供数据加载、标注可视化、目标检测、多目标跟踪、区域计数等核心能力，支持 Ultralytics、Transformers、MMDetection 等主流模型的无缝接入，是构建 CV 应用的必备工具包。</description>
+    </item>
+    
     <item>
       <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>

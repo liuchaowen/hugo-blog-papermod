@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>free-for-dev：开发者免费服务大全，涵盖 70&#43; 类别的终极资源清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</guid>
+      <description>free-for-dev 是一个精心策划的开发者免费服务清单，覆盖 Major Cloud Providers、Source Code Repos、CI/CD、Security、PaaS、IaaS 等 70&#43; 类别，帮助开发者快速发现和选择合适的免费开发者套餐。</description>
+    </item>
+    
+    <item>
+      <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/orca/</guid>
+      <description>深入解析 Orca——一款革命性的 AI IDE 编排工具，支持并行运行多个 AI 编码助手（Codex、ClaudeCode、OpenCode、Pi 等），每个助手在独立的 Git Worktree 中工作，统一追踪与管理。本文从技术架构、核心特性、安装使用到实战案例，全方位解读这款开发者生产力工具。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
+    </item>
+    
     <item>
       <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-06-02/fff/</link>

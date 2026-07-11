@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>桌面应用 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</link>
+    <description>Recent content in 桌面应用 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pake：一键将网页打包成轻量桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/pake/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/pake/</guid>
+      <description>Pake 是一个基于 Rust Tauri 构建的桌面应用打包工具，能将任意网页一键转换为跨平台桌面应用，体积比 Electron 小近 20 倍，支持 macOS、Windows 和 Linux。</description>
+    </item>
+    
+    <item>
+      <title>Tolaria：开源跨平台的 Markdown 知识库管理工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</link>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</guid>
+      <description>&lt;h1 id=&#34;tolaria开源跨平台的-markdown-知识库管理工具&#34;&gt;Tolaria：开源跨平台的 Markdown 知识库管理工具&lt;/h1&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/refactoringhq/tolaria&#34;&gt;Tolaria&lt;/a&gt; 是一款支持 macOS、Windows 和 Linux 的桌面应用程序，专门用于管理 &lt;strong&gt;Markdown 知识库&lt;/strong&gt;。无论是构建第二大脑、管理个人知识，还是为 AI 整理公司文档，Tolaria 都能胜任。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

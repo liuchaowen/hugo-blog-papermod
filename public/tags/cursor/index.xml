@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
+    </item>
+    
     <item>
       <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>

@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</guid>
+      <description>Hiring Agent 是 InterviewStreet 开源的简历评估工具，通过 LLM 解析 PDF 简历为结构化 JSON，结合 GitHub 开源贡献信号，输出带证据链的客观评分。支持 Ollama 本地模型和 Google Gemini，适用于技术招聘初筛场景。</description>
+    </item>
+    
+    <item>
+      <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
+    </item>
+    
+    <item>
+      <title>LTX-2：首个基于 DiT 的音视频基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</guid>
+      <description>Lightricks 推出的首个 DiT 音视频基础模型，同步音频视频、高保真度、多种性能模式，支持 API 访问和开源访问</description>
+    </item>
+    
+    <item>
+      <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</guid>
+      <description>深度解析 OpenMontage，一个开源的 agentic 视频制作系统，支持从参考视频或纯文本提示到完整视频的生产流程，涵盖 12 条流水线、52 个工具与 400&#43; 智能体技能。</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</guid>
+      <description>深入解析 ASP.NET Core 的架构设计、模块化组件、跨平台能力及其在现代云原生应用中的应用，从源码角度理解这套微软开源 Web 框架的核心设计理念。</description>
+    </item>
+    
+    <item>
+      <title>Hyper-Extract：智能知识提取与进化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
+    </item>
+    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>

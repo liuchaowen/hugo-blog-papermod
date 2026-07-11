@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OAuth on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/oauth/</link>
+    <description>Recent content in OAuth on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/oauth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logto：面向 SaaS 和 AI 应用的现代化开源身份认证基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/logto/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/logto/</guid>
+      <description>Logto 是一款开源的身份认证基础设施，专为 SaaS 和 AI 应用设计。它简化了 OIDC 和 OAuth 2.1 的复杂实现，提供多租户、企业级 SSO、RBAC 等功能，支持 30&#43; 框架 SDK，并原生适配 Model Context Protocol 和 AI Agent 架构。</description>
+    </item>
+    
+  </channel>
+</rss>

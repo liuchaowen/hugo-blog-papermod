@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Node.js on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/node.js/</link>
+    <description>Recent content in Node.js on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Website Downloader：一键下载任意网站的完整源码</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/website-downloader/</link>
+      <pubDate>Wed, 08 Jul 2026 00:01:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/website-downloader/</guid>
+      <description>Website Downloader 利用 wget 与 Socket 通道，帮你离线下载任意网站的完整源码与静态资源。</description>
+    </item>
+    
+    <item>
+      <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</guid>
+      <description>深入解析 Google Puppeteer 项目——一个通过 DevTools Protocol 和 WebDriver BiDi 控制 Chrome/Firefox 的 Node.js 库，涵盖架构设计、核心技术栈、安装使用、实战案例及常见问题解决方案。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenClaw on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/openclaw/</link>
+    <description>Recent content in OpenClaw on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openclaw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TencentDB Agent Memory：让AI Agent记住该记住的，减少Token消耗提升任务成功率</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</guid>
+      <description>TencentDB Agent Memory 是腾讯开源的四层记忆系统，通过符号化短期记忆和分层长期记忆，在 OpenClaw 上实现最高 61.38% 的 Token 节省和 51.52% 的任务成功率提升，让 Agent 真正学会用户偏好和工作流程。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaw Windows Hub: 你的 Windows 系统托盘 AI 助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</guid>
+      <description>一款专为 OpenClaw 打造的 Windows 系统托盘应用，支持 Quick Send、WebChat、节点控制等丰富功能，让 AI 助手时刻伴随你的桌面。</description>
+    </item>
+    
+  </channel>
+</rss>

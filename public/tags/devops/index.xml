@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/gastown/</guid>
+      <description>Gas Town 是一款基于 Git 工作树持久化机制的多智能体 AI 协作工具，支持 Claude Code、GitHub Copilot、Codex 等多种 AI 编程助手在同一项目中协同工作，通过 Mayor（调度者）、Convoy（任务队列）和 Beads（工作追踪）等核心概念解决 AI Agent 上下文丢失和协调混乱的问题。</description>
+    </item>
+    
+    <item>
+      <title>Ansible：颠覆传统的 IT 自动化利器，彻底解放运维生产力</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/ansible/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/ansible/</guid>
+      <description>深入解析 Ansible 这款 radically simple 的 IT 自动化工具，探讨其无代理架构、基于 SSH 的自动化原理、核心模块设计，以及如何通过简单 YAML Playbook 实现复杂的零停机滚动更新。</description>
+    </item>
+    
+    <item>
+      <title>free-for-dev：开发者免费服务大全，涵盖 70&#43; 类别的终极资源清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</guid>
+      <description>free-for-dev 是一个精心策划的开发者免费服务清单，覆盖 Major Cloud Providers、Source Code Repos、CI/CD、Security、PaaS、IaaS 等 70&#43; 类别，帮助开发者快速发现和选择合适的免费开发者套餐。</description>
+    </item>
+    
+    <item>
+      <title>Grafana：开源可观测性平台的架构设计与最佳实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/grafana/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/grafana/</guid>
+      <description>深入解析 Grafana 开源可观测性平台的核心架构、技术栈选型、数据源集成机制以及告警系统的设计原理，探讨其在大规模监控场景下的实践应用。</description>
+    </item>
+    
+    <item>
+      <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</guid>
+      <description>no-mistakes 是一个 Git 本地代理工具，在推送到远程之前运行 AI 驱动的自动化审核流水线，自动修复安全问题、格式化代码、生成规范 PR，解决了 AI 编程助手容易「污染」代码库的痛点。</description>
+    </item>
+    
     <item>
       <title>GitHub Docs：开源文档的工程实践与 OpenTelemetry 可观测性建设</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/docs-github-docs/</link>

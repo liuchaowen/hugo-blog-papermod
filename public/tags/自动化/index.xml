@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OfficeCLI：AI Agent 专用的 Office 套件命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/officecli/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/officecli/</guid>
+      <description>OfficeCLI 是全球首个专为 AI Agent 设计的 Office 套件命令行工具，支持一行代码创建、读取、修改 Word、Excel、PowerPoint 文档，无需安装 Office，零依赖，跨平台运行。</description>
+    </item>
+    
+    <item>
+      <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</guid>
+      <description>AI Job Search 是一个基于 Claude Code 的求职框架，通过 /setup、/scrape、/apply 三条命令将 AI 变成求职全流程助手：自动构建候选人画像、抓取招聘门户、评估岗位匹配度，并以 drafter-reviewer 双人工作流生成 LaTeX 简历与求职信，外加 PDF 视觉校验与 ATS 文本层校验，杜绝排版翻车与关键词堆砌。</description>
+    </item>
+    
+    <item>
+      <title>biliTickerBuy：开源免费的 B 站会员购辅助工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/bilitickerbuy/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/bilitickerbuy/</guid>
+      <description>biliTickerBuy 是一款开源免费的 B 站会员购辅助工具，基于 Python 和 Gradio 构建，提供命令行和 Web 界面两种操作方式，支持 Docker 部署，帮助用户更便捷地完成 B 站会员购的票务购买流程。</description>
+    </item>
+    
+    <item>
+      <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</guid>
+      <description>SmsForwarder 是一款开源 Android 应用，可监控手机短信、来电和 APP 通知，并通过钉钉、企业微信、飞书、邮箱、Telegram 等多种渠道自动转发，还支持远程发短信、查通话、自动化任务等功能，是备用机的必备神器。</description>
+    </item>
+    
+    <item>
+      <title>Cypress：现代 Web 应用测试的革命性工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/cypress/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/cypress/</guid>
+      <description>深入解析 Cypress 这款现代化的前端测试框架，探讨其架构设计、核心技术栈、安装使用方法，以及相比传统测试工具的优势。Cypress 为浏览器端测试带来了全新的开发体验。</description>
+    </item>
+    
+    <item>
+      <title>Career-Ops：AI 驱动的职业搜索系统，帮你筛选匹配度最高的职位</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</guid>
+      <description>Career-Ops 是一个开源的 AI 驱动职业搜索工具，能够自动评估职位匹配度、生成定制化简历、扫描招聘门户，帮你从数百个职位中精准找到最值得申请的那一个。</description>
+    </item>
+    
+    <item>
+      <title>AiToEarn：一人公司的AI内容营销自动化利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</guid>
+      <description>AiToEarn 是一个面向 OPC（一人公司）的 AI 内容营销智能体平台，支持一键分发到抖音、小红书、TikTok、YouTube 等 10&#43; 主流平台，帮助创作者实现内容变现全流程自动化。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Reach：让 AI Agent 一键装上互联网能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</guid>
+      <description>Agent-Reach 是一个开源的 AI Agent 脚手架工具，通过一条命令即可为 Claude Code、OpenClaw、Cursor 等 Agent 安装 Twitter、Reddit、YouTube、B站、小红书等 10&#43; 平台的访问能力，所有工具均免费开源，无需付费 API Key。</description>
+    </item>
+    
     <item>
       <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/harness/</link>

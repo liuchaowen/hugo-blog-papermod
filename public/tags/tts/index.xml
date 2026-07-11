@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
+    </item>
+    
+    <item>
+      <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
+      <description>Pocket TTS 是 Kyutai Labs 开源的轻量级文本转语音模型，仅 100M 参数、在 CPU 上即可达到 6 倍实时速度，支持流式输出、语音克隆和多语言，pip 一键安装即可在本地运行。</description>
+    </item>
+    
+    <item>
+      <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</guid>
+      <description>Voicebox 是一款本地优先的开源 AI 语音工作室，集语音克隆、TTS 生成、全局语音输入和 Agent 语音输出于一体，支持 7 种 TTS 引擎、23 种语言，是 ElevenLabs 和 WisprFlow 的开源替代方案。</description>
+    </item>
+    
     <item>
       <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
       <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>

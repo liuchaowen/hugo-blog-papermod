@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>内容营销 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/</link>
+    <description>Recent content in 内容营销 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AiToEarn：一人公司的AI内容营销自动化利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</guid>
+      <description>AiToEarn 是一个面向 OPC（一人公司）的 AI 内容营销智能体平台，支持一键分发到抖音、小红书、TikTok、YouTube 等 10&#43; 主流平台，帮助创作者实现内容变现全流程自动化。</description>
+    </item>
+    
+  </channel>
+</rss>

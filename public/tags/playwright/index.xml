@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playwright on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/playwright/</link>
+    <description>Recent content in Playwright on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/playwright/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</guid>
+      <description>MediaCrawler 是一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取，基于 Playwright 浏览器自动化框架，无需 JS 逆向即可优雅采集数据。</description>
+    </item>
+    
+  </channel>
+</rss>

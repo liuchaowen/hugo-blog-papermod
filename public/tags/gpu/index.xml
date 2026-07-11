@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyTorch：深度学习领域的首选框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
+    </item>
+    
+    <item>
+      <title>CuPy：让 NumPy 代码零修改跑在 GPU 上</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/cupy/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/cupy/</guid>
+      <description>CuPy 是 NumPy/SciPy 兼容的 GPU 加速数组库，支持 NVIDIA CUDA 和 AMD ROCm，无需修改代码即可将现有 Python 科学计算工作负载提速数十倍。</description>
+    </item>
+    
+    <item>
+      <title>whichllm：智能推荐适合你硬件的本地 LLM 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</guid>
+      <description>whichllm 是一款智能命令行工具，能够自动检测你的 GPU/CPU/RAM 配置，从 HuggingFace 上筛选出最适合你硬件的大语言模型，并提供性能预估、硬件规划、一键运行等强大功能。</description>
+    </item>
+    
     <item>
       <title>ZOZO开源物理接触求解器：GPU加速的可扩展仿真引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-05-27/ppf-contact-solver/</link>

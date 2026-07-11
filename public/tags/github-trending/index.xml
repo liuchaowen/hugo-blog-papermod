@@ -11,7 +11,278 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>asio — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
+      <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
+documentationandatutorial.</description>
+    </item>
+    
+    <item>
+      <title>autoremesher — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</guid>
+      <description>AutoRemesherisacross-platformautomaticquadremeshingtoolthatconvertshigh-polygonmeshesintocleanquad-basedtopology.Itisbuiltontopoflibraries:,,and.</description>
+    </item>
+    
+    <item>
+      <title>CodexBar — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</guid>
+      <description>(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/homebrew-tap)
+(https://aur.archlinux.org/packages/codexbar-cli)
+(LICENSE)
+(https://codexbar.app)</description>
+    </item>
+    
+    <item>
+      <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</guid>
+      <description>探索 alirezarezvani/claude-skills——最全面的开源 Claude Code 技能库，包含 354 个生产级技能、96 个智能体和 102 个命令，支持 Claude Code、OpenAI Codex、Gemini CLI 等 13 个 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>Immich：高性能自托管照片和视频管理解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/immich/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/immich/</guid>
+      <description>Immich 是一个开源的高性能自托管照片和视频管理解决方案，支持自动备份、多用户、元数据查看、人脸识别、CLIP 搜索等功能，是 Google Photos 的自托管替代品。</description>
+    </item>
+    
+    <item>
+      <title>Chrome DevTools MCP：让 AI 编码助手直接操控 Chrome 浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</guid>
+      <description>ChromeDevTools 推出的 chrome-devtools-mcp 是一个 MCP Server，允许 AI 编码助手（如 Claude、Cursor、Copilot）通过 Model Context Protocol 直接控制 Chrome 浏览器，实现可靠的浏览器自动化、深度调试和性能分析。</description>
+    </item>
+    
+    <item>
+      <title>codex-plugin-cc — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</guid>
+      <description>UseCodexfrominsideClaudeCodeforcodereviewsortodelegatetaskstoCodex.</description>
+    </item>
+    
+    <item>
+      <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
+      <description>LingBot-Map 是 Robbyant 团队发布的流式 3D 重建基础模型，通过 Geometric Context Transformer 架构统一坐标定位、几何线索和长期漂移校正，支持超长序列（&amp;gt;10000 帧）的稳定推理，在多个基准上达到 SOTA 性能。</description>
+    </item>
+    
+    <item>
+      <title>free-for-dev：开发者免费服务大全，涵盖 70&#43; 类别的终极资源清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</guid>
+      <description>free-for-dev 是一个精心策划的开发者免费服务清单，覆盖 Major Cloud Providers、Source Code Repos、CI/CD、Security、PaaS、IaaS 等 70&#43; 类别，帮助开发者快速发现和选择合适的免费开发者套餐。</description>
+    </item>
+    
+    <item>
+      <title>CasaOS：打造简约优雅的家庭个人云操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/casaos/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/casaos/</guid>
+      <description>CasaOS 是一款开源的家庭个人云操作系统，提供友好的 UI 设计、多硬件支持、应用商店一键安装等功能，让普通人也能轻松搭建和管理个人云服务，实现数据自主拥有。</description>
+    </item>
+    
+    <item>
+      <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</guid>
+      <description>OpenSEO 是一款开源 SEO 工具，旨在替代 Semrush 和 Ahrefs 等昂贵且臃肿的商业产品。它采用按量付费模式，支持 MCP 协议与 AI Agent 集成，内置关键词研究、排名追踪、域名分析、反链查询、站点审计等完整 SEO 工作流，并可自部署于 Docker 或 Cloudflare。</description>
+    </item>
+    
+    <item>
+      <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/orca/</guid>
+      <description>深入解析 Orca——一款革命性的 AI IDE 编排工具，支持并行运行多个 AI 编码助手（Codex、ClaudeCode、OpenCode、Pi 等），每个助手在独立的 Git Worktree 中工作，统一追踪与管理。本文从技术架构、核心特性、安装使用到实战案例，全方位解读这款开发者生产力工具。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
+      <description>探索 GitHub Trending #1 项目 claude-code-best-practice，系统学习 Claude Code 的 Subagents、Commands、Skills、Workflows 等核心功能的最佳实践，助力从传统编码向智能化工程转型。</description>
+    </item>
+    
+    <item>
+      <title>SpiderFoot：开源情报(OSINT)自动化利器，200&#43;模块助你掌控网络空间侦察</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</guid>
+      <description>SpiderFoot 是一款功能强大的开源情报(OSINT)自动化工具，集成200多个模块，支持对IP、域名、邮箱、用户名等目标进行全方位情报收集，广泛应用于渗透测试、红队演练和安全防御。本文深入剖析其架构设计、核心技术栈、安装使用方法及实战技巧。</description>
+    </item>
+    
+    <item>
+      <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
+    </item>
+    
+    <item>
+      <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/turso/</guid>
+      <description>Turso Database 是一个用 Rust 从零重写的 SQLite 兼容数据库，支持 MVCC 并发写入、向量搜索、变更数据捕获等现代特性，并提供 MCP Server 模式让 AI 助手直接操作数据库。</description>
+    </item>
+    
+    <item>
+      <title>Kilo Code：开源 AI 编程代理，支持 500&#43; 模型自由切换</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</guid>
+      <description>Kilo Code 是一个开源 AI 编程代理，支持 VS Code、JetBrains 和 CLI 三大平台，可从 500&#43; 模型中自由切换，按模型提供商原价计费，无加价。</description>
+    </item>
+    
+    <item>
+      <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</guid>
+      <description>智谱 AI 开源的 GLM-5/5.1/5.2 系列以 744B-A40B 的 MoE 规模、1M token 长上下文、稀疏注意力与异步 RL 训练基础设施，在长程 Agentic 工程任务上逼近闭源前沿。</description>
+    </item>
+    
+    <item>
+      <title>penpot — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/penpot/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/penpot/</guid>
+      <description>&amp;lt;imgwidth=&amp;#34;100%&amp;#34;src=&amp;#34;https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602&amp;#34;/</description>
+    </item>
+    
+    <item>
+      <title>Rocket.Chat：开源安全的团队通信解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
+    </item>
+    
+    <item>
+      <title>Iroh：基于公钥直连的去中心化网络框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/iroh/</guid>
+      <description>Iroh 是由 n0-computer 开发的 Rust 网络框架，基于 QUIC 协议实现公钥直连、NAT 穿透和自动中继，提供 blob 传输、发布订阅和最终一致 KV 存储等可组合协议，让去中心化组网变得简单高效。</description>
+    </item>
+    
+    <item>
+      <title>Cua：构建、评估与部署计算机使用 Agent 的全栈平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/cua/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/cua/</guid>
+      <description>Cua 是一个开源全栈平台，提供沙箱环境、桌面驱动器、基准测试框架和 macOS 虚拟化，让 AI Agent 能够真正操作计算机——点击、输入、截图、完成任务。</description>
+    </item>
+    
+    <item>
+      <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</guid>
+      <description>深入解析 Google Puppeteer 项目——一个通过 DevTools Protocol 和 WebDriver BiDi 控制 Chrome/Firefox 的 Node.js 库，涵盖架构设计、核心技术栈、安装使用、实战案例及常见问题解决方案。</description>
+    </item>
+    
+    <item>
+      <title>TeslaMate：开源自托管 Tesla 数据记录与可视化平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</guid>
+      <description>TeslaMate 是一款用 Elixir 编写的开源自托管 Tesla 数据记录工具，支持高精度行程记录、Postgres 存储、Grafana 可视化及 MQTT 集成，是 Tesla 车主进行车辆数据分析的最佳选择。</description>
+    </item>
+    
+    <item>
+      <title>pytest：Python 生态中最强大的测试框架，你真的用好了吗？</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/pytest/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/pytest/</guid>
+      <description>深入解析 pytest 框架的设计哲学、核心架构与高级用法，从 fixture 机制到插件体系，帮你掌握这个 58k&#43; Star 的 Python 测试利器。</description>
+    </item>
+    
+    <item>
+      <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/ruview/</guid>
+      <description>RuView 将普通 WiFi 路由器的无线电信号转化为空间感知能力，通过 ESP32 传感器和脉冲神经网络实现穿墙人体检测、呼吸心率监测、跌倒识别等，支持 Home Assistant、Apple Home 等智能家居生态，全部在边缘侧运行，无需云端和摄像头。</description>
+    </item>
+    
+    <item>
+      <title>Claude How To：周末掌握 Claude Code 完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</guid>
+      <description>一份结构化的 Claude Code 教程，通过可视化教程、可复制模板和引导式学习路径，教你从基础命令到代理编排、钩子、技能和 MCP 服务器的完整用法。</description>
+    </item>
+    
+    <item>
+      <title>system-prompts-and-models-of-ai-tools — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;ahref=&amp;#34;https://github.com/latitude-dev/latitude-llm&amp;#34;
+&amp;lt;imgsrc=&amp;#34;assets/latitude-dark.png&amp;#34;alt=&amp;#34;LatitudeLogo&amp;#34;width=&amp;#34;700&amp;#34;/
+&amp;lt;/a
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>PaddleOCR：领先的开源OCR与文档AI工具包深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</guid>
+      <description>深入解析PaddleOCR的最新进展，包括PaddleOCR-VL-1.6视觉语言模型、PP-StructureV3文档结构化和PP-OCRv5多语言识别，探讨其技术架构、应用场景及在RAG系统中的实践价值。</description>
+    </item>
+    
     <item>
       <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
       <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>

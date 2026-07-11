@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
+    </item>
+    
     <item>
       <title>stable-worldmodel：世界模型研究的可复现平台</title>
       <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>

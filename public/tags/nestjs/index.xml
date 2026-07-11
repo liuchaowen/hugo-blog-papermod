@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nestjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nestjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TREK: 开源自托管旅行规划协作平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/trek/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/trek/</guid>
+      <description>TREK 是一个功能完备的开源自托管旅行规划工具，支持实时协作、地图、日程、预算、分摊和 AI 辅助，一键 Docker 部署。</description>
+    </item>
+    
+    <item>
+      <title>OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/openwa/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/openwa/</guid>
+      <description>OpenWA 是一款基于 NestJS 的开源 WhatsApp API Gateway，提供完整的 REST API、多会话管理、Webhook 实时事件、现代 React Dashboard 等功能。采用可插拔架构设计，支持 SQLite/PostgreSQL、Local/S3 存储、Memory/Redis 缓存的自由切换，配合 Docker 一键部署，让开发者完全掌控消息基础设施。</description>
+    </item>
+    
     <item>
       <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>

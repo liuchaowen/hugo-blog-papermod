@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开源教程 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 开源教程 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude How To：周末掌握 Claude Code 完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</guid>
+      <description>一份结构化的 Claude Code 教程，通过可视化教程、可复制模板和引导式学习路径，教你从基础命令到代理编排、钩子、技能和 MCP 服务器的完整用法。</description>
+    </item>
+    
+  </channel>
+</rss>

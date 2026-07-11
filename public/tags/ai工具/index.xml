@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in AI工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</guid>
+      <description>AgentsView 是一款开源的 AI 编程助手成本追踪工具，支持 Claude Code、Cursor、Copilot 等 25&#43; 主流 AI 编程工具，提供本地化部署、实时成本统计、会话浏览与全文搜索功能，帮助开发者精准掌控 AI 编程开支。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Reach：让 AI Agent 一键装上互联网能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</guid>
+      <description>Agent-Reach 是一个开源的 AI Agent 脚手架工具，通过一条命令即可为 Claude Code、OpenClaw、Cursor 等 Agent 安装 Twitter、Reddit、YouTube、B站、小红书等 10&#43; 平台的访问能力，所有工具均免费开源，无需付费 API Key。</description>
+    </item>
+    
+  </channel>
+</rss>

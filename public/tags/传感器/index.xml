@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>传感器 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BC%A0%E6%84%9F%E5%99%A8/</link>
+    <description>Recent content in 传感器 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BC%A0%E6%84%9F%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/espectre/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/espectre/</guid>
+      <description>ESPectre 是基于 Wi-Fi CSI（信道状态信息）的运动检测系统，无需摄像头和麦克风，仅用 €10 的 ESP32 设备即可实现人体感知，并原生接入 Home Assistant。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ByteDance on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/bytedance/</link>
+    <description>Recent content in ByteDance on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/bytedance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
+    </item>
+    
+  </channel>
+</rss>

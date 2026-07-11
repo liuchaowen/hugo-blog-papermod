@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>用户名搜索 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%94%A8%E6%88%B7%E5%90%8D%E6%90%9C%E7%B4%A2/</link>
+    <description>Recent content in 用户名搜索 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%A8%E6%88%B7%E5%90%8D%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maigret：通过用户名一键收集数字身份档案的 OSINT 利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/maigret/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/maigret/</guid>
+      <description>Maigret 是一款开源的 OSINT 工具，仅凭用户名即可在 3000&#43; 网站上搜索关联账号，集信息提取、报告生成、AI 分析于一体，是数字身份调查的瑞士军刀。</description>
+    </item>
+    
+  </channel>
+</rss>

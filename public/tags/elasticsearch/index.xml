@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elasticsearch on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/elasticsearch/</link>
+    <description>Recent content in Elasticsearch on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch：分布式搜索与向量数据库的工业级实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/elasticsearch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/elasticsearch/</guid>
+      <description>深入解析 Elasticsearch 分布式搜索与向量数据库的核心原理，探索其在 RAG、向量搜索、日志分析等场景的实战应用，从源码构建到生产部署的完整指南。</description>
+    </item>
+    
+  </channel>
+</rss>

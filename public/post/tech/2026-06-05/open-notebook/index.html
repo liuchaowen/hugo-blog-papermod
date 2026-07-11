@@ -1,0 +1,284 @@
+<!doctype html><html lang=zh dir=auto><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=referrer content="no-referrer"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商 | Blog - XLapTop</title>
+<meta name=keywords content="GitHub,开源,AI,隐私,NotebookLM,自托管"><meta name=description content="Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18+ AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。"><meta name=author content="Cheman"><link rel=canonical href=https://blog.xlap.top/post/tech/2026-06-05/open-notebook/><meta name=google-site-verification content="XYZabc"><meta name=yandex-verification content="XYZabc"><meta name=msvalidate.01 content="XYZabc"><link crossorigin=anonymous href=/assets/css/stylesheet.7938ab370f28dd6f99f6354fe5b2f77007b9b12dc8b38cbf50b0953be5e7ab42.css integrity="sha256-eTirNw8o3W+Z9jVP5bL3cAe5sS3Is4y/ULCVO+Xnq0I=" rel="preload stylesheet" as=style><script defer crossorigin=anonymous src=/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG+9vmJ0cTS+ovo0FeA=" onload=hljs.initHighlightingOnLoad()></script><link rel=icon href=https://blog.xlap.top/icon/favicon_32.ico><link rel=icon type=image/png sizes=16x16 href=https://blog.xlap.top/icon/favicon_16.ico><link rel=icon type=image/png sizes=32x32 href=https://blog.xlap.top/icon/favicon_32.ico><link rel=apple-touch-icon href=https://blog.xlap.top/icon/apple-touch-icon.png><link rel=mask-icon href=https://blog.xlap.top/icon/safari-pinned-tab.svg><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate hreflang=zh href=https://blog.xlap.top/post/tech/2026-06-05/open-notebook/><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript><script id=LA_COLLECT src=/js/js-sdk-pro.min.js></script><script>LA.init({id:"JvUDwnR8WxIRefWQ",ck:"JvUDwnR8WxIRefWQ"})</script><script src=https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js></script><link rel=stylesheet href=https://npm.elemecdn.com/lxgw-wenkai-screen-webfont/style.css media=print onload='this.media="all"'><link rel=stylesheet href=/css/styles.css \><script src=/js/application.js></script><meta property="og:title" content="Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商"><meta property="og:description" content="Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18+ AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。"><meta property="og:type" content="article"><meta property="og:url" content="https://blog.xlap.top/post/tech/2026-06-05/open-notebook/"><meta property="og:image" content="https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"><meta property="article:section" content="post"><meta property="article:published_time" content="2026-06-05T00:00:00+08:00"><meta property="article:modified_time" content="2026-06-05T00:00:00+08:00"><meta property="og:site_name" content="Blog - XLapTop"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"><meta name=twitter:title content="Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商"><meta name=twitter:description content="Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18+ AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://blog.xlap.top/post/"},{"@type":"ListItem","position":2,"name":"Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商","item":"https://blog.xlap.top/post/tech/2026-06-05/open-notebook/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商","name":"Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18\u002b AI 提供商","description":"Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18+ AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。","keywords":["GitHub","开源","AI","隐私","NotebookLM","自托管"],"articleBody":"开篇引导段：今天在 GitHub Trending 上看到一个有意思的项目：Open Notebook，这是一个开源的、隐私优先的研究助手，旨在成为 Google Notebook LM 的强大替代品。与依赖 Google 云服务的 Notebook LM 不同，Open Notebook 让你完全掌控数据，并支持从 OpenAI、Anthropic 到本地 Ollama 的 18+ AI 提供商。\n一、项目概述 Open Notebook 是一个开源研究助手工具，灵感来自 Google Notebook LM，但在隐私保护、提供商选择和功能扩展性上实现了全面超越。\n核心特性：\n🔒 数据主权：自托管部署，敏感研究数据完全私密 🤖 多模型支持：18+ AI 提供商（OpenAI、Anthropic、Groq、Google、Ollama、LM Studio 等） 📚 多模态内容：支持 PDF、视频、音频、网页、Office 文档等 🎙️ 专业播客生成：多 speaker 播客生成，支持 1-4 个扬声器自定义配置 🔍 智能搜索：全文和向量搜索覆盖所有内容 💬 上下文对话：基于你的研究材料进行 AI 对话 🌐 多语言 UI：支持英语、葡萄牙语、中日韩俄等语言 与 Google Notebook LM 对比：\n特性 Open Notebook Google Notebook LM 优势 隐私控制 自托管，数据私有 仅 Google 云 完全数据主权 AI 提供商 18+ 提供商 仅 Google 模型 灵活性和成本优化 播客扬声器 1-4 个，可自定义 仅 2 个 极致灵活性 API 访问 完整 REST API 无 API 完全自动化 定制化 开源，完全可定制 封闭系统 无限扩展性 二、技术原理 架构设计 Open Notebook 采用现代前后端分离架构：\n后端技术栈：\nPython 3.12+：核心编程语言 FastAPI：高性能异步 API 框架 LangChain/LangGraph：AI 编排和工作流引擎 SurrealDB：多模型数据库（文档+图+向量） Esperanto：统一的多提供商 AI 接口库 前端技术栈：\nNext.js 20.x：React 元框架，支持 SSR/SSG React：用户界面构建 TypeScript：类型安全 核心架构组件：\n┌─────────────────────────────────────────┐ │ Next.js Frontend │ │ (React + TypeScript + Tailwind) │ └─────────────────┬───────────────────────┘ │ REST API ┌─────────────────▼───────────────────────┐ │ FastAPI Backend │ │ - Notebook Management │ │ - Source Processing │ │ - AI Orchestration (LangChain) │ │ - Podcast Generation │ └─────────────────┬───────────────────────┘ │ ┌─────────────────▼───────────────────────┐ │ SurrealDB (Multi-model) │ │ - Documents (Notebooks, Notes) │ │ - Vectors (Embeddings) │ │ - Graph (Relationships) │ └─────────────────────────────────────────┘ 关键技术实现 1. 多提供商 AI 统一接口\n项目使用自研的 esperanto 库统一 18+ AI 提供商的接口：\n# 支持的提供商矩阵 provider_support = { \"OpenAI\": [\"llm\", \"embedding\", \"stt\", \"tts\"], \"Anthropic\": [\"llm\"], \"Groq\": [\"llm\", \"stt\"], \"Google\": [\"llm\", \"embedding\", \"stt\", \"tts\"], \"Ollama\": [\"llm\", \"embedding\"], \"Mistral\": [\"llm\", \"embedding\", \"stt\", \"tts\"], # ... 共 18+ 提供商 } 2. 向量搜索与全文搜索融合\n# 内容索引流程 1. 用户上传 PDF/视频/网页 2. 内容提取 (content-core 库) 3. 文本分块 (tiktoken 分词) 4. 向量化 (用户选择的 embedding 模型) 5. 存储到 SurrealDB (文档 + 向量) 6. 支持全文检索 + 向量相似度检索 3. 播客生成引擎\n基于 podcast-creator 库实现专业级播客生成：\n# 播客生成配置示例 episode_profile = { \"speakers\": [ {\"name\": \"Host\", \"voice\": \"en-US-Studio-O\"}, {\"name\": \"Expert\", \"voice\": \"en-US-Studio-Q\"}, {\"name\": \"Guest\", \"voice\": \"en-US-Studio-M\"} ], \"format\": \"interview\", # or \"discussion\", \"debate\" \"duration_target\": 1800, # 30 minutes } 数据流分析 典型用户工作流：\n1. 创建 Notebook ↓ 2. 添加 Sources (PDF/URL/Video/Audio) ↓ 3. 内容自动处理 - 文本提取 - 分块 - Embedding - 索引 ↓ 4. AI 对话 / 搜索 - 检索相关块 (向量 + 全文) - 构建上下文 - 调用 LLM - 返回答案 + 引用 ↓ 5. 生成 Note / 播客 - AI 辅助笔记 - 一键播客生成 三、安装与快速开始 环境要求 最简部署（Docker）：\nDocker Desktop 4.0+ 2GB+ RAM 5GB+ 磁盘空间 从源码部署：\nPython 3.11 或 3.12 Node.js 20.x LTS SurrealDB v2.x Docker 快速部署（2 分钟） Step 1: 获取 docker-compose.yml\n# 选项 A: 直接下载 curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/docker-compose.yml # 选项 B: 手动创建 cat \u003e docker-compose.yml \u003c\u003c 'EOF' services: surrealdb: image: surrealdb/surrealdb:v2 command: start --log info --user root --pass root rocksdb:/mydata/mydatabase.db user: root ports: - \"8000:8000\" volumes: - ./surreal_data:/mydata restart: always open_notebook: image: lfnovo/open_notebook:v1-latest ports: - \"8502:8502\" - \"5055:5055\" environment: - OPEN_NOTEBOOK_ENCRYPTION_KEY=change-me-to-a-secret-string - SURREAL_URL=ws://surrealdb:8000/rpc - SURREAL_USER=root - SURREAL_PASSWORD=root - SURREAL_NAMESPACE=open_notebook - SURREAL_DATABASE=open_notebook volumes: - ./notebook_data:/app/data depends_on: - surrealdb restart: always EOF Step 2: 设置加密密钥\n编辑 docker-compose.yml，修改：\n- OPEN_NOTEBOOK_ENCRYPTION_KEY=change-me-to-a-secret-string 改为任意密钥字符串（如 my-super-secret-key-123）。\nStep 3: 启动服务\ndocker compose up -d 等待 15-20 秒，然后访问：http://localhost:8502\nStep 4: 配置 AI 提供商\n进入 Settings → API Keys 点击 Add Credential 选择提供商（OpenAI/Anthropic/Google 等） 粘贴 API Key，点击 Save 点击 Test Connection → Discover Models → Register Models 完成！现在可以创建你的第一个 Notebook 了。\n使用 Ollama（免费本地 AI） 如果想完全免费运行（无需 API 费用），可以使用 Ollama：\n# 1. 下载 Ollama 配置 curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/examples/docker-compose-ollama.yml # 2. 启动（会自动下载 Ollama 模型） docker compose up -d # 3. 访问 http://localhost:8502 # 4. 在 Settings 中选择 Ollama 作为提供商 四、使用方法与实战 基础用法 1. 创建 Notebook\n点击 \"New Notebook\" → 输入名称（如 \"AI Research\"）→ 创建 2. 添加研究材料\n支持的内容类型：\n📄 PDF 文档：论文、报告、书籍 🌐 网页 URL：自动提取正文 🎥 YouTube 视频：自动转录字幕 🎙️ 音频文件：MP3/WAV，自动语音识别 📝 纯文本：直接粘贴或上传 TXT/Markdown 示例：添加 PDF 论文\n1. 点击 \"Add Source\" → 选择 \"PDF\" 2. 上传文件或拖拽 3. 等待处理完成（自动提取文本 + 分块 + embedding） 4. 在 Source 列表中看到新增的论文 3. AI 对话（Chat）\n1. 选择 Notebook 2. 点击 \"Chat\" 3. 输入问题：\"这篇论文的主要贡献是什么？\" 4. AI 会基于所有 Sources 回答，并附上引用 4. 智能搜索\n1. 在 Notebook 页面，点击 \"Search\" 2. 输入关键词或问题 3. 支持： - 全文搜索（关键词匹配） - 向量搜索（语义相似度） - 混合搜索（两者结合） 进阶用法 1. 生成专业播客\n1. 选择 Notebook（包含多个 Sources） 2. 点击 \"Podcast\" → \"Generate\" 3. 配置： - Episode Profile（1-4 个扬声器） - 目标时长（如 30 分钟） - 风格（访谈/讨论/辩论） 4. 点击 \"Generate\" 5. 等待生成（通常需要 5-15 分钟） 6. 下载 MP3 或分享链接 示例 Episode Profile：\n{ \"name\": \"Tech Interview\", \"speakers\": [ {\"name\": \"Host\", \"voice\": \"en-US-Studio-O\"}, {\"name\": \"Researcher\", \"voice\": \"en-US-Studio-Q\"} ], \"format\": \"interview\", \"style_prompt\": \"专业但轻松的技术访谈，深入讨论研究细节\" } 2. 内容转换（Transformations）\n内置和自定义转换操作：\n1. 选择 Source 或 Note 2. 点击 \"Transform\" 3. 选择操作： - Summarize（摘要） - Extract Key Insights（提取关键洞察） - Generate Quiz（生成测验） - Custom（自定义提示词） 4. 查看结果，保存到 Note 3. 多 Notebook 管理\n场景：你有多个研究项目 - Notebook A: \"AI Safety Research\" - Notebook B: \"Startup Ideas\" - Notebook C: \"Learning Rust\" 每个 Notebook 独立，Sources/Notes/Chat 互不干扰 4. REST API 编程访问\nOpen Notebook 提供完整的 REST API：\n# 获取所有 Notebooks curl -X GET \"http://localhost:5055/api/notebooks\" \\ -H \"Authorization: Bearer YOUR_API_KEY\" # 创建新 Note curl -X POST \"http://localhost:5055/api/notes\" \\ -H \"Content-Type: application/json\" \\ -d '{ \"notebook_id\": \"uuid\", \"title\": \"My Note\", \"content\": \"Note content...\" }' # API 文档：http://localhost:5055/docs 实际项目示例 场景：研究论文综述\n目标：阅读 10 篇关于 RAG（检索增强生成）的论文，生成综述 步骤： 1. 创建 Notebook: \"RAG Survey 2026\" 2. 添加 10 篇论文 PDF 3. 等待处理完成 4. Chat 提问： - \"这些论文的共同主题是什么？\" - \"哪些方法效果最好？\" - \"未来研究方向是什么？\" 5. 使用 Transformations 生成每篇论文的摘要 6. 撰写综述（手动 + AI 辅助） 7. 可选：生成播客，用音频形式回顾关键点 五、常见问题与解决方案 安装失败 问题 1：Docker 启动失败（端口占用）\n错误信息： Error: Bind for 0.0.0.0:8502 failed: port is already allocated 解决方案： 1. 检查端口占用：lsof -i :8502 2. 停止占用进程：kill -9 3. 或修改 docker-compose.yml 中的端口映射： ports: - \"8503:8502\" # 改为 8503 问题 2：SurrealDB 连接失败\n错误信息： ERROR: Cannot connect to SurrealDB at ws://surrealdb:8000/rpc 解决方案： 1. 检查 SurrealDB 容器：docker ps | grep surrealdb 2. 查看日志：docker logs 3. 重启服务：docker compose restart surrealdb 4. 如果数据损坏，删除数据卷重新启动： docker compose down -v docker compose up -d 问题 3：AI 提供商 API 连接失败\n错误信息： ERROR: Failed to connect to OpenAI API (401 Unauthorized) 解决方案： 1. 检查 API Key 是否正确 2. 检查网络连接（特别是国内需要代理） 3. 在 docker-compose.yml 中配置代理： environment: - HTTP_PROXY=http://proxy:port - HTTPS_PROXY=http://proxy:port 4. 测试连接：在 Settings 中点击 \"Test Connection\" 运行时错误 问题 4：上传 PDF 失败\n错误信息： ERROR: Failed to process PDF (timeout or memory error) 解决方案： 1. 检查 PDF 大小（建议 \u003c 50MB） 2. 检查 PDF 是否加密（需要解密后上传） 3. 增加 Docker 内存限制： # docker-compose.yml open_notebook: deploy: resources: limits: memory: 4G 4. 分割大 PDF：使用 PDF 工具拆分为多个小文件 问题 5：播客生成失败\n错误信息： ERROR: Podcast generation failed (TTS quota exceeded) 解决方案： 1. 检查 TTS 提供商配额（如 ElevenLabs 有月度字符限制） 2. 切换到免费 TTS 提供商（如 Google TTS） 3. 减少播客时长或扬声器数量 4. 使用本地 TTS（如果支持） 问题 6：搜索结果不准确\n问题：向量搜索返回不相关结果 解决方案： 1. 检查 Embedding 模型是否合适（建议用 OpenAI text-embedding-3-small） 2. 调整搜索设置： - 增加候选数量（top_k） - 降低相似度阈值 3. 手动添加 Tags 到 Sources，结合全文搜索 4. 重新处理 Source（删除后重新上传） 性能问题 问题 7：响应速度慢\n排查： 1. 检查 AI 提供商延迟（如 Ollama 本地模型较慢） 2. 检查网络延迟（特别是使用远程 API） 3. 优化分块大小（避免过细的分块） 解决方案： 1. 切换到更快的模型（如 GPT-3.5 替代 GPT-4） 2. 启用缓存（LangChain 内置） 3. 使用异步处理（批量操作） 问题 8：内存占用过高\n排查： 1. 检查处理的文档数量和大小 2. 检查是否加载了过大的模型（Ollama） 解决方案： 1. 限制同时处理的 Source 数量 2. 定期清理旧数据 3. 使用更小 embedding 模型（如 all-MiniLM-L6-v2） 兼容性问题 问题 9：浏览器兼容性\n问题：某些功能在 Safari 上不工作 解决方案： 1. 使用 Chrome/Edge（推荐） 2. 检查浏览器控制台错误（F12） 3. 清除浏览器缓存和 Cookie 4. 更新到最新浏览器版本 问题 10：移动设备访问\n问题：手机浏览器显示不正常 解决方案： 1. Open Notebook 主要针对桌面优化 2. 使用响应式模式（Chrome DevTools → Toggle Device Toolbar） 3. 或等待官方移动端优化（Roadmap 中有计划） 六、总结 Open Notebook 是一个功能强大、隐私优先的开源研究助手，完美替代 Google Notebook LM。其核心价值在于：\n✨ 核心优势：\n数据主权：完全自托管，敏感研究数据不离开你的服务器 提供商自由：18+ AI 提供商任你选择，避免供应商锁定 成本可控：可选择免费本地模型（Ollama）或按需付费的 API 功能扩展性强：开源架构，完全可定制和扩展 专业级播客生成：多扬声器、自定义配置，远超 Notebook LM 🎯 适合人群：\n学术研究人员（管理论文、生成综述） 技术从业者（学习新技术、管理知识库） 内容创作者（研究素材、生成播客） 隐私敏感用户（自托管、数据可控） 🚀 快速上手建议：\n先用 Docker 快速部署（2 分钟） 配置一个免费 AI 提供商（如 Groq 或 Ollama） 创建一个测试 Notebook，上传几个 PDF 尝试 Chat 和搜索功能 如果满意，再配置更强大的 AI 提供商（OpenAI/Anthropic） 🔮 未来展望： 根据 Roadmap，Open Notebook 还将支持：\n实时前端更新（WebSocket） 异步处理（提升 UI 响应速度） 跨 Notebook 共享 Sources 书签集成（与浏览器书签同步） 项目开源且活跃维护，社区支持良好（Discord 服务器），是构建个人知识管理和研究助手的优秀选择。\n相关链接：\n🌐 官网：https://www.open-notebook.ai 📚 文档：https://github.com/lfnovo/open-notebook/tree/main/docs 💬 Discord 社区：https://discord.gg/37XJPXfz2w 🐛 问题反馈：https://github.com/lfnovo/open-notebook/issues ","wordCount":"4405","inLanguage":"zh","datePublished":"2026-06-05T00:00:00+08:00","dateModified":"2026-06-05T00:00:00+08:00","author":{"@type":"Person","name":"Cheman"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.xlap.top/post/tech/2026-06-05/open-notebook/"},"publisher":{"@type":"Organization","name":"Blog - XLapTop","logo":{"@type":"ImageObject","url":"https://blog.xlap.top/icon/favicon_32.ico"}}}</script></head><body class=dark id=top><script>localStorage.getItem("pref-theme")==="light"&&document.body.classList.remove("dark")</script><header class=header><nav class=nav><div class=logo><a href=https://blog.xlap.top/ accesskey=h title="LapTop (Alt + H)"><img src=https://blog.xlap.top/logo.png alt aria-label=logo height=35>LapTop</a><div class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button><ul class=lang-switch><li>|</li></ul></div></div><ul id=menu><li><a href=https://blog.xlap.top/about/ title=关于><span>关于</span></a></li><li><a href=https://blog.xlap.top/links/ title=友邻><span>友邻</span></a></li><li><a href=https://blog.xlap.top/archives/ title=归档><span>归档</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><div class=breadcrumbs><a href=https://blog.xlap.top/>主页</a>&nbsp;»&nbsp;<a href=https://blog.xlap.top/post/>Posts</a></div><h1 class=post-title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18+ AI 提供商</h1><div class=post-description>Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18+ AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。</div><div class=post-meta><span id=busuanzi_container_page_pv><span id=busuanzi_value_page_pv></span> 阅读 </span>开源 · AI工具 · 周五, 六月 5, 2026 · 9 分钟 · 4405 字&nbsp;|&nbsp;<a href=https://github.com/liuchaowen/hugo-blog-papermod/tree/main/content/post/tech/2026-06-05/open-notebook.md rel="noopener noreferrer" target=_blank>Repo</a></div></header><div class=toc><details><summary accesskey=c title="(Alt + C)"><span class=details>目录</span></summary><div class=inner><nav id=TableOfContents><ul><li><a href=#一项目概述>一、项目概述</a></li><li><a href=#二技术原理>二、技术原理</a><ul><li><a href=#架构设计>架构设计</a></li><li><a href=#关键技术实现>关键技术实现</a></li><li><a href=#数据流分析>数据流分析</a></li></ul></li><li><a href=#三安装与快速开始>三、安装与快速开始</a><ul><li><a href=#环境要求>环境要求</a></li><li><a href=#docker-快速部署2-分钟>Docker 快速部署（2 分钟）</a></li><li><a href=#使用-ollama免费本地-ai>使用 Ollama（免费本地 AI）</a></li></ul></li><li><a href=#四使用方法与实战>四、使用方法与实战</a><ul><li><a href=#基础用法>基础用法</a></li><li><a href=#进阶用法>进阶用法</a></li><li><a href=#实际项目示例>实际项目示例</a></li></ul></li><li><a href=#五常见问题与解决方案>五、常见问题与解决方案</a><ul><li><a href=#安装失败>安装失败</a></li><li><a href=#运行时错误>运行时错误</a></li><li><a href=#性能问题>性能问题</a></li><li><a href=#兼容性问题>兼容性问题</a></li></ul></li><li><a href=#六总结>六、总结</a></li></ul></nav></div></details></div><div class=post-content><p><strong>开篇引导段</strong>：今天在 GitHub Trending 上看到一个有意思的项目：<strong>Open Notebook</strong>，这是一个开源的、隐私优先的研究助手，旨在成为 Google Notebook LM 的强大替代品。与依赖 Google 云服务的 Notebook LM 不同，Open Notebook 让你完全掌控数据，并支持从 OpenAI、Anthropic 到本地 Ollama 的 18+ AI 提供商。</p><h2 id=一项目概述>一、项目概述<a hidden class=anchor aria-hidden=true href=#一项目概述>#</a></h2><p>Open Notebook 是一个开源研究助手工具，灵感来自 Google Notebook LM，但在隐私保护、提供商选择和功能扩展性上实现了全面超越。</p><p><strong>核心特性：</strong></p><ul><li>🔒 <strong>数据主权</strong>：自托管部署，敏感研究数据完全私密</li><li>🤖 <strong>多模型支持</strong>：18+ AI 提供商（OpenAI、Anthropic、Groq、Google、Ollama、LM Studio 等）</li><li>📚 <strong>多模态内容</strong>：支持 PDF、视频、音频、网页、Office 文档等</li><li>🎙️ <strong>专业播客生成</strong>：多 speaker 播客生成，支持 1-4 个扬声器自定义配置</li><li>🔍 <strong>智能搜索</strong>：全文和向量搜索覆盖所有内容</li><li>💬 <strong>上下文对话</strong>：基于你的研究材料进行 AI 对话</li><li>🌐 <strong>多语言 UI</strong>：支持英语、葡萄牙语、中日韩俄等语言</li></ul><p><strong>与 Google Notebook LM 对比：</strong></p><table><thead><tr><th>特性</th><th>Open Notebook</th><th>Google Notebook LM</th><th>优势</th></tr></thead><tbody><tr><td>隐私控制</td><td>自托管，数据私有</td><td>仅 Google 云</td><td>完全数据主权</td></tr><tr><td>AI 提供商</td><td>18+ 提供商</td><td>仅 Google 模型</td><td>灵活性和成本优化</td></tr><tr><td>播客扬声器</td><td>1-4 个，可自定义</td><td>仅 2 个</td><td>极致灵活性</td></tr><tr><td>API 访问</td><td>完整 REST API</td><td>无 API</td><td>完全自动化</td></tr><tr><td>定制化</td><td>开源，完全可定制</td><td>封闭系统</td><td>无限扩展性</td></tr></tbody></table><h2 id=二技术原理>二、技术原理<a hidden class=anchor aria-hidden=true href=#二技术原理>#</a></h2><h3 id=架构设计>架构设计<a hidden class=anchor aria-hidden=true href=#架构设计>#</a></h3><p>Open Notebook 采用现代前后端分离架构：</p><p><strong>后端技术栈：</strong></p><ul><li><strong>Python 3.12+</strong>：核心编程语言</li><li><strong>FastAPI</strong>：高性能异步 API 框架</li><li><strong>LangChain/LangGraph</strong>：AI 编排和工作流引擎</li><li><strong>SurrealDB</strong>：多模型数据库（文档+图+向量）</li><li><strong>Esperanto</strong>：统一的多提供商 AI 接口库</li></ul><p><strong>前端技术栈：</strong></p><ul><li><strong>Next.js 20.x</strong>：React 元框架，支持 SSR/SSG</li><li><strong>React</strong>：用户界面构建</li><li><strong>TypeScript</strong>：类型安全</li></ul><p><strong>核心架构组件：</strong></p><pre tabindex=0><code>┌─────────────────────────────────────────┐
+│           Next.js Frontend              │
+│    (React + TypeScript + Tailwind)      │
+└─────────────────┬───────────────────────┘
+                  │ REST API
+┌─────────────────▼───────────────────────┐
+│         FastAPI Backend                 │
+│  - Notebook Management                  │
+│  - Source Processing                    │
+│  - AI Orchestration (LangChain)         │
+│  - Podcast Generation                   │
+└─────────────────┬───────────────────────┘
+                  │
+┌─────────────────▼───────────────────────┐
+│      SurrealDB (Multi-model)           │
+│  - Documents (Notebooks, Notes)        │
+│  - Vectors (Embeddings)                │
+│  - Graph (Relationships)                │
+└─────────────────────────────────────────┘
+</code></pre><h3 id=关键技术实现>关键技术实现<a hidden class=anchor aria-hidden=true href=#关键技术实现>#</a></h3><p><strong>1. 多提供商 AI 统一接口</strong></p><p>项目使用自研的 <code>esperanto</code> 库统一 18+ AI 提供商的接口：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># 支持的提供商矩阵</span>
+</span></span><span class=line><span class=cl><span class=n>provider_support</span> <span class=o>=</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;OpenAI&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>,</span> <span class=s2>&#34;embedding&#34;</span><span class=p>,</span> <span class=s2>&#34;stt&#34;</span><span class=p>,</span> <span class=s2>&#34;tts&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Anthropic&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Groq&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>,</span> <span class=s2>&#34;stt&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Google&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>,</span> <span class=s2>&#34;embedding&#34;</span><span class=p>,</span> <span class=s2>&#34;stt&#34;</span><span class=p>,</span> <span class=s2>&#34;tts&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Ollama&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>,</span> <span class=s2>&#34;embedding&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Mistral&#34;</span><span class=p>:</span> <span class=p>[</span><span class=s2>&#34;llm&#34;</span><span class=p>,</span> <span class=s2>&#34;embedding&#34;</span><span class=p>,</span> <span class=s2>&#34;stt&#34;</span><span class=p>,</span> <span class=s2>&#34;tts&#34;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=c1># ... 共 18+ 提供商</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span></code></pre></div><p><strong>2. 向量搜索与全文搜索融合</strong></p><div class=highlight><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># 内容索引流程</span>
+</span></span><span class=line><span class=cl><span class=mf>1.</span> <span class=n>用户上传</span> <span class=n>PDF</span><span class=o>/</span><span class=n>视频</span><span class=o>/</span><span class=n>网页</span>
+</span></span><span class=line><span class=cl><span class=mf>2.</span> <span class=n>内容提取</span> <span class=p>(</span><span class=n>content</span><span class=o>-</span><span class=n>core</span> <span class=n>库</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=mf>3.</span> <span class=n>文本分块</span> <span class=p>(</span><span class=n>tiktoken</span> <span class=n>分词</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=mf>4.</span> <span class=n>向量化</span> <span class=p>(</span><span class=n>用户选择的</span> <span class=n>embedding</span> <span class=n>模型</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=mf>5.</span> <span class=n>存储到</span> <span class=n>SurrealDB</span> <span class=p>(</span><span class=n>文档</span> <span class=o>+</span> <span class=n>向量</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=mf>6.</span> <span class=n>支持全文检索</span> <span class=o>+</span> <span class=n>向量相似度检索</span>
+</span></span></code></pre></div><p><strong>3. 播客生成引擎</strong></p><p>基于 <code>podcast-creator</code> 库实现专业级播客生成：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># 播客生成配置示例</span>
+</span></span><span class=line><span class=cl><span class=n>episode_profile</span> <span class=o>=</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;speakers&#34;</span><span class=p>:</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>        <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Host&#34;</span><span class=p>,</span> <span class=s2>&#34;voice&#34;</span><span class=p>:</span> <span class=s2>&#34;en-US-Studio-O&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl>        <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Expert&#34;</span><span class=p>,</span> <span class=s2>&#34;voice&#34;</span><span class=p>:</span> <span class=s2>&#34;en-US-Studio-Q&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl>        <span class=p>{</span><span class=s2>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Guest&#34;</span><span class=p>,</span> <span class=s2>&#34;voice&#34;</span><span class=p>:</span> <span class=s2>&#34;en-US-Studio-M&#34;</span><span class=p>}</span>
+</span></span><span class=line><span class=cl>    <span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;format&#34;</span><span class=p>:</span> <span class=s2>&#34;interview&#34;</span><span class=p>,</span>  <span class=c1># or &#34;discussion&#34;, &#34;debate&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;duration_target&#34;</span><span class=p>:</span> <span class=mi>1800</span><span class=p>,</span>  <span class=c1># 30 minutes</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span></code></pre></div><h3 id=数据流分析>数据流分析<a hidden class=anchor aria-hidden=true href=#数据流分析>#</a></h3><p><strong>典型用户工作流：</strong></p><pre tabindex=0><code>1. 创建 Notebook
+   ↓
+2. 添加 Sources (PDF/URL/Video/Audio)
+   ↓
+3. 内容自动处理
+   - 文本提取
+   - 分块
+   - Embedding
+   - 索引
+   ↓
+4. AI 对话 / 搜索
+   - 检索相关块 (向量 + 全文)
+   - 构建上下文
+   - 调用 LLM
+   - 返回答案 + 引用
+   ↓
+5. 生成 Note / 播客
+   - AI 辅助笔记
+   - 一键播客生成
+</code></pre><h2 id=三安装与快速开始>三、安装与快速开始<a hidden class=anchor aria-hidden=true href=#三安装与快速开始>#</a></h2><h3 id=环境要求>环境要求<a hidden class=anchor aria-hidden=true href=#环境要求>#</a></h3><p><strong>最简部署（Docker）：</strong></p><ul><li>Docker Desktop 4.0+</li><li>2GB+ RAM</li><li>5GB+ 磁盘空间</li></ul><p><strong>从源码部署：</strong></p><ul><li>Python 3.11 或 3.12</li><li>Node.js 20.x LTS</li><li>SurrealDB v2.x</li></ul><h3 id=docker-快速部署2-分钟>Docker 快速部署（2 分钟）<a hidden class=anchor aria-hidden=true href=#docker-快速部署2-分钟>#</a></h3><p><strong>Step 1: 获取 docker-compose.yml</strong></p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># 选项 A: 直接下载</span>
+</span></span><span class=line><span class=cl>curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/docker-compose.yml
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># 选项 B: 手动创建</span>
+</span></span><span class=line><span class=cl>cat &gt; docker-compose.yml <span class=s>&lt;&lt; &#39;EOF&#39;
+</span></span></span><span class=line><span class=cl><span class=s>services:
+</span></span></span><span class=line><span class=cl><span class=s>  surrealdb:
+</span></span></span><span class=line><span class=cl><span class=s>    image: surrealdb/surrealdb:v2
+</span></span></span><span class=line><span class=cl><span class=s>    command: start --log info --user root --pass root rocksdb:/mydata/mydatabase.db
+</span></span></span><span class=line><span class=cl><span class=s>    user: root
+</span></span></span><span class=line><span class=cl><span class=s>    ports:
+</span></span></span><span class=line><span class=cl><span class=s>      - &#34;8000:8000&#34;
+</span></span></span><span class=line><span class=cl><span class=s>    volumes:
+</span></span></span><span class=line><span class=cl><span class=s>      - ./surreal_data:/mydata
+</span></span></span><span class=line><span class=cl><span class=s>    restart: always
+</span></span></span><span class=line><span class=cl><span class=s>
+</span></span></span><span class=line><span class=cl><span class=s>  open_notebook:
+</span></span></span><span class=line><span class=cl><span class=s>    image: lfnovo/open_notebook:v1-latest
+</span></span></span><span class=line><span class=cl><span class=s>    ports:
+</span></span></span><span class=line><span class=cl><span class=s>      - &#34;8502:8502&#34;
+</span></span></span><span class=line><span class=cl><span class=s>      - &#34;5055:5055&#34;
+</span></span></span><span class=line><span class=cl><span class=s>    environment:
+</span></span></span><span class=line><span class=cl><span class=s>      - OPEN_NOTEBOOK_ENCRYPTION_KEY=change-me-to-a-secret-string
+</span></span></span><span class=line><span class=cl><span class=s>      - SURREAL_URL=ws://surrealdb:8000/rpc
+</span></span></span><span class=line><span class=cl><span class=s>      - SURREAL_USER=root
+</span></span></span><span class=line><span class=cl><span class=s>      - SURREAL_PASSWORD=root
+</span></span></span><span class=line><span class=cl><span class=s>      - SURREAL_NAMESPACE=open_notebook
+</span></span></span><span class=line><span class=cl><span class=s>      - SURREAL_DATABASE=open_notebook
+</span></span></span><span class=line><span class=cl><span class=s>    volumes:
+</span></span></span><span class=line><span class=cl><span class=s>      - ./notebook_data:/app/data
+</span></span></span><span class=line><span class=cl><span class=s>    depends_on:
+</span></span></span><span class=line><span class=cl><span class=s>      - surrealdb
+</span></span></span><span class=line><span class=cl><span class=s>    restart: always
+</span></span></span><span class=line><span class=cl><span class=s>EOF</span>
+</span></span></code></pre></div><p><strong>Step 2: 设置加密密钥</strong></p><p>编辑 <code>docker-compose.yml</code>，修改：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-yaml data-lang=yaml><span class=line><span class=cl>- <span class=l>OPEN_NOTEBOOK_ENCRYPTION_KEY=change-me-to-a-secret-string</span><span class=w>
+</span></span></span></code></pre></div><p>改为任意密钥字符串（如 <code>my-super-secret-key-123</code>）。</p><p><strong>Step 3: 启动服务</strong></p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>docker compose up -d
+</span></span></code></pre></div><p>等待 15-20 秒，然后访问：<strong>http://localhost:8502</strong></p><p><strong>Step 4: 配置 AI 提供商</strong></p><ol><li>进入 <strong>Settings</strong> → <strong>API Keys</strong></li><li>点击 <strong>Add Credential</strong></li><li>选择提供商（OpenAI/Anthropic/Google 等）</li><li>粘贴 API Key，点击 <strong>Save</strong></li><li>点击 <strong>Test Connection</strong> → <strong>Discover Models</strong> → <strong>Register Models</strong></li></ol><p>完成！现在可以创建你的第一个 Notebook 了。</p><h3 id=使用-ollama免费本地-ai>使用 Ollama（免费本地 AI）<a hidden class=anchor aria-hidden=true href=#使用-ollama免费本地-ai>#</a></h3><p>如果想完全免费运行（无需 API 费用），可以使用 Ollama：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># 1. 下载 Ollama 配置</span>
+</span></span><span class=line><span class=cl>curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/examples/docker-compose-ollama.yml
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># 2. 启动（会自动下载 Ollama 模型）</span>
+</span></span><span class=line><span class=cl>docker compose up -d
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># 3. 访问 http://localhost:8502</span>
+</span></span><span class=line><span class=cl><span class=c1># 4. 在 Settings 中选择 Ollama 作为提供商</span>
+</span></span></code></pre></div><h2 id=四使用方法与实战>四、使用方法与实战<a hidden class=anchor aria-hidden=true href=#四使用方法与实战>#</a></h2><h3 id=基础用法>基础用法<a hidden class=anchor aria-hidden=true href=#基础用法>#</a></h3><p><strong>1. 创建 Notebook</strong></p><pre tabindex=0><code>点击 &#34;New Notebook&#34; → 输入名称（如 &#34;AI Research&#34;）→ 创建
+</code></pre><p><strong>2. 添加研究材料</strong></p><p>支持的内容类型：</p><ul><li>📄 <strong>PDF 文档</strong>：论文、报告、书籍</li><li>🌐 <strong>网页 URL</strong>：自动提取正文</li><li>🎥 <strong>YouTube 视频</strong>：自动转录字幕</li><li>🎙️ <strong>音频文件</strong>：MP3/WAV，自动语音识别</li><li>📝 <strong>纯文本</strong>：直接粘贴或上传 TXT/Markdown</li></ul><p><strong>示例：添加 PDF 论文</strong></p><pre tabindex=0><code>1. 点击 &#34;Add Source&#34; → 选择 &#34;PDF&#34;
+2. 上传文件或拖拽
+3. 等待处理完成（自动提取文本 + 分块 + embedding）
+4. 在 Source 列表中看到新增的论文
+</code></pre><p><strong>3. AI 对话（Chat）</strong></p><pre tabindex=0><code>1. 选择 Notebook
+2. 点击 &#34;Chat&#34;
+3. 输入问题：&#34;这篇论文的主要贡献是什么？&#34;
+4. AI 会基于所有 Sources 回答，并附上引用
+</code></pre><p><strong>4. 智能搜索</strong></p><pre tabindex=0><code>1. 在 Notebook 页面，点击 &#34;Search&#34;
+2. 输入关键词或问题
+3. 支持：
+   - 全文搜索（关键词匹配）
+   - 向量搜索（语义相似度）
+   - 混合搜索（两者结合）
+</code></pre><h3 id=进阶用法>进阶用法<a hidden class=anchor aria-hidden=true href=#进阶用法>#</a></h3><p><strong>1. 生成专业播客</strong></p><pre tabindex=0><code>1. 选择 Notebook（包含多个 Sources）
+2. 点击 &#34;Podcast&#34; → &#34;Generate&#34;
+3. 配置：
+   - Episode Profile（1-4 个扬声器）
+   - 目标时长（如 30 分钟）
+   - 风格（访谈/讨论/辩论）
+4. 点击 &#34;Generate&#34;
+5. 等待生成（通常需要 5-15 分钟）
+6. 下载 MP3 或分享链接
+</code></pre><p><strong>示例 Episode Profile：</strong></p><div class=highlight><pre tabindex=0 class=chroma><code class=language-json data-lang=json><span class=line><span class=cl><span class=p>{</span>
+</span></span><span class=line><span class=cl>  <span class=nt>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Tech Interview&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>  <span class=nt>&#34;speakers&#34;</span><span class=p>:</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>    <span class=p>{</span><span class=nt>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Host&#34;</span><span class=p>,</span> <span class=nt>&#34;voice&#34;</span><span class=p>:</span> <span class=s2>&#34;en-US-Studio-O&#34;</span><span class=p>},</span>
+</span></span><span class=line><span class=cl>    <span class=p>{</span><span class=nt>&#34;name&#34;</span><span class=p>:</span> <span class=s2>&#34;Researcher&#34;</span><span class=p>,</span> <span class=nt>&#34;voice&#34;</span><span class=p>:</span> <span class=s2>&#34;en-US-Studio-Q&#34;</span><span class=p>}</span>
+</span></span><span class=line><span class=cl>  <span class=p>],</span>
+</span></span><span class=line><span class=cl>  <span class=nt>&#34;format&#34;</span><span class=p>:</span> <span class=s2>&#34;interview&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>  <span class=nt>&#34;style_prompt&#34;</span><span class=p>:</span> <span class=s2>&#34;专业但轻松的技术访谈，深入讨论研究细节&#34;</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span></code></pre></div><p><strong>2. 内容转换（Transformations）</strong></p><p>内置和自定义转换操作：</p><pre tabindex=0><code>1. 选择 Source 或 Note
+2. 点击 &#34;Transform&#34;
+3. 选择操作：
+   - Summarize（摘要）
+   - Extract Key Insights（提取关键洞察）
+   - Generate Quiz（生成测验）
+   - Custom（自定义提示词）
+4. 查看结果，保存到 Note
+</code></pre><p><strong>3. 多 Notebook 管理</strong></p><pre tabindex=0><code>场景：你有多个研究项目
+- Notebook A: &#34;AI Safety Research&#34;
+- Notebook B: &#34;Startup Ideas&#34;
+- Notebook C: &#34;Learning Rust&#34;
+
+每个 Notebook 独立，Sources/Notes/Chat 互不干扰
+</code></pre><p><strong>4. REST API 编程访问</strong></p><p>Open Notebook 提供完整的 REST API：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># 获取所有 Notebooks</span>
+</span></span><span class=line><span class=cl>curl -X GET <span class=s2>&#34;http://localhost:5055/api/notebooks&#34;</span> <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>  -H <span class=s2>&#34;Authorization: Bearer YOUR_API_KEY&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># 创建新 Note</span>
+</span></span><span class=line><span class=cl>curl -X POST <span class=s2>&#34;http://localhost:5055/api/notes&#34;</span> <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>  -H <span class=s2>&#34;Content-Type: application/json&#34;</span> <span class=se>\
+</span></span></span><span class=line><span class=cl><span class=se></span>  -d <span class=s1>&#39;{
+</span></span></span><span class=line><span class=cl><span class=s1>    &#34;notebook_id&#34;: &#34;uuid&#34;,
+</span></span></span><span class=line><span class=cl><span class=s1>    &#34;title&#34;: &#34;My Note&#34;,
+</span></span></span><span class=line><span class=cl><span class=s1>    &#34;content&#34;: &#34;Note content...&#34;
+</span></span></span><span class=line><span class=cl><span class=s1>  }&#39;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># API 文档：http://localhost:5055/docs</span>
+</span></span></code></pre></div><h3 id=实际项目示例>实际项目示例<a hidden class=anchor aria-hidden=true href=#实际项目示例>#</a></h3><p><strong>场景：研究论文综述</strong></p><pre tabindex=0><code>目标：阅读 10 篇关于 RAG（检索增强生成）的论文，生成综述
+
+步骤：
+1. 创建 Notebook: &#34;RAG Survey 2026&#34;
+2. 添加 10 篇论文 PDF
+3. 等待处理完成
+4. Chat 提问：
+   - &#34;这些论文的共同主题是什么？&#34;
+   - &#34;哪些方法效果最好？&#34;
+   - &#34;未来研究方向是什么？&#34;
+5. 使用 Transformations 生成每篇论文的摘要
+6. 撰写综述（手动 + AI 辅助）
+7. 可选：生成播客，用音频形式回顾关键点
+</code></pre><h2 id=五常见问题与解决方案>五、常见问题与解决方案<a hidden class=anchor aria-hidden=true href=#五常见问题与解决方案>#</a></h2><h3 id=安装失败>安装失败<a hidden class=anchor aria-hidden=true href=#安装失败>#</a></h3><p><strong>问题 1：Docker 启动失败（端口占用）</strong></p><pre tabindex=0><code>错误信息：
+Error: Bind for 0.0.0.0:8502 failed: port is already allocated
+
+解决方案：
+1. 检查端口占用：lsof -i :8502
+2. 停止占用进程：kill -9 &lt;PID&gt;
+3. 或修改 docker-compose.yml 中的端口映射：
+   ports:
+     - &#34;8503:8502&#34;  # 改为 8503
+</code></pre><p><strong>问题 2：SurrealDB 连接失败</strong></p><pre tabindex=0><code>错误信息：
+ERROR: Cannot connect to SurrealDB at ws://surrealdb:8000/rpc
+
+解决方案：
+1. 检查 SurrealDB 容器：docker ps | grep surrealdb
+2. 查看日志：docker logs &lt;surrealdb_container_id&gt;
+3. 重启服务：docker compose restart surrealdb
+4. 如果数据损坏，删除数据卷重新启动：
+   docker compose down -v
+   docker compose up -d
+</code></pre><p><strong>问题 3：AI 提供商 API 连接失败</strong></p><pre tabindex=0><code>错误信息：
+ERROR: Failed to connect to OpenAI API (401 Unauthorized)
+
+解决方案：
+1. 检查 API Key 是否正确
+2. 检查网络连接（特别是国内需要代理）
+3. 在 docker-compose.yml 中配置代理：
+   environment:
+     - HTTP_PROXY=http://proxy:port
+     - HTTPS_PROXY=http://proxy:port
+4. 测试连接：在 Settings 中点击 &#34;Test Connection&#34;
+</code></pre><h3 id=运行时错误>运行时错误<a hidden class=anchor aria-hidden=true href=#运行时错误>#</a></h3><p><strong>问题 4：上传 PDF 失败</strong></p><pre tabindex=0><code>错误信息：
+ERROR: Failed to process PDF (timeout or memory error)
+
+解决方案：
+1. 检查 PDF 大小（建议 &lt; 50MB）
+2. 检查 PDF 是否加密（需要解密后上传）
+3. 增加 Docker 内存限制：
+   # docker-compose.yml
+   open_notebook:
+     deploy:
+       resources:
+         limits:
+           memory: 4G
+4. 分割大 PDF：使用 PDF 工具拆分为多个小文件
+</code></pre><p><strong>问题 5：播客生成失败</strong></p><pre tabindex=0><code>错误信息：
+ERROR: Podcast generation failed (TTS quota exceeded)
+
+解决方案：
+1. 检查 TTS 提供商配额（如 ElevenLabs 有月度字符限制）
+2. 切换到免费 TTS 提供商（如 Google TTS）
+3. 减少播客时长或扬声器数量
+4. 使用本地 TTS（如果支持）
+</code></pre><p><strong>问题 6：搜索结果不准确</strong></p><pre tabindex=0><code>问题：向量搜索返回不相关结果
+
+解决方案：
+1. 检查 Embedding 模型是否合适（建议用 OpenAI text-embedding-3-small）
+2. 调整搜索设置：
+   - 增加候选数量（top_k）
+   - 降低相似度阈值
+3. 手动添加 Tags 到 Sources，结合全文搜索
+4. 重新处理 Source（删除后重新上传）
+</code></pre><h3 id=性能问题>性能问题<a hidden class=anchor aria-hidden=true href=#性能问题>#</a></h3><p><strong>问题 7：响应速度慢</strong></p><pre tabindex=0><code>排查：
+1. 检查 AI 提供商延迟（如 Ollama 本地模型较慢）
+2. 检查网络延迟（特别是使用远程 API）
+3. 优化分块大小（避免过细的分块）
+
+解决方案：
+1. 切换到更快的模型（如 GPT-3.5 替代 GPT-4）
+2. 启用缓存（LangChain 内置）
+3. 使用异步处理（批量操作）
+</code></pre><p><strong>问题 8：内存占用过高</strong></p><pre tabindex=0><code>排查：
+1. 检查处理的文档数量和大小
+2. 检查是否加载了过大的模型（Ollama）
+
+解决方案：
+1. 限制同时处理的 Source 数量
+2. 定期清理旧数据
+3. 使用更小 embedding 模型（如 all-MiniLM-L6-v2）
+</code></pre><h3 id=兼容性问题>兼容性问题<a hidden class=anchor aria-hidden=true href=#兼容性问题>#</a></h3><p><strong>问题 9：浏览器兼容性</strong></p><pre tabindex=0><code>问题：某些功能在 Safari 上不工作
+
+解决方案：
+1. 使用 Chrome/Edge（推荐）
+2. 检查浏览器控制台错误（F12）
+3. 清除浏览器缓存和 Cookie
+4. 更新到最新浏览器版本
+</code></pre><p><strong>问题 10：移动设备访问</strong></p><pre tabindex=0><code>问题：手机浏览器显示不正常
+
+解决方案：
+1. Open Notebook 主要针对桌面优化
+2. 使用响应式模式（Chrome DevTools → Toggle Device Toolbar）
+3. 或等待官方移动端优化（Roadmap 中有计划）
+</code></pre><h2 id=六总结>六、总结<a hidden class=anchor aria-hidden=true href=#六总结>#</a></h2><p>Open Notebook 是一个功能强大、隐私优先的开源研究助手，完美替代 Google Notebook LM。其核心价值在于：</p><p><strong>✨ 核心优势：</strong></p><ol><li><strong>数据主权</strong>：完全自托管，敏感研究数据不离开你的服务器</li><li><strong>提供商自由</strong>：18+ AI 提供商任你选择，避免供应商锁定</li><li><strong>成本可控</strong>：可选择免费本地模型（Ollama）或按需付费的 API</li><li><strong>功能扩展性强</strong>：开源架构，完全可定制和扩展</li><li><strong>专业级播客生成</strong>：多扬声器、自定义配置，远超 Notebook LM</li></ol><p><strong>🎯 适合人群：</strong></p><ul><li>学术研究人员（管理论文、生成综述）</li><li>技术从业者（学习新技术、管理知识库）</li><li>内容创作者（研究素材、生成播客）</li><li>隐私敏感用户（自托管、数据可控）</li></ul><p><strong>🚀 快速上手建议：</strong></p><ol><li>先用 Docker 快速部署（2 分钟）</li><li>配置一个免费 AI 提供商（如 Groq 或 Ollama）</li><li>创建一个测试 Notebook，上传几个 PDF</li><li>尝试 Chat 和搜索功能</li><li>如果满意，再配置更强大的 AI 提供商（OpenAI/Anthropic）</li></ol><p><strong>🔮 未来展望：</strong>
+根据 Roadmap，Open Notebook 还将支持：</p><ul><li>实时前端更新（WebSocket）</li><li>异步处理（提升 UI 响应速度）</li><li>跨 Notebook 共享 Sources</li><li>书签集成（与浏览器书签同步）</li></ul><p>项目开源且活跃维护，社区支持良好（Discord 服务器），是构建个人知识管理和研究助手的优秀选择。</p><p><strong>相关链接：</strong></p><ul><li>🌐 官网：https://www.open-notebook.ai</li><li>📚 文档：https://github.com/lfnovo/open-notebook/tree/main/docs</li><li>💬 Discord 社区：https://discord.gg/37XJPXfz2w</li><li>🐛 问题反馈：https://github.com/lfnovo/open-notebook/issues</li></ul></div><footer class=post-footer><ul class=post-tags><li><a href=https://blog.xlap.top/tags/github/>GitHub</a></li><li><a href=https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90/>开源</a></li><li><a href=https://blog.xlap.top/tags/ai/>AI</a></li><li><a href=https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81/>隐私</a></li><li><a href=https://blog.xlap.top/tags/notebooklm/>NotebookLM</a></li><li><a href=https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/>自托管</a></li></ul><nav class=paginav><a class=prev href=https://blog.xlap.top/post/tech/2026-06-05/cosmos/><span class=title>« 上一页</span><br><span>NVIDIA Cosmos 3：统一物理AI的世界模型平台</span>
+</a><a class=next href=https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/><span class=title>下一页 »</span><br><span>OpenClaw Windows Hub: 你的 Windows 系统托盘 AI 助手</span></a></nav></footer></article></main><footer class=footer><p class=logos><a style=border-bottom:unset href=https://www.foreverblog.cn/go.html target=_blank><img src=https://blog.xlap.top/image/wormhole.png height=28 title=穿梭虫洞-随机访问十年之约友链博客></a></p><span>&copy; 2026 <a href=https://blog.xlap.top/>Cheman</a></span>
+<span>·&nbsp;Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a>&nbsp;·&nbsp;Theme
+<a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a>&nbsp;·
+<a href=/sitemap.xml rel=noopener target=_blank>Sitemap</a>&nbsp;·&nbsp;
+<script id=LA-DATA-WIDGET crossorigin=anonymous src="https://v6-widget.51.la/v6/JvUDwnR8WxIRefWQ/quote.js?theme=#9B9C9D,#9B9C9D,#9B9C9D,#9B9C9D,#9B9C9D,#9B9C9D,12&f=12&display=0,0,0,0,0,0,0,1"></script></span><p id=hitokoto><span id=hitokoto_text>...</span></p></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a><script type=text/javascript color=238,162,164 src=https://cdn.jsdelivr.net/npm/canvas-nest.js/dist/canvas-nest.js></script><script>fetch("https://v1.hitokoto.cn").then(e=>e.json()).then(e=>{var t=`${e.hitokoto} —— ${e.from_who||""}《${e.from}》`;const n=document.querySelector("#hitokoto_text");n.innerText=t}).catch(console.error)</script><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove("dark"),localStorage.setItem("pref-theme","light")):(document.body.classList.add("dark"),localStorage.setItem("pref-theme","dark"))})</script><script>document.querySelectorAll("pre > code").forEach(e=>{const n=e.parentNode.parentNode,t=document.createElement("button");t.classList.add("copy-code"),t.innerHTML="复制";function s(){t.innerHTML="已复制！",setTimeout(()=>{t.innerHTML="复制"},2e3)}t.addEventListener("click",t=>{if("clipboard"in navigator){navigator.clipboard.writeText(e.textContent),s();return}const n=document.createRange();n.selectNodeContents(e);const o=window.getSelection();o.removeAllRanges(),o.addRange(n);try{document.execCommand("copy"),s()}catch{}o.removeRange(n)}),n.classList.contains("highlight")?n.appendChild(t):n.parentNode.firstChild==n||(e.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?e.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(t):e.parentNode.appendChild(t))})</script></body></html>

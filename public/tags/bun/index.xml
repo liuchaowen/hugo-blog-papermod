@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bun on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/bun/</link>
+    <description>Recent content in Bun on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/bun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/instatic/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/instatic/</guid>
+      <description>Instatic 是一款基于 Bun 的自托管 CMS，将可视化编辑器、内容引擎和发布器集成在单个服务器中，输出无框架运行时的语义 HTML 和紧凑 CSS，并内置 QuickJS-WASM 沙箱插件系统。</description>
+    </item>
+    
+  </channel>
+</rss>

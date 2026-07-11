@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自动化安全 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%89%E5%85%A8/</link>
+    <description>Recent content in 自动化安全 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</guid>
+      <description>VulnClaw 是一款开源的 AI 驱动渗透测试 CLI 工具，基于 LLM Agent &#43; MCP 工具链 &#43; 渗透 Skill 编排，支持自然语言输入自动完成信息收集、漏洞发现、漏洞利用到报告生成的全流程，内置目标驱动求解引擎、证据级反幻觉闸门和21个渗透 Skill。</description>
+    </item>
+    
+  </channel>
+</rss>

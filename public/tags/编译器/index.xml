@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/typescript/</guid>
+      <description>本文基于 microsoft/TypeScript 源码与官方 README，深入解析 TypeScript 的核心特性、编译架构、tsc 与 tsserver 的构建体系，以及如何安装、使用与排错，并介绍其向 7.0（原生 Go 移植）演进的现状。</description>
+    </item>
+    
+    <item>
+      <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
+    </item>
+    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>

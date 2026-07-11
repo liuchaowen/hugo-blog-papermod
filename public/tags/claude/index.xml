@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</guid>
+      <description>Desktop Commander MCP 是一款基于 Model Context Protocol 的开源工具，让 Claude、ChatGPT 等 AI 助手直接在你的电脑上执行终端命令、管理文件、读写 Excel/PDF/DOCX，实现真正原生的系统级 AI 协作。</description>
+    </item>
+    
+    <item>
+      <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</guid>
+      <description>AI Job Search 是一个基于 Claude Code 的求职框架，通过 /setup、/scrape、/apply 三条命令将 AI 变成求职全流程助手：自动构建候选人画像、抓取招聘门户、评估岗位匹配度，并以 drafter-reviewer 双人工作流生成 LaTeX 简历与求职信，外加 PDF 视觉校验与 ATS 文本层校验，杜绝排版翻车与关键词堆砌。</description>
+    </item>
+    
+    <item>
+      <title>Claude Video: 让 AI 真正「看懂」视频的开源神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</guid>
+      <description>Claude Video 是一个让 Claude 能够观看和分析任何视频的 Claude Code 插件，支持 YouTube、Loom、TikTok 等平台，通过字幕提取 &#43; 关键帧截取 &#43; Whisper 转录三重能力，让 AI 真正理解视频内容而非仅凭标题猜测。</description>
+    </item>
+    
+    <item>
+      <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/gastown/</guid>
+      <description>Gas Town 是一款基于 Git 工作树持久化机制的多智能体 AI 协作工具，支持 Claude Code、GitHub Copilot、Codex 等多种 AI 编程助手在同一项目中协同工作，通过 Mayor（调度者）、Convoy（任务队列）和 Beads（工作追踪）等核心概念解决 AI Agent 上下文丢失和协调混乱的问题。</description>
+    </item>
+    
+    <item>
+      <title>video-use: 用自然语言对话的方式编辑视频，100% 开源</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/video-use/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/video-use/</guid>
+      <description>video-use 是一个基于 Claude Code 的 AI 视频编辑工具，只需把原始素材丢进文件夹，用自然语言描述需求，就能获得剪辑好的 final.mp4。支持自动删除语气词、智能调色、音视频淡入淡出、字幕烧录和动态字幕生成，全程开源。</description>
+    </item>
+    
+    <item>
+      <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</guid>
+      <description>System Prompts Leaks 是一个开源项目，旨在收录并公开分享 ChatGPT、Claude、Gemini、Grok 等主流 AI 助手的 System Prompt，帮助开发者深入理解 AI 行为逻辑与边界。</description>
+    </item>
+    
+    <item>
+      <title>Career-Ops：AI 驱动的职业搜索系统，帮你筛选匹配度最高的职位</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</guid>
+      <description>Career-Ops 是一个开源的 AI 驱动职业搜索工具，能够自动评估职位匹配度、生成定制化简历、扫描招聘门户，帮你从数百个职位中精准找到最值得申请的那一个。</description>
+    </item>
+    
+    <item>
+      <title>PM Skills Marketplace：为 AI 助手打造的产品经理技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</guid>
+      <description>PM Skills Marketplace 是一套面向产品经理的 AI 技能包，包含 68 个 PM 技能和 42 个链式工作流，覆盖发现、策略、执行、发布、增长等 9 大插件，兼容 Claude Code、Cowork、Codex CLI 等主流 AI 编程助手。</description>
+    </item>
+    
     <item>
       <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</link>

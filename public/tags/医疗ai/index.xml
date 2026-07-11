@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>医疗AI on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%8C%BB%E7%96%97ai/</link>
+    <description>Recent content in 医疗AI on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8C%BB%E7%96%97ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenMed：本地优先的医疗AI，患者数据永不离开设备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/openmed/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/openmed/</guid>
+      <description>OpenMed 是一个本地优先的开源医疗AI框架，提供1000&#43;专业医学模型，支持实体提取、PII去标识化，全量运行在本地设备上，从Python一行代码到iPhone原生应用均可调用。</description>
+    </item>
+    
+  </channel>
+</rss>

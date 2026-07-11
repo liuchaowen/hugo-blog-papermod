@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gemini/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gemini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</guid>
+      <description>System Prompts Leaks 是一个开源项目，旨在收录并公开分享 ChatGPT、Claude、Gemini、Grok 等主流 AI 助手的 System Prompt，帮助开发者深入理解 AI 行为逻辑与边界。</description>
+    </item>
+    
     <item>
       <title>离谱的英语学习指南：基于AI的英语进阶系统方法论</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/english-level-up-tips/</link>

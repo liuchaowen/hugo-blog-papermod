@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gateway on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/gateway/</link>
+    <description>Recent content in Gateway on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OmniRoute：聚合 236 个 AI 提供商的免费网关，每月 16 亿免费 Token</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</guid>
+      <description>OmniRoute 是一款开源的 AI 网关，聚合了 236 个 AI 提供商（其中 50&#43; 免费），通过统一的 OpenAI 兼容端点为 Claude Code、Cursor、Cline 等 AI 编程工具提供免费或低成本的模型访问，并内置 RTK &#43; Caveman 压缩技术可节省 15-95% 的 Token 消耗。</description>
+    </item>
+    
+  </channel>
+</rss>

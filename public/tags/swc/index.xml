@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SWC on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/swc/</link>
+    <description>Recent content in SWC on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/swc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TensorFlow on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/tensorflow/</link>
+    <description>Recent content in TensorFlow on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
+  </channel>
+</rss>

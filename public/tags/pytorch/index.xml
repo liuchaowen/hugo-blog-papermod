@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
+      <description>Pocket TTS 是 Kyutai Labs 开源的轻量级文本转语音模型，仅 100M 参数、在 CPU 上即可达到 6 倍实时速度，支持流式输出、语音克隆和多语言，pip 一键安装即可在本地运行。</description>
+    </item>
+    
+    <item>
+      <title>PyTorch：深度学习领域的首选框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>

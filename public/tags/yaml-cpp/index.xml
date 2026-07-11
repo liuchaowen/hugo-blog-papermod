@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yaml-Cpp on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/yaml-cpp/</link>
+    <description>Recent content in Yaml-Cpp on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/yaml-cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yaml-cpp：C&#43;&#43; 中的 YAML 解析与生成利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</guid>
+      <description>yaml-cpp 是 Jesse Beder 维护的 C&#43;&#43; YAML 1.2 解析与生成库，提供简洁的 Node 树 API 与流式 Emitter，可轻松完成配置文件的读取、修改与序列化，是 C&#43;&#43; 项目中处理 YAML 的成熟首选。</description>
+    </item>
+    
+  </channel>
+</rss>

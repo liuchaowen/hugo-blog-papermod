@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>测试框架 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6/</link>
+    <description>Recent content in 测试框架 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catch2：现代 C&#43;&#43; 原生的单元测试、微基准与 BDD 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/catch2/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/catch2/</guid>
+      <description>Catch2 是当前 GitHub 上最受欢迎的 C&#43;&#43; 测试框架之一，以纯 C&#43;&#43; 语法、类自然语言的断言、Section 共享测试夹具、内置微基准与 BDD 宏著称。本文从架构、技术原理、安装实战到常见问题，带你看懂这个现代 C&#43;&#43; 原生测试框架。</description>
+    </item>
+    
+    <item>
+      <title>pytest：Python 生态中最强大的测试框架，你真的用好了吗？</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/pytest/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/pytest/</guid>
+      <description>深入解析 pytest 框架的设计哲学、核心架构与高级用法，从 fixture 机制到插件体系，帮你掌握这个 58k&#43; Star 的 Python 测试利器。</description>
+    </item>
+    
+  </channel>
+</rss>

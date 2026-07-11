@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ESP32 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/esp32/</link>
+    <description>Recent content in ESP32 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/ruview/</guid>
+      <description>RuView 将普通 WiFi 路由器的无线电信号转化为空间感知能力，通过 ESP32 传感器和脉冲神经网络实现穿墙人体检测、呼吸心率监测、跌倒识别等，支持 Home Assistant、Apple Home 等智能家居生态，全部在边缘侧运行，无需云端和摄像头。</description>
+    </item>
+    
+    <item>
+      <title>ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/espectre/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/espectre/</guid>
+      <description>ESPectre 是基于 Wi-Fi CSI（信道状态信息）的运动检测系统，无需摄像头和麦克风，仅用 €10 的 ESP32 设备即可实现人体感知，并原生接入 Home Assistant。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安全沙箱 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%B2%99%E7%AE%B1/</link>
+    <description>Recent content in 安全沙箱 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%B2%99%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CubeSandbox：为 AI Agent 打造的高性能安全沙箱，60ms 启动、硬件级隔离</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</guid>
+      <description>腾讯云开源的 CubeSandbox 是一款基于 RustVMM 和 KVM 的高性能安全沙箱服务，专为 AI Agent 设计。启动时间低于 60ms，内存开销小于 5MB，支持 E2B SDK 无缝迁移，提供硬件级隔离的安全执行环境。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
+      <description>深入探索 SmartlyDressedGames 开源的 U3-SDK，这是一个用于 Unturned 游戏 Mod 开发的完整 Unity SDK，包含源码、工具链和丰富的文档资源。</description>
+    </item>
+    
+    <item>
+      <title>MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</guid>
+      <description>MCP for Unity 通过 Model Context Protocol 将 Claude、VS Code 等 AI 助手与 Unity 编辑器连接，提供 47 个 MCP 工具入口，支持资源管理、场景控制、脚本编辑、测试运行等全流程自动化，让游戏开发进入自然语言编程时代。</description>
+    </item>
+    
+    <item>
+      <title>Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/unciv/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/unciv/</guid>
+      <description>Unciv 是一款开源、专注于模改的 Android 和桌面端文明V重制版，使用 LibGDX 开发。它能在低配设备上流畅运行，支持多平台安装，拥有活跃的社区和丰富的模改生态。</description>
+    </item>
+    
     <item>
       <title>Godot Engine：开源跨平台游戏引擎的佼佼者</title>
       <link>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</link>

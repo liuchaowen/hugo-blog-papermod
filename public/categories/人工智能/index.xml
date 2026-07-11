@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyTorch：深度学习领域的首选框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
     <item>
       <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 01 Jan 2023 09:59:05 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TREK: 开源自托管旅行规划协作平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/trek/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/trek/</guid>
+      <description>TREK 是一个功能完备的开源自托管旅行规划工具，支持实时协作、地图、日程、预算、分摊和 AI 辅助，一键 Docker 部署。</description>
+    </item>
+    
     <item>
       <title>韶关云髻山徒步之旅</title>
       <link>https://blog.xlap.top/post/life/yunjishan/</link>

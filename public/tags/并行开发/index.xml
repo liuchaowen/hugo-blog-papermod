@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>并行开发 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B9%B6%E8%A1%8C%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 并行开发 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B9%B6%E8%A1%8C%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/orca/</guid>
+      <description>深入解析 Orca——一款革命性的 AI IDE 编排工具，支持并行运行多个 AI 编码助手（Codex、ClaudeCode、OpenCode、Pi 等），每个助手在独立的 Git Worktree 中工作，统一追踪与管理。本文从技术架构、核心特性、安装使用到实战案例，全方位解读这款开发者生产力工具。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub Actions on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/github-actions/</link>
+    <description>Recent content in GitHub Actions on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>actions/checkout：GitHub Actions 官方代码检出 Action 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/checkout/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/checkout/</guid>
+      <description>深入解析 GitHub Actions 官方 checkout action，介绍 v7 版本的安全增强、ESM 迁移、credential 存储改进等核心特性，以及实际使用示例和最佳实践。</description>
+    </item>
+    
+  </channel>
+</rss>

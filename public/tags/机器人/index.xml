@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 28 Dec 2022 10:26:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openpilot：comma.ai 开源自动驾驶辅助系统，让 300&#43; 车型秒变智能驾驶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</guid>
+      <description>openpilot 是 comma.ai 开源的机器人操作系统，当前已支持 300&#43; 车型的自动驾驶辅助功能。本文深入解析其架构设计、核心安全机制及技术实现原理。</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
+    </item>
+    
     <item>
       <title>Kinect4AlphaRobot</title>
       <link>https://blog.xlap.top/post/tech/kinect4alpharobot/</link>

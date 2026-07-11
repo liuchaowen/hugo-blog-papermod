@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数据工程 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/</link>
+    <description>Recent content in 数据工程 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dbt Core v2.0：用 Rust 重写的数据转换利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</guid>
+      <description>dbt Core v2.0 是数据转换工具 dbt 的全新版本，采用 Rust 重写带来性能飞跃，解析和编译速度大幅提升，支持 Parquet 格式产物，安装更便捷。</description>
+    </item>
+    
+  </channel>
+</rss>

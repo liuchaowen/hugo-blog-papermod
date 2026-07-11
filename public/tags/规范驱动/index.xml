@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>规范驱动 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%A7%84%E8%8C%83%E9%A9%B1%E5%8A%A8/</link>
+    <description>Recent content in 规范驱动 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%A7%84%E8%8C%83%E9%A9%B1%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spec Kit：重新定义 AI 辅助开发——从 Vibe Coding 到 Spec-Driven Development</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/spec-kit/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/spec-kit/</guid>
+      <description>GitHub 开源的 Spec Kit 引入了 Spec-Driven Development（规范驱动开发）理念，通过先定义&amp;#39;做什么&amp;#39;再生成&amp;#39;怎么做&amp;#39;，让 AI 编程从随意的 vibe coding 转变为可预测、高质量的系统化开发流程。本文深度解析其核心设计、技术架构与实践价值。</description>
+    </item>
+    
+  </channel>
+</rss>

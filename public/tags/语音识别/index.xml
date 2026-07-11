@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>语音识别 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</link>
+    <description>Recent content in 语音识别 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
+    </item>
+    
+    <item>
+      <title>FluidVoice：开源 macOS 语音转文字应用，本地 AI 加持的终极听写工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</guid>
+      <description>FluidVoice 是一款开源的 macOS 语音转文字听写应用，支持多种语音识别模型（Nemotron、Parakeet、Whisper 等），并内置 Fluid Intelligence 本地 AI 引擎，实现智能格式化、上下文感知大小写转换和后处理，所有数据均在本地运行，无需担心隐私泄露。</description>
+    </item>
+    
+    <item>
+      <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</guid>
+      <description>Voicebox 是一款本地优先的开源 AI 语音工作室，集语音克隆、TTS 生成、全局语音输入和 Agent 语音输出于一体，支持 7 种 TTS 引擎、23 种语言，是 ElevenLabs 和 WisprFlow 的开源替代方案。</description>
+    </item>
+    
+  </channel>
+</rss>

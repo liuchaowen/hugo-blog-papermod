@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数据集 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%9B%86/</link>
+    <description>Recent content in 数据集 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</guid>
+      <description>Exercises Dataset 提供 1,324 条健身练习结构化数据，覆盖 6 种语言指令，附带交互式浏览器与开发者脚手架（DB Schema、API 代码、LLM Prompt），适合健身应用后端快速搭建。</description>
+    </item>
+    
+  </channel>
+</rss>

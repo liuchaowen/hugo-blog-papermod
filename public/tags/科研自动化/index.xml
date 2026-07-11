@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科研自动化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 科研自动化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/openscience/</guid>
+      <description>OpenScience 是开源的科研 AI 工作台，在浏览器中跑完整个科研闭环：读文献、提假设、写并运行代码、调取 30&#43; 科研数据库、最终自动产出论文，兼容任意前沿/开源大模型。</description>
+    </item>
+    
+  </channel>
+</rss>

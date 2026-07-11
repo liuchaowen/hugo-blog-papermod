@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karukan：基于神经网络的现代日语输入法引擎深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/karukan/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/karukan/</guid>
+      <description>深入解析 Karukan 项目——一个面向 Linux 和 macOS 的现代日语输入法，采用 GPT-2 架构与 llama.cpp 推理引擎实现高质量假名汉字转换，支持实时转换、上下文感知与学习功能。</description>
+    </item>
+    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>

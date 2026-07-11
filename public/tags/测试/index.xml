@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>测试 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cypress：现代 Web 应用测试的革命性工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/cypress/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/cypress/</guid>
+      <description>深入解析 Cypress 这款现代化的前端测试框架，探讨其架构设计、核心技术栈、安装使用方法，以及相比传统测试工具的优势。Cypress 为浏览器端测试带来了全新的开发体验。</description>
+    </item>
+    
+  </channel>
+</rss>

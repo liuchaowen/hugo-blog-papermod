@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/api%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in API工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/api%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insomnia：开源跨平台 API 客户端的技术架构与深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</guid>
+      <description>深入解析 Kong Insomnia 开源 API 客户端的技术架构，探讨其对 GraphQL、REST、gRPC、WebSocket 等多种协议的支持能力，以及本地存储、Git 同步、云协作等多种数据存储方案的设计理念。本文从源码层面分析其技术栈选型与实现细节。</description>
+    </item>
+    
+  </channel>
+</rss>

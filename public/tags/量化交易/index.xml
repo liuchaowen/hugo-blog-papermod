@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>量化交易 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</link>
+    <description>Recent content in 量化交易 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Jun 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe-Trading: 一句话让你的 AI 秒变专业交易员</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/vibe-trading/</link>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/vibe-trading/</guid>
+      <description>Vibe-Trading 是港大开源的 AI 交易智能体，一行命令即可完成从自然语言策略想法到回测报告的全流程，支持多智能体协作、MCP 协议和跨市场数据。</description>
+    </item>
+    
+  </channel>
+</rss>

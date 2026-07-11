@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/jupyter-notebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
     <item>
       <title>Anthropic Claude Cookbooks：开发者必备的 Claude API 实战指南</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</link>

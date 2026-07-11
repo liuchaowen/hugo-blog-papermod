@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jira替代 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/jira%E6%9B%BF%E4%BB%A3/</link>
+    <description>Recent content in Jira替代 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/jira%E6%9B%BF%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plane：开源替代 Jira 的现代化项目管理工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/plane/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/plane/</guid>
+      <description>Plane 是一款开源的项目管理工具，支持问题追踪、迭代管理、产品路线图等功能，旨在成为 Jira 的现代化替代方案。本文从技术架构、核心功能到部署实践进行全面解析。</description>
+    </item>
+    
+  </channel>
+</rss>

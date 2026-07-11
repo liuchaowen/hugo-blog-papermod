@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GLM on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/glm/</link>
+    <description>Recent content in GLM on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/glm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</guid>
+      <description>智谱 AI 开源的 GLM-5/5.1/5.2 系列以 744B-A40B 的 MoE 规模、1M token 长上下文、稀疏注意力与异步 RL 训练基础设施，在长程 Agentic 工程任务上逼近闭源前沿。</description>
+    </item>
+    
+  </channel>
+</rss>

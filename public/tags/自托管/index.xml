@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</guid>
+      <description>Karakeep（原 Hoarder）是一款以自托管为先的「收藏一切」书签管理应用，支持链接、图片、PDF、RSS 自动抓取，并内置基于 LLM 的自动标签与摘要、全文检索、OCR、规则引擎以及 iOS/Android/浏览器全平台客户端。本文从架构、技术栈、安装使用到常见问题进行深度解析。</description>
+    </item>
+    
+    <item>
+      <title>Immich：高性能自托管照片和视频管理解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/immich/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/immich/</guid>
+      <description>Immich 是一个开源的高性能自托管照片和视频管理解决方案，支持自动备份、多用户、元数据查看、人脸识别、CLIP 搜索等功能，是 Google Photos 的自托管替代品。</description>
+    </item>
+    
+    <item>
+      <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/romm/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/romm/</guid>
+      <description>RomM (ROM Manager) 是一款开源的自托管游戏 ROM 管理与游玩平台，支持 400&#43; 平台元数据 enrichment、浏览器直接运行游戏、多用户权限管理，并拥有 Playnite/Android/CFW 等多端官方客户端，是 emulator 玩家的必备宝库。</description>
+    </item>
+    
+    <item>
+      <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/instatic/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/instatic/</guid>
+      <description>Instatic 是一款基于 Bun 的自托管 CMS，将可视化编辑器、内容引擎和发布器集成在单个服务器中，输出无框架运行时的语义 HTML 和紧凑 CSS，并内置 QuickJS-WASM 沙箱插件系统。</description>
+    </item>
+    
+    <item>
+      <title>TREK: 开源自托管旅行规划协作平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/trek/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/trek/</guid>
+      <description>TREK 是一个功能完备的开源自托管旅行规划工具，支持实时协作、地图、日程、预算、分摊和 AI 辅助，一键 Docker 部署。</description>
+    </item>
+    
+    <item>
+      <title>Rocket.Chat：开源安全的团队通信解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
+    </item>
+    
+    <item>
+      <title>TeslaMate：开源自托管 Tesla 数据记录与可视化平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</guid>
+      <description>TeslaMate 是一款用 Elixir 编写的开源自托管 Tesla 数据记录工具，支持高精度行程记录、Postgres 存储、Grafana 可视化及 MQTT 集成，是 Tesla 车主进行车辆数据分析的最佳选择。</description>
+    </item>
+    
+    <item>
+      <title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18&#43; AI 提供商</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</guid>
+      <description>Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18&#43; AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。</description>
+    </item>
+    
     <item>
       <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>

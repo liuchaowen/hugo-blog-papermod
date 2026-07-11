@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognee：开源 AI Agent 长期记忆平台实战解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/cognee/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/cognee/</guid>
+      <description>Cognee 通过统一摄取、向量&#43;图混合检索与认知科学本体论，为 AI Agent 提供跨会话的持久记忆。本文覆盖架构原理、快速上手、实战示例与部署方案。</description>
+    </item>
+    
+    <item>
+      <title>Hyper-Extract：智能知识提取与进化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
+    </item>
+    
+    <item>
+      <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
+    </item>
+    
     <item>
       <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
       <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>

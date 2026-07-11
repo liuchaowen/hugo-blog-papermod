@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>流量混淆 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B5%81%E9%87%8F%E6%B7%B7%E6%B7%86/</link>
+    <description>Recent content in 流量混淆 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%81%E9%87%8F%E6%B7%B7%E6%B7%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>zapret-discord-youtube：绕过 ISP 深度包检测的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/zapret-discord-youtube/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/zapret-discord-youtube/</guid>
+      <description>一款基于 WinDivert 的 Windows DPI 绕过工具，通过流量混淆技术实现对 Discord、YouTube 等被封锁服务的访问，支持多种策略和自动部署</description>
+    </item>
+    
+  </channel>
+</rss>

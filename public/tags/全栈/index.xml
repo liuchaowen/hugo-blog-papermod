@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>全栈 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%85%A8%E6%A0%88/</link>
+    <description>Recent content in 全栈 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%85%A8%E6%A0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clone Wars：100&#43; 流行网站开源克隆项目精选，学习必备资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/clone-wars/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/clone-wars/</guid>
+      <description>Clone Wars 是一个精选的 GitHub 项目列表，收录了 100&#43; 个流行网站（如 Airbnb、Amazon、Instagram、Netflix、Spotify 等）的开源克隆和替代方案，包含源码、教程、Demo 链接、技术栈和 GitHub Stars 数，是前端/全栈开发者绝佳的学习资源。</description>
+    </item>
+    
+  </channel>
+</rss>

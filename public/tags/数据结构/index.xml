@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数据结构 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <description>Recent content in 数据结构 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello 算法：动画图解数据结构与算法入门教程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/hello-algo/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/hello-algo/</guid>
+      <description>Hello 算法是一本开源免费的数据结构与算法入门教程，采用动画图解和一键运行代码示例，支持 Python、Java、C&#43;&#43;、Go、JavaScript 等 12 种编程语言，适合算法初学者系统学习。</description>
+    </item>
+    
+    <item>
+      <title>Coding Interview University：从零开始的软件工程师面试通关指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/</guid>
+      <description>GitHub 热门项目深度解析：jwasham/coding-interview-university，一份完整的多月学习计划，覆盖数据结构、算法、系统设计等面试核心知识点，助你拿下大厂 Offer。</description>
+    </item>
+    
+  </channel>
+</rss>

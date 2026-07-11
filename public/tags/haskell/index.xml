@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haskell on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/haskell/</link>
+    <description>Recent content in Haskell on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</guid>
+      <description>SimpleX Chat 是全球首个完全不使用任何用户标识符的即时通讯平台，通过双棘轮端到端加密和单向消息队列设计，实现了身份、联系人、元数据的完全隐私保护，通过了 Trail of Bits 安全审计，并支持量子抗性密钥交换。</description>
+    </item>
+    
+  </channel>
+</rss>

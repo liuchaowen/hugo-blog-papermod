@@ -11,7 +11,71 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 May 2026 14:50:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>asio — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
+      <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
+documentationandatutorial.</description>
+    </item>
+    
+    <item>
+      <title>autoremesher — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</guid>
+      <description>AutoRemesherisacross-platformautomaticquadremeshingtoolthatconvertshigh-polygonmeshesintocleanquad-basedtopology.Itisbuiltontopoflibraries:,,and.</description>
+    </item>
+    
+    <item>
+      <title>CodexBar — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</guid>
+      <description>(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/homebrew-tap)
+(https://aur.archlinux.org/packages/codexbar-cli)
+(LICENSE)
+(https://codexbar.app)</description>
+    </item>
+    
+    <item>
+      <title>codex-plugin-cc — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</guid>
+      <description>UseCodexfrominsideClaudeCodeforcodereviewsortodelegatetaskstoCodex.</description>
+    </item>
+    
+    <item>
+      <title>penpot — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/penpot/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/penpot/</guid>
+      <description>&amp;lt;imgwidth=&amp;#34;100%&amp;#34;src=&amp;#34;https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602&amp;#34;/</description>
+    </item>
+    
+    <item>
+      <title>system-prompts-and-models-of-ai-tools — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;ahref=&amp;#34;https://github.com/latitude-dev/latitude-llm&amp;#34;
+&amp;lt;imgsrc=&amp;#34;assets/latitude-dark.png&amp;#34;alt=&amp;#34;LatitudeLogo&amp;#34;width=&amp;#34;700&amp;#34;/
+&amp;lt;/a
+&amp;lt;/p</description>
+    </item>
+    
     <item>
       <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
       <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>

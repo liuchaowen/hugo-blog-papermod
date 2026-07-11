@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>插件系统 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 插件系统 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Skills：给 AI Agent 装上可插拔的技能卡</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</guid>
+      <description>Agent Skills 是一个轻量级的开放标准，通过 SKILL.md 文件为 AI Agent 打包专业知识和工作流程，使其获得领域专长、复用跨产品技能。让 Agent 从通用走向专业化，像搭积木一样扩展能力边界。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
+    </item>
+    
+  </channel>
+</rss>

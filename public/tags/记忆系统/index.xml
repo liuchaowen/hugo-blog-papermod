@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TencentDB Agent Memory：让AI Agent记住该记住的，减少Token消耗提升任务成功率</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</guid>
+      <description>TencentDB Agent Memory 是腾讯开源的四层记忆系统，通过符号化短期记忆和分层长期记忆，在 OpenClaw 上实现最高 61.38% 的 Token 节省和 51.52% 的任务成功率提升，让 Agent 真正学会用户偏好和工作流程。</description>
+    </item>
+    
     <item>
       <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
       <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>

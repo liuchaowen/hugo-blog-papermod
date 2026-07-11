@@ -11,7 +11,133 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</guid>
+      <description>Desktop Commander MCP 是一款基于 Model Context Protocol 的开源工具，让 Claude、ChatGPT 等 AI 助手直接在你的电脑上执行终端命令、管理文件、读写 Excel/PDF/DOCX，实现真正原生的系统级 AI 协作。</description>
+    </item>
+    
+    <item>
+      <title>MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</guid>
+      <description>MCP for Unity 通过 Model Context Protocol 将 Claude、VS Code 等 AI 助手与 Unity 编辑器连接，提供 47 个 MCP 工具入口，支持资源管理、场景控制、脚本编辑、测试运行等全流程自动化，让游戏开发进入自然语言编程时代。</description>
+    </item>
+    
+    <item>
+      <title>Chrome DevTools MCP：让 AI 编码助手直接操控 Chrome 浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</guid>
+      <description>ChromeDevTools 推出的 chrome-devtools-mcp 是一个 MCP Server，允许 AI 编码助手（如 Claude、Cursor、Copilot）通过 Model Context Protocol 直接控制 Chrome 浏览器，实现可靠的浏览器自动化、深度调试和性能分析。</description>
+    </item>
+    
+    <item>
+      <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/dbx/</guid>
+      <description>DBX 是一款用 Rust 编写的轻量级数据库管理工具，仅 15MB 大小，支持 60&#43; 数据库类型，内置 AI SQL 助手、MCP 协议集成，支持桌面端、Docker 自托管和 Web 端使用。</description>
+    </item>
+    
+    <item>
+      <title>VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</guid>
+      <description>VulnClaw 是一款开源的 AI 驱动渗透测试 CLI 工具，基于 LLM Agent &#43; MCP 工具链 &#43; 渗透 Skill 编排，支持自然语言输入自动完成信息收集、漏洞发现、漏洞利用到报告生成的全流程，内置目标驱动求解引擎、证据级反幻觉闸门和21个渗透 Skill。</description>
+    </item>
+    
+    <item>
+      <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
+    </item>
+    
+    <item>
+      <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</guid>
+      <description>OpenSEO 是一款开源 SEO 工具，旨在替代 Semrush 和 Ahrefs 等昂贵且臃肿的商业产品。它采用按量付费模式，支持 MCP 协议与 AI Agent 集成，内置关键词研究、排名追踪、域名分析、反链查询、站点审计等完整 SEO 工作流，并可自部署于 Docker 或 Cloudflare。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
+    </item>
+    
+    <item>
+      <title>Firecrawl：为 AI Agent 打造的大规模网页数据抓取 API</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</guid>
+      <description>Firecrawl 是一个开源的网页数据 API，帮助 AI 系统搜索、抓取和与网页交互。支持将任意网页转换为干净的 Markdown 或结构化数据，覆盖 96% 的网页，P95 延迟仅 3.4 秒，是构建 AI 应用的理想数据源。</description>
+    </item>
+    
+    <item>
+      <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</guid>
+      <description>Voicebox 是一款本地优先的开源 AI 语音工作室，集语音克隆、TTS 生成、全局语音输入和 Agent 语音输出于一体，支持 7 种 TTS 引擎、23 种语言，是 ElevenLabs 和 WisprFlow 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</guid>
+      <description>深入解析 Palmier Pro 这款专为 AI 工作流设计的开源视频编辑器，探讨其 Swift 原生架构、内置生成式 AI 能力以及通过 MCP 协议与 Claude Code/Cursor 等 Agent 深度集成的技术实现。Y Combinator S24 孵化项目。</description>
+    </item>
+    
+    <item>
+      <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
+    </item>
+    
+    <item>
+      <title>Goose：Linux 基金会旗下的开源原生 AI 代理</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/goose/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/goose/</guid>
+      <description>深入了解 Goose——一个由 Linux 基金会 Agentic AI Foundation 托管的开源原生 AI 代理。它提供桌面应用、CLI 和 API 三种形态，支持 15&#43; 大语言模型提供商和 70&#43; MCP 扩展，采用 Rust 构建，兼具性能与可移植性。</description>
+    </item>
+    
+    <item>
+      <title>MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</guid>
+      <description>MemPalace 是一款本地优先的 AI 记忆工具，通过语义搜索存储对话历史原文，支持可插拔后端（ChromaDB/Qdrant/pgvector），在 LongMemEval 基准上达到 96.6% R@5 检索准确率且无任何 API 调用。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

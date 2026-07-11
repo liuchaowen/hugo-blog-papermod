@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</guid>
+      <description>基于5本著作、15&#43;篇深度采访、30&#43;条语录蒸馏出张雪峰的5个核心心智模型和8条决策启发式，封装为 Agent Skill，可在 Claude Code、Cursor、OpenClaw 等50&#43; runtime 中运行。不是复读语录，是用张雪峰的认知框架分析你的问题。</description>
+    </item>
+    
     <item>
       <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>

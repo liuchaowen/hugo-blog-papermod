@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>云原生 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/</link>
+    <description>Recent content in 云原生 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argo CD：Kubernetes 云原生的 GitOps 持续交付利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</guid>
+      <description>Argo CD 是 CNCF 毕业项目，专注于 Kubernetes 的声明式 GitOps 持续交付自动化工具，支持多集群管理、渐进式发布与丰富的应用可视化界面。</description>
+    </item>
+    
+    <item>
+      <title>Meshery：云原生基础设施的统一管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/meshery/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/meshery/</guid>
+      <description>Meshery 是 CNCF 孵化项目，提供云原生基础设施的可视化设计、GitOps 协作与多集群管理，支持 380&#43; 集成，涵盖服务网格、Kubernetes 部署与性能测试。</description>
+    </item>
+    
+    <item>
+      <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/trivy/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/trivy/</guid>
+      <description>深入解析 Aqua Security 开源的 Trivy 安全扫描器，探讨其如何在容器镜像、文件系统、Kubernetes 集群等多种目标中发现漏洞、配置错误和敏感信息，以及其架构设计与实际应用。</description>
+    </item>
+    
+  </channel>
+</rss>

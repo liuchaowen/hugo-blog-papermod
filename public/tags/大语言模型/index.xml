@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大语言模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 大语言模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Artificial Intelligence：AI 工程师的精选资源大全</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</guid>
+      <description>深入解析 owainlewis/awesome-artificial-intelligence 项目——一个精心策划的 AI 资源列表，涵盖书籍、课程、论文、框架、模型等，专注 AI 工程实践，帮助开发者构建和生产化 AI 系统。</description>
+    </item>
+    
+  </channel>
+</rss>

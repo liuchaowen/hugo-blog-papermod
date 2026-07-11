@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>效率工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 效率工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FluidVoice：开源 macOS 语音转文字应用，本地 AI 加持的终极听写工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</guid>
+      <description>FluidVoice 是一款开源的 macOS 语音转文字听写应用，支持多种语音识别模型（Nemotron、Parakeet、Whisper 等），并内置 Fluid Intelligence 本地 AI 引擎，实现智能格式化、上下文感知大小写转换和后处理，所有数据均在本地运行，无需担心隐私泄露。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft PowerToys：Windows 效率神器完全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/powertoys/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/powertoys/</guid>
+      <description>深入解析 Microsoft PowerToys 这一 Windows 生产力工具集合，包含 30&#43; 个实用工具的技术架构、核心功能实现原理、安装使用方法，以及如何通过开源社区贡献代码，全面提升 Windows 使用效率。</description>
+    </item>
+    
+  </channel>
+</rss>

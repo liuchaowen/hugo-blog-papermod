@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PDF解析 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/pdf%E8%A7%A3%E6%9E%90/</link>
+    <description>Recent content in PDF解析 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pdf%E8%A7%A3%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</guid>
+      <description>OpenDataLoader PDF 是一个在 PDF 解析基准测试中综合准确率排名第一（0.907）的开源工具，支持将 PDF 转换为 Markdown、JSON、HTML 等格式，同时首创开源端到端的 PDF 自动标注与无障碍文档生成能力。</description>
+    </item>
+    
+  </channel>
+</rss>

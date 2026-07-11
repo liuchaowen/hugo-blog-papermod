@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C&#43;&#43; on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abseil：C&#43;&#43; 标准库的有力补充</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</guid>
+      <description>Abseil 是 Google 开源的 C&#43;&#43; 通用库集合，提供超过 20 个高质量组件，涵盖字符串处理、并发编程、错误处理、时间计算等场景，是对 C&#43;&#43; 标准库的重要补充。</description>
+    </item>
+    
+    <item>
+      <title>Catch2：现代 C&#43;&#43; 原生的单元测试、微基准与 BDD 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/catch2/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/catch2/</guid>
+      <description>Catch2 是当前 GitHub 上最受欢迎的 C&#43;&#43; 测试框架之一，以纯 C&#43;&#43; 语法、类自然语言的断言、Section 共享测试夹具、内置微基准与 BDD 宏著称。本文从架构、技术原理、安装实战到常见问题，带你看懂这个现代 C&#43;&#43; 原生测试框架。</description>
+    </item>
+    
+    <item>
+      <title>yaml-cpp：C&#43;&#43; 中的 YAML 解析与生成利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</guid>
+      <description>yaml-cpp 是 Jesse Beder 维护的 C&#43;&#43; YAML 1.2 解析与生成库，提供简洁的 Node 树 API 与流式 Emitter，可轻松完成配置文件的读取、修改与序列化，是 C&#43;&#43; 项目中处理 YAML 的成熟首选。</description>
+    </item>
+    
+    <item>
+      <title>openpilot：comma.ai 开源自动驾驶辅助系统，让 300&#43; 车型秒变智能驾驶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</guid>
+      <description>openpilot 是 comma.ai 开源的机器人操作系统，当前已支持 300&#43; 车型的自动驾驶辅助功能。本文深入解析其架构设计、核心安全机制及技术实现原理。</description>
+    </item>
+    
+    <item>
+      <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/opencv/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/opencv/</guid>
+      <description>深入解析 OpenCV 这一业界标准的开源计算机视觉库，从架构设计、核心功能到实战应用，帮助开发者快速掌握这一强大的视觉处理工具。</description>
+    </item>
+    
+  </channel>
+</rss>

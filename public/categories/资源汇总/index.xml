@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>资源汇总 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</link>
+    <description>Recent content in 资源汇总 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome：GitHub 上最全的开源项目资源汇总索引</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/awesome/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/awesome/</guid>
+      <description>Awesome 是由 sindresorhus 维护的 GitHub 超人气项目，汇集了各领域最优质的awesome列表索引，涵盖编程语言、前后端开发、数据科学、安全等数十个分类，是开发者发现优质开源资源的首选入口。</description>
+    </item>
+    
+  </channel>
+</rss>

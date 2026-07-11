@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/romm/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/romm/</guid>
+      <description>RomM (ROM Manager) 是一款开源的自托管游戏 ROM 管理与游玩平台，支持 400&#43; 平台元数据 enrichment、浏览器直接运行游戏、多用户权限管理，并拥有 Playnite/Android/CFW 等多端官方客户端，是 emulator 玩家的必备宝库。</description>
+    </item>
+    
+    <item>
+      <title>CasaOS：打造简约优雅的家庭个人云操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/casaos/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/casaos/</guid>
+      <description>CasaOS 是一款开源的家庭个人云操作系统，提供友好的 UI 设计、多硬件支持、应用商店一键安装等功能，让普通人也能轻松搭建和管理个人云服务，实现数据自主拥有。</description>
+    </item>
+    
+    <item>
+      <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
+    </item>
+    
+    <item>
+      <title>Plane：开源替代 Jira 的现代化项目管理工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/plane/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/plane/</guid>
+      <description>Plane 是一款开源的项目管理工具，支持问题追踪、迭代管理、产品路线图等功能，旨在成为 Jira 的现代化替代方案。本文从技术架构、核心功能到部署实践进行全面解析。</description>
+    </item>
+    
     <item>
       <title>Project N.O.M.A.D.：离线的本地知识中心，一个 Docker 搞定一切</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/project-nomad/</link>

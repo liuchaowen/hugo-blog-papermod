@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/android/</link>
+    <description>Recent content in Android on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</guid>
+      <description>UAD-ng 是一个基于 Rust、使用 Iced GUI 框架开发的跨平台安卓去 bloatware 工具，专注于通过删除不必要和可疑的系统应用来提升设备隐私、安全与性能。</description>
+    </item>
+    
+  </channel>
+</rss>

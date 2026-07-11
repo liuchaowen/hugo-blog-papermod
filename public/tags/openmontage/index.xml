@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenMontage on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/openmontage/</link>
+    <description>Recent content in OpenMontage on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openmontage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</guid>
+      <description>深度解析 OpenMontage，一个开源的 agentic 视频制作系统，支持从参考视频或纯文本提示到完整视频的生产流程，涵盖 12 条流水线、52 个工具与 400&#43; 智能体技能。</description>
+    </item>
+    
+  </channel>
+</rss>

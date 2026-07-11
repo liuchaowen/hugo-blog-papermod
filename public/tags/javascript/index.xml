@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/javascript/</link>
+    <description>Recent content in JavaScript on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/typescript/</guid>
+      <description>本文基于 microsoft/TypeScript 源码与官方 README，深入解析 TypeScript 的核心特性、编译架构、tsc 与 tsserver 的构建体系，以及如何安装、使用与排错，并介绍其向 7.0（原生 Go 移植）演进的现状。</description>
+    </item>
+    
+    <item>
+      <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Native：让 AI Agent 与 UI 真正融合的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/agent-native/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/agent-native/</guid>
+      <description>BuilderIO 开源的 Agent-Native 框架，打破 AI Agent 与用户界面的割裂状态，让两者成为同一系统的平等公民。支持 Action 一次定义多端复用、实时多人协作、Per-user 工作区，并可部署为 Headless API、Rich Chat 或完整应用三种形态。</description>
+    </item>
+    
+    <item>
+      <title>freeCodeCamp：免费学习编程的开源社区与课程体系</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/freecodecamp/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/freecodecamp/</guid>
+      <description>freeCodeCamp 是一个非营利性社区，提供免费的编程课程和认证。本文深入解析其技术架构、全栈开发课程体系、以及如何贡献代码。项目已帮助超过10万人获得第一份开发工作。</description>
+    </item>
+    
+    <item>
+      <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
+    </item>
+    
+  </channel>
+</rss>

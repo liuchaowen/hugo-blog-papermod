@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Cloud on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/google-cloud/</link>
+    <description>Recent content in Google Cloud on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/google-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google agents-cli：让编程助手成为 Google Cloud Agent 专家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</guid>
+      <description>google/agents-cli 为编程助手提供构建、部署和评估 ADK agent 的技能和命令，支持 Antigravity CLI、Claude Code、Codex 等主流编程助手，实现企业级 Agent 的全生命周期管理。</description>
+    </item>
+    
+    <item>
+      <title>Google Skills：为 AI Agent 打造的技能库，覆盖全栈 Google Cloud 技术栈</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/skills/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/skills/</guid>
+      <description>Google 官方开源的 Agent Skills 仓库，提供了一系列针对 Google 产品和技术的标准化技能包，包括 Gemini API、BigQuery、Cloud Run、GKE 等核心云服务的深度集成能力，帮助开发者快速为 AI Agent 赋予 Google Cloud 生态系统能力。</description>
+    </item>
+    
+  </channel>
+</rss>

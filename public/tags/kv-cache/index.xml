@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KV Cache on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/kv-cache/</link>
+    <description>Recent content in KV Cache on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/kv-cache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LMCache：LLM 推理的 KV Cache 管理层，让 GPU 显存压力骤降</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</guid>
+      <description>LMCache 是一个 vendor-neutral 的 KV Cache 管理层，可将 GPU 中的 KV Cache 卸载至 CPU/SSD/Redis 等存储，支持跨请求/会话/引擎复用，显著降低 TTFT、提升吞吐，尤其适合长上下文 Agentic 和多轮对话场景。</description>
+    </item>
+    
+  </channel>
+</rss>

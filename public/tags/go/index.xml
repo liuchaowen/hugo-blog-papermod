@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mattermost：开源自托管的团队协作与 DevSecOps 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</guid>
+      <description>Mattermost 是一个开源核心的自托管协作平台，集成了聊天、工作流自动化、语音通话、屏幕共享与 AI 能力，采用 Go &#43; React 架构，单二进制部署，适合 DevSecOps 和事件响应场景。</description>
+    </item>
+    
     <item>
       <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>

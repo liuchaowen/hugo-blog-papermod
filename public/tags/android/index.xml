@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/android/</link>
+    <description>Recent content in Android on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headunit Revived：把 Android 平板变成 Android Auto 车机屏幕</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/headunit-revived/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/headunit-revived/</guid>
+      <description>Headunit Revived 是一款开源 Android 应用，可以将 Android 平板或手机变成 Android Auto 的接收端，支持有线 USB 和无线 Wi-Fi 两种连接方式，让旧平板焕发车机新生。</description>
+    </item>
+    
+    <item>
+      <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</guid>
+      <description>SmsForwarder 是一款开源 Android 应用，可监控手机短信、来电和 APP 通知，并通过钉钉、企业微信、飞书、邮箱、Telegram 等多种渠道自动转发，还支持远程发短信、查通话、自动化任务等功能，是备用机的必备神器。</description>
+    </item>
+    
+    <item>
+      <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</guid>
+      <description>UAD-ng 是一个基于 Rust、使用 Iced GUI 框架开发的跨平台安卓去 bloatware 工具，专注于通过删除不必要和可疑的系统应用来提升设备隐私、安全与性能。</description>
+    </item>
+    
+  </channel>
+</rss>

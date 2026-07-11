@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安全扫描 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%89%AB%E6%8F%8F/</link>
+    <description>Recent content in 安全扫描 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%89%AB%E6%8F%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</guid>
+      <description>SkillSpector 是 NVIDIA 开源的安全扫描工具，专门检测 AI Agent 技能（如 Claude Code、Cursor）中的漏洞、恶意模式和供应链风险，支持 64 种漏洞模式，涵盖提示注入、权限提升等 16 大类别。</description>
+    </item>
+    
+  </channel>
+</rss>

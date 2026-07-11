@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Scraping on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firecrawl：为 AI Agent 打造的大规模网页数据抓取 API</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</guid>
+      <description>Firecrawl 是一个开源的网页数据 API，帮助 AI 系统搜索、抓取和与网页交互。支持将任意网页转换为干净的 Markdown 或结构化数据，覆盖 96% 的网页，P95 延迟仅 3.4 秒，是构建 AI 应用的理想数据源。</description>
+    </item>
+    
+  </channel>
+</rss>

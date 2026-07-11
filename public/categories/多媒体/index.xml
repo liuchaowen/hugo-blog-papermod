@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>多媒体 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E5%A4%9A%E5%AA%92%E4%BD%93/</link>
+    <description>Recent content in 多媒体 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%A4%9A%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/server/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/server/</guid>
+      <description>Music Assistant 是一款免费开源的媒体库管理工具，能够聚合多个流媒体服务并将音乐播放到各类联网音箱，专为 Home Assistant 智能家居场景设计，支持 Docker 和 Home Assistant 插件两种部署方式。</description>
+    </item>
+    
+  </channel>
+</rss>

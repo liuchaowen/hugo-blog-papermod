@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenCV on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/opencv/</link>
+    <description>Recent content in OpenCV on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/opencv/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/opencv/</guid>
+      <description>深入解析 OpenCV 这一业界标准的开源计算机视觉库，从架构设计、核心功能到实战应用，帮助开发者快速掌握这一强大的视觉处理工具。</description>
+    </item>
+    
+  </channel>
+</rss>

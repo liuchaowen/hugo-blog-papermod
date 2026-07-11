@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpiderFoot：开源情报(OSINT)自动化利器，200&#43;模块助你掌控网络空间侦察</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</guid>
+      <description>SpiderFoot 是一款功能强大的开源情报(OSINT)自动化工具，集成200多个模块，支持对IP、域名、邮箱、用户名等目标进行全方位情报收集，广泛应用于渗透测试、红队演练和安全防御。本文深入剖析其架构设计、核心技术栈、安装使用方法及实战技巧。</description>
+    </item>
+    
     <item>
       <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/flowsint/</link>

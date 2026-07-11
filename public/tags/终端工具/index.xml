@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>终端工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 终端工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</guid>
+      <description>Desktop Commander MCP 是一款基于 Model Context Protocol 的开源工具，让 Claude、ChatGPT 等 AI 助手直接在你的电脑上执行终端命令、管理文件、读写 Excel/PDF/DOCX，实现真正原生的系统级 AI 协作。</description>
+    </item>
+    
+  </channel>
+</rss>

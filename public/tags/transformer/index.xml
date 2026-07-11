@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
+      <description>LingBot-Map 是 Robbyant 团队发布的流式 3D 重建基础模型，通过 Geometric Context Transformer 架构统一坐标定位、几何线索和长期漂移校正，支持超长序列（&amp;gt;10000 帧）的稳定推理，在多个基准上达到 SOTA 性能。</description>
+    </item>
+    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>

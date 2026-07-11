@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工程规范 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E8%A7%84%E8%8C%83/</link>
+    <description>Recent content in 工程规范 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E8%A7%84%E8%8C%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Skills：为 AI 编码助手注入生产级工程规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</guid>
+      <description>Addy Osmani 开源的 Agent Skills 项目为 AI 编码助手提供了 23 个生产级工程技能，涵盖从需求定义、任务规划、代码实现、测试验证到代码审查、部署上线的完整开发流程，帮助 AI 代理生成符合 Google 工程标准的生产质量代码。</description>
+    </item>
+    
+  </channel>
+</rss>

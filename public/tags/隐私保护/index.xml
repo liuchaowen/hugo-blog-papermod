@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>隐私保护 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/</link>
+    <description>Recent content in 隐私保护 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VeraCrypt：TrueCrypt 的继承者，开源磁盘加密的安全增强方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/veracrypt/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/veracrypt/</guid>
+      <description>深入解析 VeraCrypt 的技术架构与安全增强特性，探讨这款基于 TrueCrypt 的开源磁盘加密软件如何通过加密算法优化、安全机制改进和跨平台支持，成为现代数据安全的重要工具。</description>
+    </item>
+    
+    <item>
+      <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</guid>
+      <description>SimpleX Chat 是全球首个完全不使用任何用户标识符的即时通讯平台，通过双棘轮端到端加密和单向消息队列设计，实现了身份、联系人、元数据的完全隐私保护，通过了 Trail of Bits 安全审计，并支持量子抗性密钥交换。</description>
+    </item>
+    
+    <item>
+      <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</guid>
+      <description>Win11Debloat 是一款轻量级 PowerShell 脚本，无需安装即可快速清理 Windows 11 预装应用、关闭遥测、精简任务栏与开始菜单，让系统回归纯净状态。</description>
+    </item>
+    
+    <item>
+      <title>OpenMed：本地优先的医疗AI，患者数据永不离开设备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/openmed/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/openmed/</guid>
+      <description>OpenMed 是一个本地优先的开源医疗AI框架，提供1000&#43;专业医学模型，支持实体提取、PII去标识化，全量运行在本地设备上，从Python一行代码到iPhone原生应用均可调用。</description>
+    </item>
+    
+  </channel>
+</rss>

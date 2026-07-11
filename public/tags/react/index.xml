@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</guid>
+      <description>Folia 是一款以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云音乐、Navidrome 和本地音乐库，通过智能歌词匹配、AI 生成配色主题以及多种全屏歌词动画，为用户提供独特的听歌体验。本文深入解析其技术架构、核心功能与设计理念。</description>
+    </item>
+    
+    <item>
+      <title>Astryx：Meta 开源的全面可定制设计系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/astryx/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/astryx/</guid>
+      <description>Astryx 是 Meta 开源的企业级设计系统，基于 React 和 StyleX 构建，提供 150&#43; 可访问组件、品牌级主题系统和开箱即用模板，同时支持人类开发者和 AI 助手协同使用。</description>
+    </item>
+    
+    <item>
+      <title>TREK: 开源自托管旅行规划协作平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/trek/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/trek/</guid>
+      <description>TREK 是一个功能完备的开源自托管旅行规划工具，支持实时协作、地图、日程、预算、分摊和 AI 辅助，一键 Docker 部署。</description>
+    </item>
+    
+    <item>
+      <title>Plane：开源替代 Jira 的现代化项目管理工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/plane/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/plane/</guid>
+      <description>Plane 是一款开源的项目管理工具，支持问题追踪、迭代管理、产品路线图等功能，旨在成为 Jira 的现代化替代方案。本文从技术架构、核心功能到部署实践进行全面解析。</description>
+    </item>
+    
+    <item>
+      <title>Mattermost：开源自托管的团队协作与 DevSecOps 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</guid>
+      <description>Mattermost 是一个开源核心的自托管协作平台，集成了聊天、工作流自动化、语音通话、屏幕共享与 AI 能力，采用 Go &#43; React 架构，单二进制部署，适合 DevSecOps 和事件响应场景。</description>
+    </item>
+    
     <item>
       <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>

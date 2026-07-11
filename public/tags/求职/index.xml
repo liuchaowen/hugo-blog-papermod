@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>求职 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B1%82%E8%81%8C/</link>
+    <description>Recent content in 求职 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B1%82%E8%81%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</guid>
+      <description>AI Job Search 是一个基于 Claude Code 的求职框架，通过 /setup、/scrape、/apply 三条命令将 AI 变成求职全流程助手：自动构建候选人画像、抓取招聘门户、评估岗位匹配度，并以 drafter-reviewer 双人工作流生成 LaTeX 简历与求职信，外加 PDF 视觉校验与 ATS 文本层校验，杜绝排版翻车与关键词堆砌。</description>
+    </item>
+    
+    <item>
+      <title>Career-Ops：AI 驱动的职业搜索系统，帮你筛选匹配度最高的职位</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</guid>
+      <description>Career-Ops 是一个开源的 AI 驱动职业搜索工具，能够自动评估职位匹配度、生成定制化简历、扫描招聘门户，帮你从数百个职位中精准找到最值得申请的那一个。</description>
+    </item>
+    
+  </channel>
+</rss>

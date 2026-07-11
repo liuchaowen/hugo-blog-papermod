@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GIMP on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/gimp/</link>
+    <description>Recent content in GIMP on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhotoGIMP：把 GIMP 武装成你熟悉的 Photoshop 工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/photogimp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/photogimp/</guid>
+      <description>PhotoGIMP 是一个面向 GIMP 3.0&#43; 的社区补丁，通过替换配置文件把免费开源的 GIMP 改造成贴近 Adobe Photoshop 的界面布局、快捷键与默认面板，帮助从 PS 迁移的用户零成本上手。</description>
+    </item>
+    
+  </channel>
+</rss>

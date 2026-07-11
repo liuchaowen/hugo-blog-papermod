@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>4X策略 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/4x%E7%AD%96%E7%95%A5/</link>
+    <description>Recent content in 4X策略 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/4x%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/unciv/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/unciv/</guid>
+      <description>Unciv 是一款开源、专注于模改的 Android 和桌面端文明V重制版，使用 LibGDX 开发。它能在低配设备上流畅运行，支持多平台安装，拥有活跃的社区和丰富的模改生态。</description>
+    </item>
+    
+  </channel>
+</rss>

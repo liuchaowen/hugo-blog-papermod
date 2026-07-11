@@ -11,7 +11,133 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
+    </item>
+    
+    <item>
+      <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/openscience/</guid>
+      <description>OpenScience 是开源的科研 AI 工作台，在浏览器中跑完整个科研闭环：读文献、提假设、写并运行代码、调取 30&#43; 科研数据库、最终自动产出论文，兼容任意前沿/开源大模型。</description>
+    </item>
+    
+    <item>
+      <title>OmniRoute：聚合 236 个 AI 提供商的免费网关，每月 16 亿免费 Token</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</guid>
+      <description>OmniRoute 是一款开源的 AI 网关，聚合了 236 个 AI 提供商（其中 50&#43; 免费），通过统一的 OpenAI 兼容端点为 Claude Code、Cursor、Cline 等 AI 编程工具提供免费或低成本的模型访问，并内置 RTK &#43; Caveman 压缩技术可节省 15-95% 的 Token 消耗。</description>
+    </item>
+    
+    <item>
+      <title>VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</guid>
+      <description>VulnClaw 是一款开源的 AI 驱动渗透测试 CLI 工具，基于 LLM Agent &#43; MCP 工具链 &#43; 渗透 Skill 编排，支持自然语言输入自动完成信息收集、漏洞发现、漏洞利用到报告生成的全流程，内置目标驱动求解引擎、证据级反幻觉闸门和21个渗透 Skill。</description>
+    </item>
+    
+    <item>
+      <title>video-use: 用自然语言对话的方式编辑视频，100% 开源</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/video-use/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/video-use/</guid>
+      <description>video-use 是一个基于 Claude Code 的 AI 视频编辑工具，只需把原始素材丢进文件夹，用自然语言描述需求，就能获得剪辑好的 final.mp4。支持自动删除语气词、智能调色、音视频淡入淡出、字幕烧录和动态字幕生成，全程开源。</description>
+    </item>
+    
+    <item>
+      <title>Page Agent — 运行在网页里的 GUI Agent，用自然语言控制 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</guid>
+      <description>阿里巴巴开源的 Page Agent 是一个纯客户端运行的 GUI Agent，无需浏览器扩展或服务端自动化，直接用 JavaScript 注入即可让自然语言操控网页 UI，适合 SaaS AI Copilot、智能表单填充等场景。</description>
+    </item>
+    
+    <item>
+      <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</guid>
+      <description>Hiring Agent 是 InterviewStreet 开源的简历评估工具，通过 LLM 解析 PDF 简历为结构化 JSON，结合 GitHub 开源贡献信号，输出带证据链的客观评分。支持 Ollama 本地模型和 Google Gemini，适用于技术招聘初筛场景。</description>
+    </item>
+    
+    <item>
+      <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</guid>
+      <description>介绍 GitHub Trending 上的 awesome-generative-ai-guide，解析这份生成式 AI 资源库如何从 LLM 基础到 Agents、RAG、Fine-tuning 等方向，帮助开发者系统学习并建立知识索引。</description>
+    </item>
+    
+    <item>
+      <title>Hyper-Extract：智能知识提取与进化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
+    </item>
+    
+    <item>
+      <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</guid>
+      <description>智谱 AI 开源的 GLM-5/5.1/5.2 系列以 744B-A40B 的 MoE 规模、1M token 长上下文、稀疏注意力与异步 RL 训练基础设施，在长程 Agentic 工程任务上逼近闭源前沿。</description>
+    </item>
+    
+    <item>
+      <title>aisuite：统一调用多家 LLM 的轻量级 Python 库（by Andrew Ng）</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/aisuite/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/aisuite/</guid>
+      <description>介绍 Andrew Ng 开源的 aisuite 项目——一个轻量级 Python 库，提供统一的 Chat Completions API 和 Agents API，支持 OpenAI、Anthropic、Google 等多家 LLM 提供商，并可基于 MCP 协议扩展工具。</description>
+    </item>
+    
+    <item>
+      <title>LMCache：LLM 推理的 KV Cache 管理层，让 GPU 显存压力骤降</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</guid>
+      <description>LMCache 是一个 vendor-neutral 的 KV Cache 管理层，可将 GPU 中的 KV Cache 卸载至 CPU/SSD/Redis 等存储，支持跨请求/会话/引擎复用，显著降低 TTFT、提升吞吐，尤其适合长上下文 Agentic 和多轮对话场景。</description>
+    </item>
+    
+    <item>
+      <title>whichllm：智能推荐适合你硬件的本地 LLM 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</guid>
+      <description>whichllm 是一款智能命令行工具，能够自动检测你的 GPU/CPU/RAM 配置，从 HuggingFace 上筛选出最适合你硬件的大语言模型，并提供性能预估、硬件规划、一键运行等强大功能。</description>
+    </item>
+    
+    <item>
+      <title>llama.cpp：纯 C/C&#43;&#43; 实现的高性能 LLM 推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</guid>
+      <description>llama.cpp 是一个用纯 C/C&#43;&#43; 实现的开源项目，支持在各类硬件上进行大语言模型推理，无需依赖、支持量化、兼容数十种模型架构，是本地 LLM 部署的首选方案。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>插件 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6/</link>
+    <description>Recent content in 插件 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</guid>
+      <description>GitHub Trending 热门项目 awesome-claude-code 是一个精心策划的 Claude Code 生态资源清单，涵盖官方文档、技能系统、插件生态、多智能体编排、安全工具、设计引擎等 17 个分类，帮助开发者快速构建高效的 AI 辅助编程工作流。</description>
+    </item>
+    
+  </channel>
+</rss>

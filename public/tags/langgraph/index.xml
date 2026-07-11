@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
+    </item>
+    
     <item>
       <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>

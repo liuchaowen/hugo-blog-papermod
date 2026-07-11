@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Feb 2024 17:28:04 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/flutter/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/flutter/</guid>
+      <description>深入解析 Google Flutter 框架的技术架构，包括 Skia/Impeller 渲染引擎、Dart 语言编译机制、分层架构设计，以及 Hot Reload 实现原理，帮助开发者全面理解 Flutter 跨平台开发的核心技术。</description>
+    </item>
+    
     <item>
       <title>基于Flutter3的FlipClock翻页时钟</title>
       <link>https://blog.xlap.top/post/tech/flipclock/</link>

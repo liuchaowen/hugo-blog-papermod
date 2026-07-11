@@ -11,7 +11,233 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>asio — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
+      <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
+documentationandatutorial.</description>
+    </item>
+    
+    <item>
+      <title>autoremesher — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</guid>
+      <description>AutoRemesherisacross-platformautomaticquadremeshingtoolthatconvertshigh-polygonmeshesintocleanquad-basedtopology.Itisbuiltontopoflibraries:,,and.</description>
+    </item>
+    
+    <item>
+      <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</guid>
+      <description>Desktop Commander MCP 是一款基于 Model Context Protocol 的开源工具，让 Claude、ChatGPT 等 AI 助手直接在你的电脑上执行终端命令、管理文件、读写 Excel/PDF/DOCX，实现真正原生的系统级 AI 协作。</description>
+    </item>
+    
+    <item>
+      <title>CodexBar — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</guid>
+      <description>(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/CodexBar/releases/latest)
+(https://github.com/steipete/homebrew-tap)
+(https://aur.archlinux.org/packages/codexbar-cli)
+(LICENSE)
+(https://codexbar.app)</description>
+    </item>
+    
+    <item>
+      <title>Meetily：隐私优先的开源 AI 会议助手，本地转录与总结</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/meetily/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/meetily/</guid>
+      <description>Meetily 是一款隐私优先的开源 AI 会议助手，所有转录和总结均在本地完成，支持多平台，适用于对数据主权有严格要求的企业和专业人士。</description>
+    </item>
+    
+    <item>
+      <title>Chrome DevTools MCP：让 AI 编码助手直接操控 Chrome 浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</guid>
+      <description>ChromeDevTools 推出的 chrome-devtools-mcp 是一个 MCP Server，允许 AI 编码助手（如 Claude、Cursor、Copilot）通过 Model Context Protocol 直接控制 Chrome 浏览器，实现可靠的浏览器自动化、深度调试和性能分析。</description>
+    </item>
+    
+    <item>
+      <title>codex-plugin-cc — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</guid>
+      <description>UseCodexfrominsideClaudeCodeforcodereviewsortodelegatetaskstoCodex.</description>
+    </item>
+    
+    <item>
+      <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/caveman/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/caveman/</guid>
+      <description>Caveman 是一个 Claude Code 技能/插件，支持 30&#43; AI 编程助手，通过精简输出语言减少约 75% 的输出 Token，同时保持完整的技术准确性。本文深度解析其工作原理、安装方式、实际收益和技术实现。</description>
+    </item>
+    
+    <item>
+      <title>Council of High Intelligence：让 18 位 AI 智者为你的重要决策提供多元视角</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</guid>
+      <description>一个基于多 LLM 提供者的 AI 智囊团工具，通过 18 个不同思维模式的 AI Agent 对你的关键决策进行结构化辩论和综合分析，支持 Claude、OpenAI、Gemini、Ollama 等多平台自动路由。</description>
+    </item>
+    
+    <item>
+      <title>VeraCrypt：TrueCrypt 的继承者，开源磁盘加密的安全增强方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/veracrypt/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/veracrypt/</guid>
+      <description>深入解析 VeraCrypt 的技术架构与安全增强特性，探讨这款基于 TrueCrypt 的开源磁盘加密软件如何通过加密算法优化、安全机制改进和跨平台支持，成为现代数据安全的重要工具。</description>
+    </item>
+    
+    <item>
+      <title>Logto：面向 SaaS 和 AI 应用的现代化开源身份认证基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/logto/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/logto/</guid>
+      <description>Logto 是一款开源的身份认证基础设施，专为 SaaS 和 AI 应用设计。它简化了 OIDC 和 OAuth 2.1 的复杂实现，提供多租户、企业级 SSO、RBAC 等功能，支持 30&#43; 框架 SDK，并原生适配 Model Context Protocol 和 AI Agent 架构。</description>
+    </item>
+    
+    <item>
+      <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</guid>
+      <description>基于5本著作、15&#43;篇深度采访、30&#43;条语录蒸馏出张雪峰的5个核心心智模型和8条决策启发式，封装为 Agent Skill，可在 Claude Code、Cursor、OpenClaw 等50&#43; runtime 中运行。不是复读语录，是用张雪峰的认知框架分析你的问题。</description>
+    </item>
+    
+    <item>
+      <title>CasaOS：打造简约优雅的家庭个人云操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/casaos/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/casaos/</guid>
+      <description>CasaOS 是一款开源的家庭个人云操作系统，提供友好的 UI 设计、多硬件支持、应用商店一键安装等功能，让普通人也能轻松搭建和管理个人云服务，实现数据自主拥有。</description>
+    </item>
+    
+    <item>
+      <title>Insomnia：开源跨平台 API 客户端的技术架构与深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</guid>
+      <description>深入解析 Kong Insomnia 开源 API 客户端的技术架构，探讨其对 GraphQL、REST、gRPC、WebSocket 等多种协议的支持能力，以及本地存储、Git 同步、云协作等多种数据存储方案的设计理念。本文从源码层面分析其技术栈选型与实现细节。</description>
+    </item>
+    
+    <item>
+      <title>Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</guid>
+      <description>深入解析 Palmier Pro 这款专为 AI 工作流设计的开源视频编辑器，探讨其 Swift 原生架构、内置生成式 AI 能力以及通过 MCP 协议与 Claude Code/Cursor 等 Agent 深度集成的技术实现。Y Combinator S24 孵化项目。</description>
+    </item>
+    
+    <item>
+      <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</guid>
+      <description>智谱 AI 开源的 GLM-5/5.1/5.2 系列以 744B-A40B 的 MoE 规模、1M token 长上下文、稀疏注意力与异步 RL 训练基础设施，在长程 Agentic 工程任务上逼近闭源前沿。</description>
+    </item>
+    
+    <item>
+      <title>penpot — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/penpot/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/penpot/</guid>
+      <description>&amp;lt;imgwidth=&amp;#34;100%&amp;#34;src=&amp;#34;https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602&amp;#34;/</description>
+    </item>
+    
+    <item>
+      <title>Rocket.Chat：开源安全的团队通信解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft PowerToys：Windows 效率神器完全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/powertoys/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/powertoys/</guid>
+      <description>深入解析 Microsoft PowerToys 这一 Windows 生产力工具集合，包含 30&#43; 个实用工具的技术架构、核心功能实现原理、安装使用方法，以及如何通过开源社区贡献代码，全面提升 Windows 使用效率。</description>
+    </item>
+    
+    <item>
+      <title>system-prompts-and-models-of-ai-tools — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;ahref=&amp;#34;https://github.com/latitude-dev/latitude-llm&amp;#34;
+&amp;lt;imgsrc=&amp;#34;assets/latitude-dark.png&amp;#34;alt=&amp;#34;LatitudeLogo&amp;#34;width=&amp;#34;700&amp;#34;/
+&amp;lt;/a
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>Personal AI Infrastructure：构建你的个人 AI 生命操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</guid>
+      <description>深入解析 Daniel Miessler 的 Personal AI Infrastructure (PAI) 项目——一个完整的个人 AI 生命操作系统，通过统一的 Pulse 守护进程、DA 数字助手身份层和 Algorithm v6.3.0 算法，帮助用户从当前状态迈向理想状态。包含 45 个技能、171 个工作流和完整的内存系统。</description>
+    </item>
+    
+    <item>
+      <title>MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</guid>
+      <description>MemPalace 是一款本地优先的 AI 记忆工具，通过语义搜索存储对话历史原文，支持可插拔后端（ChromaDB/Qdrant/pgvector），在 LongMemEval 基准上达到 96.6% R@5 检索准确率且无任何 API 调用。</description>
+    </item>
+    
+    <item>
+      <title>Hermes Agent：具备自我进化能力的开源 AI Agent 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</guid>
+      <description>深入解析 Nous Research 开发的 Hermes Agent，这是首个内置学习循环的 AI Agent 框架，支持技能自动创建、跨会话记忆、多平台部署，可运行在 5 美元 VPS 到 GPU 集群的任意环境。</description>
+    </item>
+    
+    <item>
+      <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</guid>
+      <description>OpenDataLoader PDF 是一个在 PDF 解析基准测试中综合准确率排名第一（0.907）的开源工具，支持将 PDF 转换为 Markdown、JSON、HTML 等格式，同时首创开源端到端的 PDF 自动标注与无障碍文档生成能力。</description>
+    </item>
+    
     <item>
       <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
       <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>

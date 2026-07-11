@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</guid>
+      <description>MediaCrawler 是一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取，基于 Playwright 浏览器自动化框架，无需 JS 逆向即可优雅采集数据。</description>
+    </item>
+    
     <item>
       <title>Scrapling：自适应智能爬虫框架，让数据采集不再头疼</title>
       <link>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</link>

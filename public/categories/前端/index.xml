@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>前端 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</link>
+    <description>Recent content in 前端 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astryx：Meta 开源的全面可定制设计系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/astryx/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/astryx/</guid>
+      <description>Astryx 是 Meta 开源的企业级设计系统，基于 React 和 StyleX 构建，提供 150&#43; 可访问组件、品牌级主题系统和开箱即用模板，同时支持人类开发者和 AI 助手协同使用。</description>
+    </item>
+    
+    <item>
+      <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</guid>
+      <description>一个强大的 Next.js 模板项目，配合 Claude Code 等 AI 编程助手，可以逆向工程任意网站，自动提取设计令牌、资源，并重建为现代化的 Next.js 代码库。支持平台迁移、丢失源码恢复、技术学习等多种场景。</description>
+    </item>
+    
+  </channel>
+</rss>

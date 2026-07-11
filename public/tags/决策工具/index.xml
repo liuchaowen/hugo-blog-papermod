@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>决策工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%86%B3%E7%AD%96%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 决策工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%86%B3%E7%AD%96%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Council of High Intelligence：让 18 位 AI 智者为你的重要决策提供多元视角</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</guid>
+      <description>一个基于多 LLM 提供者的 AI 智囊团工具，通过 18 个不同思维模式的 AI Agent 对你的关键决策进行结构化辩论和综合分析，支持 Claude、OpenAI、Gemini、Ollama 等多平台自动路由。</description>
+    </item>
+    
+  </channel>
+</rss>

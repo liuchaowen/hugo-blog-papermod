@@ -11,7 +11,196 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</guid>
+      <description>Claude Code Templates 是一个开源项目，为 Anthropic 的 Claude Code 提供即用型配置模板，包含 100 多个 AI 代理、自定义命令、设置、钩子和 MCP 集成，帮助你快速构建高效的 AI 辅助开发工作流。</description>
+    </item>
+    
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
+      <description>Pocket TTS 是 Kyutai Labs 开源的轻量级文本转语音模型，仅 100M 参数、在 CPU 上即可达到 6 倍实时速度，支持流式输出、语音克隆和多语言，pip 一键安装即可在本地运行。</description>
+    </item>
+    
+    <item>
+      <title>TencentDB Agent Memory：让AI Agent记住该记住的，减少Token消耗提升任务成功率</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</guid>
+      <description>TencentDB Agent Memory 是腾讯开源的四层记忆系统，通过符号化短期记忆和分层长期记忆，在 OpenClaw 上实现最高 61.38% 的 Token 节省和 51.52% 的任务成功率提升，让 Agent 真正学会用户偏好和工作流程。</description>
+    </item>
+    
+    <item>
+      <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</guid>
+      <description>AI Job Search 是一个基于 Claude Code 的求职框架，通过 /setup、/scrape、/apply 三条命令将 AI 变成求职全流程助手：自动构建候选人画像、抓取招聘门户、评估岗位匹配度，并以 drafter-reviewer 双人工作流生成 LaTeX 简历与求职信，外加 PDF 视觉校验与 ATS 文本层校验，杜绝排版翻车与关键词堆砌。</description>
+    </item>
+    
+    <item>
+      <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
+      <description>一个为AI编程助手设计的持久化文件规划技能，通过三文件模式解决上下文丢失、目标漂移等问题，让Agent在/clear或崩溃后自动恢复任务进度。</description>
+    </item>
+    
+    <item>
+      <title>MarketingSkills：为 AI Agent 打造的营销技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</guid>
+      <description>MarketingSkills 是一个面向 AI 编程代理的营销技能集合，涵盖 SEO、CRO、内容营销、付费广告、增长工程等领域，支持 Claude Code、Cursor、Windsurf 等主流 AI Agent，让 AI 助手具备专业的营销能力。</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：给 AI Agent 装上可插拔的技能卡</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</guid>
+      <description>Agent Skills 是一个轻量级的开放标准，通过 SKILL.md 文件为 AI Agent 打包专业知识和工作流程，使其获得领域专长、复用跨产品技能。让 Agent 从通用走向专业化，像搭积木一样扩展能力边界。</description>
+    </item>
+    
+    <item>
+      <title>DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</guid>
+      <description>DeepSpec 是 DeepSeek 开源的全栈代码库，提供投机解码（Speculative Decoding）中 Draft 模型的训练与评估完整工具链，包含数据准备、三种前沿 Draft 模型实现（DSpark / DFlash / Eagle3）以及标准化评测套件。</description>
+    </item>
+    
+    <item>
+      <title>video-use: 用自然语言对话的方式编辑视频，100% 开源</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/video-use/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/video-use/</guid>
+      <description>video-use 是一个基于 Claude Code 的 AI 视频编辑工具，只需把原始素材丢进文件夹，用自然语言描述需求，就能获得剪辑好的 final.mp4。支持自动删除语气词、智能调色、音视频淡入淡出、字幕烧录和动态字幕生成，全程开源。</description>
+    </item>
+    
+    <item>
+      <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</guid>
+      <description>一份非官方的开源 Codex 使用手册，系统讲解 OpenAI Codex 的四大入口、安装配置、核心功能与实战案例，帮助开发者从零上手 AI 编程 Agent。</description>
+    </item>
+    
+    <item>
+      <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
+    </item>
+    
+    <item>
+      <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</guid>
+      <description>System Prompts Leaks 是一个开源项目，旨在收录并公开分享 ChatGPT、Claude、Gemini、Grok 等主流 AI 助手的 System Prompt，帮助开发者深入理解 AI 行为逻辑与边界。</description>
+    </item>
+    
+    <item>
+      <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</guid>
+      <description>智谱 AI 开源的 GLM-5/5.1/5.2 系列以 744B-A40B 的 MoE 规模、1M token 长上下文、稀疏注意力与异步 RL 训练基础设施，在长程 Agentic 工程任务上逼近闭源前沿。</description>
+    </item>
+    
+    <item>
+      <title>Google TimesFM：谷歌开源的时间序列基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</guid>
+      <description>TimesFM 是 Google Research 开发的时间序列基础模型，支持 200M 参数、16K 上下文长度，可进行点预测和分位数预测，适用于金融、能源、零售等领域的时序预测任务。</description>
+    </item>
+    
+    <item>
+      <title>Agency Agents：打造你的AI专属团队</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</guid>
+      <description>一个开源的AI Agent集合项目，包含100多个专业角色定义，覆盖工程、设计、营销、安全等16个部门，支持Claude Code、Cursor、GitHub Copilot等主流工具集成，让你的AI助手拥有专业人格和交付能力。</description>
+    </item>
+    
+    <item>
+      <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/ruview/</guid>
+      <description>RuView 将普通 WiFi 路由器的无线电信号转化为空间感知能力，通过 ESP32 传感器和脉冲神经网络实现穿墙人体检测、呼吸心率监测、跌倒识别等，支持 Home Assistant、Apple Home 等智能家居生态，全部在边缘侧运行，无需云端和摄像头。</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：为 AI 编码助手注入生产级工程规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</guid>
+      <description>Addy Osmani 开源的 Agent Skills 项目为 AI 编码助手提供了 23 个生产级工程技能，涵盖从需求定义、任务规划、代码实现、测试验证到代码审查、部署上线的完整开发流程，帮助 AI 代理生成符合 Google 工程标准的生产质量代码。</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Codex 插件生态：AI 编程助手的扩展革命</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/plugins/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/plugins/</guid>
+      <description>OpenAI 官方插件仓库 openai/plugins 为 Codex AI 编程助手提供了丰富的插件示例，涵盖 Figma、Notion、iOS/macOS/Web 应用构建、Expo、Netlify 等场景，展示了如何通过标准化 manifest 和技能扩展打造定制化开发工作流。</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

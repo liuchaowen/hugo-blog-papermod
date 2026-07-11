@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MuAPI on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/muapi/</link>
+    <description>Recent content in MuAPI on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/muapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Generative AI：打破内容过滤的开源 AI 创作工作室，200&#43; 模型自由调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</guid>
+      <description>Open Generative AI 是一款开源的 AI 图像、视频、Lip Sync 创作工作室，基于 MuAPI 聚合 200&#43; 前沿模型（Flux、Kling、Sora、Veo 等），无任何内容过滤与订阅费用，支持本地推理，桌面端 &#43; Web 双端可用，是 AI 创作类闭源平台的彻底开源替代方案。</description>
+    </item>
+    
+  </channel>
+</rss>

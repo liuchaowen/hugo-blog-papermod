@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>架构 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/</link>
+    <description>Recent content in 架构 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Design 101：可视化学习系统设计的终极资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</guid>
+      <description>System Design 101 是由 ByteByteGo 团队维护的开源项目，通过丰富的可视化图表和简洁的术语解释复杂系统设计方案。涵盖 API、数据库、缓存、微服务、DevOps、安全等系统设计的各个核心领域，是系统设计师和面试准备者的必备参考资料。</description>
+    </item>
+    
+  </channel>
+</rss>

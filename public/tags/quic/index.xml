@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>QUIC on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/quic/</link>
+    <description>Recent content in QUIC on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/quic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iroh：基于公钥直连的去中心化网络框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/iroh/</guid>
+      <description>Iroh 是由 n0-computer 开发的 Rust 网络框架，基于 QUIC 协议实现公钥直连、NAT 穿透和自动中继，提供 blob 传输、发布订阅和最终一致 KV 存储等可组合协议，让去中心化组网变得简单高效。</description>
+    </item>
+    
+  </channel>
+</rss>

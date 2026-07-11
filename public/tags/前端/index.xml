@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</guid>
+      <description>HyperFrames 是 HeyGen 开源的一款 HTML-to-Video 框架，支持将 HTML、CSS、动画转换为确定性 MP4 视频。本文深入解析其技术架构、与 Remotion 的对比，以及在 AI Agent 视频生产中的应用。</description>
+    </item>
+    
+    <item>
+      <title>Cypress：现代 Web 应用测试的革命性工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/cypress/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/cypress/</guid>
+      <description>深入解析 Cypress 这款现代化的前端测试框架，探讨其架构设计、核心技术栈、安装使用方法，以及相比传统测试工具的优势。Cypress 为浏览器端测试带来了全新的开发体验。</description>
+    </item>
+    
     <item>
       <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>

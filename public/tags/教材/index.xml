@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>教材 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%95%99%E6%9D%90/</link>
+    <description>Recent content in 教材 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%99%E6%9D%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChinaTextbook：开源中国义务教育教材合集，让知识不再被垄断</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</guid>
+      <description>TapXWorld/ChinaTextbook 项目将中国从小学到大学的教育教材集中开源，涵盖人教版数学、物理、化学等全科目PDF，旨在消除教育资源壁垒，帮助海外华人子女延续国内教育。</description>
+    </item>
+    
+  </channel>
+</rss>

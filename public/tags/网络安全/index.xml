@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</guid>
+      <description>SkillSpector 是 NVIDIA 开源的安全扫描工具，专门检测 AI Agent 技能（如 Claude Code、Cursor）中的漏洞、恶意模式和供应链风险，支持 64 种漏洞模式，涵盖提示注入、权限提升等 16 大类别。</description>
+    </item>
+    
+    <item>
+      <title>GhostTrack：开源 OSINT 信息收集工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</guid>
+      <description>GhostTrack 是一款基于 Python 的开源 OSINT 工具，集成了 IP 地址追踪、手机号码查询和社交媒体用户名搜索三大功能，适合安全研究人员进行合法的信息收集工作。</description>
+    </item>
+    
     <item>
       <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/flowsint/</link>

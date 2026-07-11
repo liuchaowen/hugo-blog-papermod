@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</guid>
+      <description>哈佛大学开源课程 CS249R 打造了一套完整 ML 系统工程教育体系，覆盖教科书、TinyTorch、Labs、硬件套件、模拟器和面试题库，目标到 2030 年帮助 100 万学习者掌握 ML 系统设计与工程能力。</description>
+    </item>
+    
+    <item>
+      <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Artificial Intelligence：AI 工程师的精选资源大全</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</guid>
+      <description>深入解析 owainlewis/awesome-artificial-intelligence 项目——一个精心策划的 AI 资源列表，涵盖书籍、课程、论文、框架、模型等，专注 AI 工程实践，帮助开发者构建和生产化 AI 系统。</description>
+    </item>
+    
     <item>
       <title>Heretic：全自动移除大语言模型审查机制的开源工具</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/heretic/</link>

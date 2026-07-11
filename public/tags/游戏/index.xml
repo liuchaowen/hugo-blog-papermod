@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/romm/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/romm/</guid>
+      <description>RomM (ROM Manager) 是一款开源的自托管游戏 ROM 管理与游玩平台，支持 400&#43; 平台元数据 enrichment、浏览器直接运行游戏、多用户权限管理，并拥有 Playnite/Android/CFW 等多端官方客户端，是 emulator 玩家的必备宝库。</description>
+    </item>
+    
+  </channel>
+</rss>

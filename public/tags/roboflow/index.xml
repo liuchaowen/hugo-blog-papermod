@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roboflow on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/roboflow/</link>
+    <description>Recent content in Roboflow on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/roboflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervision — Roboflow 开源计算机视觉工具箱，让你的 CV 项目如虎添翼</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/supervision/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/supervision/</guid>
+      <description>Supervision 是 Roboflow 推出的 Python 计算机视觉工具库，提供数据加载、标注可视化、目标检测、多目标跟踪、区域计数等核心能力，支持 Ultralytics、Transformers、MMDetection 等主流模型的无缝接入，是构建 CV 应用的必备工具包。</description>
+    </item>
+    
+  </channel>
+</rss>

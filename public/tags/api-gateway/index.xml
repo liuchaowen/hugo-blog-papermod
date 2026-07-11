@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API Gateway on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/api-gateway/</link>
+    <description>Recent content in API Gateway on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/api-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/openwa/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/openwa/</guid>
+      <description>OpenWA 是一款基于 NestJS 的开源 WhatsApp API Gateway，提供完整的 REST API、多会话管理、Webhook 实时事件、现代 React Dashboard 等功能。采用可插拔架构设计，支持 SQLite/PostgreSQL、Local/S3 存储、Memory/Redis 缓存的自由切换，配合 Docker 一键部署，让开发者完全掌控消息基础设施。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>向量搜索 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%90%91%E9%87%8F%E6%90%9C%E7%B4%A2/</link>
+    <description>Recent content in 向量搜索 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%90%91%E9%87%8F%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</guid>
+      <description>turbovec 是一款基于 Google Research TurboQuant 算法的 Rust 向量搜索引擎，支持 Python 绑定。它可以将 10M 文档的向量数据从 31GB 压缩到 4GB，搜索速度超过 FAISS，无需训练阶段，支持在线 ingestion 和搜索时过滤，适合构建隐私敏感、低延迟的 RAG 系统。</description>
+    </item>
+    
+  </channel>
+</rss>

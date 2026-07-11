@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安全工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 安全工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>CUPP：交互式社工密码字典生成利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/cupp/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/cupp/</guid>
+      <description>CUPP（Common User Passwords Profiler）是一款经典的交互式社工密码分析工具，通过收集目标个人信息生成高度定制化的密码字典，支持 1337 模式和海量词库下载，广泛用于渗透测试与安全审计。</description>
+    </item>
+    
+    <item>
+      <title>SpiderFoot：开源情报(OSINT)自动化利器，200&#43;模块助你掌控网络空间侦察</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</guid>
+      <description>SpiderFoot 是一款功能强大的开源情报(OSINT)自动化工具，集成200多个模块，支持对IP、域名、邮箱、用户名等目标进行全方位情报收集，广泛应用于渗透测试、红队演练和安全防御。本文深入剖析其架构设计、核心技术栈、安装使用方法及实战技巧。</description>
+    </item>
+    
+  </channel>
+</rss>

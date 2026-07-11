@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/orca/</guid>
+      <description>深入解析 Orca——一款革命性的 AI IDE 编排工具，支持并行运行多个 AI 编码助手（Codex、ClaudeCode、OpenCode、Pi 等），每个助手在独立的 Git Worktree 中工作，统一追踪与管理。本文从技术架构、核心特性、安装使用到实战案例，全方位解读这款开发者生产力工具。</description>
+    </item>
+    
     <item>
       <title>Karpathy 式 Claude Code 编程指南：四大原则提升 AI 编码质量</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</link>

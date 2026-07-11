@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>认知框架 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AE%A4%E7%9F%A5%E6%A1%86%E6%9E%B6/</link>
+    <description>Recent content in 认知框架 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%A4%E7%9F%A5%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</guid>
+      <description>基于5本著作、15&#43;篇深度采访、30&#43;条语录蒸馏出张雪峰的5个核心心智模型和8条决策启发式，封装为 Agent Skill，可在 Claude Code、Cursor、OpenClaw 等50&#43; runtime 中运行。不是复读语录，是用张雪峰的认知框架分析你的问题。</description>
+    </item>
+    
+  </channel>
+</rss>

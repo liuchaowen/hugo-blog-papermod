@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生命操作系统 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%94%9F%E5%91%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 生命操作系统 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%9F%E5%91%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal AI Infrastructure：构建你的个人 AI 生命操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</guid>
+      <description>深入解析 Daniel Miessler 的 Personal AI Infrastructure (PAI) 项目——一个完整的个人 AI 生命操作系统，通过统一的 Pulse 守护进程、DA 数字助手身份层和 Algorithm v6.3.0 算法，帮助用户从当前状态迈向理想状态。包含 45 个技能、171 个工作流和完整的内存系统。</description>
+    </item>
+    
+  </channel>
+</rss>

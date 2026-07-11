@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/apache/</link>
+    <description>Recent content in Apache on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Maven：Java 项目构建管理的行业标准与架构演进</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/maven/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/maven/</guid>
+      <description>深入解析 Apache Maven 4.1 的核心架构与设计哲学。从 POM 模型、依赖管理机制、插件系统到构建生命周期，探讨这款 Java 生态不可或缺的构建工具如何通过声明式配置改变软件项目管理方式，并分析其在云原生时代的演进方向。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</guid>
+      <description>Claude Code Templates 是一个开源项目，为 Anthropic 的 Claude Code 提供即用型配置模板，包含 100 多个 AI 代理、自定义命令、设置、钩子和 MCP 集成，帮助你快速构建高效的 AI 辅助开发工作流。</description>
+    </item>
+    
+    <item>
+      <title>Claude Video: 让 AI 真正「看懂」视频的开源神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</guid>
+      <description>Claude Video 是一个让 Claude 能够观看和分析任何视频的 Claude Code 插件，支持 YouTube、Loom、TikTok 等平台，通过字幕提取 &#43; 关键帧截取 &#43; Whisper 转录三重能力，让 AI 真正理解视频内容而非仅凭标题猜测。</description>
+    </item>
+    
+    <item>
+      <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</guid>
+      <description>探索 alirezarezvani/claude-skills——最全面的开源 Claude Code 技能库，包含 354 个生产级技能、96 个智能体和 102 个命令，支持 Claude Code、OpenAI Codex、Gemini CLI 等 13 个 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>System Design 101：可视化学习系统设计的终极资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</guid>
+      <description>System Design 101 是由 ByteByteGo 团队维护的开源项目，通过丰富的可视化图表和简洁的术语解释复杂系统设计方案。涵盖 API、数据库、缓存、微服务、DevOps、安全等系统设计的各个核心领域，是系统设计师和面试准备者的必备参考资料。</description>
+    </item>
+    
+    <item>
+      <title>Agency Agents：打造你的AI专属团队</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</guid>
+      <description>一个开源的AI Agent集合项目，包含100多个专业角色定义，覆盖工程、设计、营销、安全等16个部门，支持Claude Code、Cursor、GitHub Copilot等主流工具集成，让你的AI助手拥有专业人格和交付能力。</description>
+    </item>
+    
+    <item>
+      <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</guid>
+      <description>微软开源的 pg_durable 扩展将持久化执行模式带入 PostgreSQL，用 SQL DSL 定义工作流步骤，自动检查点恢复，无需外部编排服务。</description>
+    </item>
+    
     <item>
       <title>FreeDomain：500 万用户信赖的免费域名注册平台</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Astro on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/astro/</link>
+    <description>Recent content in Astro on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/astro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flue：下一代自主Agent开发框架，让AI真正拥有自主能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/flue/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/flue/</guid>
+      <description>Flue是Astro团队推出的Agent Harness框架，提供完整的TypeScript工具链，让开发者能够构建真正自主的AI Agent，支持会话管理、工具调用、沙箱执行和持久化等核心能力</description>
+    </item>
+    
+  </channel>
+</rss>

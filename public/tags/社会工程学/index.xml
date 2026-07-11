@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>社会工程学 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6/</link>
+    <description>Recent content in 社会工程学 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CUPP：交互式社工密码字典生成利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/cupp/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/cupp/</guid>
+      <description>CUPP（Common User Passwords Profiler）是一款经典的交互式社工密码分析工具，通过收集目标个人信息生成高度定制化的密码字典，支持 1337 模式和海量词库下载，广泛用于渗透测试与安全审计。</description>
+    </item>
+    
+  </channel>
+</rss>

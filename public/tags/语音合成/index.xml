@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
+    </item>
+    
     <item>
       <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
       <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>

@@ -7,7 +7,9 @@ categories: ["技术"]
 keywords: ["Website Downloader", "wget", "离线下载", "网站镜像", "Node.js"]
 description: "Website Downloader 利用 wget 与 Socket 通道，帮你离线下载任意网站的完整源码与静态资源。"
 thumbnail: "https://github.com/AhmadIbrahiim/Website-downloader/raw/master/public/Record.gif"
-cover: "https://github.com/AhmadIbrahiim/Website-downloader/raw/master/public/Record.gif"
+cover:
+    image: "https://github.com/AhmadIbrahiim/Website-downloader/raw/master/public/Record.gif"
+    alt: "Website Downloader"
 slug: "website-downloader"
 ---
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>编程代理 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E4%BB%A3%E7%90%86/</link>
+    <description>Recent content in 编程代理 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E4%BB%A3%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continue：开源编程代理的终章与遗产</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/continue/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/continue/</guid>
+      <description>Continue 是一款开源编程代理，提供 CLI、VS Code 扩展和 JetBrains 插件三种形态，在 AI 开发者工具领域开创先河，最终以 2.0.0 版本画上句号，移除了匿名遥测和认证模块，留下干净的代码遗产。</description>
+    </item>
+    
+  </channel>
+</rss>

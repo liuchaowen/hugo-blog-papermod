@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI助手 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E5%8A%A9%E6%89%8B/</link>
+    <description>Recent content in AI助手 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%8A%A9%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/dbx/</guid>
+      <description>DBX 是一款用 Rust 编写的轻量级数据库管理工具，仅 15MB 大小，支持 60&#43; 数据库类型，内置 AI SQL 助手、MCP 协议集成，支持桌面端、Docker 自托管和 Web 端使用。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaw Windows Hub: 你的 Windows 系统托盘 AI 助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</guid>
+      <description>一款专为 OpenClaw 打造的 Windows 系统托盘应用，支持 Quick Send、WebChat、节点控制等丰富功能，让 AI 助手时刻伴随你的桌面。</description>
+    </item>
+    
+  </channel>
+</rss>

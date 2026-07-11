@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>成本追踪 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%88%90%E6%9C%AC%E8%BF%BD%E8%B8%AA/</link>
+    <description>Recent content in 成本追踪 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%88%90%E6%9C%AC%E8%BF%BD%E8%B8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</guid>
+      <description>AgentsView 是一款开源的 AI 编程助手成本追踪工具，支持 Claude Code、Cursor、Copilot 等 25&#43; 主流 AI 编程工具，提供本地化部署、实时成本统计、会话浏览与全文搜索功能，帮助开发者精准掌控 AI 编程开支。</description>
+    </item>
+    
+  </channel>
+</rss>

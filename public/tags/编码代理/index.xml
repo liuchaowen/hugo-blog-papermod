@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>编码代理 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%BC%96%E7%A0%81%E4%BB%A3%E7%90%86/</link>
+    <description>Recent content in 编码代理 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A0%81%E4%BB%A3%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/jcode/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/jcode/</guid>
+      <description>jcode 是一款用 Rust 构建的新一代编码代理工具（Coding Agent Harness），主打极致性能、多会话协作、智能记忆系统和 Swarm 多智能体协同，RAM 占用仅为同类工具的 1/6，启动速度最快可达 14ms。</description>
+    </item>
+    
+  </channel>
+</rss>

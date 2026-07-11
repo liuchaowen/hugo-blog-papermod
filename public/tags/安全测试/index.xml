@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安全测试 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 安全测试 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strix：开源 AI 安全测试 Agent，像黑客一样发现并修复应用漏洞</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/strix/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/strix/</guid>
+      <description>Strix 是一款开源的自主 AI 安全测试工具，模拟真实黑客行为动态运行代码、发现漏洞并通过 PoC 验证，适用于应用安全测试、渗透测试、Bug Bounty 自动化和 CI/CD 集成场景。</description>
+    </item>
+    
+  </channel>
+</rss>

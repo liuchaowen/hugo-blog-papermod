@@ -11,7 +11,1357 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abseil：C&#43;&#43; 标准库的有力补充</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</guid>
+      <description>Abseil 是 Google 开源的 C&#43;&#43; 通用库集合，提供超过 20 个高质量组件，涵盖字符串处理、并发编程、错误处理、时间计算等场景，是对 C&#43;&#43; 标准库的重要补充。</description>
+    </item>
+    
+    <item>
+      <title>Catch2：现代 C&#43;&#43; 原生的单元测试、微基准与 BDD 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/catch2/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/catch2/</guid>
+      <description>Catch2 是当前 GitHub 上最受欢迎的 C&#43;&#43; 测试框架之一，以纯 C&#43;&#43; 语法、类自然语言的断言、Section 共享测试夹具、内置微基准与 BDD 宏著称。本文从架构、技术原理、安装实战到常见问题，带你看懂这个现代 C&#43;&#43; 原生测试框架。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</guid>
+      <description>Claude Code Templates 是一个开源项目，为 Anthropic 的 Claude Code 提供即用型配置模板，包含 100 多个 AI 代理、自定义命令、设置、钩子和 MCP 集成，帮助你快速构建高效的 AI 辅助开发工作流。</description>
+    </item>
+    
+    <item>
+      <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/typescript/</guid>
+      <description>本文基于 microsoft/TypeScript 源码与官方 README，深入解析 TypeScript 的核心特性、编译架构、tsc 与 tsserver 的构建体系，以及如何安装、使用与排错，并介绍其向 7.0（原生 Go 移植）演进的现状。</description>
+    </item>
+    
+    <item>
+      <title>yaml-cpp：C&#43;&#43; 中的 YAML 解析与生成利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/yaml-cpp/</guid>
+      <description>yaml-cpp 是 Jesse Beder 维护的 C&#43;&#43; YAML 1.2 解析与生成库，提供简洁的 Node 树 API 与流式 Emitter，可轻松完成配置文件的读取、修改与序列化，是 C&#43;&#43; 项目中处理 YAML 的成熟首选。</description>
+    </item>
+    
+    <item>
+      <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
+    </item>
+    
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>Awesome DESIGN.md：收集 73 个主流网站设计系统的 AI 友好文档库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/awesome-design-md/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/awesome-design-md/</guid>
+      <description>Awesome DESIGN.md 是 VoltAgent 团队维护的精选项目，收录了 73 个主流网站（涵盖 AI 平台、开发者工具、金融科技、汽车等）的 DESIGN.md 设计系统文档，让 AI 编码助手能生成与目标网站视觉一致的高质量 UI。</description>
+    </item>
+    
+    <item>
+      <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/openscience/</guid>
+      <description>OpenScience 是开源的科研 AI 工作台，在浏览器中跑完整个科研闭环：读文献、提假设、写并运行代码、调取 30&#43; 科研数据库、最终自动产出论文，兼容任意前沿/开源大模型。</description>
+    </item>
+    
+    <item>
+      <title>PhotoGIMP：把 GIMP 武装成你熟悉的 Photoshop 工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/photogimp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/photogimp/</guid>
+      <description>PhotoGIMP 是一个面向 GIMP 3.0&#43; 的社区补丁，通过替换配置文件把免费开源的 GIMP 改造成贴近 Adobe Photoshop 的界面布局、快捷键与默认面板，帮助从 PS 迁移的用户零成本上手。</description>
+    </item>
+    
+    <item>
+      <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
+      <description>深入探索 SmartlyDressedGames 开源的 U3-SDK，这是一个用于 Unturned 游戏 Mod 开发的完整 Unity SDK，包含源码、工具链和丰富的文档资源。</description>
+    </item>
+    
+    <item>
+      <title>OfficeCLI：AI Agent 专用的 Office 套件命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/officecli/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/officecli/</guid>
+      <description>OfficeCLI 是全球首个专为 AI Agent 设计的 Office 套件命令行工具，支持一行代码创建、读取、修改 Word、Excel、PowerPoint 文档，无需安装 Office，零依赖，跨平台运行。</description>
+    </item>
+    
+    <item>
+      <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
+      <description>Pocket TTS 是 Kyutai Labs 开源的轻量级文本转语音模型，仅 100M 参数、在 CPU 上即可达到 6 倍实时速度，支持流式输出、语音克隆和多语言，pip 一键安装即可在本地运行。</description>
+    </item>
+    
+    <item>
+      <title>Prisma：下一代 Node.js 与 TypeScript ORM 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/prisma/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/prisma/</guid>
+      <description>Prisma 是面向 Node.js 与 TypeScript 的下一代 ORM，包含自动生成、类型安全的 Prisma Client、声明式 Prisma Migrate 与可视化 Prisma Studio。本文从架构、技术原理、快速上手到实战示例，带你深入理解 Prisma 如何重塑数据库访问层。</description>
+    </item>
+    
+    <item>
+      <title>TencentDB Agent Memory：让AI Agent记住该记住的，减少Token消耗提升任务成功率</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</guid>
+      <description>TencentDB Agent Memory 是腾讯开源的四层记忆系统，通过符号化短期记忆和分层长期记忆，在 OpenClaw 上实现最高 61.38% 的 Token 节省和 51.52% 的任务成功率提升，让 Agent 真正学会用户偏好和工作流程。</description>
+    </item>
+    
+    <item>
+      <title>Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</guid>
+      <description>Karakeep（原 Hoarder）是一款以自托管为先的「收藏一切」书签管理应用，支持链接、图片、PDF、RSS 自动抓取，并内置基于 LLM 的自动标签与摘要、全文检索、OCR、规则引擎以及 iOS/Android/浏览器全平台客户端。本文从架构、技术栈、安装使用到常见问题进行深度解析。</description>
+    </item>
+    
+    <item>
+      <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</guid>
+      <description>AI Job Search 是一个基于 Claude Code 的求职框架，通过 /setup、/scrape、/apply 三条命令将 AI 变成求职全流程助手：自动构建候选人画像、抓取招聘门户、评估岗位匹配度，并以 drafter-reviewer 双人工作流生成 LaTeX 简历与求职信，外加 PDF 视觉校验与 ATS 文本层校验，杜绝排版翻车与关键词堆砌。</description>
+    </item>
+    
+    <item>
+      <title>Claude Video: 让 AI 真正「看懂」视频的开源神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</guid>
+      <description>Claude Video 是一个让 Claude 能够观看和分析任何视频的 Claude Code 插件，支持 YouTube、Loom、TikTok 等平台，通过字幕提取 &#43; 关键帧截取 &#43; Whisper 转录三重能力，让 AI 真正理解视频内容而非仅凭标题猜测。</description>
+    </item>
+    
+    <item>
+      <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/gastown/</guid>
+      <description>Gas Town 是一款基于 Git 工作树持久化机制的多智能体 AI 协作工具，支持 Claude Code、GitHub Copilot、Codex 等多种 AI 编程助手在同一项目中协同工作，通过 Mayor（调度者）、Convoy（任务队列）和 Beads（工作追踪）等核心概念解决 AI Agent 上下文丢失和协调混乱的问题。</description>
+    </item>
+    
+    <item>
+      <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
+      <description>一个为AI编程助手设计的持久化文件规划技能，通过三文件模式解决上下文丢失、目标漂移等问题，让Agent在/clear或崩溃后自动恢复任务进度。</description>
+    </item>
+    
+    <item>
+      <title>.NET Agent Skills：微软官方出品的 AI 编程代理技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/skills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/skills/</guid>
+      <description>微软 .NET 团队推出的 Agent Skills 技能库，为 Copilot CLI、Claude Code、Cursor 等 AI 编程工具提供了一套完整的 .NET 开发技能集合，涵盖从基础开发到高级场景的全面支持。</description>
+    </item>
+    
+    <item>
+      <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</guid>
+      <description>探索 alirezarezvani/claude-skills——最全面的开源 Claude Code 技能库，包含 354 个生产级技能、96 个智能体和 102 个命令，支持 Claude Code、OpenAI Codex、Gemini CLI 等 13 个 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</guid>
+      <description>Folia 是一款以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云音乐、Navidrome 和本地音乐库，通过智能歌词匹配、AI 生成配色主题以及多种全屏歌词动画，为用户提供独特的听歌体验。本文深入解析其技术架构、核心功能与设计理念。</description>
+    </item>
+    
+    <item>
+      <title>Immich：高性能自托管照片和视频管理解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/immich/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/immich/</guid>
+      <description>Immich 是一个开源的高性能自托管照片和视频管理解决方案，支持自动备份、多用户、元数据查看、人脸识别、CLIP 搜索等功能，是 Google Photos 的自托管替代品。</description>
+    </item>
+    
+    <item>
+      <title>MarketingSkills：为 AI Agent 打造的营销技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</guid>
+      <description>MarketingSkills 是一个面向 AI 编程代理的营销技能集合，涵盖 SEO、CRO、内容营销、付费广告、增长工程等领域，支持 Claude Code、Cursor、Windsurf 等主流 AI Agent，让 AI 助手具备专业的营销能力。</description>
+    </item>
+    
+    <item>
+      <title>MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</guid>
+      <description>MCP for Unity 通过 Model Context Protocol 将 Claude、VS Code 等 AI 助手与 Unity 编辑器连接，提供 47 个 MCP 工具入口，支持资源管理、场景控制、脚本编辑、测试运行等全流程自动化，让游戏开发进入自然语言编程时代。</description>
+    </item>
+    
+    <item>
+      <title>Apache Maven：Java 项目构建管理的行业标准与架构演进</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/maven/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/maven/</guid>
+      <description>深入解析 Apache Maven 4.1 的核心架构与设计哲学。从 POM 模型、依赖管理机制、插件系统到构建生命周期，探讨这款 Java 生态不可或缺的构建工具如何通过声明式配置改变软件项目管理方式，并分析其在云原生时代的演进方向。</description>
+    </item>
+    
+    <item>
+      <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/romm/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/romm/</guid>
+      <description>RomM (ROM Manager) 是一款开源的自托管游戏 ROM 管理与游玩平台，支持 400&#43; 平台元数据 enrichment、浏览器直接运行游戏、多用户权限管理，并拥有 Playnite/Android/CFW 等多端官方客户端，是 emulator 玩家的必备宝库。</description>
+    </item>
+    
+    <item>
+      <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</guid>
+      <description>哈佛大学开源课程 CS249R 打造了一套完整 ML 系统工程教育体系，覆盖教科书、TinyTorch、Labs、硬件套件、模拟器和面试题库，目标到 2030 年帮助 100 万学习者掌握 ML 系统设计与工程能力。</description>
+    </item>
+    
+    <item>
+      <title>actions/checkout：GitHub Actions 官方代码检出 Action 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/checkout/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/checkout/</guid>
+      <description>深入解析 GitHub Actions 官方 checkout action，介绍 v7 版本的安全增强、ESM 迁移、credential 存储改进等核心特性，以及实际使用示例和最佳实践。</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：给 AI Agent 装上可插拔的技能卡</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</guid>
+      <description>Agent Skills 是一个轻量级的开放标准，通过 SKILL.md 文件为 AI Agent 打包专业知识和工作流程，使其获得领域专长、复用跨产品技能。让 Agent 从通用走向专业化，像搭积木一样扩展能力边界。</description>
+    </item>
+    
+    <item>
+      <title>CubeSandbox：为 AI Agent 打造的高性能安全沙箱，60ms 启动、硬件级隔离</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</guid>
+      <description>腾讯云开源的 CubeSandbox 是一款基于 RustVMM 和 KVM 的高性能安全沙箱服务，专为 AI Agent 设计。启动时间低于 60ms，内存开销小于 5MB，支持 E2B SDK 无缝迁移，提供硬件级隔离的安全执行环境。</description>
+    </item>
+    
+    <item>
+      <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/dbx/</guid>
+      <description>DBX 是一款用 Rust 编写的轻量级数据库管理工具，仅 15MB 大小，支持 60&#43; 数据库类型，内置 AI SQL 助手、MCP 协议集成，支持桌面端、Docker 自托管和 Web 端使用。</description>
+    </item>
+    
+    <item>
+      <title>Karukan：基于神经网络的现代日语输入法引擎深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/karukan/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/karukan/</guid>
+      <description>深入解析 Karukan 项目——一个面向 Linux 和 macOS 的现代日语输入法，采用 GPT-2 架构与 llama.cpp 推理引擎实现高质量假名汉字转换，支持实时转换、上下文感知与学习功能。</description>
+    </item>
+    
+    <item>
+      <title>DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</guid>
+      <description>DeepSpec 是 DeepSeek 开源的全栈代码库，提供投机解码（Speculative Decoding）中 Draft 模型的训练与评估完整工具链，包含数据准备、三种前沿 Draft 模型实现（DSpark / DFlash / Eagle3）以及标准化评测套件。</description>
+    </item>
+    
+    <item>
+      <title>Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</guid>
+      <description>Exercises Dataset 提供 1,324 条健身练习结构化数据，覆盖 6 种语言指令，附带交互式浏览器与开发者脚手架（DB Schema、API 代码、LLM Prompt），适合健身应用后端快速搭建。</description>
+    </item>
+    
+    <item>
+      <title>Google agents-cli：让编程助手成为 Google Cloud Agent 专家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</guid>
+      <description>google/agents-cli 为编程助手提供构建、部署和评估 ADK agent 的技能和命令，支持 Antigravity CLI、Claude Code、Codex 等主流编程助手，实现企业级 Agent 的全生命周期管理。</description>
+    </item>
+    
+    <item>
+      <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/herdr/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/herdr/</guid>
+      <description>herdr 是一款用 Rust 开发的终端工作区管理器，专为 AI 编程助手设计。它类似 tmux，但原生感知 Agent 状态，让你在一个终端里同时运行多个编程助手，实时查看谁在等待、谁在工作、谁已完成。</description>
+    </item>
+    
+    <item>
+      <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/instatic/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/instatic/</guid>
+      <description>Instatic 是一款基于 Bun 的自托管 CMS，将可视化编辑器、内容引擎和发布器集成在单个服务器中，输出无框架运行时的语义 HTML 和紧凑 CSS，并内置 QuickJS-WASM 沙箱插件系统。</description>
+    </item>
+    
+    <item>
+      <title>olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/olmocr/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/olmocr/</guid>
+      <description>olmOCR 是由 Allen Institute for Artificial Intelligence (AI2) 开发的开源 OCR 工具包，使用 7B 参数的视觉语言模型将 PDF、PNG、JPEG 等文档转换为干净的 Markdown 格式，支持公式、表格、手写识别，自动去除页眉页脚，处理多列布局和复杂格式。</description>
+    </item>
+    
+    <item>
+      <title>OmniRoute：聚合 236 个 AI 提供商的免费网关，每月 16 亿免费 Token</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/omniroute/</guid>
+      <description>OmniRoute 是一款开源的 AI 网关，聚合了 236 个 AI 提供商（其中 50&#43; 免费），通过统一的 OpenAI 兼容端点为 Claude Code、Cursor、Cline 等 AI 编程工具提供免费或低成本的模型访问，并内置 RTK &#43; Caveman 压缩技术可节省 15-95% 的 Token 消耗。</description>
+    </item>
+    
+    <item>
+      <title>FluidVoice：开源 macOS 语音转文字应用，本地 AI 加持的终极听写工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</guid>
+      <description>FluidVoice 是一款开源的 macOS 语音转文字听写应用，支持多种语音识别模型（Nemotron、Parakeet、Whisper 等），并内置 Fluid Intelligence 本地 AI 引擎，实现智能格式化、上下文感知大小写转换和后处理，所有数据均在本地运行，无需担心隐私泄露。</description>
+    </item>
+    
+    <item>
+      <title>System Design 101：可视化学习系统设计的终极资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</guid>
+      <description>System Design 101 是由 ByteByteGo 团队维护的开源项目，通过丰富的可视化图表和简洁的术语解释复杂系统设计方案。涵盖 API、数据库、缓存、微服务、DevOps、安全等系统设计的各个核心领域，是系统设计师和面试准备者的必备参考资料。</description>
+    </item>
+    
+    <item>
+      <title>video-use: 用自然语言对话的方式编辑视频，100% 开源</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-29/video-use/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-29/video-use/</guid>
+      <description>video-use 是一个基于 Claude Code 的 AI 视频编辑工具，只需把原始素材丢进文件夹，用自然语言描述需求，就能获得剪辑好的 final.mp4。支持自动删除语气词、智能调色、音视频淡入淡出、字幕烧录和动态字幕生成，全程开源。</description>
+    </item>
+    
+    <item>
+      <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</guid>
+      <description>一份非官方的开源 Codex 使用手册，系统讲解 OpenAI Codex 的四大入口、安装配置、核心功能与实战案例，帮助开发者从零上手 AI 编程 Agent。</description>
+    </item>
+    
+    <item>
+      <title>CuPy：让 NumPy 代码零修改跑在 GPU 上</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/cupy/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/cupy/</guid>
+      <description>CuPy 是 NumPy/SciPy 兼容的 GPU 加速数组库，支持 NVIDIA CUDA 和 AMD ROCm，无需修改代码即可将现有 Python 科学计算工作负载提速数十倍。</description>
+    </item>
+    
+    <item>
+      <title>dbt Core v2.0：用 Rust 重写的数据转换利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</guid>
+      <description>dbt Core v2.0 是数据转换工具 dbt 的全新版本，采用 Rust 重写带来性能飞跃，解析和编译速度大幅提升，支持 Parquet 格式产物，安装更便捷。</description>
+    </item>
+    
+    <item>
+      <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
+      <description>LingBot-Map 是 Robbyant 团队发布的流式 3D 重建基础模型，通过 Geometric Context Transformer 架构统一坐标定位、几何线索和长期漂移校正，支持超长序列（&amp;gt;10000 帧）的稳定推理，在多个基准上达到 SOTA 性能。</description>
+    </item>
+    
+    <item>
+      <title>Open Generative AI：打破内容过滤的开源 AI 创作工作室，200&#43; 模型自由调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</guid>
+      <description>Open Generative AI 是一款开源的 AI 图像、视频、Lip Sync 创作工作室，基于 MuAPI 聚合 200&#43; 前沿模型（Flux、Kling、Sora、Veo 等），无任何内容过滤与订阅费用，支持本地推理，桌面端 &#43; Web 双端可用，是 AI 创作类闭源平台的彻底开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>PPT Master: 用 AI 从任意文档生成原生可编辑的 PPTX</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</guid>
+      <description>PPT Master 是一个开源 AI 演示文稿工具，可以在任何 AI IDE 中运行，将 PDF、DOCX、图片等文档直接转换为真正的 PowerPoint 文件，所有元素均可逐个编辑，彻底告别图片拼接式 PPT。</description>
+    </item>
+    
+    <item>
+      <title>openpilot：comma.ai 开源自动驾驶辅助系统，让 300&#43; 车型秒变智能驾驶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</guid>
+      <description>openpilot 是 comma.ai 开源的机器人操作系统，当前已支持 300&#43; 车型的自动驾驶辅助功能。本文深入解析其架构设计、核心安全机制及技术实现原理。</description>
+    </item>
+    
+    <item>
+      <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
+    </item>
+    
+    <item>
+      <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</guid>
+      <description>MediaCrawler 是一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取，基于 Playwright 浏览器自动化框架，无需 JS 逆向即可优雅采集数据。</description>
+    </item>
+    
+    <item>
+      <title>MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mineru/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mineru/</guid>
+      <description>MinerU 是 OpenDataLab 开源的高精度文档解析引擎，支持 PDF、DOCX、PPTX、XLSX 和图片等多种格式，一键转换为结构化 Markdown/JSON。VLM&#43;OCR 双引擎架构，支持 109 种语言 OCR，专为 LLM/RAG/Agent 工作流设计。</description>
+    </item>
+    
+    <item>
+      <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</guid>
+      <description>OpenSEO 是一款开源 SEO 工具，旨在替代 Semrush 和 Ahrefs 等昂贵且臃肿的商业产品。它采用按量付费模式，支持 MCP 协议与 AI Agent 集成，内置关键词研究、排名追踪、域名分析、反链查询、站点审计等完整 SEO 工作流，并可自部署于 Docker 或 Cloudflare。</description>
+    </item>
+    
+    <item>
+      <title>Page Agent — 运行在网页里的 GUI Agent，用自然语言控制 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</guid>
+      <description>阿里巴巴开源的 Page Agent 是一个纯客户端运行的 GUI Agent，无需浏览器扩展或服务端自动化，直接用 JavaScript 注入即可让自然语言操控网页 UI，适合 SaaS AI Copilot、智能表单填充等场景。</description>
+    </item>
+    
+    <item>
+      <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</guid>
+      <description>SimpleX Chat 是全球首个完全不使用任何用户标识符的即时通讯平台，通过双棘轮端到端加密和单向消息队列设计，实现了身份、联系人、元数据的完全隐私保护，通过了 Trail of Bits 安全审计，并支持量子抗性密钥交换。</description>
+    </item>
+    
+    <item>
+      <title>AI Berkshire：用 Claude Code 打造你的私人投研团队</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/ai-berkshire/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/ai-berkshire/</guid>
+      <description>AI Berkshire 是一套基于 Claude Code 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化，通过 AI Agent 实现专业级投资研究，两年实盘收益超 180%，大幅跑赢全球主要指数。</description>
+    </item>
+    
+    <item>
+      <title>DESIGN.md：让 AI 编码助手理解你的设计系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/design-md/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/design-md/</guid>
+      <description>Google Labs 推出的 DESIGN.md 是一种用于向 AI 编码代理描述视觉识别的格式规范，通过机器可读的设计 Token 和人工可读的设计原理，让 AI 生成符合设计系统的 UI 代码。</description>
+    </item>
+    
+    <item>
+      <title>Headunit Revived：把 Android 平板变成 Android Auto 车机屏幕</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/headunit-revived/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/headunit-revived/</guid>
+      <description>Headunit Revived 是一款开源 Android 应用，可以将 Android 平板或手机变成 Android Auto 的接收端，支持有线 USB 和无线 Wi-Fi 两种连接方式，让旧平板焕发车机新生。</description>
+    </item>
+    
+    <item>
+      <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</guid>
+      <description>no-mistakes 是一个 Git 本地代理工具，在推送到远程之前运行 AI 驱动的自动化审核流水线，自动修复安全问题、格式化代码、生成规范 PR，解决了 AI 编程助手容易「污染」代码库的痛点。</description>
+    </item>
+    
+    <item>
+      <title>zapret-discord-youtube：绕过 ISP 深度包检测的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/zapret-discord-youtube/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/zapret-discord-youtube/</guid>
+      <description>一款基于 WinDivert 的 Windows DPI 绕过工具，通过流量混淆技术实现对 Discord、YouTube 等被封锁服务的访问，支持多种策略和自动部署</description>
+    </item>
+    
+    <item>
+      <title>Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/flutter/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/flutter/</guid>
+      <description>深入解析 Google Flutter 框架的技术架构，包括 Skia/Impeller 渲染引擎、Dart 语言编译机制、分层架构设计，以及 Hot Reload 实现原理，帮助开发者全面理解 Flutter 跨平台开发的核心技术。</description>
+    </item>
+    
+    <item>
+      <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</guid>
+      <description>Hiring Agent 是 InterviewStreet 开源的简历评估工具，通过 LLM 解析 PDF 简历为结构化 JSON，结合 GitHub 开源贡献信号，输出带证据链的客观评分。支持 Ollama 本地模型和 Google Gemini，适用于技术招聘初筛场景。</description>
+    </item>
+    
+    <item>
+      <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</guid>
+      <description>一个强大的 Next.js 模板项目，配合 Claude Code 等 AI 编程助手，可以逆向工程任意网站，自动提取设计令牌、资源，并重建为现代化的 Next.js 代码库。支持平台迁移、丢失源码恢复、技术学习等多种场景。</description>
+    </item>
+    
+    <item>
+      <title>Firecrawl：为 AI Agent 打造的大规模网页数据抓取 API</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/firecrawl/</guid>
+      <description>Firecrawl 是一个开源的网页数据 API，帮助 AI 系统搜索、抓取和与网页交互。支持将任意网页转换为干净的 Markdown 或结构化数据，覆盖 96% 的网页，P95 延迟仅 3.4 秒，是构建 AI 应用的理想数据源。</description>
+    </item>
+    
+    <item>
+      <title>biliTickerBuy：开源免费的 B 站会员购辅助工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/bilitickerbuy/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/bilitickerbuy/</guid>
+      <description>biliTickerBuy 是一款开源免费的 B 站会员购辅助工具，基于 Python 和 Gradio 构建，提供命令行和 Web 界面两种操作方式，支持 Docker 部署，帮助用户更便捷地完成 B 站会员购的票务购买流程。</description>
+    </item>
+    
+    <item>
+      <title>Cognee：开源 AI Agent 长期记忆平台实战解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/cognee/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/cognee/</guid>
+      <description>Cognee 通过统一摄取、向量&#43;图混合检索与认知科学本体论，为 AI Agent 提供跨会话的持久记忆。本文覆盖架构原理、快速上手、实战示例与部署方案。</description>
+    </item>
+    
+    <item>
+      <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
+    </item>
+    
+    <item>
+      <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</guid>
+      <description>HyperFrames 是 HeyGen 开源的一款 HTML-to-Video 框架，支持将 HTML、CSS、动画转换为确定性 MP4 视频。本文深入解析其技术架构、与 Remotion 的对比，以及在 AI Agent 视频生产中的应用。</description>
+    </item>
+    
+    <item>
+      <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
+    </item>
+    
+    <item>
+      <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</guid>
+      <description>System Prompts Leaks 是一个开源项目，旨在收录并公开分享 ChatGPT、Claude、Gemini、Grok 等主流 AI 助手的 System Prompt，帮助开发者深入理解 AI 行为逻辑与边界。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Artificial Intelligence：AI 工程师的精选资源大全</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/awesome-artificial-intelligence/</guid>
+      <description>深入解析 owainlewis/awesome-artificial-intelligence 项目——一个精心策划的 AI 资源列表，涵盖书籍、课程、论文、框架、模型等，专注 AI 工程实践，帮助开发者构建和生产化 AI 系统。</description>
+    </item>
+    
+    <item>
+      <title>Daily Stock Analysis：基于 AI 大模型的股票智能分析系统深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/daily-stock-analysis/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/daily-stock-analysis/</guid>
+      <description>深入解析 daily_stock_analysis 项目——一个基于 AI 大模型的 A股/港股/美股/日股/韩股自选股智能分析系统，支持每日自动分析并推送决策仪表盘到多种通知渠道，涵盖技术架构、核心功能与部署实践。</description>
+    </item>
+    
+    <item>
+      <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/jcode/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/jcode/</guid>
+      <description>jcode 是一款用 Rust 构建的新一代编码代理工具（Coding Agent Harness），主打极致性能、多会话协作、智能记忆系统和 Swarm 多智能体协同，RAM 占用仅为同类工具的 1/6，启动速度最快可达 14ms。</description>
+    </item>
+    
+    <item>
+      <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</guid>
+      <description>SmsForwarder 是一款开源 Android 应用，可监控手机短信、来电和 APP 通知，并通过钉钉、企业微信、飞书、邮箱、Telegram 等多种渠道自动转发，还支持远程发短信、查通话、自动化任务等功能，是备用机的必备神器。</description>
+    </item>
+    
+    <item>
+      <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</guid>
+      <description>Voicebox 是一款本地优先的开源 AI 语音工作室，集语音克隆、TTS 生成、全局语音输入和 Agent 语音输出于一体，支持 7 种 TTS 引擎、23 种语言，是 ElevenLabs 和 WisprFlow 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</guid>
+      <description>介绍 GitHub Trending 上的 awesome-generative-ai-guide，解析这份生成式 AI 资源库如何从 LLM 基础到 Agents、RAG、Fine-tuning 等方向，帮助开发者系统学习并建立知识索引。</description>
+    </item>
+    
+    <item>
+      <title>LTX-2：首个基于 DiT 的音视频基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</guid>
+      <description>Lightricks 推出的首个 DiT 音视频基础模型，同步音频视频、高保真度、多种性能模式，支持 API 访问和开源访问</description>
+    </item>
+    
+    <item>
+      <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</guid>
+      <description>深度解析 OpenMontage，一个开源的 agentic 视频制作系统，支持从参考视频或纯文本提示到完整视频的生产流程，涵盖 12 条流水线、52 个工具与 400&#43; 智能体技能。</description>
+    </item>
+    
+    <item>
+      <title>Pake：一键将网页打包成轻量桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/pake/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/pake/</guid>
+      <description>Pake 是一个基于 Rust Tauri 构建的桌面应用打包工具，能将任意网页一键转换为跨平台桌面应用，体积比 Electron 小近 20 倍，支持 macOS、Windows 和 Linux。</description>
+    </item>
+    
+    <item>
+      <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/turso/</guid>
+      <description>Turso Database 是一个用 Rust 从零重写的 SQLite 兼容数据库，支持 MVCC 并发写入、向量搜索、变更数据捕获等现代特性，并提供 MCP Server 模式让 AI 助手直接操作数据库。</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</guid>
+      <description>深入解析 ASP.NET Core 的架构设计、模块化组件、跨平台能力及其在现代云原生应用中的应用，从源码角度理解这套微软开源 Web 框架的核心设计理念。</description>
+    </item>
+    
+    <item>
+      <title>Flue：下一代自主Agent开发框架，让AI真正拥有自主能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/flue/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/flue/</guid>
+      <description>Flue是Astro团队推出的Agent Harness框架，提供完整的TypeScript工具链，让开发者能够构建真正自主的AI Agent，支持会话管理、工具调用、沙箱执行和持久化等核心能力</description>
+    </item>
+    
+    <item>
+      <title>Hyper-Extract：智能知识提取与进化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
+    </item>
+    
+    <item>
+      <title>Kilo Code：开源 AI 编程代理，支持 500&#43; 模型自由切换</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</guid>
+      <description>Kilo Code 是一个开源 AI 编程代理，支持 VS Code、JetBrains 和 CLI 三大平台，可从 500&#43; 模型中自由切换，按模型提供商原价计费，无加价。</description>
+    </item>
+    
+    <item>
+      <title>Plane：开源替代 Jira 的现代化项目管理工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/plane/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/plane/</guid>
+      <description>Plane 是一款开源的项目管理工具，支持问题追踪、迭代管理、产品路线图等功能，旨在成为 Jira 的现代化替代方案。本文从技术架构、核心功能到部署实践进行全面解析。</description>
+    </item>
+    
+    <item>
+      <title>World Monitor：AI 驱动的实时全球情报态势感知平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/worldmonitor/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/worldmonitor/</guid>
+      <description>World Monitor 是一个开源的实时全球情报仪表盘，聚合 500&#43; 新闻源、56 种地图图层、29 个交易所金融数据，通过 AI 合成简报，支持本地 Ollama 运行，覆盖地缘政治、金融、能源等多领域态势感知。</description>
+    </item>
+    
+    <item>
+      <title>Continue：开源编程代理的终章与遗产</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/continue/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/continue/</guid>
+      <description>Continue 是一款开源编程代理，提供 CLI、VS Code 扩展和 JetBrains 插件三种形态，在 AI 开发者工具领域开创先河，最终以 2.0.0 版本画上句号，移除了匿名遥测和认证模块，留下干净的代码遗产。</description>
+    </item>
+    
+    <item>
+      <title>Google TimesFM：谷歌开源的时间序列基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</guid>
+      <description>TimesFM 是 Google Research 开发的时间序列基础模型，支持 200M 参数、16K 上下文长度，可进行点预测和分位数预测，适用于金融、能源、零售等领域的时序预测任务。</description>
+    </item>
+    
+    <item>
+      <title>Skills For Real Engineers：Matt Pocock 的 AI 编程技能体系</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/skills/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/skills/</guid>
+      <description>深入解析 Matt Pocock 开源的 Skills 项目——一套专为 AI 编程时代设计的可组合 Agent 技能体系，解决 AI 编码中的对齐、冗余、调试与架构退化四大核心问题。</description>
+    </item>
+    
+    <item>
+      <title>Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/unciv/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/unciv/</guid>
+      <description>Unciv 是一款开源、专注于模改的 Android 和桌面端文明V重制版，使用 LibGDX 开发。它能在低配设备上流畅运行，支持多平台安装，拥有活跃的社区和丰富的模改生态。</description>
+    </item>
+    
+    <item>
+      <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
+    </item>
+    
+    <item>
+      <title>Iroh：基于公钥直连的去中心化网络框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/iroh/</guid>
+      <description>Iroh 是由 n0-computer 开发的 Rust 网络框架，基于 QUIC 协议实现公钥直连、NAT 穿透和自动中继，提供 blob 传输、发布订阅和最终一致 KV 存储等可组合协议，让去中心化组网变得简单高效。</description>
+    </item>
+    
+    <item>
+      <title>OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/openwa/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/openwa/</guid>
+      <description>OpenWA 是一款基于 NestJS 的开源 WhatsApp API Gateway，提供完整的 REST API、多会话管理、Webhook 实时事件、现代 React Dashboard 等功能。采用可插拔架构设计，支持 SQLite/PostgreSQL、Local/S3 存储、Memory/Redis 缓存的自由切换，配合 Docker 一键部署，让开发者完全掌控消息基础设施。</description>
+    </item>
+    
+    <item>
+      <title>阿里巴巴开源 Zvec：嵌入应用的高性能进程内向量数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/zvec/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/zvec/</guid>
+      <description>Zvec 是阿里巴巴开源的轻量级进程内向量数据库，支持稠密与稀疏向量、全文检索、混合查询，毫秒级搜索数十亿向量，已在阿里集团生产环境大规模验证。</description>
+    </item>
+    
+    <item>
+      <title>Cua：构建、评估与部署计算机使用 Agent 的全栈平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/cua/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/cua/</guid>
+      <description>Cua 是一个开源全栈平台，提供沙箱环境、桌面驱动器、基准测试框架和 macOS 虚拟化，让 AI Agent 能够真正操作计算机——点击、输入、截图、完成任务。</description>
+    </item>
+    
+    <item>
+      <title>Free-TV/IPTV：一个收录全球免费电视频道的 M3U8 播放列表</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/iptv/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/iptv/</guid>
+      <description>Free-TV/IPTV 是一个开源 M3U 播放列表项目，收录全球 70&#43; 国家和地区的免费电视频道，支持 DVB-T/ATV 地面广播和互联网直播，是目前覆盖最广、质量最高的免费 IPTV 聚合项目之一。</description>
+    </item>
+    
+    <item>
+      <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</guid>
+      <description>深入解析 Google Puppeteer 项目——一个通过 DevTools Protocol 和 WebDriver BiDi 控制 Chrome/Firefox 的 Node.js 库，涵盖架构设计、核心技术栈、安装使用、实战案例及常见问题解决方案。</description>
+    </item>
+    
+    <item>
+      <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</guid>
+      <description>UAD-ng 是一个基于 Rust、使用 Iced GUI 框架开发的跨平台安卓去 bloatware 工具，专注于通过删除不必要和可疑的系统应用来提升设备隐私、安全与性能。</description>
+    </item>
+    
+    <item>
+      <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</guid>
+      <description>Win11Debloat 是一款轻量级 PowerShell 脚本，无需安装即可快速清理 Windows 11 预装应用、关闭遥测、精简任务栏与开始菜单，让系统回归纯净状态。</description>
+    </item>
+    
+    <item>
+      <title>Clone Wars：100&#43; 流行网站开源克隆项目精选，学习必备资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/clone-wars/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/clone-wars/</guid>
+      <description>Clone Wars 是一个精选的 GitHub 项目列表，收录了 100&#43; 个流行网站（如 Airbnb、Amazon、Instagram、Netflix、Spotify 等）的开源克隆和替代方案，包含源码、教程、Demo 链接、技术栈和 GitHub Stars 数，是前端/全栈开发者绝佳的学习资源。</description>
+    </item>
+    
+    <item>
+      <title>Cypress：现代 Web 应用测试的革命性工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/cypress/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/cypress/</guid>
+      <description>深入解析 Cypress 这款现代化的前端测试框架，探讨其架构设计、核心技术栈、安装使用方法，以及相比传统测试工具的优势。Cypress 为浏览器端测试带来了全新的开发体验。</description>
+    </item>
+    
+    <item>
+      <title>Hello 算法：动画图解数据结构与算法入门教程</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/hello-algo/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/hello-algo/</guid>
+      <description>Hello 算法是一本开源免费的数据结构与算法入门教程，采用动画图解和一键运行代码示例，支持 Python、Java、C&#43;&#43;、Go、JavaScript 等 12 种编程语言，适合算法初学者系统学习。</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Autonomous Robots：MIT Press 开源机器人学教材</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/introduction-to-autonomous-robots/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/introduction-to-autonomous-robots/</guid>
+      <description>Introduction to Autonomous Robots 是一本由 MIT Press 出版的开源机器人学教材，涵盖自主机器人的计算原理、传感、执行与算法，支持 LaTeX 本地编译 PDF，是机器人领域不可多得的开放学习资源。</description>
+    </item>
+    
+    <item>
+      <title>TeslaMate：开源自托管 Tesla 数据记录与可视化平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</guid>
+      <description>TeslaMate 是一款用 Elixir 编写的开源自托管 Tesla 数据记录工具，支持高精度行程记录、Postgres 存储、Grafana 可视化及 MQTT 集成，是 Tesla 车主进行车辆数据分析的最佳选择。</description>
+    </item>
+    
+    <item>
+      <title>aisuite：统一调用多家 LLM 的轻量级 Python 库（by Andrew Ng）</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/aisuite/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/aisuite/</guid>
+      <description>介绍 Andrew Ng 开源的 aisuite 项目——一个轻量级 Python 库，提供统一的 Chat Completions API 和 Agents API，支持 OpenAI、Anthropic、Google 等多家 LLM 提供商，并可基于 MCP 协议扩展工具。</description>
+    </item>
+    
+    <item>
+      <title>fanqiang：全平台科学上网工具与教程合集</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/fanqiang/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/fanqiang/</guid>
+      <description>bannedbook/fanqiang 是 GitHub 上最全面的科学上网开源项目，涵盖 Windows、macOS、Linux、Android、iOS、路由器及游戏机等全平台翻墙工具与详细教程，集成 V2ray、Shadowsocks、Clash、Trojan 等多种协议。</description>
+    </item>
+    
+    <item>
+      <title>freeCodeCamp：免费学习编程的开源社区与课程体系</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/freecodecamp/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/freecodecamp/</guid>
+      <description>freeCodeCamp 是一个非营利性社区，提供免费的编程课程和认证。本文深入解析其技术架构、全栈开发课程体系、以及如何贡献代码。项目已帮助超过10万人获得第一份开发工作。</description>
+    </item>
+    
+    <item>
+      <title>pytest：Python 生态中最强大的测试框架，你真的用好了吗？</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/pytest/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/pytest/</guid>
+      <description>深入解析 pytest 框架的设计哲学、核心架构与高级用法，从 fixture 机制到插件体系，帮你掌握这个 58k&#43; Star 的 Python 测试利器。</description>
+    </item>
+    
+    <item>
+      <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</guid>
+      <description>SkillSpector 是 NVIDIA 开源的安全扫描工具，专门检测 AI Agent 技能（如 Claude Code、Cursor）中的漏洞、恶意模式和供应链风险，支持 64 种漏洞模式，涵盖提示注入、权限提升等 16 大类别。</description>
+    </item>
+    
+    <item>
+      <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
+    </item>
+    
+    <item>
+      <title>Agency Agents：打造你的AI专属团队</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</guid>
+      <description>一个开源的AI Agent集合项目，包含100多个专业角色定义，覆盖工程、设计、营销、安全等16个部门，支持Claude Code、Cursor、GitHub Copilot等主流工具集成，让你的AI助手拥有专业人格和交付能力。</description>
+    </item>
+    
+    <item>
+      <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</guid>
+      <description>AgentsView 是一款开源的 AI 编程助手成本追踪工具，支持 Claude Code、Cursor、Copilot 等 25&#43; 主流 AI 编程工具，提供本地化部署、实时成本统计、会话浏览与全文搜索功能，帮助开发者精准掌控 AI 编程开支。</description>
+    </item>
+    
+    <item>
+      <title>Chatwoot：开源客户支持平台，Intercom/Zendesk 的自主可控替代方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/chatwoot/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/chatwoot/</guid>
+      <description>Chatwoot 是一款开源的现代客户支持平台，提供多渠道客服台、AI 智能助手 Captain、帮助中心等功能，可作为 Intercom、Zendesk 等商业 SaaS 的自主部署替代方案。</description>
+    </item>
+    
+    <item>
+      <title>iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/iptv/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/iptv/</guid>
+      <description>iptv-org/iptv 是一个开源社区项目，汇集了来自全球各地的公开 IPTV 频道播放链接，支持 M3U 格式导出，可直接导入 VLC、PotPlayer 等播放器使用，并配套提供 EPG 电子节目指南和 API 接口。</description>
+    </item>
+    
+    <item>
+      <title>LMCache：LLM 推理的 KV Cache 管理层，让 GPU 显存压力骤降</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/lmcache/</guid>
+      <description>LMCache 是一个 vendor-neutral 的 KV Cache 管理层，可将 GPU 中的 KV Cache 卸载至 CPU/SSD/Redis 等存储，支持跨请求/会话/引擎复用，显著降低 TTFT、提升吞吐，尤其适合长上下文 Agentic 和多轮对话场景。</description>
+    </item>
+    
+    <item>
+      <title>Mattermost：开源自托管的团队协作与 DevSecOps 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</guid>
+      <description>Mattermost 是一个开源核心的自托管协作平台，集成了聊天、工作流自动化、语音通话、屏幕共享与 AI 能力，采用 Go &#43; React 架构，单二进制部署，适合 DevSecOps 和事件响应场景。</description>
+    </item>
+    
+    <item>
+      <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/server/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/server/</guid>
+      <description>Music Assistant 是一款免费开源的媒体库管理工具，能够聚合多个流媒体服务并将音乐播放到各类联网音箱，专为 Home Assistant 智能家居场景设计，支持 Docker 和 Home Assistant 插件两种部署方式。</description>
+    </item>
+    
+    <item>
+      <title>Apple container：Swift 写的 Linux 容器工具，把容器当轻量虚拟机跑在 Mac 上</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/container/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/container/</guid>
+      <description>Apple container 是 Apple 开源的 Swift 工具，可在 Apple Silicon Mac 上将 Linux 容器作为轻量级虚拟机运行，完全兼容 OCI 标准镜像，支持从任意容器仓库拉取和推送镜像，是 macOS 平台上容器开发体验的一次全新升级。</description>
+    </item>
+    
+    <item>
+      <title>Hivemind：让所有 AI 编程代理共享一个大脑</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/hivemind/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/hivemind/</guid>
+      <description>Activeloop 开源的 Hivemind 为 Claude Code、OpenClaw、Codex、Cursor 等 AI 编程代理提供云端共享记忆，自动捕获会话轨迹、提炼可复用技能并在团队间实时传播，在 LoCoMo 基准上实现 25% 成本降低与 1.7 倍 token 节省。</description>
+    </item>
+    
+    <item>
+      <title>MasterDnsVPN：通过 DNS 隧道突破网络封锁的科学项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/masterdnsvpn/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/masterdnsvpn/</guid>
+      <description>深入探讨 MasterDnsVPN 项目——一个通过 DNS 查询和响应传输 TCP 流量的创新性研究项目，在伊朗 88 天网络断网期间成功帮助 users 连接国际互联网。</description>
+    </item>
+    
+    <item>
+      <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/ruview/</guid>
+      <description>RuView 将普通 WiFi 路由器的无线电信号转化为空间感知能力，通过 ESP32 传感器和脉冲神经网络实现穿墙人体检测、呼吸心率监测、跌倒识别等，支持 Home Assistant、Apple Home 等智能家居生态，全部在边缘侧运行，无需云端和摄像头。</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：为 AI 编码助手注入生产级工程规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</guid>
+      <description>Addy Osmani 开源的 Agent Skills 项目为 AI 编码助手提供了 23 个生产级工程技能，涵盖从需求定义、任务规划、代码实现、测试验证到代码审查、部署上线的完整开发流程，帮助 AI 代理生成符合 Google 工程标准的生产质量代码。</description>
+    </item>
+    
+    <item>
+      <title>Maigret：通过用户名一键收集数字身份档案的 OSINT 利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/maigret/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/maigret/</guid>
+      <description>Maigret 是一款开源的 OSINT 工具，仅凭用户名即可在 3000&#43; 网站上搜索关联账号，集信息提取、报告生成、AI 分析于一体，是数字身份调查的瑞士军刀。</description>
+    </item>
+    
+    <item>
+      <title>Career-Ops：AI 驱动的职业搜索系统，帮你筛选匹配度最高的职位</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/career-ops-ai-job-search/</guid>
+      <description>Career-Ops 是一个开源的 AI 驱动职业搜索工具，能够自动评估职位匹配度、生成定制化简历、扫描招聘门户，帮你从数百个职位中精准找到最值得申请的那一个。</description>
+    </item>
+    
+    <item>
+      <title>Claude How To：周末掌握 Claude Code 完整指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</guid>
+      <description>一份结构化的 Claude Code 教程，通过可视化教程、可复制模板和引导式学习路径，教你从基础命令到代理编排、钩子、技能和 MCP 服务器的完整用法。</description>
+    </item>
+    
+    <item>
+      <title>OpenMed：本地优先的医疗AI，患者数据永不离开设备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/openmed/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/openmed/</guid>
+      <description>OpenMed 是一个本地优先的开源医疗AI框架，提供1000&#43;专业医学模型，支持实体提取、PII去标识化，全量运行在本地设备上，从Python一行代码到iPhone原生应用均可调用。</description>
+    </item>
+    
+    <item>
+      <title>PM Skills Marketplace：为 AI 助手打造的产品经理技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</guid>
+      <description>PM Skills Marketplace 是一套面向产品经理的 AI 技能包，包含 68 个 PM 技能和 42 个链式工作流，覆盖发现、策略、执行、发布、增长等 9 大插件，兼容 Claude Code、Cowork、Codex CLI 等主流 AI 编程助手。</description>
+    </item>
+    
+    <item>
+      <title>Supervision — Roboflow 开源计算机视觉工具箱，让你的 CV 项目如虎添翼</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/supervision/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/supervision/</guid>
+      <description>Supervision 是 Roboflow 推出的 Python 计算机视觉工具库，提供数据加载、标注可视化、目标检测、多目标跟踪、区域计数等核心能力，支持 Ultralytics、Transformers、MMDetection 等主流模型的无缝接入，是构建 CV 应用的必备工具包。</description>
+    </item>
+    
+    <item>
+      <title>whichllm：智能推荐适合你硬件的本地 LLM 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/whichllm/</guid>
+      <description>whichllm 是一款智能命令行工具，能够自动检测你的 GPU/CPU/RAM 配置，从 HuggingFace 上筛选出最适合你硬件的大语言模型，并提供性能预估、硬件规划、一键运行等强大功能。</description>
+    </item>
+    
+    <item>
+      <title>ChinaTextbook：开源中国义务教育教材合集，让知识不再被垄断</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</guid>
+      <description>TapXWorld/ChinaTextbook 项目将中国从小学到大学的教育教材集中开源，涵盖人教版数学、物理、化学等全科目PDF，旨在消除教育资源壁垒，帮助海外华人子女延续国内教育。</description>
+    </item>
+    
+    <item>
+      <title>GhostTrack：开源 OSINT 信息收集工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</guid>
+      <description>GhostTrack 是一款基于 Python 的开源 OSINT 工具，集成了 IP 地址追踪、手机号码查询和社交媒体用户名搜索三大功能，适合安全研究人员进行合法的信息收集工作。</description>
+    </item>
+    
+    <item>
+      <title>Google Skills：为 AI Agent 打造的技能库，覆盖全栈 Google Cloud 技术栈</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/skills/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/skills/</guid>
+      <description>Google 官方开源的 Agent Skills 仓库，提供了一系列针对 Google 产品和技术的标准化技能包，包括 Gemini API、BigQuery、Cloud Run、GKE 等核心云服务的深度集成能力，帮助开发者快速为 AI Agent 赋予 Google Cloud 生态系统能力。</description>
+    </item>
+    
+    <item>
+      <title>Goose：Linux 基金会旗下的开源原生 AI 代理</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/goose/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/goose/</guid>
+      <description>深入了解 Goose——一个由 Linux 基金会 Agentic AI Foundation 托管的开源原生 AI 代理。它提供桌面应用、CLI 和 API 三种形态，支持 15&#43; 大语言模型提供商和 70&#43; MCP 扩展，采用 Rust 构建，兼具性能与可移植性。</description>
+    </item>
+    
+    <item>
+      <title>llama.cpp：纯 C/C&#43;&#43; 实现的高性能 LLM 推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</guid>
+      <description>llama.cpp 是一个用纯 C/C&#43;&#43; 实现的开源项目，支持在各类硬件上进行大语言模型推理，无需依赖、支持量化、兼容数十种模型架构，是本地 LLM 部署的首选方案。</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Codex 插件生态：AI 编程助手的扩展革命</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/plugins/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/plugins/</guid>
+      <description>OpenAI 官方插件仓库 openai/plugins 为 Codex AI 编程助手提供了丰富的插件示例，涵盖 Figma、Notion、iOS/macOS/Web 应用构建、Expo、Netlify 等场景，展示了如何通过标准化 manifest 和技能扩展打造定制化开发工作流。</description>
+    </item>
+    
+    <item>
+      <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</guid>
+      <description>微软开源的 pg_durable 扩展将持久化执行模式带入 PostgreSQL，用 SQL DSL 定义工作流步骤，自动检查点恢复，无需外部编排服务。</description>
+    </item>
+    
+    <item>
+      <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</guid>
+      <description>turbovec 是一款基于 Google Research TurboQuant 算法的 Rust 向量搜索引擎，支持 Python 绑定。它可以将 10M 文档的向量数据从 31GB 压缩到 4GB，搜索速度超过 FAISS，无需训练阶段，支持在线 ingestion 和搜索时过滤，适合构建隐私敏感、低延迟的 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>AiToEarn：一人公司的AI内容营销自动化利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/aitoearn/</guid>
+      <description>AiToEarn 是一个面向 OPC（一人公司）的 AI 内容营销智能体平台，支持一键分发到抖音、小红书、TikTok、YouTube 等 10&#43; 主流平台，帮助创作者实现内容变现全流程自动化。</description>
+    </item>
+    
+    <item>
+      <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/opencv/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/opencv/</guid>
+      <description>深入解析 OpenCV 这一业界标准的开源计算机视觉库，从架构设计、核心功能到实战应用，帮助开发者快速掌握这一强大的视觉处理工具。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Reach：让 AI Agent 一键装上互联网能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</guid>
+      <description>Agent-Reach 是一个开源的 AI Agent 脚手架工具，通过一条命令即可为 Claude Code、OpenClaw、Cursor 等 Agent 安装 Twitter、Reddit、YouTube、B站、小红书等 10&#43; 平台的访问能力，所有工具均免费开源，无需付费 API Key。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Copilot SDK：为你的应用嵌入生产级 AI Agent 工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</guid>
+      <description>GitHub Copilot SDK 开源项目深度解析：如何将 Copilot 的生产级 Agent 运行时嵌入到你的应用程序中，支持 Python、TypeScript、Go、.NET、Java、Rust 六大语言SDK，无需自建编排系统。</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
+    </item>
+    
+    <item>
+      <title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18&#43; AI 提供商</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</guid>
+      <description>Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18&#43; AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaw Windows Hub: 你的 Windows 系统托盘 AI 助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/openclaw-windows-node/</guid>
+      <description>一款专为 OpenClaw 打造的 Windows 系统托盘应用，支持 Quick Send、WebChat、节点控制等丰富功能，让 AI 助手时刻伴随你的桌面。</description>
+    </item>
+    
+    <item>
+      <title>Coding Interview University：从零开始的软件工程师面试通关指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/</guid>
+      <description>GitHub 热门项目深度解析：jwasham/coding-interview-university，一份完整的多月学习计划，覆盖数据结构、算法、系统设计等面试核心知识点，助你拿下大厂 Offer。</description>
+    </item>
+    
+    <item>
+      <title>Odoo：开源企业资源规划（ERP）平台的架构解析与实践指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/odoo/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/odoo/</guid>
+      <description>深入解析 Odoo 开源 ERP 平台的架构设计、技术栈选型、核心模块实现原理，以及从源码角度理解其模块化设计和数据库模型，为企业数字化转型提供技术参考。</description>
+    </item>
+    
+    <item>
+      <title>PaddleOCR：领先的开源OCR与文档AI工具包深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</guid>
+      <description>深入解析PaddleOCR的最新进展，包括PaddleOCR-VL-1.6视觉语言模型、PP-StructureV3文档结构化和PP-OCRv5多语言识别，探讨其技术架构、应用场景及在RAG系统中的实践价值。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

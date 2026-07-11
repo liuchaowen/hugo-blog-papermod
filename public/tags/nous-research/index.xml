@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nous Research on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/nous-research/</link>
+    <description>Recent content in Nous Research on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nous-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hermes Agent：具备自我进化能力的开源 AI Agent 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</guid>
+      <description>深入解析 Nous Research 开发的 Hermes Agent，这是首个内置学习循环的 AI Agent 框架，支持技能自动创建、跨会话记忆、多平台部署，可运行在 5 美元 VPS 到 GPU 集群的任意环境。</description>
+    </item>
+    
+  </channel>
+</rss>

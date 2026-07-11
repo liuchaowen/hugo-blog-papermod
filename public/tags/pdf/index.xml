@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PDF on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/pdf/</link>
+    <description>Recent content in PDF on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
+    </item>
+    
+    <item>
+      <title>ChinaTextbook：开源中国义务教育教材合集，让知识不再被垄断</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/chinatextbook/</guid>
+      <description>TapXWorld/ChinaTextbook 项目将中国从小学到大学的教育教材集中开源，涵盖人教版数学、物理、化学等全科目PDF，旨在消除教育资源壁垒，帮助海外华人子女延续国内教育。</description>
+    </item>
+    
+  </channel>
+</rss>

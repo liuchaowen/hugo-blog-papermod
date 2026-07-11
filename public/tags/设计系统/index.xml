@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome DESIGN.md：收集 73 个主流网站设计系统的 AI 友好文档库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/awesome-design-md/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/awesome-design-md/</guid>
+      <description>Awesome DESIGN.md 是 VoltAgent 团队维护的精选项目，收录了 73 个主流网站（涵盖 AI 平台、开发者工具、金融科技、汽车等）的 DESIGN.md 设计系统文档，让 AI 编码助手能生成与目标网站视觉一致的高质量 UI。</description>
+    </item>
+    
+    <item>
+      <title>Astryx：Meta 开源的全面可定制设计系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/astryx/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/astryx/</guid>
+      <description>Astryx 是 Meta 开源的企业级设计系统，基于 React 和 StyleX 构建，提供 150&#43; 可访问组件、品牌级主题系统和开箱即用模板，同时支持人类开发者和 AI 助手协同使用。</description>
+    </item>
+    
+    <item>
+      <title>DESIGN.md：让 AI 编码助手理解你的设计系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/design-md/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/design-md/</guid>
+      <description>Google Labs 推出的 DESIGN.md 是一种用于向 AI 编码代理描述视觉识别的格式规范，通过机器可读的设计 Token 和人工可读的设计原理，让 AI 生成符合设计系统的 UI 代码。</description>
+    </item>
+    
     <item>
       <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>

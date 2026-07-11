@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>浏览器自动化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 浏览器自动化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</guid>
+      <description>深入解析 Google Puppeteer 项目——一个通过 DevTools Protocol 和 WebDriver BiDi 控制 Chrome/Firefox 的 Node.js 库，涵盖架构设计、核心技术栈、安装使用、实战案例及常见问题解决方案。</description>
+    </item>
+    
+  </channel>
+</rss>

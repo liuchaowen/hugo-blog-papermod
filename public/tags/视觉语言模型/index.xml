@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>视觉语言模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 视觉语言模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/olmocr/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/olmocr/</guid>
+      <description>olmOCR 是由 Allen Institute for Artificial Intelligence (AI2) 开发的开源 OCR 工具包，使用 7B 参数的视觉语言模型将 PDF、PNG、JPEG 等文档转换为干净的 Markdown 格式，支持公式、表格、手写识别，自动去除页眉页脚，处理多列布局和复杂格式。</description>
+    </item>
+    
+    <item>
+      <title>PaddleOCR：领先的开源OCR与文档AI工具包深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</guid>
+      <description>深入解析PaddleOCR的最新进展，包括PaddleOCR-VL-1.6视觉语言模型、PP-StructureV3文档结构化和PP-OCRv5多语言识别，探讨其技术架构、应用场景及在RAG系统中的实践价值。</description>
+    </item>
+    
+  </channel>
+</rss>

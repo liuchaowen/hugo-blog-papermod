@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/git/</link>
+    <description>Recent content in Git on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</guid>
+      <description>no-mistakes 是一个 Git 本地代理工具，在推送到远程之前运行 AI 驱动的自动化审核流水线，自动修复安全问题、格式化代码、生成规范 PR，解决了 AI 编程助手容易「污染」代码库的痛点。</description>
+    </item>
+    
+  </channel>
+</rss>

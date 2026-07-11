@@ -11,7 +11,178 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</guid>
+      <description>Desktop Commander MCP 是一款基于 Model Context Protocol 的开源工具，让 Claude、ChatGPT 等 AI 助手直接在你的电脑上执行终端命令、管理文件、读写 Excel/PDF/DOCX，实现真正原生的系统级 AI 协作。</description>
+    </item>
+    
+    <item>
+      <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/openscience/</guid>
+      <description>OpenScience 是开源的科研 AI 工作台，在浏览器中跑完整个科研闭环：读文献、提假设、写并运行代码、调取 30&#43; 科研数据库、最终自动产出论文，兼容任意前沿/开源大模型。</description>
+    </item>
+    
+    <item>
+      <title>OfficeCLI：AI Agent 专用的 Office 套件命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/officecli/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/officecli/</guid>
+      <description>OfficeCLI 是全球首个专为 AI Agent 设计的 Office 套件命令行工具，支持一行代码创建、读取、修改 Word、Excel、PowerPoint 文档，无需安装 Office，零依赖，跨平台运行。</description>
+    </item>
+    
+    <item>
+      <title>Claude Video: 让 AI 真正「看懂」视频的开源神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</guid>
+      <description>Claude Video 是一个让 Claude 能够观看和分析任何视频的 Claude Code 插件，支持 YouTube、Loom、TikTok 等平台，通过字幕提取 &#43; 关键帧截取 &#43; Whisper 转录三重能力，让 AI 真正理解视频内容而非仅凭标题猜测。</description>
+    </item>
+    
+    <item>
+      <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/gastown/</guid>
+      <description>Gas Town 是一款基于 Git 工作树持久化机制的多智能体 AI 协作工具，支持 Claude Code、GitHub Copilot、Codex 等多种 AI 编程助手在同一项目中协同工作，通过 Mayor（调度者）、Convoy（任务队列）和 Beads（工作追踪）等核心概念解决 AI Agent 上下文丢失和协调混乱的问题。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</guid>
+      <description>GitHub Trending 热门项目 awesome-claude-code 是一个精心策划的 Claude Code 生态资源清单，涵盖官方文档、技能系统、插件生态、多智能体编排、安全工具、设计引擎等 17 个分类，帮助开发者快速构建高效的 AI 辅助编程工作流。</description>
+    </item>
+    
+    <item>
+      <title>Meetily：隐私优先的开源 AI 会议助手，本地转录与总结</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/meetily/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/meetily/</guid>
+      <description>Meetily 是一款隐私优先的开源 AI 会议助手，所有转录和总结均在本地完成，支持多平台，适用于对数据主权有严格要求的企业和专业人士。</description>
+    </item>
+    
+    <item>
+      <title>Chrome DevTools MCP：让 AI 编码助手直接操控 Chrome 浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/chrome-devtools-mcp/</guid>
+      <description>ChromeDevTools 推出的 chrome-devtools-mcp 是一个 MCP Server，允许 AI 编码助手（如 Claude、Cursor、Copilot）通过 Model Context Protocol 直接控制 Chrome 浏览器，实现可靠的浏览器自动化、深度调试和性能分析。</description>
+    </item>
+    
+    <item>
+      <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/caveman/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/caveman/</guid>
+      <description>Caveman 是一个 Claude Code 技能/插件，支持 30&#43; AI 编程助手，通过精简输出语言减少约 75% 的输出 Token，同时保持完整的技术准确性。本文深度解析其工作原理、安装方式、实际收益和技术实现。</description>
+    </item>
+    
+    <item>
+      <title>Council of High Intelligence：让 18 位 AI 智者为你的重要决策提供多元视角</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/council-of-high-intelligence/</guid>
+      <description>一个基于多 LLM 提供者的 AI 智囊团工具，通过 18 个不同思维模式的 AI Agent 对你的关键决策进行结构化辩论和综合分析，支持 Claude、OpenAI、Gemini、Ollama 等多平台自动路由。</description>
+    </item>
+    
+    <item>
+      <title>MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mineru/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mineru/</guid>
+      <description>MinerU 是 OpenDataLab 开源的高精度文档解析引擎，支持 PDF、DOCX、PPTX、XLSX 和图片等多种格式，一键转换为结构化 Markdown/JSON。VLM&#43;OCR 双引擎架构，支持 109 种语言 OCR，专为 LLM/RAG/Agent 工作流设计。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
+      <description>探索 GitHub Trending #1 项目 claude-code-best-practice，系统学习 Claude Code 的 Subagents、Commands、Skills、Workflows 等核心功能的最佳实践，助力从传统编码向智能化工程转型。</description>
+    </item>
+    
+    <item>
+      <title>Voicebox：开源 AI 语音工作室，本地运行的全栈语音 I/O 方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/voicebox/</guid>
+      <description>Voicebox 是一款本地优先的开源 AI 语音工作室，集语音克隆、TTS 生成、全局语音输入和 Agent 语音输出于一体，支持 7 种 TTS 引擎、23 种语言，是 ElevenLabs 和 WisprFlow 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</guid>
+      <description>深入解析 Palmier Pro 这款专为 AI 工作流设计的开源视频编辑器，探讨其 Swift 原生架构、内置生成式 AI 能力以及通过 MCP 协议与 Claude Code/Cursor 等 Agent 深度集成的技术实现。Y Combinator S24 孵化项目。</description>
+    </item>
+    
+    <item>
+      <title>PM Skills Marketplace：为 AI 助手打造的产品经理技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-09/pm-skills/</guid>
+      <description>PM Skills Marketplace 是一套面向产品经理的 AI 技能包，包含 68 个 PM 技能和 42 个链式工作流，覆盖发现、策略、执行、发布、增长等 9 大插件，兼容 Claude Code、Cowork、Codex CLI 等主流 AI 编程助手。</description>
+    </item>
+    
+    <item>
+      <title>MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</guid>
+      <description>MemPalace 是一款本地优先的 AI 记忆工具，通过语义搜索存储对话历史原文，支持可插拔后端（ChromaDB/Qdrant/pgvector），在 LongMemEval 基准上达到 96.6% R@5 检索准确率且无任何 API 调用。</description>
+    </item>
+    
+    <item>
+      <title>last30days-skill：基于真实用户互动的多源AI研究引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</guid>
+      <description>一个能够并行搜索 Reddit、X、YouTube、TikTok、Polymarket 等多个平台的 AI Agent 技能，通过用户点赞、评论、资金投注等真实互动数据对信息评分，生成基于&amp;#34;人民搜索&amp;#34;而非&amp;#34;编辑搜索&amp;#34;的深度研究报告。</description>
+    </item>
+    
+    <item>
+      <title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18&#43; AI 提供商</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</guid>
+      <description>Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18&#43; AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。</description>
+    </item>
+    
+    <item>
+      <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</guid>
+      <description>OpenDataLoader PDF 是一个在 PDF 解析基准测试中综合准确率排名第一（0.907）的开源工具，支持将 PDF 转换为 Markdown、JSON、HTML 等格式，同时首创开源端到端的 PDF 自动标注与无障碍文档生成能力。</description>
+    </item>
+    
     <item>
       <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>

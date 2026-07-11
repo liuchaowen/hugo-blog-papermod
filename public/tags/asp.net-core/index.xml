@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ASP.NET Core on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/asp.net-core/</link>
+    <description>Recent content in ASP.NET Core on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/asp.net-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</guid>
+      <description>深入解析 ASP.NET Core 的架构设计、模块化组件、跨平台能力及其在现代云原生应用中的应用，从源码角度理解这套微软开源 Web 框架的核心设计理念。</description>
+    </item>
+    
+  </channel>
+</rss>

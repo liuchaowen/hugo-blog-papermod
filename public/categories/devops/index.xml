@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/devops/</link>
+    <description>Recent content in DevOps on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argo CD：Kubernetes 云原生的 GitOps 持续交付利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</guid>
+      <description>Argo CD 是 CNCF 毕业项目，专注于 Kubernetes 的声明式 GitOps 持续交付自动化工具，支持多集群管理、渐进式发布与丰富的应用可视化界面。</description>
+    </item>
+    
+    <item>
+      <title>Ansible：颠覆传统的 IT 自动化利器，彻底解放运维生产力</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/ansible/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/ansible/</guid>
+      <description>深入解析 Ansible 这款 radically simple 的 IT 自动化工具，探讨其无代理架构、基于 SSH 的自动化原理、核心模块设计，以及如何通过简单 YAML Playbook 实现复杂的零停机滚动更新。</description>
+    </item>
+    
+  </channel>
+</rss>

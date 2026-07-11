@@ -11,7 +11,106 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
+      <description>一个为AI编程助手设计的持久化文件规划技能，通过三文件模式解决上下文丢失、目标漂移等问题，让Agent在/clear或崩溃后自动恢复任务进度。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</guid>
+      <description>GitHub Trending 热门项目 awesome-claude-code 是一个精心策划的 Claude Code 生态资源清单，涵盖官方文档、技能系统、插件生态、多智能体编排、安全工具、设计引擎等 17 个分类，帮助开发者快速构建高效的 AI 辅助编程工作流。</description>
+    </item>
+    
+    <item>
+      <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/caveman/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/caveman/</guid>
+      <description>Caveman 是一个 Claude Code 技能/插件，支持 30&#43; AI 编程助手，通过精简输出语言减少约 75% 的输出 Token，同时保持完整的技术准确性。本文深度解析其工作原理、安装方式、实际收益和技术实现。</description>
+    </item>
+    
+    <item>
+      <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</guid>
+      <description>一份非官方的开源 Codex 使用手册，系统讲解 OpenAI Codex 的四大入口、安装配置、核心功能与实战案例，帮助开发者从零上手 AI 编程 Agent。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
+      <description>探索 GitHub Trending #1 项目 claude-code-best-practice，系统学习 Claude Code 的 Subagents、Commands、Skills、Workflows 等核心功能的最佳实践，助力从传统编码向智能化工程转型。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
+    </item>
+    
+    <item>
+      <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/jcode/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/jcode/</guid>
+      <description>jcode 是一款用 Rust 构建的新一代编码代理工具（Coding Agent Harness），主打极致性能、多会话协作、智能记忆系统和 Swarm 多智能体协同，RAM 占用仅为同类工具的 1/6，启动速度最快可达 14ms。</description>
+    </item>
+    
+    <item>
+      <title>Kilo Code：开源 AI 编程代理，支持 500&#43; 模型自由切换</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</guid>
+      <description>Kilo Code 是一个开源 AI 编程代理，支持 VS Code、JetBrains 和 CLI 三大平台，可从 500&#43; 模型中自由切换，按模型提供商原价计费，无加价。</description>
+    </item>
+    
+    <item>
+      <title>Continue：开源编程代理的终章与遗产</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/continue/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/continue/</guid>
+      <description>Continue 是一款开源编程代理，提供 CLI、VS Code 扩展和 JetBrains 插件三种形态，在 AI 开发者工具领域开创先河，最终以 2.0.0 版本画上句号，移除了匿名遥测和认证模块，留下干净的代码遗产。</description>
+    </item>
+    
+    <item>
+      <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
+    </item>
+    
+    <item>
+      <title>OpenAI Codex 插件生态：AI 编程助手的扩展革命</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/plugins/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/plugins/</guid>
+      <description>OpenAI 官方插件仓库 openai/plugins 为 Codex AI 编程助手提供了丰富的插件示例，涵盖 Figma、Notion、iOS/macOS/Web 应用构建、Expo、Netlify 等场景，展示了如何通过标准化 manifest 和技能扩展打造定制化开发工作流。</description>
+    </item>
+    
     <item>
       <title>Karpathy 式 Claude Code 编程指南：四大原则提升 AI 编码质量</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/andrej-karpathy-skills/</link>

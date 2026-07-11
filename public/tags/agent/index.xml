@@ -11,7 +11,115 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TencentDB Agent Memory：让AI Agent记住该记住的，减少Token消耗提升任务成功率</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/tencentdb-agent-memory/</guid>
+      <description>TencentDB Agent Memory 是腾讯开源的四层记忆系统，通过符号化短期记忆和分层长期记忆，在 OpenClaw 上实现最高 61.38% 的 Token 节省和 51.52% 的任务成功率提升，让 Agent 真正学会用户偏好和工作流程。</description>
+    </item>
+    
+    <item>
+      <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
+      <description>一个为AI编程助手设计的持久化文件规划技能，通过三文件模式解决上下文丢失、目标漂移等问题，让Agent在/clear或崩溃后自动恢复任务进度。</description>
+    </item>
+    
+    <item>
+      <title>.NET Agent Skills：微软官方出品的 AI 编程代理技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/skills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/skills/</guid>
+      <description>微软 .NET 团队推出的 Agent Skills 技能库，为 Copilot CLI、Claude Code、Cursor 等 AI 编程工具提供了一套完整的 .NET 开发技能集合，涵盖从基础开发到高级场景的全面支持。</description>
+    </item>
+    
+    <item>
+      <title>Google agents-cli：让编程助手成为 Google Cloud Agent 专家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/agents-cli/</guid>
+      <description>google/agents-cli 为编程助手提供构建、部署和评估 ADK agent 的技能和命令，支持 Antigravity CLI、Claude Code、Codex 等主流编程助手，实现企业级 Agent 的全生命周期管理。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
+      <description>探索 GitHub Trending #1 项目 claude-code-best-practice，系统学习 Claude Code 的 Subagents、Commands、Skills、Workflows 等核心功能的最佳实践，助力从传统编码向智能化工程转型。</description>
+    </item>
+    
+    <item>
+      <title>Cognee：开源 AI Agent 长期记忆平台实战解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/cognee/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/cognee/</guid>
+      <description>Cognee 通过统一摄取、向量&#43;图混合检索与认知科学本体论，为 AI Agent 提供跨会话的持久记忆。本文覆盖架构原理、快速上手、实战示例与部署方案。</description>
+    </item>
+    
+    <item>
+      <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
+    </item>
+    
+    <item>
+      <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</guid>
+      <description>深度解析 OpenMontage，一个开源的 agentic 视频制作系统，支持从参考视频或纯文本提示到完整视频的生产流程，涵盖 12 条流水线、52 个工具与 400&#43; 智能体技能。</description>
+    </item>
+    
+    <item>
+      <title>Flue：下一代自主Agent开发框架，让AI真正拥有自主能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/flue/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/flue/</guid>
+      <description>Flue是Astro团队推出的Agent Harness框架，提供完整的TypeScript工具链，让开发者能够构建真正自主的AI Agent，支持会话管理、工具调用、沙箱执行和持久化等核心能力</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：为 AI 编码助手注入生产级工程规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-10/agent-skills/</guid>
+      <description>Addy Osmani 开源的 Agent Skills 项目为 AI 编码助手提供了 23 个生产级工程技能，涵盖从需求定义、任务规划、代码实现、测试验证到代码审查、部署上线的完整开发流程，帮助 AI 代理生成符合 Google 工程标准的生产质量代码。</description>
+    </item>
+    
+    <item>
+      <title>Google Skills：为 AI Agent 打造的技能库，覆盖全栈 Google Cloud 技术栈</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/skills/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/skills/</guid>
+      <description>Google 官方开源的 Agent Skills 仓库，提供了一系列针对 Google 产品和技术的标准化技能包，包括 Gemini API、BigQuery、Cloud Run、GKE 等核心云服务的深度集成能力，帮助开发者快速为 AI Agent 赋予 Google Cloud 生态系统能力。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Reach：让 AI Agent 一键装上互联网能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/agent-reach/</guid>
+      <description>Agent-Reach 是一个开源的 AI Agent 脚手架工具，通过一条命令即可为 Claude Code、OpenClaw、Cursor 等 Agent 安装 Twitter、Reddit、YouTube、B站、小红书等 10&#43; 平台的访问能力，所有工具均免费开源，无需付费 API Key。</description>
+    </item>
+    
     <item>
       <title>Anthropic Skills：用文件夹教 Claude 专业技能的开源框架</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/skills/</link>

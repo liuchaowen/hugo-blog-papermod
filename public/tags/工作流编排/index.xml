@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工作流编排 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E6%8E%92/</link>
+    <description>Recent content in 工作流编排 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E6%8E%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</guid>
+      <description>微软开源的 pg_durable 扩展将持久化执行模式带入 PostgreSQL，用 SQL DSL 定义工作流步骤，自动检查点恢复，无需外部编排服务。</description>
+    </item>
+    
+  </channel>
+</rss>

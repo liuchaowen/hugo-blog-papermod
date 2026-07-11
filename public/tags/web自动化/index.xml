@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web自动化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in Web自动化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Agent — 运行在网页里的 GUI Agent，用自然语言控制 Web 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/page-agent/</guid>
+      <description>阿里巴巴开源的 Page Agent 是一个纯客户端运行的 GUI Agent，无需浏览器扩展或服务端自动化，直接用 JavaScript 注入即可让自然语言操控网页 UI，适合 SaaS AI Copilot、智能表单填充等场景。</description>
+    </item>
+    
+  </channel>
+</rss>

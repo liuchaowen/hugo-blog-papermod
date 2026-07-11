@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Swift on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/swift/</link>
+    <description>Recent content in Swift on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palmier Pro：为 AI 而生的开源视频编辑器，支持 MCP 协议与 Agent 协作</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/palmier-pro/</guid>
+      <description>深入解析 Palmier Pro 这款专为 AI 工作流设计的开源视频编辑器，探讨其 Swift 原生架构、内置生成式 AI 能力以及通过 MCP 协议与 Claude Code/Cursor 等 Agent 深度集成的技术实现。Y Combinator S24 孵化项目。</description>
+    </item>
+    
+    <item>
+      <title>Apple container：Swift 写的 Linux 容器工具，把容器当轻量虚拟机跑在 Mac 上</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/container/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/container/</guid>
+      <description>Apple container 是 Apple 开源的 Swift 工具，可在 Apple Silicon Mac 上将 Linux 容器作为轻量级虚拟机运行，完全兼容 OCI 标准镜像，支持从任意容器仓库拉取和推送镜像，是 macOS 平台上容器开发体验的一次全新升级。</description>
+    </item>
+    
+  </channel>
+</rss>

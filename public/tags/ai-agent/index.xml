@@ -11,7 +11,160 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
+    </item>
+    
+    <item>
+      <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/openscience/</guid>
+      <description>OpenScience 是开源的科研 AI 工作台，在浏览器中跑完整个科研闭环：读文献、提假设、写并运行代码、调取 30&#43; 科研数据库、最终自动产出论文，兼容任意前沿/开源大模型。</description>
+    </item>
+    
+    <item>
+      <title>MarketingSkills：为 AI Agent 打造的营销技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</guid>
+      <description>MarketingSkills 是一个面向 AI 编程代理的营销技能集合，涵盖 SEO、CRO、内容营销、付费广告、增长工程等领域，支持 Claude Code、Cursor、Windsurf 等主流 AI Agent，让 AI 助手具备专业的营销能力。</description>
+    </item>
+    
+    <item>
+      <title>Agent Skills：给 AI Agent 装上可插拔的技能卡</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</guid>
+      <description>Agent Skills 是一个轻量级的开放标准，通过 SKILL.md 文件为 AI Agent 打包专业知识和工作流程，使其获得领域专长、复用跨产品技能。让 Agent 从通用走向专业化，像搭积木一样扩展能力边界。</description>
+    </item>
+    
+    <item>
+      <title>CubeSandbox：为 AI Agent 打造的高性能安全沙箱，60ms 启动、硬件级隔离</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/cubesandbox/</guid>
+      <description>腾讯云开源的 CubeSandbox 是一款基于 RustVMM 和 KVM 的高性能安全沙箱服务，专为 AI Agent 设计。启动时间低于 60ms，内存开销小于 5MB，支持 E2B SDK 无缝迁移，提供硬件级隔离的安全执行环境。</description>
+    </item>
+    
+    <item>
+      <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</guid>
+      <description>基于5本著作、15&#43;篇深度采访、30&#43;条语录蒸馏出张雪峰的5个核心心智模型和8条决策启发式，封装为 Agent Skill，可在 Claude Code、Cursor、OpenClaw 等50&#43; runtime 中运行。不是复读语录，是用张雪峰的认知框架分析你的问题。</description>
+    </item>
+    
+    <item>
+      <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
+    </item>
+    
+    <item>
+      <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</guid>
+      <description>HyperFrames 是 HeyGen 开源的一款 HTML-to-Video 框架，支持将 HTML、CSS、动画转换为确定性 MP4 视频。本文深入解析其技术架构、与 Remotion 的对比，以及在 AI Agent 视频生产中的应用。</description>
+    </item>
+    
+    <item>
+      <title>Agent-Native：让 AI Agent 与 UI 真正融合的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/agent-native/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/agent-native/</guid>
+      <description>BuilderIO 开源的 Agent-Native 框架，打破 AI Agent 与用户界面的割裂状态，让两者成为同一系统的平等公民。支持 Action 一次定义多端复用、实时多人协作、Per-user 工作区，并可部署为 Headless API、Rich Chat 或完整应用三种形态。</description>
+    </item>
+    
+    <item>
+      <title>Skills For Real Engineers：Matt Pocock 的 AI 编程技能体系</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/skills/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/skills/</guid>
+      <description>深入解析 Matt Pocock 开源的 Skills 项目——一套专为 AI 编程时代设计的可组合 Agent 技能体系，解决 AI 编码中的对齐、冗余、调试与架构退化四大核心问题。</description>
+    </item>
+    
+    <item>
+      <title>Cua：构建、评估与部署计算机使用 Agent 的全栈平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/cua/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/cua/</guid>
+      <description>Cua 是一个开源全栈平台，提供沙箱环境、桌面驱动器、基准测试框架和 macOS 虚拟化，让 AI Agent 能够真正操作计算机——点击、输入、截图、完成任务。</description>
+    </item>
+    
+    <item>
+      <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</guid>
+      <description>SkillSpector 是 NVIDIA 开源的安全扫描工具，专门检测 AI Agent 技能（如 Claude Code、Cursor）中的漏洞、恶意模式和供应链风险，支持 64 种漏洞模式，涵盖提示注入、权限提升等 16 大类别。</description>
+    </item>
+    
+    <item>
+      <title>Agency Agents：打造你的AI专属团队</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-13/agency-agents/</guid>
+      <description>一个开源的AI Agent集合项目，包含100多个专业角色定义，覆盖工程、设计、营销、安全等16个部门，支持Claude Code、Cursor、GitHub Copilot等主流工具集成，让你的AI助手拥有专业人格和交付能力。</description>
+    </item>
+    
+    <item>
+      <title>Hivemind：让所有 AI 编程代理共享一个大脑</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-11/hivemind/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-11/hivemind/</guid>
+      <description>Activeloop 开源的 Hivemind 为 Claude Code、OpenClaw、Codex、Cursor 等 AI 编程代理提供云端共享记忆，自动捕获会话轨迹、提炼可复用技能并在团队间实时传播，在 LoCoMo 基准上实现 25% 成本降低与 1.7 倍 token 节省。</description>
+    </item>
+    
+    <item>
+      <title>GitHub Copilot SDK：为你的应用嵌入生产级 AI Agent 工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/copilot-sdk/</guid>
+      <description>GitHub Copilot SDK 开源项目深度解析：如何将 Copilot 的生产级 Agent 运行时嵌入到你的应用程序中，支持 Python、TypeScript、Go、.NET、Java、Rust 六大语言SDK，无需自建编排系统。</description>
+    </item>
+    
+    <item>
+      <title>last30days-skill：基于真实用户互动的多源AI研究引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</guid>
+      <description>一个能够并行搜索 Reddit、X、YouTube、TikTok、Polymarket 等多个平台的 AI Agent 技能，通过用户点赞、评论、资金投注等真实互动数据对信息评分，生成基于&amp;#34;人民搜索&amp;#34;而非&amp;#34;编辑搜索&amp;#34;的深度研究报告。</description>
+    </item>
+    
+    <item>
+      <title>Hermes Agent：具备自我进化能力的开源 AI Agent 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/hermes-agent/</guid>
+      <description>深入解析 Nous Research 开发的 Hermes Agent，这是首个内置学习循环的 AI Agent 框架，支持技能自动创建、跨会话记忆、多平台部署，可运行在 5 美元 VPS 到 GPU 集群的任意环境。</description>
+    </item>
+    
     <item>
       <title>Headroom：AI Agent 的上下文压缩层，60-95% Token 节省</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/headroom/</link>

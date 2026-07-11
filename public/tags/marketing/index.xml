@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marketing on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/marketing/</link>
+    <description>Recent content in Marketing on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MarketingSkills：为 AI Agent 打造的营销技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/marketingskills/</guid>
+      <description>MarketingSkills 是一个面向 AI 编程代理的营销技能集合，涵盖 SEO、CRO、内容营销、付费广告、增长工程等领域，支持 Claude Code、Cursor、Windsurf 等主流 AI Agent，让 AI 助手具备专业的营销能力。</description>
+    </item>
+    
+  </channel>
+</rss>

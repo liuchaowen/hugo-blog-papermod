@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/next.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/next.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</guid>
+      <description>一个强大的 Next.js 模板项目，配合 Claude Code 等 AI 编程助手，可以逆向工程任意网站，自动提取设计令牌、资源，并重建为现代化的 Next.js 代码库。支持平台迁移、丢失源码恢复、技术学习等多种场景。</description>
+    </item>
+    
     <item>
       <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>

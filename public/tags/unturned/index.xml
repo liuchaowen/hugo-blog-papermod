@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unturned on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/unturned/</link>
+    <description>Recent content in Unturned on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/unturned/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
+      <description>深入探索 SmartlyDressedGames 开源的 U3-SDK，这是一个用于 Unturned 游戏 Mod 开发的完整 Unity SDK，包含源码、工具链和丰富的文档资源。</description>
+    </item>
+    
+  </channel>
+</rss>

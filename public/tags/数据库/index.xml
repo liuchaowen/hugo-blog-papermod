@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prisma：下一代 Node.js 与 TypeScript ORM 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-08/prisma/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-08/prisma/</guid>
+      <description>Prisma 是面向 Node.js 与 TypeScript 的下一代 ORM，包含自动生成、类型安全的 Prisma Client、声明式 Prisma Migrate 与可视化 Prisma Studio。本文从架构、技术原理、快速上手到实战示例，带你深入理解 Prisma 如何重塑数据库访问层。</description>
+    </item>
+    
+    <item>
+      <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-20/turso/</guid>
+      <description>Turso Database 是一个用 Rust 从零重写的 SQLite 兼容数据库，支持 MVCC 并发写入、向量搜索、变更数据捕获等现代特性，并提供 MCP Server 模式让 AI 助手直接操作数据库。</description>
+    </item>
+    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>

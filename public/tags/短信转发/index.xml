@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>短信转发 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%9F%AD%E4%BF%A1%E8%BD%AC%E5%8F%91/</link>
+    <description>Recent content in 短信转发 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%AD%E4%BF%A1%E8%BD%AC%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmsForwarder：Android 短信转发神器，备用机必备</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</link>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-21/smsforwarder/</guid>
+      <description>SmsForwarder 是一款开源 Android 应用，可监控手机短信、来电和 APP 通知，并通过钉钉、企业微信、飞书、邮箱、Telegram 等多种渠道自动转发，还支持远程发短信、查通话、自动化任务等功能，是备用机的必备神器。</description>
+    </item>
+    
+  </channel>
+</rss>

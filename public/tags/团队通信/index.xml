@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>团队通信 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E9%80%9A%E4%BF%A1/</link>
+    <description>Recent content in 团队通信 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E9%80%9A%E4%BF%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket.Chat：开源安全的团队通信解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
+    </item>
+    
+  </channel>
+</rss>

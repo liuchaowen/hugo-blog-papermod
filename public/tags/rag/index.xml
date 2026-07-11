@@ -11,7 +11,70 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch：分布式搜索与向量数据库的工业级实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-04/elasticsearch/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-04/elasticsearch/</guid>
+      <description>深入解析 Elasticsearch 分布式搜索与向量数据库的核心原理，探索其在 RAG、向量搜索、日志分析等场景的实战应用，从源码构建到生产部署的完整指南。</description>
+    </item>
+    
+    <item>
+      <title>MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/mineru/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/mineru/</guid>
+      <description>MinerU 是 OpenDataLab 开源的高精度文档解析引擎，支持 PDF、DOCX、PPTX、XLSX 和图片等多种格式，一键转换为结构化 Markdown/JSON。VLM&#43;OCR 双引擎架构，支持 109 种语言 OCR，专为 LLM/RAG/Agent 工作流设计。</description>
+    </item>
+    
+    <item>
+      <title>Hyper-Extract：智能知识提取与进化框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
+    </item>
+    
+    <item>
+      <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</guid>
+      <description>turbovec 是一款基于 Google Research TurboQuant 算法的 Rust 向量搜索引擎，支持 Python 绑定。它可以将 10M 文档的向量数据从 31GB 压缩到 4GB，搜索速度超过 FAISS，无需训练阶段，支持在线 ingestion 和搜索时过滤，适合构建隐私敏感、低延迟的 RAG 系统。</description>
+    </item>
+    
+    <item>
+      <title>MemPalace：本地优先的 AI 记忆系统，96.6% 检索准确率无需 API 调用</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-07/mempalace/</guid>
+      <description>MemPalace 是一款本地优先的 AI 记忆工具，通过语义搜索存储对话历史原文，支持可插拔后端（ChromaDB/Qdrant/pgvector），在 LongMemEval 基准上达到 96.6% R@5 检索准确率且无任何 API 调用。</description>
+    </item>
+    
+    <item>
+      <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</guid>
+      <description>OpenDataLoader PDF 是一个在 PDF 解析基准测试中综合准确率排名第一（0.907）的开源工具，支持将 PDF 转换为 Markdown、JSON、HTML 等格式，同时首创开源端到端的 PDF 自动标注与无障碍文档生成能力。</description>
+    </item>
+    
+    <item>
+      <title>PaddleOCR：领先的开源OCR与文档AI工具包深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/paddleocr/</guid>
+      <description>深入解析PaddleOCR的最新进展，包括PaddleOCR-VL-1.6视觉语言模型、PP-StructureV3文档结构化和PP-OCRv5多语言识别，探讨其技术架构、应用场景及在RAG系统中的实践价值。</description>
+    </item>
+    
     <item>
       <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
+    </item>
+    
     <item>
       <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
       <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>

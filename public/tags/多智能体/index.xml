@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-06/gastown/</guid>
+      <description>Gas Town 是一款基于 Git 工作树持久化机制的多智能体 AI 协作工具，支持 Claude Code、GitHub Copilot、Codex 等多种 AI 编程助手在同一项目中协同工作，通过 Mayor（调度者）、Convoy（任务队列）和 Beads（工作追踪）等核心概念解决 AI Agent 上下文丢失和协调混乱的问题。</description>
+    </item>
+    
     <item>
       <title>TradingAgents：基于多智能体LLM的金融交易框架</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/tradingagents/</link>

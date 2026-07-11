@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DeepSeek on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/deepseek/</link>
+    <description>Recent content in DeepSeek on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</guid>
+      <description>DeepSpec 是 DeepSeek 开源的全栈代码库，提供投机解码（Speculative Decoding）中 Draft 模型的训练与评估完整工具链，包含数据准备、三种前沿 Draft 模型实现（DSpark / DFlash / Eagle3）以及标准化评测套件。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEO on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/seo/</link>
+    <description>Recent content in SEO on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</guid>
+      <description>OpenSEO 是一款开源 SEO 工具，旨在替代 Semrush 和 Ahrefs 等昂贵且臃肿的商业产品。它采用按量付费模式，支持 MCP 协议与 AI Agent 集成，内置关键词研究、排名追踪、域名分析、反链查询、站点审计等完整 SEO 工作流，并可自部署于 Docker 或 Cloudflare。</description>
+    </item>
+    
+  </channel>
+</rss>

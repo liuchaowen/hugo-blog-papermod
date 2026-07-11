@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开源工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 开源工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-02/dbx/</guid>
+      <description>DBX 是一款用 Rust 编写的轻量级数据库管理工具，仅 15MB 大小，支持 60&#43; 数据库类型，内置 AI SQL 助手、MCP 协议集成，支持桌面端、Docker 自托管和 Web 端使用。</description>
+    </item>
+    
+    <item>
+      <title>VulnClaw：基于 LLM Agent 与 MCP 工具链的 AI 渗透测试 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-30/vulnclaw/</guid>
+      <description>VulnClaw 是一款开源的 AI 驱动渗透测试 CLI 工具，基于 LLM Agent &#43; MCP 工具链 &#43; 渗透 Skill 编排，支持自然语言输入自动完成信息收集、漏洞发现、漏洞利用到报告生成的全流程，内置目标驱动求解引擎、证据级反幻觉闸门和21个渗透 Skill。</description>
+    </item>
+    
+    <item>
+      <title>PPT Master: 用 AI 从任意文档生成原生可编辑的 PPTX</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</guid>
+      <description>PPT Master 是一个开源 AI 演示文稿工具，可以在任何 AI IDE 中运行，将 PDF、DOCX、图片等文档直接转换为真正的 PowerPoint 文件，所有元素均可逐个编辑，彻底告别图片拼接式 PPT。</description>
+    </item>
+    
+    <item>
+      <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
+    </item>
+    
+    <item>
+      <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</guid>
+      <description>Win11Debloat 是一款轻量级 PowerShell 脚本，无需安装即可快速清理 Windows 11 预装应用、关闭遥测、精简任务栏与开始菜单，让系统回归纯净状态。</description>
+    </item>
+    
+    <item>
+      <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-04/trivy/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-04/trivy/</guid>
+      <description>深入解析 Aqua Security 开源的 Trivy 安全扫描器，探讨其如何在容器镜像、文件系统、Kubernetes 集群等多种目标中发现漏洞、配置错误和敏感信息，以及其架构设计与实际应用。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Electron on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/electron/</link>
+    <description>Recent content in Electron on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</guid>
+      <description>Folia 是一款以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云音乐、Navidrome 和本地音乐库，通过智能歌词匹配、AI 生成配色主题以及多种全屏歌词动画，为用户提供独特的听歌体验。本文深入解析其技术架构、核心功能与设计理念。</description>
+    </item>
+    
+    <item>
+      <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-25/orca/</guid>
+      <description>深入解析 Orca——一款革命性的 AI IDE 编排工具，支持并行运行多个 AI 编码助手（Codex、ClaudeCode、OpenCode、Pi 等），每个助手在独立的 Git Worktree 中工作，统一追踪与管理。本文从技术架构、核心特性、安装使用到实战案例，全方位解读这款开发者生产力工具。</description>
+    </item>
+    
+    <item>
+      <title>Insomnia：开源跨平台 API 客户端的技术架构与深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</guid>
+      <description>深入解析 Kong Insomnia 开源 API 客户端的技术架构，探讨其对 GraphQL、REST、gRPC、WebSocket 等多种协议的支持能力，以及本地存储、Git 同步、云协作等多种数据存储方案的设计理念。本文从源码层面分析其技术栈选型与实现细节。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JetBrains on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/jetbrains/</link>
+    <description>Recent content in JetBrains on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/jetbrains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kilo Code：开源 AI 编程代理，支持 500&#43; 模型自由切换</title>
+      <link>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</guid>
+      <description>Kilo Code 是一个开源 AI 编程代理，支持 VS Code、JetBrains 和 CLI 三大平台，可从 500&#43; 模型中自由切换，按模型提供商原价计费，无加价。</description>
+    </item>
+    
+  </channel>
+</rss>
