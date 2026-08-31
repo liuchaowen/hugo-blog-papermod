@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub Copilot on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/github-copilot/</link>
+    <description>Recent content in GitHub Copilot on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-copilot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/paseo/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/paseo/</guid>
+      <description>Paseo 是一个开源的本地 AI 编程 Agent 编排工具，通过统一接口同时管理 Claude Code、Codex、GitHub Copilot、OpenCode、Pi 等多种 Agent，支持跨设备控制与语音交互，隐私优先，无遥测无强制登录。</description>
+    </item>
+    
+  </channel>
+</rss>

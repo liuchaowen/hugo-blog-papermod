@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</guid>
+      <description>majd/ipatool 是一款用 Go 编写的命令行工具，可在终端中搜索 App Store（iOS/iPadOS/tvOS/visionOS）应用并下载其 IPA 安装包。本文从功能定位、技术原理（purego 调用原生框架、plist/Mach-O 解析、FairPlay 加密包下载）到认证、搜索、购买、下载全流程实战进行拆解。</description>
+    </item>
+    
+    <item>
+      <title>tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</guid>
+      <description>tuicr 是一款用 Rust 编写的终端代码审查工具，提供 GitHub 风格连续 diff、Vim 键位、行级评论，并可一键将审查结果推送到 GitHub/GitLab 或导出给 AI 编程助手。</description>
+    </item>
+    
+    <item>
+      <title>Windows Terminal 深度解析：微软如何重塑命令行体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/terminal/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/terminal/</guid>
+      <description>深入剖析微软开源的 Windows Terminal 项目：从 conhost.exe 的历史包袱到全新的 C&#43;&#43; 现代化终端架构，解读其 DirectWrite 渲染引擎、ConPTY 伪控制台、共享组件设计，以及安装、构建与调试的完整实战指南。</description>
+    </item>
+    
     <item>
       <title>OfficeCLI：AI Agent 专用的 Office 套件命令行工具</title>
       <link>https://blog.xlap.top/post/tech/2026-07-08/officecli/</link>

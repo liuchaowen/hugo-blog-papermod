@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LoRA on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/lora/</link>
+    <description>Recent content in LoRA on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/lora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soup：一条命令微调大模型，告别配置地狱</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/soup/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/soup/</guid>
+      <description>Soup 是一个开源 LLM 微调工具，支持在 4GB 显存笔记本 GPU 上微调 8B 模型。通过层流式传输技术，将冻结的基座模型从主机内存逐层送入 GPU，实现低显存高效率训练。支持 SFT、DPO、ORPO、SimPO、KTO 等多种训练任务，无需 SSH、零配置地狱。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</guid>
+      <description>codex-chatgpt-web 是一个本地 Responses 桥接工具，通过嵌入式浏览器让用户在 Codex 的原生界面中直接调用 ChatGPT Web（包括 Pro 订阅）的模型，无需 API Key，真正实现零成本使用高级 AI 能力。</description>
+    </item>
+    
+    <item>
+      <title>yichen-skills：一站式 AI 创作者工具箱，支持微信、X、剪映、飞书等多个平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/yichen-skills/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/yichen-skills/</guid>
+      <description>yichen-skills 是专为 AI 创作者打造的一站式工具集，涵盖微信本地数据解析、X 文章发布、AI 视频字幕剪映对接、飞书操作、企业微信管理、跨平台内容归档等 21 个独立 Skill，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>Codex QQ Skin：将 ChatGPT/Codex 桌面端变成复古 QQ 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</guid>
+      <description>Codex QQ Skin 是一款面向 Codex/ChatGPT 桌面端的主题美化工具，支持 macOS 与 Windows，可一键将 AI 对话界面替换为经典的 QQ 2007 复古风格皮肤，同时内置深度皮肤助手、图片生成、自定义皮肤库与成长统计等丰富功能。</description>
+    </item>
+    
+    <item>
+      <title>Codex&#43;&#43;：不改动 app.asar 的 Codex / ChatGPT 桌面端启动器与增强管家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</guid>
+      <description>Codex&#43;&#43; 是一个基于 Rust &#43; Tauri 的 OpenAI Codex / ChatGPT 桌面端外部启动器，通过 CDP 协议与本地辅助服务实现供应商切换、协议转换与界面增强，不修改官方 app.asar，本文详解其架构、用法与实战。</description>
+    </item>
+    
+    <item>
+      <title>i-have-adhd：让 AI 助手直击重点，告别冗长废话</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/i-have-adhd/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/i-have-adhd/</guid>
+      <description>一个专为 Claude Code 和 Codex 设计的输出风格插件，通过 10 条简单规则让 AI 助手优先输出行动指令而非冗长铺垫，显著提升 ADHD 用户及所有追求效率的开发者体验。</description>
+    </item>
+    
+    <item>
+      <title>fireworks-tech-graph：用自然语言描述生成专业级技术图形的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/fireworks-tech-graph/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/fireworks-tech-graph/</guid>
+      <description>fireworks-tech-graph 是一款面向 AI Agent 的技术图表生成 Skill，支持用自然语言描述直接输出几何安全的 SVG、PNG、GIF 和离线 HTML，涵盖 12 种视觉风格与 14 类 UML 图，是技术文档写作和架构设计的效率利器。</description>
+    </item>
+    
+    <item>
+      <title>AI4Paper：从找文献到写综述，一站式打通的 AI 科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ai4paper/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ai4paper/</guid>
+      <description>AI4Paper 是一款一站式 AI 科研工作台，基于 2.4 亿文献源与引文网络，实现速搜文献、AI 精读、全文翻译、知识库问答与一键综述，观点全程可溯源。本文深度解析其产品设计与技术理念。</description>
+    </item>
+    
+    <item>
+      <title>Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/archify/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/archify/</guid>
+      <description>Archify 是一个面向 Claude、Codex CLI 和 opencode 的 Agent Skill，能把对系统或流程的自然语言描述转换为自包含的 HTML 技术图表，支持架构图、工作流、时序图、数据流与生命周期图，并可一键切换暗色/亮色主题、复制到剪贴板或导出 4× 高清 PNG/JPEG/WebP/SVG。</description>
+    </item>
+    
+    <item>
+      <title>LLM Wiki：让大模型自动为你构建个人知识库的桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</guid>
+      <description>LLM Wiki 是由 nashsu 基于 Karpathy 提出的 LLM Wiki 模式实现的跨平台桌面应用，用 Tauri v2 &#43; React 19 构建。它不再每次查询都从头检索，而是让大模型渐进式地解析你的文档、生成结构化 Wiki、维护知识图谱，并把知识沉淀为持久可复用的个人知识库。</description>
+    </item>
+    
     <item>
       <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</link>

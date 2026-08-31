@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DocuSeal：开源文档填写与电子签名平台，几分钟完成私有化部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/docuseal/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/docuseal/</guid>
+      <description>DocuSeal 是一款基于 Ruby on Rails &#43; Vue 3 的开源电子签名平台，提供 WYSIWYG 表单构建、12 种字段类型、PDF 自动签名与验证，并支持 Docker 一键私有化部署，是 DocuSign 等商业方案的开源替代。</description>
+    </item>
+    
     <item>
       <title>Chatwoot：开源客户支持平台，Intercom/Zendesk 的自主可控替代方案</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/chatwoot/</link>

@@ -11,7 +11,45 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checkstyle：守护 Java 代码规范的自动化审查利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/checkstyle/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/checkstyle/</guid>
+      <description>Checkstyle 是 Java 生态中历史最悠久、覆盖最全面的代码规范检查工具，通过可扩展的模块配置在编译前捕获命名、格式、设计等数百类问题，轻松嵌入 Maven/Gradle 与 CI 流水线，是保障团队代码一致性的基础设施。</description>
+    </item>
+    
+    <item>
+      <title>Embabel Agent Framework：JVM 平台的智能 Agent 开发框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</guid>
+      <description>Embabel Agent Framework 是一个运行在 JVM 上的智能 Agent 开发框架，支持动态规划、目标导向行动规划（GOAP）和多 LLM 混合，由 Spring 创始人打造，让企业级 AI 应用开发更简单、更安全、更可测试。</description>
+    </item>
+    
+    <item>
+      <title>Guava 深度解析：Google 的 Java 核心库为何仍是工程标配</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/guava/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/guava/</guid>
+      <description>深入剖析 Google Guava 核心库：不可变集合、Multimap/Multiset、Cache、ListenableFuture、Graph 与哈希工具的设计原理，附 JRE/Android 双版本选型、Maven/Gradle 接入方式与 @Beta、依赖冲突等常见坑的解决方案。</description>
+    </item>
+    
+    <item>
+      <title>jenkins — Jenkins automation server</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</guid>
+      <description>&amp;lt;ahref=&amp;#34;https://jenkins.io&amp;#34;
+&amp;lt;imgwidth=&amp;#34;400&amp;#34;src=&amp;#34;https://www.jenkins.io/images/jenkins-logo-title-dark.svg&amp;#34;alt=&amp;#34;Jenkinslogo&amp;#34;
+&amp;lt;/a</description>
+    </item>
+    
     <item>
       <title>Apache Maven：Java 项目构建管理的行业标准与架构演进</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/maven/</link>

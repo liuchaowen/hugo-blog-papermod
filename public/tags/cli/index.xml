@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webcmd：让 AI Agent 停止重复探索网站的自学习浏览器基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</guid>
+      <description>Webcmd 是一个专为 AI Agent 设计的自学习浏览器基础设施，能够将网站导航知识编译成确定性 CLI 命令，降低高达 90% 的浏览器 Agent token 消耗。本文深入分析其架构设计、技术原理与实战应用。</description>
+    </item>
+    
+    <item>
+      <title>CLI-Anything：一行命令让任何软件变成 AI Agent 原生工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</guid>
+      <description>HKUDS 出品的 CLI-Anything 用一条命令把任何带代码库的软件自动改造成 Agent 可驱动的命令行工具，通过七阶段流水线生成带 REPL、JSON 输出与完整测试的 Click CLI，并已覆盖 GIMP、Blender、LibreOffice 等 18&#43; 专业软件，2,461 项测试全部通过。</description>
+    </item>
+    
+    <item>
+      <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
+    </item>
+    
+    <item>
+      <title>gh-stack：用一条命令管理 GitHub 堆叠式 PR，把大改动拆成可评审的小 PR</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</guid>
+      <description>gh-stack 是 GitHub 官方推出的 gh CLI 扩展，专用于管理堆叠式（stacked）分支与 Pull Request。本文深入解析其架构设计、核心命令与实战工作流，帮助你把动辄上千行的大型 PR 拆分成彼此依赖、易于评审的小 PR。</description>
+    </item>
+    
+    <item>
+      <title>OpenCodeReview：阿里开源的 AI 代码评审工具，精度更高、Token 消耗仅通用 Agent 的 1/9</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/open-code-review/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/open-code-review/</guid>
+      <description>OpenCodeReview 是阿里巴巴开源的 AI 代码评审 CLI 工具，起源于阿里内部 AI 代码审查助手，已服务数万名开发者、识别数百万代码缺陷。相比通用 Agent，用同样模型即可实现更高精度和 F1，且 Token 消耗仅为通用 Agent 的 1/9。</description>
+    </item>
+    
+    <item>
+      <title>Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</guid>
+      <description>Kimi Code CLI 是 Moonshot AI（月之暗面）推出的终端 AI 编程智能体，单文件分发、毫秒级启动，支持视频输入、AI 原生 MCP 配置、子智能体并行、生命周期钩子与 ACP 编辑器集成，开箱即用 Kimi 模型，也可接入兼容服务商。</description>
+    </item>
+    
+    <item>
+      <title>Kimi CLI：月之暗面推出的终端 AI Agent，把 Shell、IDE 与 MCP 串成一条工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</guid>
+      <description>Kimi CLI 是 Moonshot AI 出品的终端 AI Agent，可读写代码、执行 Shell、抓取网页，并通过 ACP 接入 IDE、通过 MCP 接入工具生态。本文从源码剖析其架构、技术栈与实战用法。</description>
+    </item>
+    
     <item>
       <title>Kilo Code：开源 AI 编程代理，支持 500&#43; 模型自由切换</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/kilocode/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>客户端增强 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A2%9E%E5%BC%BA/</link>
+    <description>Recent content in 客户端增强 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A2%9E%E5%BC%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wand-Enhancer：开源客户端增强工具的技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</guid>
+      <description>Wand-Enhancer 是一款开源的本地客户端增强工具，通过 .NET Patcher 和 Electron ASAR 修改技术，实现布局定制、远程 Web 面板、AI 功能增强等特性，支持自定义脚本注入。本文从技术原理、架构设计、安装部署到实战使用进行全流程解析。</description>
+    </item>
+    
+  </channel>
+</rss>

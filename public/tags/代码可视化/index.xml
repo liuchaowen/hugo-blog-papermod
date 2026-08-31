@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代码可视化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <description>Recent content in 代码可视化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Mindwalk 把 AI 编程过程变成一张「地图」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</guid>
+      <description>Mindwalk 是一款将 AI 编程助手会话记录可视化为 3D 代码地图的开源工具，通过光迹追踪的方式让开发者直观看到 AI 在代码库中的探索路径、编辑热点和思维盲区。</description>
+    </item>
+    
+  </channel>
+</rss>

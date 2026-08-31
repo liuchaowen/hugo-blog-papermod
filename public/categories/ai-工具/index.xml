@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI 工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/ai-%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in AI 工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai-%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no-ai-slop: 一键清除写作中的 20&#43; 种 AI 套话套路</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/no-ai-slop/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/no-ai-slop/</guid>
+      <description>no-ai-slop 是一款开源 AI 写作清洗工具，能够识别并移除 20 余种常见 AI 套话模式（如「It&amp;#39;s not X. It&amp;#39;s Y.」「What nobody tells you」等），在保留个人写作风格的同时让文字更干净、更真实。</description>
+    </item>
+    
+    <item>
+      <title>用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/deepseek-harness-desktop-app/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/deepseek-harness-desktop-app/</guid>
+      <description>DeepSeek Harness Desktop App 是构建在 DeepSeek Harness（DSH）之上的本地 AI 桌面工作台，基于 Electron 与同一套 Session/Agent/Tool/Skill/MCP 运行时，集成项目管理、Git Worktree、Canvas、本地 Site 与 Office 产物，把 AI 对话与研发工作流统一在同一个桌面应用中。</description>
+    </item>
+    
+  </channel>
+</rss>

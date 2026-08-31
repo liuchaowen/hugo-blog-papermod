@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome MCP Servers：一份收录 3000&#43; 服务端的 MCP 生态全景清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</guid>
+      <description>awesome-mcp-servers 是 punkpeye 维护的 MCP 服务器精选清单，收录 3000&#43; 个覆盖数据库、浏览器自动化、云平台的 Model Context Protocol 服务端，并配套 Glama 在线目录，是接入 MCP 生态的首选入口。</description>
+    </item>
+    
+    <item>
+      <title>EmDash：用 Astro &#43; Cloudflare 重写 WordPress 的现代 CMS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/emdash/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/emdash/</guid>
+      <description>EmDash 是基于 Astro 与 Cloudflare 的全栈 TypeScript CMS，借鉴 WordPress 的插件生态与后台体验，却以无服务器、类型安全的架构重建，并用沙箱化 Worker 隔离解决插件安全隐患。</description>
+    </item>
+    
+    <item>
+      <title>Amadeus Node：基于 Erlang 的高性能区块链节点实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/node/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/node/</guid>
+      <description>Amadeus Node 是一个基于 Erlang/OTP 构建的高性能区块链节点项目，支持本地测试网、智能合约部署和自动更新，适合区块链研究与开发学习。</description>
+    </item>
+    
+    <item>
+      <title>LLM Wiki：让大模型自动为你构建个人知识库的桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</guid>
+      <description>LLM Wiki 是由 nashsu 基于 Karpathy 提出的 LLM Wiki 模式实现的跨平台桌面应用，用 Tauri v2 &#43; React 19 构建。它不再每次查询都从头检索，而是让大模型渐进式地解析你的文档、生成结构化 Wiki、维护知识图谱，并把知识沉淀为持久可复用的个人知识库。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Agent Skills：AI代理技能的权威资源库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/awesome-agent-skills/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/awesome-agent-skills/</guid>
+      <description>精选1497&#43;个AI代理技能，由Anthropic、Google、Vercel、Stripe等顶级团队贡献，兼容Claude Code、Gemini CLI、Cursor等主流AI工具</description>
+    </item>
+    
     <item>
       <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
       <link>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</link>

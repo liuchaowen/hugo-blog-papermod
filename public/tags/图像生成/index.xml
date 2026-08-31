@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>awesome-gpt-image-2：GPT-Image2 工业级 Prompt 工程与模板库，520&#43; 反向工程案例</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/awesome-gpt-image-2/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/awesome-gpt-image-2/</guid>
+      <description>awesome-gpt-image-2 是一个专注于 GPT-Image2 的工业级 Prompt 工程开源项目，收录 520&#43; 反向工程案例，覆盖 UI 设计、海报、数据图表、产品摄影等 15 大场景，并提炼出 20&#43; 可复用的结构化模板，让 AI 图像生成真正走向工业流水线。</description>
+    </item>
+    
+    <item>
+      <title>Photo Abstract Editorial：将照片转化为摄影与抽象记忆面板的编辑作品</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</guid>
+      <description>Photo Abstract Editorial 是一个开源 Codex Skill，能够将任意照片转化为「原始摄影区 &#43; 抽象记忆面板 &#43; 诗意英文标题」的竖向编辑作品，保留照片真实内容的同时，从空间关系、构图节奏和色彩关系中提炼出极简抽象面板。</description>
+    </item>
+    
     <item>
       <title>Open Generative AI：打破内容过滤的开源 AI 创作工作室，200&#43; 模型自由调用</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</link>

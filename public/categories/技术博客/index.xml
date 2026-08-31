@@ -11,7 +11,77 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amnezia-client — Amnezia VPN Client (Desktop&#43;Mobile)</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</guid>
+      <description>(https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
+(https://gitpod.io/https://github.com/amnezia-vpn/amnezia-client)</description>
+    </item>
+    
+    <item>
+      <title>bitchat-android — bluetooth mesh chat, IRC vibes</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;imgsrc=&amp;#34;https://github.com/user-attachments/assets/188c42f8-d249-4a72-b27a-e2b4f10a00a8&amp;#34;alt=&amp;#34;BitchatAndroidLogo&amp;#34;width=&amp;#34;480&amp;#34;
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>jenkins — Jenkins automation server</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</guid>
+      <description>&amp;lt;ahref=&amp;#34;https://jenkins.io&amp;#34;
+&amp;lt;imgwidth=&amp;#34;400&amp;#34;src=&amp;#34;https://www.jenkins.io/images/jenkins-logo-title-dark.svg&amp;#34;alt=&amp;#34;Jenkinslogo&amp;#34;
+&amp;lt;/a</description>
+    </item>
+    
+    <item>
+      <title>node — Node.js JavaScript runtime ✨🐢🚀✨</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/node/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/node/</guid>
+      <description>Node.jsisanopen-source,cross-platformJavaScriptruntimeenvironment.</description>
+    </item>
+    
+    <item>
+      <title>t3code — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/t3code/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/t3code/</guid>
+      <description>T3CodeisaminimalwebGUIforcodingagents(currentlyCodex,Claude,Cursor,andOpenCode,morecomingsoon).</description>
+    </item>
+    
+    <item>
+      <title>grok2api — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;imgalt=&amp;#34;Grok2API&amp;#34;src=&amp;#34;./frontend/public/grok2api.png&amp;#34;width=&amp;#34;720&amp;#34;/
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>SharpEmu — 一个实验性的 PlayStation 5 模拟器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</guid>
+      <description>SharpEmu 是一个从零开发的实验性 PlayStation 5 模拟器，基于 C#/.NET SDK，已能加载真实游戏 eboot.bin 文件并部分运行《恶魔之魂》等游戏。</description>
+    </item>
+    
     <item>
       <title>asio — 开源项目深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
@@ -20,6 +90,20 @@
       <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
       <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
 documentationandatutorial.</description>
+    </item>
+    
+    <item>
+      <title>tailscale — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</guid>
+      <description>ThisrepositorycontainsthemajorityofTailscale&amp;#39;sopensourcecode.
+Notably,itincludesthetailscaleddaemonand
+thetailscaleCLItool.ThetailscaleddaemonrunsonLinux,Windows,
+,andtovaryingdegrees
+onFreeBSDandOpenBSD.TheTailscaleiOSandAndroidappsusethisrepo&amp;#39;s
+code,butthisrepodoesn&amp;#39;tcontainthemobileGUIcode.</description>
     </item>
     
     <item>

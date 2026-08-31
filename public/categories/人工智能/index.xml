@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J-Space Cognition Suite V3.6：让AI拥有深度推理与长期任务能力的推理时控制系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</guid>
+      <description>J-Space Cognition Suite V3.6 是一个模型无关的推理时控制系统，通过选择性加载工作空间、广播中心和元认知控制等机制，显著提升大模型的深度推理、长期任务执行、工具使用和恢复能力，在多个基准测试中实现了2-3倍的效率提升。</description>
+    </item>
+    
+    <item>
+      <title>SenseNova-U1：原生统一多模态大模型，端到端实现理解与生成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/sensenova-u1/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/sensenova-u1/</guid>
+      <description>SenseNova-U1 是商汤科技开源的原生多模态大模型，采用创新的 NEO-unify 架构，无需视觉编码器(VE)和变分自编码器(VAE)，实现真正的端到端统一理解与生成。在多个基准测试中达到开源SOTA性能，支持文生图、图像编辑、交错图文生成等任务。</description>
+    </item>
+    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>

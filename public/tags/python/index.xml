@@ -11,7 +11,331 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</guid>
+      <description>Microduck RL 是 Pollen Robotics 开源的强化学习训练框架，基于 MuJoCo Warp 和 PPO 算法，专门为 Microduck 这款约 800g、25cm 高的双足机器人打造 Sim2Real 迁移管道。</description>
+    </item>
+    
+    <item>
+      <title>User Scanner：465&#43; 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</guid>
+      <description>kaifcodec/user-scanner 是一个集邮箱与用户名情报于一体的 OSINT 侦察套件，覆盖 465&#43; 扫描向量、支持跨扫描枢转、Hudson Rock 泄密情报查询、MCP 服务与多格式报告导出。本文从架构、技术原理到实战用法进行深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>MailAccess：面向安全研究的自托管邮件情报 OSINT 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/mailaccess/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/mailaccess/</guid>
+      <description>MailAccess 是一个 MIT 授权的开源 OSINT 平台，面向安全研究员与渗透测试人员，围绕邮箱地址聚合泄露库、社交网络、DNS 与开放互联网信号，输出统一的暴露评分与可导出结构化取证报告。</description>
+    </item>
+    
+    <item>
+      <title>Browser Use：让 AI 真正操控浏览器的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</guid>
+      <description>Browser Use 是一个开源的 AI 浏览器自动化框架，让大语言模型通过自然语言指令控制浏览器完成复杂任务，如填表、数据抓取、内容提取等，支持 OpenAI、Anthropic、Google 等多模型。</description>
+    </item>
+    
+    <item>
+      <title>用 Python 命令行逆向 GetContact 私有 API：getcontact-cli 技术拆解</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</guid>
+      <description>getcontact-cli 是一个以 Python 编写的命令行工具，通过逆向还原 GetContact Android 客户端的通信协议（AES-256-ECB 加密、HMAC-SHA256 签名、Diffie-Hellman 密钥协商），在不安装 App 的情况下直接查询手机号归属信息与标签。本文从源码角度拆解其协议还原、凭据管理与批量查询实现。</description>
+    </item>
+    
+    <item>
+      <title>把 Google 地图时间线变成动态旅行视频：google-timeline-visualizer 技术解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</guid>
+      <description>google-timeline-visualizer 能把 Google 地图时间线导出的 JSON 变成动态旅行视频。本文从源码解析其 Web Mercator 投影、大圆插值、长途压缩与相机平滑等核心实现。</description>
+    </item>
+    
+    <item>
+      <title>Modular：统一 AI 开发与部署的 MAX 框架与 Mojo 语言开源平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/modular/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/modular/</guid>
+      <description>Modular Platform 是一个统一的 AI 开发与部署平台，汇聚了 MAX 框架和 Mojo 语言两大核心开源组件，提供从编译器、标准库到推理服务的完整技术栈，让 AI 开发者享受更高性能与更低门槛的统一开发体验。</description>
+    </item>
+    
+    <item>
+      <title>prettymaps：用一行 Python 把任意地点画成艺术地图</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/prettymaps/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/prettymaps/</guid>
+      <description>prettymaps 是一个基于 OpenStreetMap 的极简 Python 地图绘图库，底层由 osmnx、matplotlib、shapely 与 vsketch 驱动。本文拆解它的技术原理、核心参数、安装方法、实战示例与常见问题，带你用一行代码把任意城市街区画成风格化艺术地图。</description>
+    </item>
+    
+    <item>
+      <title>GenLayer Project Boilerplate：用 LLM 驱动的足球竞猜合约看下一代智能合约开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/genlayer-project-boilerplate/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/genlayer-project-boilerplate/</guid>
+      <description>GenLayer 是一个将 LLM 与区块链深度融合的智能合约平台，其 Project Boilerplate 提供了完整的合约开发模板，包含足球竞猜游戏示例，支持毫秒级单元测试、LLM 集成测试和 Next.js 前端，展示了 AI 原生应用与 Web3 结合的新范式。</description>
+    </item>
+    
+    <item>
+      <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</guid>
+      <description>NautilusTrader 是一款开源生产级 Rust 原生交易引擎，支持多资产、多交易所的量化策略研究、回测与实盘运行，Python 作为策略控制平面，Rust 作为高性能执行核心。</description>
+    </item>
+    
+    <item>
+      <title>Docling Graph：将文档转化为结构化知识图谱的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</guid>
+      <description>Docling Graph 是 IBM 开源的工具包，可将 PDF、图片等文档通过 LLM 或 VLM 提取为 Pydantic 对象，进而构建带 provenance 的有向知识图谱，支持化学、金融、法律等高精度领域。</description>
+    </item>
+    
+    <item>
+      <title>OpenBiliClaw：本地运行的跨平台个性化内容推荐 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</guid>
+      <description>OpenBiliClaw 是一个本地运行的跨平台内容推荐 AI Agent，支持 B 站、小红书、抖音、YouTube、X、知乎等 12 个平台，通过构建五层心理画像主动破除信息茧房，数据 100% 留在本地 SQLite。</description>
+    </item>
+    
+    <item>
+      <title>RVG Gateway：一款高性能多协议代理网关服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/rvg/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/rvg/</guid>
+      <description>RVG Gateway 是基于 FastAPI 构建的异步多协议代理网关，支持 VLESS、Trojan、Shadowsocks 和 MTProto 等协议，具备模块化设计、内置管理面板和自动化部署能力。</description>
+    </item>
+    
+    <item>
+      <title>用一封邮箱反查全网账号：Holehe OSINT 工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/holehe/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/holehe/</guid>
+      <description>Holehe 是一款基于 Python 的开源 OSINT 工具，能通过邮箱的「忘记密码」接口静默检测该邮箱是否在 120&#43; 主流站点注册过账号，且不触发任何通知。本文从原理、源码到实战完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>watermarks-remover: 多厂商 AI 水印一键清除工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/watermarks-remover/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/watermarks-remover/</guid>
+      <description>watermarks-remover 是一款纯 Python stdlib 实现的开源工具，支持同时去除 Claude、Gemini、OpenAI 等主流 AI 生成内容的水印标记，涵盖 Unicode 隐匿字符、C2PA 元数据、统计采样水印等多个层次，适用于文本、PNG、JPEG、SVG、PDF、DOCX 等多种文件格式。</description>
+    </item>
+    
+    <item>
+      <title>Manim：用代码编织数学之美的动画引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/manim/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/manim/</guid>
+      <description>Manim 是 3Blue1Brown 作者 Grant Sanderson 开源的精确编程动画引擎，专注数学可视化，助你用代码生成电影级数学解说视频。</description>
+    </item>
+    
+    <item>
+      <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/semantica/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/semantica/</guid>
+      <description>深度解析 GitHub Trending 项目 Semantica：一个图原生、确定性、可自托管的 AI Agent 上下文与问责基础设施。涵盖 Context Graph、决策智能、W3C PROV-O 溯源、Rete/Datalog 推理引擎的架构原理、安装实战与常见问题排查。</description>
+    </item>
+    
+    <item>
+      <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
+    </item>
+    
+    <item>
+      <title>Robonix：面向具身智能的机器人操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/robonix/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/robonix/</guid>
+      <description>Robonix 是一个开源的具身智能操作系统，旨在为异构机器人构建统一的「大脑」底座，让 AI 模型和技能可以跨不同机器人形态复用，无需为每个厂商 SDK 重写代码。</description>
+    </item>
+    
+    <item>
+      <title>LiveKit Agents：构建实时多模态语音 AI Agent 的 Python 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/agents/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/agents/</guid>
+      <description>LiveKit Agents 是一个开源 Python 框架，专为构建实时、可编程的语音 AI Agent 而设计，支持多模态交互、MCP 工具调用和内置测试框架。</description>
+    </item>
+    
+    <item>
+      <title>MTPROTO FIX By MEKO：用 iptables 分层限流修复 MTProto 代理的 TCP 握手顽疾</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/mtproto-fix-by-meko/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/mtproto-fix-by-meko/</guid>
+      <description>深度解析 GitHub Trending 项目 MTPROTO_FIX_By_MEKO：它如何通过 iptables hashlimit 分层规则、REJECT 替代 DROP、按 iOS 指纹分流，解决 MTProto 代理首次 TCP 握手卡顿与媒体加载慢的问题，并附源码级的 SNI/PQ 检测实现分析。</description>
+    </item>
+    
+    <item>
+      <title>LoopX：用控制平面管理长期运行的 AI Agent 任务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/loopx/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/loopx/</guid>
+      <description>LoopX 是一个轻量级的 AI Agent 本地控制平面，专为长期运行的多轮任务设计。它保持目标、门控、待办、证据、配额和交接稳定，让 Codex、Claude Code、Cursor 等运行时在有界的轮次中执行，是 Agent 化Kanban的核心理念。</description>
+    </item>
+    
+    <item>
+      <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
+      <description>pdf-inspector 是 Firecrawl 开源的 Rust 库，能在 200ms 内完成 PDF 类型判定（文本型/扫描型/混合型），并直接输出结构化 Markdown。零 OCR、零云服务、多语言绑定，适合大规模文档处理流水线。</description>
+    </item>
+    
+    <item>
+      <title>CloakBrowser：源码级 C&#43;&#43; 补丁的隐身 Chromium，通过所有反爬虫检测</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</guid>
+      <description>CloakBrowser 是一款在 C&#43;&#43; 源码层面对 Chromium 进行指纹修改的隐身浏览器，71 个源码级补丁让它在 bot 检测中表现为真实浏览器。pip install 即可使用，兼容 Playwright API，通过 Cloudflare Turnstile、FingerprintJS 等 30&#43; 检测服务验证。</description>
+    </item>
+    
+    <item>
+      <title>FaceSwap：开源深度学习换脸工具完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</guid>
+      <description>FaceSwap 是 deepfakes 团队开源的深度学习换脸工具，支持提取、训练、转换三大核心流程，基于 PyTorch/TensorFlow 深度学习框架，可运行于 NVIDIA GPU、AMD ROCm 及 Apple Silicon 等多平台。</description>
+    </item>
+    
+    <item>
+      <title>FAROS：开源 AutoResearch 运行时，让 AI 自己搞定科研全流程</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/faros/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/faros/</guid>
+      <description>FAROS（Foundation AutoResearch Operating System）是一个基于 Blueprint 蓝图驱动的开源 AutoResearch 运行时，支持从「idea → experiment → paper → review」全链路自动化，Python 3.11&#43; 即可运行。</description>
+    </item>
+    
+    <item>
+      <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</guid>
+      <description>free-stockdb 是一款面向 A 股日 K、分钟 K 与 ETF 数据的本地量化引擎，通过增量同步、Zstd 压缩存储、内置 39 种技术指标和 5 种指数计算，实现全市场 7000&#43; 股票分钟线回测从 10 个工作日压缩到 30 分钟内完成。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Systematic Trading：量化交易资源大全，97个库与40&#43;策略一网打尽</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</guid>
+      <description>系统化交易（量化交易）领域最全面的资源合集，涵盖97个回测与实盘交易库、40&#43;机构与学术界策略、55本经典书籍、23个视频教程，以及丰富的博客与课程资源，适合从入门到精通的量化交易者。</description>
+    </item>
+    
+    <item>
+      <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</guid>
+      <description>iFixAi 是一款开源的 AI 操作偏差诊断工具，通过 45 项检测（32 项核心 &#43; 13 项高级）评估 AI 代理是否存在幻觉、权限滥用、提示词注入等行为偏差，支持 CLI、插件和 Skill 三种运行方式，可集成到 CI 流程中。</description>
+    </item>
+    
+    <item>
+      <title>AstronRPA：讯飞开源企业级 RPA 桌面应用，支持低代码可视化流程设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/astron-rpa/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/astron-rpa/</guid>
+      <description>AstronRPA 是科大讯飞开源的企业级 RPA（机器人流程自动化）桌面应用，基于 Python 引擎，提供 300&#43; 预置原子组件，支持 Windows 桌面应用和网页自动化，采用前后端分离 &#43; Docker 微服务架构，低代码可视化设计器让业务人员也能快速构建自动化工作流。</description>
+    </item>
+    
+    <item>
+      <title>FastMCP：用 Python 快速构建生产级 MCP 服务端与客户端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</guid>
+      <description>GitHub trending 项目 PrefectHQ/fastmcp 是 Model Context Protocol（MCP）的 Python 框架，只需几行代码即可构建 MCP 服务端、客户端和交互式 App，日下载量破百万，是目前最主流的 MCP 开发框架。</description>
+    </item>
+    
+    <item>
+      <title>EverOS：让 AI 代理拥有持久化记忆的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/everos/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/everos/</guid>
+      <description>EverOS 是一个 Python 库和本地优先的 AI 记忆运行时，它以人类可读的 Markdown 文件为核心存储层，配合 SQLite 和 LanceDB 实现快速检索，赋予 AI 编码助手、App 和工作流跨越会话的持久记忆能力。</description>
+    </item>
+    
+    <item>
+      <title>BOSS直聘爬虫实战：基于 Chrome CDP 的明文薪资抓取方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boss-zhipin-scraper/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boss-zhipin-scraper/</guid>
+      <description>深入解析 boss-zhipin-scraper 项目如何通过 Chrome DevTools Protocol 绕过字体反爬，获取 BOSS 直聘职位数据并生成明文薪资分析报告。技术栈简洁、无需 Selenium/Playwright，输出 JSON/CSV 双格式，适合求职数据分析与市场洞察。</description>
+    </item>
+    
+    <item>
+      <title>ResearchStudio：微软开源的 AI 全流程科研助手，从想法到论文一气呵成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14-researchstudio/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14-researchstudio/</guid>
+      <description>ResearchStudio 是微软开源的 AI 科研技能套件，覆盖从研究想法构思（Idea）到论文发布（Reel）的完整科研生命周期，基于 Claude Code 和 Codex 构建，助力研究人员高效产出。</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant Core：把本地控制与隐私放在第一位的开源智能家居中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/core/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/core/</guid>
+      <description>深入解析 Home Assistant Core 的架构设计与技术选型——基于 Python 3.14、aiohttp 异步框架与模块化集成机制，如何在树莓派或本地服务器上构建以本地控制与隐私为核心的开源智能家居系统。</description>
+    </item>
+    
+    <item>
+      <title>Prefect：让 Python 脚本秒变生产级数据工作流的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/prefect/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/prefect/</guid>
+      <description>Prefect 是一个 Python 原生的工作流编排框架，几行代码即可将脚本升级为具备调度、重试、可观测性的生产级数据管道，支持自托管与云端两种部署模式。</description>
+    </item>
+    
     <item>
       <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>

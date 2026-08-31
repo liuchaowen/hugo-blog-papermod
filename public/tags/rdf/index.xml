@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RDF on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/rdf/</link>
+    <description>Recent content in RDF on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/semantica/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/semantica/</guid>
+      <description>深度解析 GitHub Trending 项目 Semantica：一个图原生、确定性、可自托管的 AI Agent 上下文与问责基础设施。涵盖 Context Graph、决策智能、W3C PROV-O 溯源、Rete/Datalog 推理引擎的架构原理、安装实战与常见问题排查。</description>
+    </item>
+    
+    <item>
+      <title>Ontology Playground：微软开源的交互式本体图谱可视化与设计工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</guid>
+      <description>微软开源的 Ontology Playground 是一个无需后端的静态 Web 应用，通过 Cytoscape.js 实现交互式本体（Ontology）图谱可视化，支持 RDF/OWL 导入导出、视觉化本体设计器、本体学堂和自然语言查询，让用户零门槛探索 Microsoft Fabric IQ 的核心概念。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>企业级实战 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98/</link>
+    <description>Recent content in 企业级实战 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%9E%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 智能体实战速成指南：从零到企业级落地的系统性学习路线</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</guid>
+      <description>全网首个系统开源的 AI 智能体教程，涵盖大模型基础、LangChain/LangGraph 框架、企业级 RAG/Agent 实战、微调实践和面试题库，提供完整源码和可运行案例，适合零基础到工程化落地的全链路学习。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI4Paper on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai4paper/</link>
+    <description>Recent content in AI4Paper on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai4paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI4Paper：从找文献到写综述，一站式打通的 AI 科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ai4paper/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ai4paper/</guid>
+      <description>AI4Paper 是一款一站式 AI 科研工作台，基于 2.4 亿文献源与引文网络，实现速搜文献、AI 精读、全文翻译、知识库问答与一键综述，观点全程可溯源。本文深度解析其产品设计与技术理念。</description>
+    </item>
+    
+  </channel>
+</rss>

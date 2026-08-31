@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>语音AI on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3ai/</link>
+    <description>Recent content in 语音AI on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LiveKit Agents：构建实时多模态语音 AI Agent 的 Python 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/agents/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/agents/</guid>
+      <description>LiveKit Agents 是一个开源 Python 框架，专为构建实时、可编程的语音 AI Agent 而设计，支持多模态交互、MCP 工具调用和内置测试框架。</description>
+    </item>
+    
+  </channel>
+</rss>

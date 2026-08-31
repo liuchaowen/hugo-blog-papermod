@@ -11,7 +11,97 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghidra：NSA 开源的软件逆向工程框架，反汇编、反编译与脚本分析全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/ghidra/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/ghidra/</guid>
+      <description>Ghidra 是美国国家安全局（NSA）开源的软件逆向工程（SRE）框架，支持反汇编、反编译、流程图与脚本自动化。本文深入解析其架构、技术栈、安装构建与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Nitter：保护隐私的 Twitter 开源替代前端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/nitter/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/nitter/</guid>
+      <description>Nitter 是一个专注于隐私和性能的 Twitter 开源替代前端,无需 JavaScript 即可浏览 Twitter,防止 IP 追踪和浏览器指纹识别,平均比 Twitter 快 2-4 倍。</description>
+    </item>
+    
+    <item>
+      <title>Wand-Enhancer：开源客户端增强工具的技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</guid>
+      <description>Wand-Enhancer 是一款开源的本地客户端增强工具，通过 .NET Patcher 和 Electron ASAR 修改技术，实现布局定制、远程 Web 面板、AI 功能增强等特性，支持自定义脚本注入。本文从技术原理、架构设计、安装部署到实战使用进行全流程解析。</description>
+    </item>
+    
+    <item>
+      <title>Lighthouse：经典游戏《班卓熊大冒险》的现代重生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</guid>
+      <description>Lighthouse 是 HarbourMasters 团队开发的《班卓熊大冒险》现代化移植项目，基于 libultraship 引擎重新编译，支持多平台运行、高分辨率渲染、MOD 扩展和自定义资源，让这款经典 N64 游戏在现代硬件上焕发新生。</description>
+    </item>
+    
+    <item>
+      <title>Kuna：用 Rust 重写 Ghidra，一个为 AI Agent 而生的反编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/kuna/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/kuna/</guid>
+      <description>Kuna 是一个由 LLM 自主迭代打磨的 agent-first 反编译器，用 Rust 从 Ghidra 移植而来，可编译为 WebAssembly 在浏览器中运行，并在控制流结构化指标上逼近 IDA Pro。本文拆解它的分阶段管线设计、可调选项体系与自动精炼闭环。</description>
+    </item>
+    
+    <item>
+      <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
+      <description>reverse-skill 是一个专为 AI Agent（Claude Code、Cursor、Cline 等）设计的逆向工程 / 渗透测试技能路由包，通过 38 个场景化 Skill 自动路由 &#43; 按需工具链自举 &#43; 可进化经验库，让 AI 在面对 APK、JS 加密、固件、CTF 等任务时不再盲猜命令。</description>
+    </item>
+    
+    <item>
+      <title>ANE Training：在苹果神经引擎上训练神经网络的开源突破</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/ane/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/ane/</guid>
+      <description>ANE Training 是一个开源项目，通过逆向工程苹果私有 API，首次实现在 Apple Neural Engine (ANE) 上直接运行神经网络训练（前向&#43;反向传播），支持 Stories110M 和 Qwen3-0.6B 等模型，INT8 量化可达 1.88 倍加速。</description>
+    </item>
+    
+    <item>
+      <title>Gen1Recomp：用 LÖVE2D 原生重写宝可梦红/蓝/黄，无需模拟器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</guid>
+      <description>Gen1Recomp 是一个完全手写的 LÖVE2D 游戏引擎，逐帧还原 Game Boy 宝可梦红、蓝、黄的运行逻辑，ROM 数据仅用于初始化，引擎本身完全独立运行。</description>
+    </item>
+    
+    <item>
+      <title>Shittim-Server：一个 Blue Archive 私服的 C# 实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</guid>
+      <description>Shittim-Server 是 Neoexm 用 C# 和 ASP.NET Core .NET 10 实现的功能完整的 Blue Archive 私服，支持 Nexon/IAS/IMS 登录流程、MX 游戏协议加解密、SQLite 持久化，适合二次元游戏逆向和私服研究。</description>
+    </item>
+    
+    <item>
+      <title>逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/</guid>
+      <description>open-open-reasoning 是「Open Reasoning」演示的自包含复现：它逆向分析了 Claude 的 thinking signature 本质（base64 protobuf 封装 &#43; AEAD 加密的私有推理），并提供了一个可运行的 Flask 服务端，把隐藏的思维链原样解锁出来。本文拆解其原理、代码与实战。</description>
+    </item>
+    
     <item>
       <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
       <link>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>

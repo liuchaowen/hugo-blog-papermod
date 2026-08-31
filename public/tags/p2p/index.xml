@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailcat：Tailscale 出品的去中心化 netcat 替代品</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</guid>
+      <description>Tailcat 是 Tailscale 开源的创新工具，将 Tailscale 的数据平面（WireGuard 加密、NAT 穿透）与控制平面解耦，让你无需账号、无需 root、无需配置即可在两台机器间建立端到端加密隧道。本文深入解析其技术原理、使用场景与实战技巧。</description>
+    </item>
+    
+    <item>
+      <title>BitChat：蓝牙Mesh&#43;Nostr协议的去中心化P2P聊天应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</guid>
+      <description>BitChat 是一款创新的去中心化即时通讯应用，融合蓝牙Mesh离线网络与 Nostr 互联网协议，无需账户、电话号码或中心服务器，实现真正的隐私优先通信。</description>
+    </item>
+    
     <item>
       <title>Iroh：基于公钥直连的去中心化网络框架</title>
       <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>

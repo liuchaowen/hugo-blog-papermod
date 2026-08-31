@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《动手学大模型》：上海交大出品的大模型编程实践教程，11 章从微调、提示工程到越狱与水印</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</guid>
+      <description>dive-into-llms 是上海交通大学开源的《动手学大模型》系列编程实践教程，由 NLP 与 AI 安全课程讲义拓展而来，公益免费。教程以 Jupyter Notebook 形式覆盖微调与部署、提示学习与思维链、知识编辑、数学推理、模型水印、越狱攻击、大模型隐写、多模态、GUI 智能体、智能体安全与 RLHF 安全对齐等 11 个主题，并联合华为昇腾推出国产化《大模型开发全流程》课程。</description>
+    </item>
+    
     <item>
       <title>Hello 算法：动画图解数据结构与算法入门教程</title>
       <link>https://blog.xlap.top/post/tech/2026-06-15/hello-algo/</link>

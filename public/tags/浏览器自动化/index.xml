@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browser Use：让 AI 真正操控浏览器的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</guid>
+      <description>Browser Use 是一个开源的 AI 浏览器自动化框架，让大语言模型通过自然语言指令控制浏览器完成复杂任务，如填表、数据抓取、内容提取等，支持 OpenAI、Anthropic、Google 等多模型。</description>
+    </item>
+    
+    <item>
+      <title>Webcmd：让 AI Agent 停止重复探索网站的自学习浏览器基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</guid>
+      <description>Webcmd 是一个专为 AI Agent 设计的自学习浏览器基础设施，能够将网站导航知识编译成确定性 CLI 命令，降低高达 90% 的浏览器 Agent token 消耗。本文深入分析其架构设计、技术原理与实战应用。</description>
+    </item>
+    
+    <item>
+      <title>BetterWright：为 AI Agent 量身打造的 token 高效浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</guid>
+      <description>BetterWright 是一个基于 Playwright、面向 AI Agent 的持久化浏览器：用压缩快照替代原始 HTML，只读任务单轮完成，内置策略沙箱、凭证保险库与 CAPTCHA 助手，让 Agent 像人类一样高效、安全地操作网页。</description>
+    </item>
+    
+    <item>
+      <title>CloakBrowser：源码级 C&#43;&#43; 补丁的隐身 Chromium，通过所有反爬虫检测</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</guid>
+      <description>CloakBrowser 是一款在 C&#43;&#43; 源码层面对 Chromium 进行指纹修改的隐身浏览器，71 个源码级补丁让它在 bot 检测中表现为真实浏览器。pip install 即可使用，兼容 Playwright API，通过 Cloudflare Turnstile、FingerprintJS 等 30&#43; 检测服务验证。</description>
+    </item>
+    
+    <item>
+      <title>ego-lite：让你和 AI 代理并行浏览的智能浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</guid>
+      <description>ego-lite 是一款专为人类与 AI 代理协同工作设计的 macOS 浏览器，突破性地实现了在同一浏览器内并行执行多个 AI 任务，同时不干扰用户的正常使用浏览体验。</description>
+    </item>
+    
     <item>
       <title>Puppeteer：Google 出品的浏览器自动化神器，从爬虫到测试全覆盖</title>
       <link>https://blog.xlap.top/post/tech/2026-06-16/puppeteer/</link>

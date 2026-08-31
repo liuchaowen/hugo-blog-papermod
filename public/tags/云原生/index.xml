@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8sQuest：50 关本地闯关，把 Kubernetes 排障玩成游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</guid>
+      <description>K8sQuest 是一个本地游戏化的 Kubernetes 训练平台，内置 50 个渐进式故障排查关卡，覆盖 Pod、部署、网络、存储与安全的真实场景，无需云账号即可动手练习 kubectl 排障与调试。</description>
+    </item>
+    
     <item>
       <title>Meshery：云原生基础设施的统一管理平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-15/meshery/</link>

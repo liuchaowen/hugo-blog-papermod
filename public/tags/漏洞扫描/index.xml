@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</guid>
+      <description>DeepSec 是 Vercel Labs 开源的 Agent 驱动漏洞扫描器，支持在自有基础设施中运行，针对大型代码库进行深度安全审计，使用顶级 AI 模型在最思考级别下分析代码，可并行分布式执行、断点续传，帮助企业发现潜伏已久的隐蔽漏洞。</description>
+    </item>
+    
     <item>
       <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-04/trivy/</link>

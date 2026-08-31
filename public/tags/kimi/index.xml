@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kimi on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/kimi/</link>
+    <description>Recent content in Kimi on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/kimi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</guid>
+      <description>Kimi Code CLI 是 Moonshot AI（月之暗面）推出的终端 AI 编程智能体，单文件分发、毫秒级启动，支持视频输入、AI 原生 MCP 配置、子智能体并行、生命周期钩子与 ACP 编辑器集成，开箱即用 Kimi 模型，也可接入兼容服务商。</description>
+    </item>
+    
+  </channel>
+</rss>

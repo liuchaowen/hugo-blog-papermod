@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demucs on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/demucs/</link>
+    <description>Recent content in Demucs on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/demucs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StemDeck: 完全本地化的音频人声伴奏分离工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</guid>
+      <description>StemDeck 是一款免费、开源的本地音频分离工具，支持将音乐拆分为人声、鼓点、贝斯、吉他、钢琴等6个音轨，全程离线运行，无需注册、无需上传、无需订阅。</description>
+    </item>
+    
+  </channel>
+</rss>

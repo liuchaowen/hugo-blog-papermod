@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DSH on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/dsh/</link>
+    <description>Recent content in DSH on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/dsh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome DSH Plugin：DeepSeek Harness 插件生态精选</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</guid>
+      <description>Awesome DSH Plugin 是 DeepSeek Harness (DSH) 插件生态的精选列表，收录了社区开发的各类插件，涵盖 UI 增强、主题外观、模型提供商、工具扩展等多个类别，支持一键安装和即插即用。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32 Bit Pirate：开源固件让 ESP32 秒变全协议调试神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/esp32-bit-pirate/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/esp32-bit-pirate/</guid>
+      <description>ESP32 Bit Pirate 是一款开源固件，将 ESP32-S3 设备变成多协议开发和分析工具，支持 I2C、SPI、UART、蓝牙、Wi-Fi、Sub-GHz、RFID 等数十种协议 sniffing、发送和脚本控制，Web 烧录和 Web Serial 工具开箱即用。</description>
+    </item>
+    
     <item>
       <title>ESPectre：用 Wi-Fi 信号实现无摄像头人体感知，ESP32 成本仅 €10</title>
       <link>https://blog.xlap.top/post/tech/2026-06-10/espectre/</link>

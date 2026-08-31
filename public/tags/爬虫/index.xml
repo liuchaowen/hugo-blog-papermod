@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/obscura/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/obscura/</guid>
+      <description>Obscura 是一个完全使用 Rust 编写的开源无头浏览器引擎，无需 Chromium，仅 30MB 内存占用，支持 Puppeteer 和 Playwright 协议，内置反检测和 CDP，是 AI 代理自动化和大规模爬虫的理想选择。</description>
+    </item>
+    
+    <item>
+      <title>BOSS直聘爬虫实战：基于 Chrome CDP 的明文薪资抓取方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boss-zhipin-scraper/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boss-zhipin-scraper/</guid>
+      <description>深入解析 boss-zhipin-scraper 项目如何通过 Chrome DevTools Protocol 绕过字体反爬，获取 BOSS 直聘职位数据并生成明文薪资分析报告。技术栈简洁、无需 Selenium/Playwright，输出 JSON/CSV 双格式，适合求职数据分析与市场洞察。</description>
+    </item>
+    
     <item>
       <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>

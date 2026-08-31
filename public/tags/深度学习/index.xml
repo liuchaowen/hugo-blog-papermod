@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
+    </item>
+    
+    <item>
+      <title>ComfyUI: 最强大、最模块化的 AI 内容创作引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/comfyui/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/comfyui/</guid>
+      <description>ComfyUI 是一个开源模块化 AI 引擎，通过可视化节点图工作流支持图像、视频、3D 模型、音频等多种模态的生成，支持 Stable Diffusion、Flux、Wan 2.1 等主流模型。</description>
+    </item>
+    
+    <item>
+      <title>PersonaLive：实时可流式的肖像动画生成框架，支持无限长度视频</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/personalive/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/personalive/</guid>
+      <description>PersonaLive 是澳门大学、GVC Lab 等机构提出的实时可流式扩散框架，能够基于单张参考肖像图和驱动视频生成无限长度的动态肖像动画，已被 CVPR 2026 接收。</description>
+    </item>
+    
+    <item>
+      <title>微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</guid>
+      <description>TRELLIS.2 是微软推出的 40 亿参数图像到 3D 生成模型，提出 O-Voxel 这一「无场」稀疏体素表示，以原生、紧凑的结构化潜变量突破传统 SDF/NeRF 的拓扑限制，支持开放表面、非流形几何与完整 PBR 材质，H100 上 512³ 资产生成仅需约 3 秒。</description>
+    </item>
+    
+    <item>
+      <title>FlashKDA：基于 CUTLASS 的高性能 Kimi Delta Attention 内核</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/flashkda/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/flashkda/</guid>
+      <description>FlashKDA 是 MoonshotAI 开源的高性能 KDA（Kimi Delta Attention）CUDA 内核库，基于 NVIDIA CUTLASS 构建，支持 SM90 及以上架构，提供比 Triton 实现更优的推理性能，专为 Flash Linear Attention 项目中的 chunk_kda 算子设计。</description>
+    </item>
+    
+    <item>
+      <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</guid>
+      <description>Unlimited-OCR 是百度开源的多格式文档 OCR 模型，支持单图、PDF、多页文档的端到端识别，基于 Transformers/vLLM/SGLang 推理，一键输出结构化文本。</description>
+    </item>
+    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>

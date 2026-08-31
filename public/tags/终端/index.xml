@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>terminal-browser：在终端里跑浏览器的奇思妙想</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/terminal-browser/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/terminal-browser/</guid>
+      <description>terminal-browser 是一个把完整 Chromium 浏览器嵌入终端的项目，借助 kitty graphics 协议在终端窗口内渲染像素，配合 Electron offscreen rendering 实现零延迟的终端浏览器体验。</description>
+    </item>
+    
+    <item>
+      <title>Gloomberb：开源全键盘驱动金融终端，一站式搞定投资研究</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/gloomberb/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/gloomberb/</guid>
+      <description>Gloomberb 是一款开源键盘驱动金融终端，同时提供桌面应用和 TUI 界面，支持股票查询、图表分析、组合管理、宏观数据监控和 AI 筛选器，覆盖 macOS、Linux、Windows 全平台。</description>
+    </item>
+    
+    <item>
+      <title>Herdr：终端里的 AI Agent 多路复用器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/herdr/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/herdr/</guid>
+      <description>Herdr 是一款专为 AI 编程助手设计的终端多路复用器，提供实时终端视图、会话持久化、纯 Socket API 等能力，让 AI Agent 的工作流管理更加高效。</description>
+    </item>
+    
+    <item>
+      <title>Kimi CLI：月之暗面推出的终端 AI Agent，把 Shell、IDE 与 MCP 串成一条工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</guid>
+      <description>Kimi CLI 是 Moonshot AI 出品的终端 AI Agent，可读写代码、执行 Shell、抓取网页，并通过 ACP 接入 IDE、通过 MCP 接入工具生态。本文从源码剖析其架构、技术栈与实战用法。</description>
+    </item>
+    
     <item>
       <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/herdr/</link>

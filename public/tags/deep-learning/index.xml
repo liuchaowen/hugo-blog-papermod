@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Learning on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaceSwap：开源深度学习换脸工具完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</guid>
+      <description>FaceSwap 是 deepfakes 团队开源的深度学习换脸工具，支持提取、训练、转换三大核心流程，基于 PyTorch/TensorFlow 深度学习框架，可运行于 NVIDIA GPU、AMD ROCm 及 Apple Silicon 等多平台。</description>
+    </item>
+    
+  </channel>
+</rss>

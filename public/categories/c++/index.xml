@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C&#43;&#43; on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoogleTest 深度解析：Google 的 C&#43;&#43; 单元测试框架设计与实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/googletest/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/googletest/</guid>
+      <description>本文深入剖析 GoogleTest（Google 的 C&#43;&#43; 测试框架，由 GoogleTest 与 GoogleMock 合并而来）的架构设计、断言体系、测试发现机制与参数化测试，并结合 CMake 集成给出可上手的实战示例。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Htmx on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/htmx/</link>
+    <description>Recent content in Htmx on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/htmx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/htmx/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/htmx/</guid>
+      <description>htmx 是一款仅约 14KB、零依赖的 JavaScript 库，它让你直接在 HTML 属性中发起 AJAX、CSS 过渡、WebSocket 与 SSE 请求，从而用超文本的简洁语法构建现代交互式用户界面。本文从动机、技术原理、快速上手到实战与排错，系统梳理 htmx 的核心能力。</description>
+    </item>
+    
+  </channel>
+</rss>

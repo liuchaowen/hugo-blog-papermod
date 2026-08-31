@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PersonaLive：实时可流式的肖像动画生成框架，支持无限长度视频</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/personalive/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/personalive/</guid>
+      <description>PersonaLive 是澳门大学、GVC Lab 等机构提出的实时可流式扩散框架，能够基于单张参考肖像图和驱动视频生成无限长度的动态肖像动画，已被 CVPR 2026 接收。</description>
+    </item>
+    
     <item>
       <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>

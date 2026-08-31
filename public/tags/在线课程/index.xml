@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>在线课程 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B/</link>
+    <description>Recent content in 在线课程 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 爆火的 CS 自学指南：北大开源，涵盖从入门到就业的全套计算机学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/cs-self-learning/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/cs-self-learning/</guid>
+      <description>PKUFlyingPig/cs-self-learning 是一个由北大在校生维护的计算机科学自学指南，汇聚欧美名校高质量开源课程，覆盖算法、体系、网络、操作系统、人工智能等几乎所有 CS 核心领域，目标是让自学者在 2-3 年内成长为一个有竞争力的全能程序员。</description>
+    </item>
+    
+  </channel>
+</rss>

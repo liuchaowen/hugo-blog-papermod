@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>漏洞检测 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B/</link>
+    <description>Recent content in 漏洞检测 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VVAH：Visa开源的AI驱动漏洞发现与验证框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</guid>
+      <description>Visa开源的VVAH是一个基于前沿AI模型的自主漏洞发现、修复和验证框架，采用四阶段十一级流水线设计，从代码摄取到验证修复全流程自动化，支持多模型后端。</description>
+    </item>
+    
+  </channel>
+</rss>

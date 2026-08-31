@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9D%A2%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9D%A2%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps-Interview-Guide：收录 151 篇真实 DevOps/SRE 面试经历的开源指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</guid>
+      <description>DevOps-Interview-Guide 是一个 GitHub 开源项目，收录了 151 篇真实的 DevOps、SRE 和云工程师面试经历，覆盖 85 家公司，提供 Kubernetes、Docker、Terraform、CI/CD 等核心技术问题。</description>
+    </item>
+    
+    <item>
+      <title>System Design Primer：系统设计面试自学指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/system-design-primer/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/system-design-primer/</guid>
+      <description>System Design Primer 是 GitHub  star 超 18 万的系统设计自学指南，覆盖 scalability、load balancer、数据库分片、CAP 定理等核心面试主题，配有 Anki 闪卡和大量实战案例，是准备大型科技公司系统设计面试的首选资源。</description>
+    </item>
+    
     <item>
       <title>Coding Interview University：从零开始的软件工程师面试通关指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-04/coding-interview-university/</link>

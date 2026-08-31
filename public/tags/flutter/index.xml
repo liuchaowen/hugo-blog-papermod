@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LocalSend: 无需互联网，跨设备本地文件传输神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/localsend/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/localsend/</guid>
+      <description>LocalSend 是一款免费开源的跨平台应用，通过本地局域网 REST API &#43; HTTPS 加密，让设备之间无需互联网即可安全地互传文件与文字消息，支持 Windows、macOS、Linux、Android、iOS 等全平台。</description>
+    </item>
+    
     <item>
       <title>Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-24/flutter/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>授权 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8E%88%E6%9D%83/</link>
+    <description>Recent content in 授权 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8E%88%E6%9D%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</guid>
+      <description>EMILIA 是一套 Apache-2.0 的开源协议与证据底座，在动作发生的那一刻证明「智能体即将执行的动作，正是某位具名人类所授权的动作」。本文从架构、技术原理、快速上手到形式化验证，拆解它如何用「收据（Receipt）」取代「决策日志」，为自主工作流提供可离线验证的授权证据。</description>
+    </item>
+    
+  </channel>
+</rss>

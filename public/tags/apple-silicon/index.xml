@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apple-silicon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apple-silicon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vphone-cli：用 Apple Virtualization.framework 在 Mac 上启动一台虚拟 iPhone</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/vphone-cli/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/vphone-cli/</guid>
+      <description>vphone-cli 借助 Apple PCC 研究用 VM 基础设施与 Virtualization.framework，在 Apple Silicon Mac 上完整启动一台虚拟 iPhone。本文深入解析它的 Swift 补丁流水线、五档固件变体、DFU 恢复与 CFW 注入机制，并给出安装、实战与常见问题排查方案。</description>
+    </item>
+    
+    <item>
+      <title>oMLX：为 Mac 而生的本地 LLM 推理引擎，把大模型跑成「菜单栏常驻服务」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/omlx/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/omlx/</guid>
+      <description>oMLX 是基于 Apple MLX 的本地大模型推理服务，主打连续批处理、热/冷两级 KV 缓存与菜单栏管理，让 Apple Silicon Mac 上的 LLM、VLM、Embedding、Reranker 推理变得随手可用。</description>
+    </item>
+    
+    <item>
+      <title>ANE Training：在苹果神经引擎上训练神经网络的开源突破</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/ane/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/ane/</guid>
+      <description>ANE Training 是一个开源项目，通过逆向工程苹果私有 API，首次实现在 Apple Neural Engine (ANE) 上直接运行神经网络训练（前向&#43;反向传播），支持 Stories110M 和 Qwen3-0.6B 等模型，INT8 量化可达 1.88 倍加速。</description>
+    </item>
+    
     <item>
       <title>Apple container：Swift 写的 Linux 容器工具，把容器当轻量虚拟机跑在 Mac 上</title>
       <link>https://blog.xlap.top/post/tech/2026-06-11/container/</link>

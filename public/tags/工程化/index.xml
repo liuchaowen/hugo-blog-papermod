@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/unlazy/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/unlazy/</guid>
+      <description>GitHub Trending 项目 unlazy 是一套面向 AI 编程 Agent 的「完成纪律」框架：先写验收账本、再执行可运行闸门、最后用证据说话。本文拆解其闸门契约、安全边界与并行编排设计，帮你根治 Agent 半成品交付。</description>
+    </item>
+    
+    <item>
+      <title>Ghost 开源项目架构解析：monorepo 工程化实践与依赖边界设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ghost/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ghost/</guid>
+      <description>Ghost 是一个拥有 1 亿&#43;下载量的专业开源出版平台，本文深入剖析其基于 pnpm &#43; Nx 的 monorepo 工程架构，详解 shared/server/frontend 依赖边界、shade 设计系统分层以及 UMD 公开包的隔离机制。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 工程化实战：极客时间万订阅专栏深度解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</guid>
+      <description>极客时间《Claude Code 工程化实战》专栏，23 讲覆盖 SubAgent、Skills、MCP、Headless、SDK、Hooks 全链路工程化实践，上线即登总榜第一。</description>
+    </item>
+    
+    <item>
+      <title>AG Kit：为 AI Agent 工程化而生的 Antigravity 开发工具包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</guid>
+      <description>AG Kit 是一个以 Google Antigravity 为核心运行时的 AI Agent 工程化工具包，提供了规则、技能、专家 Agent、工作流、持久化记忆、MCP 集成、原生安全钩子等一站式解决方案。</description>
+    </item>
+    
     <item>
       <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>

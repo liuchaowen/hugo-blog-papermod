@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>免费模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 免费模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Free Models：325&#43; 免费AI模型、API与工具完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/awesome-free-models/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/awesome-free-models/</guid>
+      <description>GitHub Trending 热门项目：精选325&#43;个完全免费的AI模型、API提供商与本地推理工具，覆盖开放权重模型、图像生成、语音合成、编程助手、Agent框架等21个类别，无需信用卡即可使用。</description>
+    </item>
+    
+  </channel>
+</rss>

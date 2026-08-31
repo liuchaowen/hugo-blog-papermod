@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/moe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/moe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeToken：在消费级显卡上跑 290B&#43; 顶级 MoE 大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</guid>
+      <description>FreeToken 是一个边缘原生的 MoE（混合专家）推理引擎，能在游戏显卡、家用 PC 等消费级硬件上，以交互级速度运行 290B&#43; 前沿开源大模型，支持 DeepSeek-V4-Flash、Qwen3.6-35B 等主流 MoE 模型。</description>
+    </item>
+    
+    <item>
+      <title>Marin：开源大模型训练全流程平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/marin/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/marin/</guid>
+      <description>Marin 是一个研究项目、软件平台和社区，专注于大语言模型的研发全流程，包括数据清洗、预训练、后训练和评估，核心价值是开放开发——完整记录从原始数据到最终模型的每一步。</description>
+    </item>
+    
+    <item>
+      <title>KTransformers：CPU-GPU 异构推理，让消费级硬件跑起超大 MoE 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</guid>
+      <description>KTransformers 是清华 MADSys 实验室开源的 CPU-GPU 异构大模型推理与微调框架，通过 AMX/AVX 加速、量化与专家调度，让 DeepSeek-R1/V3 等超大 MoE 模型在单张 24GB 显卡甚至纯 CPU 上高效运行，并提供与 LLaMA-Factory 集成的 SFT 微调能力。</description>
+    </item>
+    
+    <item>
+      <title>Colibrì：用25GB内存在消费级机器上运行744B参数的GLM-5.2模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/colibri/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/colibri/</guid>
+      <description>Colibrì是一个轻量级MoE运行时引擎，通过将专家层从磁盘流式加载，实现在仅需25GB RAM的消费级硬件上运行744B参数的GLM-5.2模型。本文深入分析其技术原理、架构设计与实际性能表现。</description>
+    </item>
+    
     <item>
       <title>GLM-5 系列深度解析：从 Vibe Coding 到 Agentic Engineering 的开源旗舰模型</title>
       <link>https://blog.xlap.top/post/tech/2026-06-18/glm-5/</link>

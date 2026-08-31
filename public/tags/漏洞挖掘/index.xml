@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>漏洞挖掘 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/</link>
+    <description>Recent content in 漏洞挖掘 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
+      <description>Claude-BugHunter 是一个为 Claude Code 打造的漏洞挖掘与红队技能包，包含 82 个技能、15 个斜杠命令，覆盖 Web 安全、API 测试、企业身份平台、GraphQL、OAuth 等 24 个漏洞类别的 681 个公开 HackerOne 报告模式，让 AI 助手从通用聊天机器人变身为专业安全研究员。</description>
+    </item>
+    
+  </channel>
+</rss>

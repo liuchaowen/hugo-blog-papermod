@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>架构设计 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 架构设计 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archify：用一句话在聊天里生成架构与技术流程图的开源 Agent Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/archify/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/archify/</guid>
+      <description>Archify 是一个面向 Claude、Codex CLI 和 opencode 的 Agent Skill，能把对系统或流程的自然语言描述转换为自包含的 HTML 技术图表，支持架构图、工作流、时序图、数据流与生命周期图，并可一键切换暗色/亮色主题、复制到剪贴板或导出 4× 高清 PNG/JPEG/WebP/SVG。</description>
+    </item>
+    
+    <item>
+      <title>Open-Inspect：开源背景编码代理系统，让 AI 替你做开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</guid>
+      <description>Open-Inspect 是一个受 Ramp Inspect 启发的开源背景编码代理系统，支持多客户端接入（Web、Slack、GitHub、Linear）、并行子任务沙箱、完整开发环境，以及 PR 归属追溯。深度解析其架构设计与安全模型。</description>
+    </item>
+    
+  </channel>
+</rss>

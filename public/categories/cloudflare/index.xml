@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/cloudflare/</link>
+    <description>Recent content in Cloudflare on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EdgeChat：基于 Cloudflare 全家桶的现代团队聊天系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/edgechat/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/edgechat/</guid>
+      <description>EdgeChat 是一个完全部署在 Cloudflare 上的开源团队聊天系统，集账号体系、公开/私有群组、私信、实时 WebSocket 消息、AES-256-GCM 服务端加密、Telegram 双向桥接等功能于一体，零服务器运维，成本极低。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagram Design：60 秒让 AI 画出贴合品牌的编辑级图表</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-11/diagram-design/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-11/diagram-design/</guid>
+      <description>cathrynlavery/diagram-design 是一个 Claude Code Skill，内置 27 种编辑级图表类型，并能在 60 秒内读取你的网站、把品牌色与字体自动映射到每一张图。本文解析它的架构设计、品牌 onboarding 流程、设计系统与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</guid>
+      <description>一个覆盖韩国日常生活方方面面的 AI Agent 技能集合，包含 SRT/KTX 预订、地铁公交、房产、法律、金融等 100&#43; 实用技能，让 Claude Code、OpenClaw 等 Coding Agent 自动处理繁琐事务。</description>
+    </item>
+    
+    <item>
+      <title>oh-story-claudecode：把网文写作工业化的开源 AI Skill 包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/oh-story-claudecode/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/oh-story-claudecode/</guid>
+      <description>oh-story-claudecode 是一套覆盖扫榜、拆文、写作、去 AI 味、封面生成全流程的网文写作 Skill 包，原生适配 Claude Code、OpenCode、OpenClaw、Codex 等多端 AI 编程环境，用文件系统把长篇设定、大纲、正文、追踪拆开维护，让 AI 也能稳定产出可商业化的网文。</description>
+    </item>
+    
     <item>
       <title>张雪峰.skill：把「考研名师」装进 AI Agent，用认知框架而非语录复读</title>
       <link>https://blog.xlap.top/post/tech/2026-06-27/zhangxuefeng-skill/</link>

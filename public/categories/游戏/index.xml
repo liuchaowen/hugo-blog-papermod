@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skate 3 原生重编译：让经典 Xbox 360 游戏在 PC/Mac 上原生运行</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/skate3recomp/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/skate3recomp/</guid>
+      <description>skate3recomp 是一个非官方的 Skate 3 Xbox 360 版本原生重编译项目，通过 Direct3D 12 和 Vulkan 原生渲染器替代模拟 GPU，帧率提升 2-10 倍，彻底摆脱模拟器性能瓶颈。</description>
+    </item>
+    
+    <item>
+      <title>Shittim-Server：一个 Blue Archive 私服的 C# 实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</guid>
+      <description>Shittim-Server 是 Neoexm 用 C# 和 ASP.NET Core .NET 10 实现的功能完整的 Blue Archive 私服，支持 Nexon/IAS/IMS 登录流程、MX 游戏协议加解密、SQLite 持久化，适合二次元游戏逆向和私服研究。</description>
+    </item>
+    
+  </channel>
+</rss>

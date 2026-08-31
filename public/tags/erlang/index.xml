@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Erlang on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/erlang/</link>
+    <description>Recent content in Erlang on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/erlang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amadeus Node：基于 Erlang 的高性能区块链节点实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/node/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/node/</guid>
+      <description>Amadeus Node 是一个基于 Erlang/OTP 构建的高性能区块链节点项目，支持本地测试网、智能合约部署和自动更新，适合区块链研究与开发学习。</description>
+    </item>
+    
+  </channel>
+</rss>

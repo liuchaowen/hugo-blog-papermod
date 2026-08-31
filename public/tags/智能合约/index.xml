@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>智能合约 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</link>
+    <description>Recent content in 智能合约 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GenLayer Project Boilerplate：用 LLM 驱动的足球竞猜合约看下一代智能合约开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/genlayer-project-boilerplate/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/genlayer-project-boilerplate/</guid>
+      <description>GenLayer 是一个将 LLM 与区块链深度融合的智能合约平台，其 Project Boilerplate 提供了完整的合约开发模板，包含足球竞猜游戏示例，支持毫秒级单元测试、LLM 集成测试和 Next.js 前端，展示了 AI 原生应用与 Web3 结合的新范式。</description>
+    </item>
+    
+    <item>
+      <title>Internet Court Skill：为 AI Agent 经济打造的开放纠纷裁技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</guid>
+      <description>Internet Court 是一个开源 Agent 技能，将碎片化的 Agent 间交易协议栈（六层标准）统一封装，并独家加入纠纷裁审层，让 AI Agent 在无人值守的情况下也能安全交易、放心协作。</description>
+    </item>
+    
+  </channel>
+</rss>

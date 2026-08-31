@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生物医药 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF/</link>
+    <description>Recent content in 生物医药 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Agent Skills 详解：163 个开箱即用的科研 Agent Skills，让你的 AI 变身「桌面科研科学家」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/</guid>
+      <description>K-Dense-AI 开源的 scientific-agent-skills 收录 163 个面向生物、化学、医学、材料等科学领域的 Agent Skills，统一接入 100&#43; 数据库，让你的 AI 智能体几分钟内胜任多步科研工作流。</description>
+    </item>
+    
+  </channel>
+</rss>

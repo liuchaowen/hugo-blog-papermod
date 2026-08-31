@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
+    </item>
+    
     <item>
       <title>Logto：面向 SaaS 和 AI 应用的现代化开源身份认证基础设施</title>
       <link>https://blog.xlap.top/post/tech/2026-06-29/logto/</link>

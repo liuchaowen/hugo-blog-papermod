@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>G0DM0D3 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/g0dm0d3/</link>
+    <description>Recent content in G0DM0D3 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/g0dm0d3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G0DM0D3：开源多模型AI聊天界面，突破后训练层的极限</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/g0dm0d3/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/g0dm0d3/</guid>
+      <description>G0DM0D3 是一个完全开源、隐私透明的多模型聊天界面，集成了 GODMODE CLASSIC 并行竞速模式和 ULTRAPLINIAN 多模型评估引擎，支持 60&#43; OpenRouter 模型和本地部署，专为红队测试、认知研究和 AI 交互探索而设计。</description>
+    </item>
+    
+  </channel>
+</rss>

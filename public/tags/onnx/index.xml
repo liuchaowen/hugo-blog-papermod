@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ONNX on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/onnx/</link>
+    <description>Recent content in ONNX on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/onnx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
+    </item>
+    
+  </channel>
+</rss>

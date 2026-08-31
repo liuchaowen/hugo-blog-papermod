@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unsloth on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/unsloth/</link>
+    <description>Recent content in Unsloth on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/unsloth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unsloth：首款本地运行与训练 AI 模型的桌面应用，支持全平台 GPU 加速</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</guid>
+      <description>Unsloth 是一款开源本地 AI 模型运行与训练工具，提供桌面应用、Web UI 和命令行三种使用方式，支持 LLM、扩散模型、Embedding、音频模型的本地部署与微调，训练速度提升 2 倍、显存占用减少 70%。</description>
+    </item>
+    
+  </channel>
+</rss>

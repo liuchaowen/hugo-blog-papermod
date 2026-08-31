@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>知识图谱 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</link>
+    <description>Recent content in 知识图谱 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphify：将代码库转化为可查询的知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
+    </item>
+    
+  </channel>
+</rss>

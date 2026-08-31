@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SDR on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/sdr/</link>
+    <description>Recent content in SDR on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sdr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AERIS-10：把 10.5GHz 相控阵雷达做成开源 DIY 套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/plfm-radar/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/plfm-radar/</guid>
+      <description>AERIS-10 是一个完全开源的 10.5GHz 脉冲线性调频（LFM）相控阵雷达系统，提供 3km 与 20km 两种版本，用 FPGA &#43; STM32 &#43; Python GUI 实现波束赋形、脉冲压缩与多普勒处理。本文拆解其架构、核心器件选型与信号处理流水线，看看一套可自己焊接的雷达到底能飞多高。</description>
+    </item>
+    
+  </channel>
+</rss>

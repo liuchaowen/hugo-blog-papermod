@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代码审查 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5/</link>
+    <description>Recent content in 代码审查 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</guid>
+      <description>tuicr 是一款用 Rust 编写的终端代码审查工具，提供 GitHub 风格连续 diff、Vim 键位、行级评论，并可一键将审查结果推送到 GitHub/GitLab 或导出给 AI 编程助手。</description>
+    </item>
+    
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E6%8E%92/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E6%8E%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prefect：让 Python 脚本秒变生产级数据工作流的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/prefect/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/prefect/</guid>
+      <description>Prefect 是一个 Python 原生的工作流编排框架，几行代码即可将脚本升级为具备调度、重试、可观测性的生产级数据管道，支持自托管与云端两种部署模式。</description>
+    </item>
+    
     <item>
       <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>

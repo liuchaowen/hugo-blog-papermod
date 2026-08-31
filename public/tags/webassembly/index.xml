@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WebAssembly on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/webassembly/</link>
+    <description>Recent content in WebAssembly on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/webassembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/computer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/computer/</guid>
+      <description>Cloudflare Computer 是一个运行在 Durable Object 内部的虚拟文件系统，通过 SQLite 持久化状态，并提供 Container、Isolate Shell、Isolate JavaScript 三种可插拔执行后端，可在云端 Sandbox 中运行完整 Linux 环境、bash 命令或 ECMAScript 模块。</description>
+    </item>
+    
+    <item>
+      <title>Decimen Optical Transfer：用屏幕和摄像头实现无网络文件传输</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</guid>
+      <description>Decimen Optical Transfer 是一个巧妙的离线文件传输工具，通过屏幕显示动态 QR 码、摄像头实时解码，实现两台设备间的无网络文件传输，零配对、零权限、零依赖。</description>
+    </item>
+    
+    <item>
+      <title>Kuna：用 Rust 重写 Ghidra，一个为 AI Agent 而生的反编译器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/kuna/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/kuna/</guid>
+      <description>Kuna 是一个由 LLM 自主迭代打磨的 agent-first 反编译器，用 Rust 从 Ghidra 移植而来，可编译为 WebAssembly 在浏览器中运行，并在控制流结构化指标上逼近 IDA Pro。本文拆解它的分阶段管线设计、可调选项体系与自动精炼闭环。</description>
+    </item>
+    
+    <item>
+      <title>Dioxus 0.8：用 Rust 写跨平台应用，一套代码覆盖 Web、桌面、移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</guid>
+      <description>Dioxus 是一个用 Rust 编写的跨平台 UI 框架，支持 Web、桌面、移动端、SSR 等平台，一套代码多端运行。本文深入解析其核心理念、技术架构与快速上手指南。</description>
+    </item>
+    
+  </channel>
+</rss>

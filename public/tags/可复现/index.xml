@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>可复现 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%8F%AF%E5%A4%8D%E7%8E%B0/</link>
+    <description>Recent content in 可复现 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%AF%E5%A4%8D%E7%8E%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Science：本地优先、模型无关的开源 AI 科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/open-science/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/open-science/</guid>
+      <description>Open Science 是 aipoch 开源的本地优先、模型无关的 AI 科研工作台，主打可复现的科学发现：项目/会话管理、产物溯源、18 项科研技能与 24 个数据连接器，基于 Electron &#43; React &#43; ACP Agent 运行时。</description>
+    </item>
+    
+  </channel>
+</rss>

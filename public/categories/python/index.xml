@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</guid>
+      <description>free-stockdb 是一款面向 A 股日 K、分钟 K 与 ETF 数据的本地量化引擎，通过增量同步、Zstd 压缩存储、内置 39 种技术指标和 5 种指数计算，实现全市场 7000&#43; 股票分钟线回测从 10 个工作日压缩到 30 分钟内完成。</description>
+    </item>
+    
     <item>
       <title>pytest：Python 生态中最强大的测试框架，你真的用好了吗？</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/pytest/</link>

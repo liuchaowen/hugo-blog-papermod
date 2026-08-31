@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SkillOpt on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/skillopt/</link>
+    <description>Recent content in SkillOpt on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/skillopt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SkillOpt：用训练神经网络的思路优化 Agent 技能文档</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/skillopt/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/skillopt/</guid>
+      <description>微软开源的 SkillOpt 框架，将神经网络训练中的 epoch、batch、学习率、验证集等概念引入 Agent 技能文档优化，实现了在冻结模型权重的情况下持续提升 Agent 表现。</description>
+    </item>
+    
+  </channel>
+</rss>

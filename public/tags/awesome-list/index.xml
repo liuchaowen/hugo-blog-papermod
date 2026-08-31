@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Awesome List on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/awesome-list/</link>
+    <description>Recent content in Awesome List on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/awesome-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Mac：开发者与设计师的 macOS 神器清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/awesome-mac/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/awesome-mac/</guid>
+      <description>Awesome Mac 是 GitHub 上星标极高的 macOS 应用与工具精选清单，覆盖开发、设计、效率、AI 等数十个分类，并提供多语言结构化数据与静态站点，是 Mac 用户装机与选型的最佳参考。</description>
+    </item>
+    
+  </channel>
+</rss>

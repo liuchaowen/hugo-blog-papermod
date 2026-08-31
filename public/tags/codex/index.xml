@@ -11,7 +11,115 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/codex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/codex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</guid>
+      <description>codex-chatgpt-web 是一个本地 Responses 桥接工具，通过嵌入式浏览器让用户在 Codex 的原生界面中直接调用 ChatGPT Web（包括 Pro 订阅）的模型，无需 API Key，真正实现零成本使用高级 AI 能力。</description>
+    </item>
+    
+    <item>
+      <title>拾景zine：把普通照片蒸馏成值得停留的纸感海报</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/gathered-scenes-zine-skill/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/gathered-scenes-zine-skill/</guid>
+      <description>拾景zine（Gathered Scenes Zine）是 Zeejay0 为 Codex 编写的一组生图 Skill，先阅读照片中的主体、空间、色彩与情绪，再通过实景拼贴或影像蒸馏两条路径，把普通画面重新装订成一页有触感的纸刊作品。</description>
+    </item>
+    
+    <item>
+      <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
+      <description>Guizang PPT Skill 是一个面向 Claude Code / Codex 等 Agent 环境的网页 PPT 技能，能生成单文件 HTML 横向翻页 PPT、PPT 配图与多平台封面，并内置完整的排练与演讲者模式。本文拆解其双视觉系统、版式锁定机制与本地演讲者运行时。</description>
+    </item>
+    
+    <item>
+      <title>CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</guid>
+      <description>CyberPPT 是一个 Codex Skill，能将文档、研究材料和业务数据转化为高密度、可编辑、咨询风格的 PowerPoint 演示文稿。本文解析其三段式强制流程、8 种视觉风格与 15 道质量门禁，看它如何解决 AI 做 PPT 常见的密度不足与还原失真问题。</description>
+    </item>
+    
+    <item>
+      <title>Codex QQ Skin：将 ChatGPT/Codex 桌面端变成复古 QQ 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</guid>
+      <description>Codex QQ Skin 是一款面向 Codex/ChatGPT 桌面端的主题美化工具，支持 macOS 与 Windows，可一键将 AI 对话界面替换为经典的 QQ 2007 复古风格皮肤，同时内置深度皮肤助手、图片生成、自定义皮肤库与成长统计等丰富功能。</description>
+    </item>
+    
+    <item>
+      <title>狗头军师：一个基于跨学科知识库的 AI 恋爱顾问</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/goutoujunshi/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/goutoujunshi/</guid>
+      <description>狗头军师是一个把情绪支持、关系科学与可执行策略整合进一个 AI 恋爱军师的 GitHub 开源项目，支持聊天截图分析、MBTI 关系判断、跨周期关系策略与本地记忆功能。</description>
+    </item>
+    
+    <item>
+      <title>Codex&#43;&#43;：不改动 app.asar 的 Codex / ChatGPT 桌面端启动器与增强管家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</guid>
+      <description>Codex&#43;&#43; 是一个基于 Rust &#43; Tauri 的 OpenAI Codex / ChatGPT 桌面端外部启动器，通过 CDP 协议与本地辅助服务实现供应商切换、协议转换与界面增强，不修改官方 app.asar，本文详解其架构、用法与实战。</description>
+    </item>
+    
+    <item>
+      <title>opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</guid>
+      <description>opencodex 是一个开源的本地代理工具，它将 OpenAI Codex 的 Responses API 翻译为任意 LLM 提供商的协议，让 Claude Code、Codex CLI/App/SDK 都能无缝使用 Anthropic、Google、DeepSeek、GLM、Qwen 等 40&#43; 模型。</description>
+    </item>
+    
+    <item>
+      <title>Codex Dream Skin：给 Codex 桌面端换一张会呼吸的脸</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/codex-dream-skin/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/codex-dream-skin/</guid>
+      <description>Codex Dream Skin 是一款面向 Codex 桌面端的外部换肤工具，通过本机 CDP 注入实现真正可交互的主题化，不修改官方安装包与代码签名。本文解析其架构原理、安装流程与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/</guid>
+      <description>MDX-Tom/gpt-5.6-instruct 提供针对 gpt-5.6-sol Codex CLI 的越狱提示词包，v5 版本在 low、medium、high 三档推理等级下均达到 120/120 测试通过率，显著超越上游 5.5 提示词。</description>
+    </item>
+    
+    <item>
+      <title>Boop：基于 iMessage 的个人 AI 助手，无需 API Key 即可运行 Claude 或 Codex</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</guid>
+      <description>Boop 是一个开源的 iMessage 个人 AI 助手，支持 Claude Code 或 Codex/ChatGPT 订阅认证，无需额外 API Key。内置分层记忆、自动化任务、Composio 集成（Gmail、Slack、GitHub 等 1000&#43; 工具），可选本地浏览器控制和 Apple 数据源，适合个人使用和二次开发。</description>
+    </item>
+    
+    <item>
+      <title>Free Claude Code：用本地代理让 Claude Code 和 Codex 畅连所有 AI 提供商</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/free-claude-code/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/free-claude-code/</guid>
+      <description>Free Claude Code 是一个开源本地代理工具，将 Claude Code 和 Codex 与 OpenAI 兼容的 AI 提供商桥接起来，支持 NVIDIA NIM、OpenRouter、Gemini、DeepSeek 等 24&#43; 云端及本地模型，让你在不花一分钱的情况下自由使用最强 AI 编程助手。</description>
+    </item>
+    
     <item>
       <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</link>

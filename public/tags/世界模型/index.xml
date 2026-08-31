@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelixWorld：实时交互式音视频世界模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</guid>
+      <description>HelixWorld 1.0 是 Noiz AI 推出的实时交互式音视频世界模型，支持图像与提示词输入，实现画面与声音同步更新，空间声场随视角转动，音频不再是后期添加的配乐。</description>
+    </item>
+    
+    <item>
+      <title>World Models 101：免费互动课程，一次性搞清楚什么是世界模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</guid>
+      <description>World Models 101 是一个免费的互动课程，用 9 个章节、约两小时，带你从零搞懂世界模型（World Model）的五种定义、核心原理与最新前沿进展，无需注册，随学随用。</description>
+    </item>
+    
+    <item>
+      <title>ABot-World：用单张桌面 GPU 实现无限交互式世界仿真</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</guid>
+      <description>ABot-World 是高德地图 CV 团队开源的项目，仅需一块 NVIDIA RTX 5090 桌面 GPU（19GB 显存）即可在 720P 分辨率、16 FPS、1.2s 延迟下实现无限动作条件化的交互式世界仿真，为游戏引擎和自动驾驶仿真提供了全新的端到端可微分替代方案。</description>
+    </item>
+    
     <item>
       <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>

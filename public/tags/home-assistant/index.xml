@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/home-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OOMWOO：用树莓派和 ROS2 自己造一台扫地机器人</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</guid>
+      <description>OOMWOO 是一个完全开源的扫地机器人项目，基于树莓派、ROS2、3D 打印和 Home Assistant 构建，支持 2D LiDAR 自主导航，完全本地运行无需云端，真正做到可 hack、可修复、可升级。</description>
+    </item>
+    
     <item>
       <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/server/</link>

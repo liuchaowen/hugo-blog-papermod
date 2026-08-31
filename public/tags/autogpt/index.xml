@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AutoGPT on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/autogpt/</link>
+    <description>Recent content in AutoGPT on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/autogpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AutoGPT：把一句话需求变成能跑完工作的 AI 智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</guid>
+      <description>AutoGPT 是拥有 18.5 万&#43; Star 的开源 AI 智能体平台，支持用自然语言描述任务后自动构建、运行并汇报智能体。本文深入解析其四大产品面、托管与自托管两种路径、集成能力及实战用法。</description>
+    </item>
+    
+  </channel>
+</rss>

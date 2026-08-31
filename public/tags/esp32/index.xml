@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/esp32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32 Bit Pirate：开源固件让 ESP32 秒变全协议调试神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/esp32-bit-pirate/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/esp32-bit-pirate/</guid>
+      <description>ESP32 Bit Pirate 是一款开源固件，将 ESP32-S3 设备变成多协议开发和分析工具，支持 I2C、SPI、UART、蓝牙、Wi-Fi、Sub-GHz、RFID 等数十种协议 sniffing、发送和脚本控制，Web 烧录和 Web Serial 工具开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>StackChan：超可爱的开源 AI 桌面机器人</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/stackchan/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/stackchan/</guid>
+      <description>StackChan 是 M5Stack 社区共创的超可爱开源 AI 桌面机器人，基于 ESP32-S3 的 CoreS3 主控，支持 AI Agent、表情动画、远程遥控和 OTA 升级，可 Arduino / UiFlow2 编程，高度可定制。</description>
+    </item>
+    
     <item>
       <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
       <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>

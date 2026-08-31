@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi Web：为 pi 编程 agent 打造的浏览器工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/pi-web/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/pi-web/</guid>
+      <description>Pi Web 是一个本地 Web UI，为 pi 编程 agent 提供浏览器端会话浏览、实时聊天、模型配置、技能管理和项目文件预览能力，让终端开发者也能享受图形化协作体验。</description>
+    </item>
+    
     <item>
       <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>

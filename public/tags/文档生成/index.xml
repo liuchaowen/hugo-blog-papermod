@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文档生成 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in 文档生成 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWiki：为 AI Agent 打造的代码文档自动化 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/openwiki/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/openwiki/</guid>
+      <description>OpenWiki 是 LangChain 团队推出的 CLI 工具，专为 AI Agent 设计，能够自动生成和维护代码库文档或个人知识库。支持 Git 仓库、Notion、Gmail、X/Twitter 等多种数据源，通过内置连接器同步更新，并可与 GitHub Actions 集成实现 CI 自动化文档更新。</description>
+    </item>
+    
+  </channel>
+</rss>

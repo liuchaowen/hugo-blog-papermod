@@ -11,7 +11,70 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</guid>
+      <description>Mailflare 是一个运行在 Cloudflare 上的自托管邮件系统，借助 Workers、D1、R2、Durable Objects 和 Email Routing 实现自定义域名的收发信、实时通知与 AI 收件箱。本文从架构、技术栈、安装与实战角度深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>Address：基于 PostgreSQL 的自托管真实住宅地址生成器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/address/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/address/</guid>
+      <description>Address 是一个自托管的真实住宅地址生成器，底层由 PostgreSQL 驱动，覆盖 27 个国家与地区的官方公开地址源。本文解析其架构、技术选型、数据同步机制与一键部署方式。</description>
+    </item>
+    
+    <item>
+      <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</guid>
+      <description>BookOrbit 是一个 AGPL 许可的自托管阅读平台，统一管理电子书、PDF、漫画与有声书，支持 Kobo、KOReader 与网页阅读器三方双向同步，并打通 Hardcover、Readwise、StoryGraph 等外部服务。</description>
+    </item>
+    
+    <item>
+      <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
+    </item>
+    
+    <item>
+      <title>Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/brigade/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/brigade/</guid>
+      <description>Brigade 是一个完全自托管的个人 AI Agent 生态：一套共享长期记忆（Tideline）的智能体「军团」，支持真实组织架构成员协作、跨模型无缝切换、1000&#43; 应用连接器与多消息渠道，所有密钥与数据都留在你自己的机器上。</description>
+    </item>
+    
+    <item>
+      <title>Octop：腾讯开源的自托管多用户 AI 助手平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/octop/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/octop/</guid>
+      <description>Octop 是腾讯云开源的自托管 AI 助手平台，支持多用户、多 Agent 架构，集成 Web Dashboard、CLI、IM 通道（飞书/钉钉/QQ/Discord/企业微信）和定时任务，所有数据本地存储，隐私安全有保障。</description>
+    </item>
+    
+    <item>
+      <title>PasarGuard：开源抗审查代理管理面板，统一管理 Xray 与 WireGuard</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</guid>
+      <description>PasarGuard 是一个用 Python &#43; React 构建的开源抗审查代理管理面板，支持 Xray-core 与 WireGuard，提供多用户/多入站管理、流量与到期限制、订阅链接与二维码分享、TLS/REALITY 等特性，适合自建节点与订阅管理。</description>
+    </item>
+    
     <item>
       <title>Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用</title>
       <link>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform 1.x：基础设施即代码的工业级实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/terraform/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/terraform/</guid>
+      <description>Terraform 是 HashiCorp 出品的开源基础设施即代码（IaC）工具，通过声明式配置语法管理云资源，支持 200&#43; 提供商，提供执行计划、资源图谱和变更自动化三大核心能力。</description>
+    </item>
+    
     <item>
       <title>Argo CD：Kubernetes 云原生的 GitOps 持续交付利器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</link>

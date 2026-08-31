@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏移植 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E7%A7%BB%E6%A4%8D/</link>
+    <description>Recent content in 游戏移植 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E7%A7%BB%E6%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skate 3 原生重编译：让经典 Xbox 360 游戏在 PC/Mac 上原生运行</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/skate3recomp/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/skate3recomp/</guid>
+      <description>skate3recomp 是一个非官方的 Skate 3 Xbox 360 版本原生重编译项目，通过 Direct3D 12 和 Vulkan 原生渲染器替代模拟 GPU，帧率提升 2-10 倍，彻底摆脱模拟器性能瓶颈。</description>
+    </item>
+    
+  </channel>
+</rss>

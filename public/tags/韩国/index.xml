@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>韩国 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%9F%A9%E5%9B%BD/</link>
+    <description>Recent content in 韩国 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9F%A9%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</guid>
+      <description>一个覆盖韩国日常生活方方面面的 AI Agent 技能集合，包含 SRT/KTX 预订、地铁公交、房产、法律、金融等 100&#43; 实用技能，让 Claude Code、OpenClaw 等 Coding Agent 自动处理繁琐事务。</description>
+    </item>
+    
+  </channel>
+</rss>

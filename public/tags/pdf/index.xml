@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
+      <description>pdf-inspector 是 Firecrawl 开源的 Rust 库，能在 200ms 内完成 PDF 类型判定（文本型/扫描型/混合型），并直接输出结构化 Markdown。零 OCR、零云服务、多语言绑定，适合大规模文档处理流水线。</description>
+    </item>
+    
     <item>
       <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>

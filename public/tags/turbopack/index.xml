@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Turbopack on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/turbopack/</link>
+    <description>Recent content in Turbopack on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/turbopack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js：React 全栈框架的工业级解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/next-js/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/next-js/</guid>
+      <description>Next.js 是 Vercel 开源的 React 全栈框架，集成了 Rust 构建工具（Turbopack）、服务端渲染、静态生成、API 路由等能力，被全球头部企业广泛采用，是构建高性能 Web 应用的首选方案。</description>
+    </item>
+    
+  </channel>
+</rss>

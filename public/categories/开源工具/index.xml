@@ -11,7 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QzoneArchive：安全归档你的QQ空间记忆，一个跨平台本地工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</guid>
+      <description>QzoneArchive 是一款用 Rust &#43; Tauri 2 &#43; Vue 3 构建的跨平台桌面和移动端工具，可以安全地将QQ空间动态、照片、视频与互动记录归档到本地SQLite数据库，支持断点续传、频率保护、HTML导出和媒体时光轴等功能，所有数据完全本地存储，不上传任何服务器。</description>
+    </item>
+    
+    <item>
+      <title>Wand-Enhancer：开源客户端增强工具的技术深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/wand-enhancer/</guid>
+      <description>Wand-Enhancer 是一款开源的本地客户端增强工具，通过 .NET Patcher 和 Electron ASAR 修改技术，实现布局定制、远程 Web 面板、AI 功能增强等特性，支持自定义脚本注入。本文从技术原理、架构设计、安装部署到实战使用进行全流程解析。</description>
+    </item>
+    
+    <item>
+      <title>bb：一个可以自我控制的智能 IDE，让你的编码代理协同作战</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/bb/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/bb/</guid>
+      <description>bb 是一个智能 IDE，支持多个编码代理协同工作，可通过桌面应用、Web 应用、CLI 和 HTTP API 控制。它采用线程式工作流，支持实时查看、随时干预和代理间交接。</description>
+    </item>
+    
+    <item>
+      <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</guid>
+      <description>free-stockdb 是一款面向 A 股日 K、分钟 K 与 ETF 数据的本地量化引擎，通过增量同步、Zstd 压缩存储、内置 39 种技术指标和 5 种指数计算，实现全市场 7000&#43; 股票分钟线回测从 10 个工作日压缩到 30 分钟内完成。</description>
+    </item>
+    
+    <item>
+      <title>Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</guid>
+      <description>Chat2DB 是一款开源免费的跨平台数据库客户端，支持 30&#43; 数据库类型，集成 AI 助手实现自然语言生成、解释和优化 SQL，适合开发者、DBA 和数据分析师日常使用。</description>
+    </item>
+    
+    <item>
+      <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</guid>
+      <description>iFixAi 是一款开源的 AI 操作偏差诊断工具，通过 45 项检测（32 项核心 &#43; 13 项高级）评估 AI 代理是否存在幻觉、权限滥用、提示词注入等行为偏差，支持 CLI、插件和 Skill 三种运行方式，可集成到 CI 流程中。</description>
+    </item>
+    
+    <item>
+      <title>Harper：轻量级隐私优先的英语语法检查器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
+    </item>
+    
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
+    <item>
+      <title>Graphify：将代码库转化为可查询的知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
+    </item>
+    
     <item>
       <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
       <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>

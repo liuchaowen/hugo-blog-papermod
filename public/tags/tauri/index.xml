@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tauri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tauri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QzoneArchive：安全归档你的QQ空间记忆，一个跨平台本地工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</guid>
+      <description>QzoneArchive 是一款用 Rust &#43; Tauri 2 &#43; Vue 3 构建的跨平台桌面和移动端工具，可以安全地将QQ空间动态、照片、视频与互动记录归档到本地SQLite数据库，支持断点续传、频率保护、HTML导出和媒体时光轴等功能，所有数据完全本地存储，不上传任何服务器。</description>
+    </item>
+    
+    <item>
+      <title>OmniGet：一款支持 1800&#43; 站点的全能开源下载器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/omniget/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/omniget/</guid>
+      <description>OmniGet 是一款跨平台开源桌面应用，一站式下载 Udemy 在线课程、YouTube/B站视频、音乐、电子书，支持 1800&#43; 站点，全程无需命令行，GitHub 开源免费。</description>
+    </item>
+    
+    <item>
+      <title>Clypra：基于 Tauri v2 &#43; Rust &#43; React 19 的免费开源专业视频编辑器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/clypra/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/clypra/</guid>
+      <description>Clypra 是一款采用 Tauri v2、React 19 与 Rust 构建的跨平台开源视频编辑器，MIT 协议永久免费，支持硬件加速解码、多轨时间线与可选的 AI 增强能力。</description>
+    </item>
+    
     <item>
       <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
       <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>

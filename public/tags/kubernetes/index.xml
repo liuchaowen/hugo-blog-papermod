@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/substrate/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/substrate/</guid>
+      <description>Agent Substrate 是 Google 开源的高性能 Agent 运行时基础设施，通过 Actor-Worker 多路复用架构实现亚秒级 Agent 挂起/恢复，支持 30 倍以上资源超售，让大规模 AI Agent 部署变得经济可行。</description>
+    </item>
+    
+    <item>
+      <title>OpenSandbox 开源解读：面向 AI 应用的通用沙箱平台，多语言 SDK 与 K8s 大规模调度</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/opensandbox/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/opensandbox/</guid>
+      <description>OpenSandbox 是 opensandbox-group 推出的通用沙箱平台，为 Coding Agent、GUI Agent、Agent 评估与 RL 训练等场景提供多语言 SDK、统一沙箱 API 与 Docker/Kubernetes 运行时，并内置强隔离、凭据保险库与网络出口管控。</description>
+    </item>
+    
+    <item>
+      <title>DevOps-Interview-Guide：收录 151 篇真实 DevOps/SRE 面试经历的开源指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</guid>
+      <description>DevOps-Interview-Guide 是一个 GitHub 开源项目，收录了 151 篇真实的 DevOps、SRE 和云工程师面试经历，覆盖 85 家公司，提供 Kubernetes、Docker、Terraform、CI/CD 等核心技术问题。</description>
+    </item>
+    
+    <item>
+      <title>K8sQuest：50 关本地闯关，把 Kubernetes 排障玩成游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</guid>
+      <description>K8sQuest 是一个本地游戏化的 Kubernetes 训练平台，内置 50 个渐进式故障排查关卡，覆盖 Pod、部署、网络、存储与安全的真实场景，无需云账号即可动手练习 kubectl 排障与调试。</description>
+    </item>
+    
     <item>
       <title>Argo CD：Kubernetes 云原生的 GitOps 持续交付利器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/argo-cd/</link>

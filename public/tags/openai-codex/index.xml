@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenAI Codex on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/openai-codex/</link>
+    <description>Recent content in OpenAI Codex on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openai-codex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Interpreter：面向低成本模型的智能编码代理</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</guid>
+      <description>Open Interpreter 是一个专注于低成本模型优化的智能编码代理，基于 OpenAI Codex 分支开发，支持多种模型 Harness、跨平台沙箱执行、计算机操作能力等特性，让开发者可以用自然语言驱动代码执行与系统操作。</description>
+    </item>
+    
+  </channel>
+</rss>

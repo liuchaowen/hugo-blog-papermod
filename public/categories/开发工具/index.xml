@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>public-apis：开发者必备的免费公共 API 大全集</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/public-apis/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/public-apis/</guid>
+      <description>public-apis 是 GitHub 上星标极高的社区维护清单，按 50&#43; 分类汇总了上千个免费公共 API，并标注鉴权方式、HTTPS 与 CORS 支持。本文介绍其数据结构、检索方式，以及如何把它用进真实项目。</description>
+    </item>
+    
     <item>
       <title>free-for-dev：开发者免费服务大全，涵盖 70&#43; 类别的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-06-27/free-for-dev/</link>

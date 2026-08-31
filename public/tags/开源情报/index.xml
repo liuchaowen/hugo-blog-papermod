@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E6%83%85%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God&#39;s Eye View：用公开数据在浏览器里造一个实时的「上帝视角」地球</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/</guid>
+      <description>God&amp;#39;s Eye View 是一个完全运行在浏览器里的实时地理空间情报控制台：基于 CesiumJS 与 Google 真实感 3D 地球，叠加全球航班、船舶、卫星、地震、交通与公共摄像头等 13 个公开数据源，还支持用 OpenAI Realtime API 语音指挥。本文拆解它的架构、技术栈与本地运行方式。</description>
+    </item>
+    
     <item>
       <title>SpiderFoot：开源情报(OSINT)自动化利器，200&#43;模块助你掌控网络空间侦察</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/spiderfoot/</link>

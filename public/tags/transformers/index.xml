@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Transformers on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/transformers/</link>
+    <description>Recent content in Transformers on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/transformers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Transformers：连接整个 ML 生态的模型定义框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/transformers/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/transformers/</guid>
+      <description>Transformers 是 Hugging Face 开源的模型定义框架，统一的模型定义让它成为 PyTorch 训练框架、vLLM 等推理引擎与各类建模库之间的枢纽。本文从源码视角解析其架构设计、Pipeline 快速上手与工程实践要点。</description>
+    </item>
+    
+  </channel>
+</rss>

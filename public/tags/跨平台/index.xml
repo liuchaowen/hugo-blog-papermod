@@ -11,7 +11,70 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenBiliClaw：本地运行的跨平台个性化内容推荐 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</guid>
+      <description>OpenBiliClaw 是一个本地运行的跨平台内容推荐 AI Agent，支持 B 站、小红书、抖音、YouTube、X、知乎等 12 个平台，通过构建五层心理画像主动破除信息茧房，数据 100% 留在本地 SQLite。</description>
+    </item>
+    
+    <item>
+      <title>RustDesk：Rust 写的远程桌面神器，开箱即用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</guid>
+      <description>RustDesk 是一款用 Rust 编写的远程桌面解决方案，跨平台支持 Windows、macOS、Linux、Android 和 iOS，无需配置即可开箱即用，支持文件传输、剪贴板同步、TCP 隧道等功能，数据完全自主可控。</description>
+    </item>
+    
+    <item>
+      <title>LocalSend: 无需互联网，跨设备本地文件传输神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/localsend/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/localsend/</guid>
+      <description>LocalSend 是一款免费开源的跨平台应用，通过本地局域网 REST API &#43; HTTPS 加密，让设备之间无需互联网即可安全地互传文件与文字消息，支持 Windows、macOS、Linux、Android、iOS 等全平台。</description>
+    </item>
+    
+    <item>
+      <title>Ladybird：一个真正独立的现代网页浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</guid>
+      <description>Ladybird 是一个从零开始构建的独立网页浏览器，采用全新的浏览器引擎，完全基于 Web 标准实现。多进程架构设计、沙盒安全隔离、跨平台支持，展现了现代浏览器开发的全新思路。</description>
+    </item>
+    
+    <item>
+      <title>Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</guid>
+      <description>Chat2DB 是一款开源免费的跨平台数据库客户端，支持 30&#43; 数据库类型，集成 AI 助手实现自然语言生成、解释和优化 SQL，适合开发者、DBA 和数据分析师日常使用。</description>
+    </item>
+    
+    <item>
+      <title>Dioxus 0.8：用 Rust 写跨平台应用，一套代码覆盖 Web、桌面、移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</guid>
+      <description>Dioxus 是一个用 Rust 编写的跨平台 UI 框架，支持 Web、桌面、移动端、SSR 等平台，一套代码多端运行。本文深入解析其核心理念、技术架构与快速上手指南。</description>
+    </item>
+    
+    <item>
+      <title>OpenCut：一套代码跨三端，开源视频编辑器进入 Rust 时代</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/opencut/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/opencut/</guid>
+      <description>OpenCut 是一个完全重写的开源视频编辑器，基于 Rust 核心实现 Web、桌面和移动端三端合一，内置插件架构、MCP 服务器和自动化批量渲染能力。</description>
+    </item>
+    
     <item>
       <title>Flutter 深度解析：Google 跨平台 UI 框架的技术架构与实战指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-24/flutter/</link>

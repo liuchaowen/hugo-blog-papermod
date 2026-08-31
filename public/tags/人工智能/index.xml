@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenJarvis：让个人 AI 真正运行在你的个人设备上</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</guid>
+      <description>OpenJarvis 是斯坦福 Hazy Research 开源的本地优先（local-first）个人 AI 框架，用共享原语、以能耗/FLOPs/延迟/成本为第一约束的评测体系，以及基于本地轨迹的学习闭环，让人人都能在本地设备上构建默认离线运行、按需上云的个人智能体。</description>
+    </item>
+    
+    <item>
+      <title>Maths, CS &amp; AI Compendium：从零构建数学、计算机与 AI 直觉的开源教材</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</guid>
+      <description>Maths, CS &amp;amp; AI Compendium 是 Henry Ndubuaku 开源的非传统教材，从直觉出发系统讲解数学、计算机与人工智能，覆盖向量、矩阵、微积分、概率、机器学习、深度学习、NLP、计算机视觉、GPU 编程、ML 系统设计等 18 个章节，并附带一个可接入任意 AI 助手的 MCP 知识库服务器。</description>
+    </item>
+    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>

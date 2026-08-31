@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Scanner：465&#43; 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</guid>
+      <description>kaifcodec/user-scanner 是一个集邮箱与用户名情报于一体的 OSINT 侦察套件，覆盖 465&#43; 扫描向量、支持跨扫描枢转、Hudson Rock 泄密情报查询、MCP 服务与多格式报告导出。本文从架构、技术原理到实战用法进行深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>Tailcat：Tailscale 出品的去中心化 netcat 替代品</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</guid>
+      <description>Tailcat 是 Tailscale 开源的创新工具，将 Tailscale 的数据平面（WireGuard 加密、NAT 穿透）与控制平面解耦，让你无需账号、无需 root、无需配置即可在两台机器间建立端到端加密隧道。本文深入解析其技术原理、使用场景与实战技巧。</description>
+    </item>
+    
     <item>
       <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>

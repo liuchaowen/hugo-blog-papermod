@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D建模 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/3d%E5%BB%BA%E6%A8%A1/</link>
+    <description>Recent content in 3D建模 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/3d%E5%BB%BA%E6%A8%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</guid>
+      <description>img2threejs 是一个 AI 驱动的 3D 重建工具，只需提供一张物体参考图，即可自动生成代码级的 Three.js 模型，支持硬表面物体和角色两类重建路径，带有动画层级和交互能力。</description>
+    </item>
+    
+  </channel>
+</rss>

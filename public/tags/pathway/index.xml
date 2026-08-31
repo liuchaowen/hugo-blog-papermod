@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pathway on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/pathway/</link>
+    <description>Recent content in Pathway on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pathway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARC-AGI 任务生成器 arc-task-gen：用分布匹配构建「防污染」的私有评测集</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/arc-task-gen/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/arc-task-gen/</guid>
+      <description>arc-task-gen 是 Pathway 开源的 ARC-AGI-1 任务生成器，通过对齐官方评测集分布并做三重新颖性过滤，自动批量产出模型不可能提前见过的私有推理任务，用于客观评估前沿模型的真实小样本推理能力。</description>
+    </item>
+    
+  </channel>
+</rss>

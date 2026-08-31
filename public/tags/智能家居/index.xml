@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Assistant Core：把本地控制与隐私放在第一位的开源智能家居中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/core/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/core/</guid>
+      <description>深入解析 Home Assistant Core 的架构设计与技术选型——基于 Python 3.14、aiohttp 异步框架与模块化集成机制，如何在树莓派或本地服务器上构建以本地控制与隐私为核心的开源智能家居系统。</description>
+    </item>
+    
     <item>
       <title>Music Assistant Server：开源多媒体库管理中心，无缝打通流媒体与智能家居</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/server/</link>

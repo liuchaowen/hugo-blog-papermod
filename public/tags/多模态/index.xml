@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%A8%A1%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agnes AI：面向多模态与 Agent 工作流的 OpenAI 兼容统一 API 网关</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/agnesai-models/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/agnesai-models/</guid>
+      <description>AgnesAI-Models 是前沿 AI 公司 Agnes AI 的官方网关与模型目录，通过统一的 OpenAI 兼容 API 为开发者提供文本、图像、视频与 Agent 工作流的多模态模型接入，并支持流式输出、工具调用与异步视频任务轮询。</description>
+    </item>
+    
+    <item>
+      <title>腾讯开源 WeMM-Embedding：统一多模态嵌入模型的新标杆</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</guid>
+      <description>WeMM-Embedding 是腾讯微信团队推出的通用多模态嵌入模型，支持文本、图像、视频、视觉文档等多种输入，在 MMEB-v2 和 v3 基准测试中取得 SOTA 性能，提供 2B、4B、9B 三个规模，支持 Matryoshka 嵌套嵌入技术实现灵活的向量维度控制。</description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformers：连接整个 ML 生态的模型定义框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/transformers/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/transformers/</guid>
+      <description>Transformers 是 Hugging Face 开源的模型定义框架，统一的模型定义让它成为 PyTorch 训练框架、vLLM 等推理引擎与各类建模库之间的枢纽。本文从源码视角解析其架构设计、Pipeline 快速上手与工程实践要点。</description>
+    </item>
+    
+    <item>
+      <title>MiniMax H3 开源解读：33B 全模态 Transformer 如何原生生成 2K 视频与立体声音频</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/minimax-h3/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/minimax-h3/</guid>
+      <description>MiniMax-AI 开源 H3 全模态生成系统：基于 33B 单流 Omni-Transformer，统一编码文本/图像/视频/音频，原生输出最高 2K、最长 15 秒、带 32kHz 立体声音频的视频。本文深入拆解其架构、Context-IR 预处理、VAE 设计与本地部署实战。</description>
+    </item>
+    
     <item>
       <title>Claude Video: 让 AI 真正「看懂」视频的开源神器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-06/claude-video/</link>

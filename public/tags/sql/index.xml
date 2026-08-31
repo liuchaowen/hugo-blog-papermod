@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/sql/</link>
+    <description>Recent content in SQL on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</guid>
+      <description>Chat2DB 是一款开源免费的跨平台数据库客户端，支持 30&#43; 数据库类型，集成 AI 助手实现自然语言生成、解释和优化 SQL，适合开发者、DBA 和数据分析师日常使用。</description>
+    </item>
+    
+  </channel>
+</rss>

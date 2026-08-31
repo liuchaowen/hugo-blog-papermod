@@ -11,7 +11,97 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprix SAGE Router：面向开放 A2A 网络的检查点感知式中途重路由</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/sprix-sage-router/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/sprix-sage-router/</guid>
+      <description>Sprix SAGE Router 是屿智同行 Sprix AI 开源的 A2A 决策层路由，能在任务执行中途基于已完成 DAG 节点、可复用产物、预算与截止时间，决定继续、协作还是交接。本文解析其算法、A2A 集成与基准实验。</description>
+    </item>
+    
+    <item>
+      <title>AgentConnect：把多个 AI 智能体接入团队工作流的开源平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/agentconnect/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/agentconnect/</guid>
+      <description>AgentConnect 是一个开源的多智能体协作平台，让 Claude Code、Codex、Grok、DeepSeek 等任意 ACP 兼容智能体在 Slack、Telegram、Discord、Lark 以及 GitHub/GitLab 中与团队并肩工作。本文从架构、核心特性、快速部署到实战用法，带你看懂这个项目。</description>
+    </item>
+    
+    <item>
+      <title>Cumora：让 AI 智能体成为团队一等公民的跨平台协作工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/cumora/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/cumora/</guid>
+      <description>Cumora 是一个跨平台团队聊天工具，把 AI 智能体当作与人类同等的成员：共享同一个通讯录、群聊、看板与日历，支持云端托管或 Bring Your Own Agent 本地运行，并通过 seen-cursor 门控与原子化任务抢占实现多智能体无冲突协作。</description>
+    </item>
+    
+    <item>
+      <title>Munder Difflin：多智能体协作办公系统，让 AI 克隆体 7x24 小时代你工作</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</guid>
+      <description>Munder Difflin 是一款免费开源的桌面应用，将 Claude Code、OpenAI Codex、xAI Grok 等终端 AI 工具包装成具备记忆、邮箱和办公桌位的智能体，由你的克隆体 Michael 协调整个团队在本地机器上自主协作，实现真正的多智能体自动化办公。</description>
+    </item>
+    
+    <item>
+      <title>Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/brigade/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/brigade/</guid>
+      <description>Brigade 是一个完全自托管的个人 AI Agent 生态：一套共享长期记忆（Tideline）的智能体「军团」，支持真实组织架构成员协作、跨模型无缝切换、1000&#43; 应用连接器与多消息渠道，所有密钥与数据都留在你自己的机器上。</description>
+    </item>
+    
+    <item>
+      <title>MiroFish：用群体智能引擎预测万物的数字推演实验室</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/mirofish/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/mirofish/</guid>
+      <description>MiroFish 是一个简洁通用的群体智能引擎，通过提取现实世界的种子信息（突发新闻、政策草案、金融信号等），自动构建高保真平行数字世界，让数千个具有独立人格、长期记忆和行为逻辑的智能体在其中自由交互与社会化演进，帮你推演未来。</description>
+    </item>
+    
+    <item>
+      <title>BrainPilot：一个用 Agent 自动化脑科学研究的开源平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/brainpilot/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/brainpilot/</guid>
+      <description>BrainPilot 是 NeuroAIHub 开源的多智能体脑科学研究平台，基于 PI Agent 协调 Librarian、Experimentalist、Engineer、Writer、Auditor 等专业智能体，通过 Graph of Trace 可视化全流程，支持文献综述、实验设计、数据分析、报告撰写和科学审计。</description>
+    </item>
+    
+    <item>
+      <title>LobeHub：把 AI Agent 当成「团队组员」来雇佣、调度与汇报的开源智能体工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</guid>
+      <description>LobeHub 是一个开源的 AI Agent 工作与生活空间，把 Agent 当作工作单元（Unit of Work），提供招聘、调度、协作与个性化记忆能力，并支持 Docker / Vercel 一键自托管。本文深入解析其设计理念、核心架构、技术栈与快速上手方式。</description>
+    </item>
+    
+    <item>
+      <title>AI Hedge Fund：多智能体协作的 AI 对冲基金系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</guid>
+      <description>一个基于多智能体架构的 AI 对冲基金概念验证项目，融合了巴菲特、芒格、达摩达兰等13位投资大师的投资哲学，通过基本面、技术面、情绪分析等多维度信号辅助投资决策。</description>
+    </item>
+    
+    <item>
+      <title>OpenMAIC：用多智能体把任意主题一键变成沉浸式 AI 互动课堂</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</guid>
+      <description>OpenMAIC（Open Multi-Agent Interactive Classroom）是清华 MAIC 团队开源的 AI 教学平台，基于 LangGraph 多智能体编排，把任意主题或文档一键生成幻灯片、测验、交互仿真与项目式学习，并由可语音、可画白板的 AI 老师和 AI 同学实时授课。本文拆解其架构、技术栈与快速上手。</description>
+    </item>
+    
     <item>
       <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>

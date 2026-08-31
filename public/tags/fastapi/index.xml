@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/fastapi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/fastapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>freeAgentIdentity：本地化账号批量注册、登录恢复与资源池管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/freeagentidentity/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/freeagentidentity/</guid>
+      <description>freeAgentIdentity（aBaiAutoplus）是一个面向本地部署的账号注册、登录恢复、验活与资源池管理平台，采用 FastAPI 后端 &#43; React 前端，将协议注册、浏览器注册、密码与 2FA、401 刷新、邮箱池与代理池串成一套可观察、可停止、可复用的任务流程。</description>
+    </item>
+    
+    <item>
+      <title>Spider Panel：一站式 VLESS 代理面板与多地区 Cloudflare Worker 中继</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/spider--panel/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/spider--panel/</guid>
+      <description>Spider Panel 是一个基于 FastAPI 的 VLESS/XHTTP/WS-TLS 订阅与代理中继管理面板，支持 Railway &#43; Cloudflare Workers 部署。核心亮点包括：Reality 密钥由 Xray 二进制生成、浏览器端 IP 扫描、多地区 Worker 代理池自动同步、用户订阅页面自动生成，实现流量不经 Railway 直连出口。</description>
+    </item>
+    
+    <item>
+      <title>RVG Gateway：一款高性能多协议代理网关服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/rvg/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/rvg/</guid>
+      <description>RVG Gateway 是基于 FastAPI 构建的异步多协议代理网关，支持 VLESS、Trojan、Shadowsocks 和 MTProto 等协议，具备模块化设计、内置管理面板和自动化部署能力。</description>
+    </item>
+    
     <item>
       <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>

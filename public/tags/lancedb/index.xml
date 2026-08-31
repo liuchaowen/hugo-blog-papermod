@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LanceDB on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/lancedb/</link>
+    <description>Recent content in LanceDB on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/lancedb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EverOS：让 AI 代理拥有持久化记忆的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/everos/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/everos/</guid>
+      <description>EverOS 是一个 Python 库和本地优先的 AI 记忆运行时，它以人类可读的 Markdown 文件为核心存储层，配合 SQLite 和 LanceDB 实现快速检索，赋予 AI 编码助手、App 和工作流跨越会话的持久记忆能力。</description>
+    </item>
+    
+  </channel>
+</rss>

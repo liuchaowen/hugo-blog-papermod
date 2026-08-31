@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>瑞士风 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%91%9E%E5%A3%AB%E9%A3%8E/</link>
+    <description>Recent content in 瑞士风 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%91%9E%E5%A3%AB%E9%A3%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
+      <description>Guizang PPT Skill 是一个面向 Claude Code / Codex 等 Agent 环境的网页 PPT 技能，能生成单文件 HTML 横向翻页 PPT、PPT 配图与多平台封面，并内置完整的排练与演讲者模式。本文拆解其双视觉系统、版式锁定机制与本地演讲者运行时。</description>
+    </item>
+    
+  </channel>
+</rss>

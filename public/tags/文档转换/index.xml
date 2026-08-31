@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E8%BD%AC%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E8%BD%AC%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</guid>
+      <description>anydoc 是 Firecrawl 团队开源的 Rust 库，支持 14 种文档格式（Word、Excel、PPT、PDF、RTF、EPUB 等）在单数字毫秒级转换为统一的 GitHub-Flavored Markdown，提供 Node.js、Python、WASM 多语言绑定，并可作为 Agent Skill 直接集成到 AI 编程助手中。</description>
+    </item>
+    
     <item>
       <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
       <link>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</link>

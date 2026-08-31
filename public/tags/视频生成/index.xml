@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MiniMax H3 开源解读：33B 全模态 Transformer 如何原生生成 2K 视频与立体声音频</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/minimax-h3/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/minimax-h3/</guid>
+      <description>MiniMax-AI 开源 H3 全模态生成系统：基于 33B 单流 Omni-Transformer，统一编码文本/图像/视频/音频，原生输出最高 2K、最长 15 秒、带 32kHz 立体声音频的视频。本文深入拆解其架构、Context-IR 预处理、VAE 设计与本地部署实战。</description>
+    </item>
+    
+    <item>
+      <title>LongCat-Video：美团开源的 136 亿参数视频生成基础模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/longcat-video/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/longcat-video/</guid>
+      <description>LongCat-Video 是美团长猫团队开源的 136 亿参数视频生成基础模型，统—支持文生视频、图生视频和视频续写三大任务，在长视频生成和高效推理方面表现优异。</description>
+    </item>
+    
+    <item>
+      <title>video-shotcraft：将 AI 变成影视级产品视频工作室</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/video-shotcraft/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/video-shotcraft/</guid>
+      <description>video-shotcraft 是一个基于 Remotion 的 AI Agent 技能，让 Claude Code 或 Codex 化身影视工作室，通过 106 个镜头配方卡、162 种风格和完整的「Ink Press」视频模板，轻松制作 Cinematic 产品宣传视频。</description>
+    </item>
+    
+    <item>
+      <title>scroll-world：打造沉浸式滚动驱动的世界飞行着陆页</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</guid>
+      <description>scroll-world 是一个 Agent 技能工具，能够为任意行业或品牌构建沉浸式的滚动驱动的「飞行穿越世界」着陆页。用户滚动页面时，摄像机从场景外部飞入内部，然后无缝流转到下一个场景，整个体验连贯无剪辑，适合打造类似 Apple 产品页的炫酷滚动动画效果。</description>
+    </item>
+    
     <item>
       <title>Open Generative AI：打破内容过滤的开源 AI 创作工作室，200&#43; 模型自由调用</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/open-generative-ai/</link>

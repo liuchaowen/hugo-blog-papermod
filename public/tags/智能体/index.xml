@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>智能体 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E4%BD%93/</link>
+    <description>Recent content in 智能体 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hindsight：让 AI 智能体真正「学习」而非只是记忆的开源记忆系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/hindsight/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/hindsight/</guid>
+      <description>Hindsight 是 vectorize-io 开源的智能体记忆系统，主打让 Agent 随时间「学习」而非仅回溯对话。它在 LongMemEval 基准上达到 SOTA，用仿生数据结构与 retain/recall/reflect 三段式操作替代传统 RAG 与知识图谱。</description>
+    </item>
+    
+    <item>
+      <title>Nasiko：一个开源的 AI Agent 控制平面，一键部署任何 A2A 智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</guid>
+      <description>Nasiko 是由 Nasiko-Labs 开发的开源 AI Agent 控制平面，通过单一二进制程序为所有 Agent 提供路由、工具访问、密钥管理与可观测性，彻底解决多 Agent 协作时的运维难题。</description>
+    </item>
+    
+    <item>
+      <title>David Ondrej 官方 Agent Skills：可复用的 AI 智能体工作流技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/skills/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/skills/</guid>
+      <description>davidondrej/skills 是 David Ondrej 维护的官方 Agent Skills 合集，将编码、研究、写作等可重复工作流打包为可加载的 SKILL.md 指令，是构建 AI 智能体能力的实用积木。</description>
+    </item>
+    
+    <item>
+      <title>QM：用 Slack 和网页驱动的多智能体团队协作平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/qm/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/qm/</guid>
+      <description>QM 是一个面向初创公司的多智能体（Multi-Agent）协作平台，支持在 Slack 和网页中共享记忆、文件、凭证和工作流，每个成员拥有独立隔离的工作空间，同时又能跨渠道协作。</description>
+    </item>
+    
+    <item>
+      <title>Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</guid>
+      <description>Kimi Code CLI 是 Moonshot AI（月之暗面）推出的终端 AI 编程智能体，单文件分发、毫秒级启动，支持视频输入、AI 原生 MCP 配置、子智能体并行、生命周期钩子与 ACP 编辑器集成，开箱即用 Kimi 模型，也可接入兼容服务商。</description>
+    </item>
+    
+  </channel>
+</rss>

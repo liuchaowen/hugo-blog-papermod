@@ -177,6 +177,10 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      # 允许渲染 Markdown 里的原生 HTML（部分文章内嵌 HTML 标签）
+      unsafe: true
   highlight:
     noClasses: false
     # anchorLineNos: true

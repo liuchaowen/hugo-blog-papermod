@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/crm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/crm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macro：一站式团队工作平台，邮件、消息、文档、任务、CRM 一体化管理</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/macro/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/macro/</guid>
+      <description>Macro 是由 macro-inc 打造的 all-in-one 工作操作系统，将邮件、消息、文档、任务、Agent、CRM 统一到一个极速界面，支持团队级记忆与 MCP 集成。</description>
+    </item>
+    
+    <item>
+      <title>Comp CRM：一个以 AI Agent 为核心的开源 CRM 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/crm/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/crm/</guid>
+      <description>Comp CRM 是一个革命性的开源 CRM 系统，与传统 CRM 不同，它以 AI Agent 为核心设计理念。Agent 不是 CRM 的功能，CRM 只是 Agent 记录笔记的地方。基于 Vercel eve 框架构建，支持持久化会话、自主调度、沙箱执行，真正实现了自动化客户关系管理。</description>
+    </item>
+    
     <item>
       <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>

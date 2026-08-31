@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWork：让 AI 工作流跨 Agent 共享的开源桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/openwork/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/openwork/</guid>
+      <description>OpenWork 是开源的 AI 工作流共享桌面应用，通过 MCP 协议让 Codex、Claude Code、Cursor 等 Agent 复用同一套 skills、MCP 与连接服务，并配套 OpenWork Den 企业级控制台统一管理推理资源、权限与技能市场。</description>
+    </item>
+    
     <item>
       <title>Babysitter: 用代码定义 AI 工作流，让代理严格按流程执行</title>
       <link>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</link>

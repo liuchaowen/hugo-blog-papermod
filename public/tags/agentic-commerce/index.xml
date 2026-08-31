@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agentic Commerce on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/agentic-commerce/</link>
+    <description>Recent content in Agentic Commerce on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agentic-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet Court Skill：为 AI Agent 经济打造的开放纠纷裁技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</guid>
+      <description>Internet Court 是一个开源 Agent 技能，将碎片化的 Agent 间交易协议栈（六层标准）统一封装，并独家加入纠纷裁审层，让 AI Agent 在无人值守的情况下也能安全交易、放心协作。</description>
+    </item>
+    
+  </channel>
+</rss>

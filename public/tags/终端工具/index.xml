@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>Superfile：现代化的终端文件管理器，让命令行操作更优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/superfile/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/superfile/</guid>
+      <description>Superfile 是一个用 Go 语言编写的现代终端文件管理器，提供直观的 TUI 界面、丰富的快捷键、插件系统和主题定制功能，支持 macOS、Linux 和 Windows，是命令行用户的效率利器。</description>
+    </item>
+    
     <item>
       <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>

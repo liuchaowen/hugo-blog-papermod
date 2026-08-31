@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyprland on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/hyprland/</link>
+    <description>Recent content in Hyprland on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyprland：打造最炫酷的 Wayland 动态平铺窗口管理器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/hyprland/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/hyprland/</guid>
+      <description>Hyprland 是一款完全独立开发的现代化 Wayland 合成器，主打高颜值与极致可定制，提供渐变边框、模糊、动画、阴影等华丽视觉效果，同时保持极高性能与动态平铺能力。</description>
+    </item>
+    
+  </channel>
+</rss>

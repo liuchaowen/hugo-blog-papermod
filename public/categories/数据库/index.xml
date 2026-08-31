@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Cassandra：面向云原生时代的高性能分布式数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/cassandra/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/cassandra/</guid>
+      <description>Apache Cassandra 是一款高度可扩展的分布式 NoSQL 数据库，采用去中心化架构，支持多数据中心复制与线性扩展。本文深入解析其核心架构、技术原理及实战用法。</description>
+    </item>
+    
+    <item>
+      <title>pgrust: 用 Rust 从头重写 Postgres，已通过 46000&#43; 回归测试</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</guid>
+      <description>pgrust 是一个用 Rust 从头重写 Postgres 的开源项目，目标兼容 Postgres 18.3，已通过超过 46000 条回归测试。它与 Postgres 磁盘兼容，可直接启动现有数据目录，并已在事务负载上比 Postgres 快 50%、分析负载上快约 300 倍。</description>
+    </item>
+    
     <item>
       <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
       <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>

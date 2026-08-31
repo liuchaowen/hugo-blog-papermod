@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>气象 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%B0%94%E8%B1%A1/</link>
+    <description>Recent content in 气象 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B0%94%E8%B1%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WeatherNext：Google DeepMind 的 AI 全球中短期天气预报模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/weathernext/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/weathernext/</guid>
+      <description>WeatherNext 2（WN2）是 Google DeepMind 发布的全球中短期大气与热带气旋 AI 预报模型，由 GraphCast、GenCast 演进而来，提供 0.25° 分辨率、可直接用 HRES 初始场驱动，并开放 Colab 演示、预训练权重与 Google Cloud 数据推送。本文解析其架构、使用方式与适用场景。</description>
+    </item>
+    
+  </channel>
+</rss>

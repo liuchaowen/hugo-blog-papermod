@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>建筑建模 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BB%BA%E7%AD%91%E5%BB%BA%E6%A8%A1/</link>
+    <description>Recent content in 建筑建模 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BB%BA%E7%AD%91%E5%BB%BA%E6%A8%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pascal Editor：一个基于 WebGPU 的专业级 3D 建筑编辑器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/editor/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/editor/</guid>
+      <description>Pascal Editor 是一个开源的 3D 建筑编辑器，基于 React Three Fiber 和 WebGPU 构建，提供模块化节点系统、实时几何生成和插件扩展能力，适合建筑建模、室内设计及 BIM 可视化场景。</description>
+    </item>
+    
+  </channel>
+</rss>

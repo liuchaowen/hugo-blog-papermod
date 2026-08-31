@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>下载工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 下载工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motrix v2 Turbo：基于 MDXP 协议重构的全功能下载管理器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/motrix/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/motrix/</guid>
+      <description>Motrix v2（代号 Turbo）用 Electron &#43; React &#43; TypeScript 从零重写，核心与 UI 解耦，通过 MDXP（JSON-RPC 2.0）开放协议连接浏览器扩展、CLI 与插件沙箱，并支持桌面端、无头服务器与 Docker 部署。</description>
+    </item>
+    
+    <item>
+      <title>OmniGet：一款支持 1800&#43; 站点的全能开源下载器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/omniget/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/omniget/</guid>
+      <description>OmniGet 是一款跨平台开源桌面应用，一站式下载 Udemy 在线课程、YouTube/B站视频、音乐、电子书，支持 1800&#43; 站点，全程无需命令行，GitHub 开源免费。</description>
+    </item>
+    
+  </channel>
+</rss>

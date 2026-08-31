@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps-Interview-Guide：收录 151 篇真实 DevOps/SRE 面试经历的开源指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/devops-interview-guide/</guid>
+      <description>DevOps-Interview-Guide 是一个 GitHub 开源项目，收录了 151 篇真实的 DevOps、SRE 和云工程师面试经历，覆盖 85 家公司，提供 Kubernetes、Docker、Terraform、CI/CD 等核心技术问题。</description>
+    </item>
+    
+    <item>
+      <title>Openship: 开源一键部署平台, 推代码即上线</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/openship/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/openship/</guid>
+      <description>Openship 是一款开源、自托管的部署平台, 内置 CI/CD, 支持任意技术栈, 提供桌面 App、Web 面板和 CLI 三种操作界面, 让部署像 git push 一样简单。</description>
+    </item>
+    
+    <item>
+      <title>NullHub：一个 Zig 构建的本地化 AI 工具管理中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</guid>
+      <description>NullHub 是一款基于 Zig 0.16.0 &#43; Svelte 5 构建的开源本地管理工具，通过单个二进制文件即可安装、配置、监控和更新 NullClaw 生态中的所有组件（NullClaw、NullBoiler、NullTickets、NullWatch），并提供内置 Svelte Web UI。</description>
+    </item>
+    
+    <item>
+      <title>3x-ui-Upgrade：基于 Railway 单端口部署的代理面板方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/3x-ui-upgrade/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/3x-ui-upgrade/</guid>
+      <description>深入解析 x4gKing/3x-ui-Upgrade——一个把 Heimdall（3x-ui 改进版）面板与 Nginx 反代结合，在 Railway 上用单个端口同时承载管理面板、订阅与 VLESS/WebSocket 入站的开源部署方案。</description>
+    </item>
+    
+    <item>
+      <title>Terraform 1.x：基础设施即代码的工业级实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/terraform/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/terraform/</guid>
+      <description>Terraform 是 HashiCorp 出品的开源基础设施即代码（IaC）工具，通过声明式配置语法管理云资源，支持 200&#43; 提供商，提供执行计划、资源图谱和变更自动化三大核心能力。</description>
+    </item>
+    
     <item>
       <title>Gas Town：一个让多个 AI 编程助手协同工作的多智能体编排系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-06/gastown/</link>

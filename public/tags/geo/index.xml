@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GEO on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/geo/</link>
+    <description>Recent content in GEO on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/geo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GEO Citation Lab：用可复查数据研究 AI 搜索如何引用与呈现实体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/geo-citation-lab/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/geo-citation-lab/</guid>
+      <description>GEO Citation Lab 是一个面向 AI 搜索引用机制的公开实证研究工作台，整合跨平台引用实验与 CN-GEO 中文数据集，配套分析脚本与可视化报告，帮助研究者量化生成式搜索的信源选择、内容吸收与实体曝光。</description>
+    </item>
+    
+  </channel>
+</rss>

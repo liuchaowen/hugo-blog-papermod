@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>云计算 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</link>
+    <description>Recent content in 云计算 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/substrate/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/substrate/</guid>
+      <description>Agent Substrate 是 Google 开源的高性能 Agent 运行时基础设施，通过 Actor-Worker 多路复用架构实现亚秒级 Agent 挂起/恢复，支持 30 倍以上资源超售，让大规模 AI Agent 部署变得经济可行。</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/computer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/computer/</guid>
+      <description>Cloudflare Computer 是一个运行在 Durable Object 内部的虚拟文件系统，通过 SQLite 持久化状态，并提供 Container、Isolate Shell、Isolate JavaScript 三种可插拔执行后端，可在云端 Sandbox 中运行完整 Linux 环境、bash 命令或 ECMAScript 模块。</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Knowledge Catalog：AI 驱动的企业数据目录与元数据管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/knowledge-catalog/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/knowledge-catalog/</guid>
+      <description>Google Cloud Knowledge Catalog（原 Dataplex）是一个 AI 驱动的数据目录和元数据管理平台，通过动态知识图谱为企业数据提供语义和业务上下文，助力 AI 智能体更好地理解和利用数据资产。</description>
+    </item>
+    
+    <item>
+      <title>Terraform 1.x：基础设施即代码的工业级实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/terraform/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/terraform/</guid>
+      <description>Terraform 是 HashiCorp 出品的开源基础设施即代码（IaC）工具，通过声明式配置语法管理云资源，支持 200&#43; 提供商，提供执行计划、资源图谱和变更自动化三大核心能力。</description>
+    </item>
+    
+  </channel>
+</rss>

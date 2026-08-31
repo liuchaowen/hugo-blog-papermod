@@ -11,7 +11,70 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/deepseek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome DSH Plugin：DeepSeek Harness 插件生态精选</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</guid>
+      <description>Awesome DSH Plugin 是 DeepSeek Harness (DSH) 插件生态的精选列表，收录了社区开发的各类插件，涵盖 UI 增强、主题外观、模型提供商、工具扩展等多个类别，支持一键安装和即插即用。</description>
+    </item>
+    
+    <item>
+      <title>J-Space Cognition Suite V3.6：让AI拥有深度推理与长期任务能力的推理时控制系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</guid>
+      <description>J-Space Cognition Suite V3.6 是一个模型无关的推理时控制系统，通过选择性加载工作空间、广播中心和元认知控制等机制，显著提升大模型的深度推理、长期任务执行、工具使用和恢复能力，在多个基准测试中实现了2-3倍的效率提升。</description>
+    </item>
+    
+    <item>
+      <title>用 DeepSeek Harness 打造本地 AI 工作台：DeepSeek Harness Desktop App 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/deepseek-harness-desktop-app/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/deepseek-harness-desktop-app/</guid>
+      <description>DeepSeek Harness Desktop App 是构建在 DeepSeek Harness（DSH）之上的本地 AI 桌面工作台，基于 Electron 与同一套 Session/Agent/Tool/Skill/MCP 运行时，集成项目管理、Git Worktree、Canvas、本地 Site 与 Office 产物，把 AI 对话与研发工作流统一在同一个桌面应用中。</description>
+    </item>
+    
+    <item>
+      <title>Awesome DeepSeek Agent：把 DeepSeek 模型装进你常用的 AI 编码助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</guid>
+      <description>deepseek-ai 出品的 Awesome DeepSeek Agent 是一份精心整理的指南清单，手把手教你把 DeepSeek-V4 系列模型接入 AstrBot、Claude Code、Cline、OpenClaw 等 20&#43; 主流 AI Agent 与编码工具。本文带你一览清单全貌、剖析接入原理，并给出快速上手示例。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek Harness Desktop：为 AI Agent 打造开箱即用的桌面端体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/deepseek-harness-desktop/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/deepseek-harness-desktop/</guid>
+      <description>DeepSeek Harness Desktop 是一款将 DeepSeek Harness 本地 Web UI 封装为原生桌面应用的工具，无需安装 Node.js 或执行命令即可使用 AI Agent，支持插件市场、手机远程控制和多平台 IM 通道接入。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>DwarfStar：专精 DeepSeek V4 Flash 的轻量级本地推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/ds4/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/ds4/</guid>
+      <description>DwarfStar（ds4）是知名开发者 antirez 推出的超轻量原生推理引擎，专为 DeepSeek V4 Flash 优化，同时支持 GLM 5.2 和 DeepSeek V4 PRO，以极简代码和极致性能著称。</description>
+    </item>
+    
     <item>
       <title>DeepSpec：DeepSeek 开源的投机解码全栈训练与评估框架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/deepspec/</link>

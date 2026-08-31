@@ -11,7 +11,97 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专利点挖掘与交底书编写利器：patent-disclosure-skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</guid>
+      <description>一个功能强大的 AI 技能，支持发明/实用新型/外观设计三种专利类型的交底书编写，以及公开专利的通俗解读与知识图谱构建，帮助研发人员高效完成专利申请全流程。</description>
+    </item>
+    
+    <item>
+      <title>GitNexus：把代码库编译成知识图谱，让 AI Agent 不再「盲改」代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</guid>
+      <description>GitNexus（Akon Labs）将任意代码库索引为知识图谱（依赖、调用链、聚类、执行流），再通过 17 个智能 MCP 工具暴露给 Cursor、Claude Code、Codex 等 AI 编程 Agent。本文深入解析其架构、技术栈、MCP 工具与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</guid>
+      <description>MyContext 是一个本地优先的个人工作上下文记忆系统，将散落在 IM、文档、日历、会议中的信息持续整理为私有、可演进的个人知识图谱，让大模型和 AI Agent 能够真正理解你的工作上下文。</description>
+    </item>
+    
+    <item>
+      <title>Docling Graph：将文档转化为结构化知识图谱的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</guid>
+      <description>Docling Graph 是 IBM 开源的工具包，可将 PDF、图片等文档通过 LLM 或 VLM 提取为 Pydantic 对象，进而构建带 provenance 的有向知识图谱，支持化学、金融、法律等高精度领域。</description>
+    </item>
+    
+    <item>
+      <title>Code-Graph-RAG：用知识图谱 &#43; RAG 彻底搞懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
+      <description>Code-Graph-RAG 是一款开源的多语言代码库 RAG 工具，基于 Tree-sitter 解析代码 AST，构建到 Memgraph 图数据库中，再用自然语言驱动 AI 查询、编辑和优化代码，支持 12 种编程语言。</description>
+    </item>
+    
+    <item>
+      <title>GBrain：YC 掌门人打造的 AI Agent 记忆大脑，让搜索给出答案而非网页</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/gbrain/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/gbrain/</guid>
+      <description>GBrain 是 Y Combinator 总裁 Garry Tan 开源的个人知识大脑，集成了合成式回答、自连知识图谱与全天候增量学习，可作为 AI Agent 的检索层或团队共享的组织记忆。本文从架构、技术原理、安装与实战角度深入解析。</description>
+    </item>
+    
+    <item>
+      <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/semantica/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/semantica/</guid>
+      <description>深度解析 GitHub Trending 项目 Semantica：一个图原生、确定性、可自托管的 AI Agent 上下文与问责基础设施。涵盖 Context Graph、决策智能、W3C PROV-O 溯源、Rete/Datalog 推理引擎的架构原理、安装实战与常见问题排查。</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Knowledge Catalog：AI 驱动的企业数据目录与元数据管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/knowledge-catalog/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/knowledge-catalog/</guid>
+      <description>Google Cloud Knowledge Catalog（原 Dataplex）是一个 AI 驱动的数据目录和元数据管理平台，通过动态知识图谱为企业数据提供语义和业务上下文，助力 AI 智能体更好地理解和利用数据资产。</description>
+    </item>
+    
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
+    <item>
+      <title>Graphify：将代码库转化为可查询的知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
+    </item>
+    
     <item>
       <title>Cognee：开源 AI Agent 长期记忆平台实战解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/cognee/</link>

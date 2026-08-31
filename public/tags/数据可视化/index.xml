@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>把 Google 地图时间线变成动态旅行视频：google-timeline-visualizer 技术解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</guid>
+      <description>google-timeline-visualizer 能把 Google 地图时间线导出的 JSON 变成动态旅行视频。本文从源码解析其 Web Mercator 投影、大圆插值、长途压缩与相机平滑等核心实现。</description>
+    </item>
+    
+    <item>
+      <title>prettymaps：用一行 Python 把任意地点画成艺术地图</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/prettymaps/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/prettymaps/</guid>
+      <description>prettymaps 是一个基于 OpenStreetMap 的极简 Python 地图绘图库，底层由 osmnx、matplotlib、shapely 与 vsketch 驱动。本文拆解它的技术原理、核心参数、安装方法、实战示例与常见问题，带你用一行代码把任意城市街区画成风格化艺术地图。</description>
+    </item>
+    
+    <item>
+      <title>Lieflat Charts：给 AI Agent 用的专业数据可视化 Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/lieflat-charts/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/lieflat-charts/</guid>
+      <description>Lieflat Charts 是一套遵循 Agent Skills 格式的数据可视化与报告生成 skill，支持 moxt、Claude Code、Codex 等 AI agent，可生成 Lupi 编辑叙事型、Glance 快读型、Basics 基础型三类图表，以及 12 套中英文整页报告模板。</description>
+    </item>
+    
+    <item>
+      <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</guid>
+      <description>ChartGPU 是一个基于 WebGPU 的高性能图表渲染库，支持百万级数据点实时流式更新、多图表共享 GPU 设备、2D/3D 图表渲染，零 npm 运行时依赖，MIT 协议开源。</description>
+    </item>
+    
+    <item>
+      <title>GeoLibre：一个免费开源、云原生、可在浏览器/桌面/Jupyter 随处运行的轻量级 GIS 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/geolibre/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/geolibre/</guid>
+      <description>GeoLibre 是基于 Tauri v2、React、MapLibre GL JS 与 DuckDB-WASM Spatial 构建的开源 GIS 平台，支持在浏览器、桌面、移动端与 Jupyter 中可视化、分析地理空间数据，数据全程本地、隐私可控。本文解析其架构、技术栈与实战用法。</description>
+    </item>
+    
     <item>
       <title>World Monitor：AI 驱动的实时全球情报态势感知平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/worldmonitor/</link>

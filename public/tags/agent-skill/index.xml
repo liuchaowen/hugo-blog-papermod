@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agent Skill on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/agent-skill/</link>
+    <description>Recent content in Agent Skill on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent-skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nihaisha：用 AI Agent 技能把倪海厦中医课程变成可检索、可追溯的学习助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/</guid>
+      <description>nihaisha 是一个将倪海厦中医课程体系蒸馏成 AI Agent Skill 的开源项目，支持按症状、方剂、穴位、课程模块检索，配有 2986 张截图证据和 3003 张 PDF 页级证据，学习中医经典不再无从下手。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/redis/</link>
+    <description>Recent content in Redis on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WeChat-AI：自托管微信角色扮演机器人，支持 iLink 多节点部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/wechat-ai/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/wechat-ai/</guid>
+      <description>WeChat-AI 是一个基于腾讯 iLink 协议的开源微信角色扮演机器人，支持 LINUX DO OAuth 登录、远端 Redis 存储、Chatflow 可视化编排，并可通过 Cloudflare Worker 实现多节点负载均衡部署。</description>
+    </item>
+    
+  </channel>
+</rss>

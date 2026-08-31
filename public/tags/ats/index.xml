@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ATS on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ats/</link>
+    <description>Recent content in ATS on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</guid>
+      <description>ResumeSkills 是一个面向 Claude Code 等 AI 助手的技能集合，包含 20 个专业简历优化技能，覆盖 ATS 优化、面试准备、薪资谈判等求职全流程，帮助求职者提升 2-3 倍面试机会。</description>
+    </item>
+    
+  </channel>
+</rss>

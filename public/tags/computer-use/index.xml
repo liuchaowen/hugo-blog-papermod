@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Use on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/computer-use/</link>
+    <description>Recent content in Computer Use on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/computer-use/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</guid>
+      <description>pi-computer-use 是一个 Pi Agent 扩展，让 AI 能够观察和控制 macOS 14&#43; 与 Windows 桌面应用。通过 Accessibility API 和 CDP，它提供 find_roots、observe_ui、act_ui 等工具，使 Agent 在没有 API 或 MCP 时也能操作正常桌面软件。</description>
+    </item>
+    
+  </channel>
+</rss>

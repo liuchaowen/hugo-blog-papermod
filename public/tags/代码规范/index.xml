@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代码规范 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/</link>
+    <description>Recent content in 代码规范 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checkstyle：守护 Java 代码规范的自动化审查利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/checkstyle/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/checkstyle/</guid>
+      <description>Checkstyle 是 Java 生态中历史最悠久、覆盖最全面的代码规范检查工具，通过可扩展的模块配置在编译前捕获命名、格式、设计等数百类问题，轻松嵌入 Maven/Gradle 与 CI 流水线，是保障团队代码一致性的基础设施。</description>
+    </item>
+    
+    <item>
+      <title>JetBrains 发布 go-modern-guidelines：让 AI 编码助手写出地道 Go 代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</guid>
+      <description>JetBrains 开源 go-modern-guidelines 项目，为 AI 编码代理提供从 Go 1.0 到 1.27 的现代 Go 编码规范，解决 AI 训练数据滞后和频率偏差两大痛点，让 Claude Code、Cursor 等工具自动生成符合最新语言特性的高质量 Go 代码。</description>
+    </item>
+    
+  </channel>
+</rss>

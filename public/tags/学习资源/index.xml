@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 超全编程实战教程合集：Project Based Learning 完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/project-based-learning/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/project-based-learning/</guid>
+      <description>Project Based Learning 是 GitHub 上一个超人气编程实战教程合集，汇聚了 20&#43; 编程语言、数百个从零构建完整应用的实战项目，覆盖解释器、编译器、操作系统、游戏引擎等高阶主题，是开发者进阶的不二之选。</description>
+    </item>
+    
     <item>
       <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
       <link>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</link>

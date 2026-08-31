@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Models 101：免费互动课程，一次性搞清楚什么是世界模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</guid>
+      <description>World Models 101 是一个免费的互动课程，用 9 个章节、约两小时，带你从零搞懂世界模型（World Model）的五种定义、核心原理与最新前沿进展，无需注册，随学随用。</description>
+    </item>
+    
+    <item>
+      <title>WeatherNext：Google DeepMind 的 AI 全球中短期天气预报模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/weathernext/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/weathernext/</guid>
+      <description>WeatherNext 2（WN2）是 Google DeepMind 发布的全球中短期大气与热带气旋 AI 预报模型，由 GraphCast、GenCast 演进而来，提供 0.25° 分辨率、可直接用 HRES 初始场驱动，并开放 Colab 演示、预训练权重与 Google Cloud 数据推送。本文解析其架构、使用方式与适用场景。</description>
+    </item>
+    
+    <item>
+      <title>ANE Training：在苹果神经引擎上训练神经网络的开源突破</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/ane/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/ane/</guid>
+      <description>ANE Training 是一个开源项目，通过逆向工程苹果私有 API，首次实现在 Apple Neural Engine (ANE) 上直接运行神经网络训练（前向&#43;反向传播），支持 Stories110M 和 Qwen3-0.6B 等模型，INT8 量化可达 1.88 倍加速。</description>
+    </item>
+    
+    <item>
+      <title>transcribe.cpp：基于 GGML 的 C/C&#43;&#43; 语音识别推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</guid>
+      <description>transcribe.cpp 是一个基于 ggml 运行时的 C/C&#43;&#43; 语音识别推理库，支持 Metal/Vulkan/CUDA 多后端加速，涵盖 16 个模型家族、60&#43; 变体，兼容 Whisper、Parakeet、Canary 等主流 STT 模型。</description>
+    </item>
+    
+    <item>
+      <title>Maths, CS &amp; AI Compendium：从零构建数学、计算机与 AI 直觉的开源教材</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</guid>
+      <description>Maths, CS &amp;amp; AI Compendium 是 Henry Ndubuaku 开源的非传统教材，从直觉出发系统讲解数学、计算机与人工智能，覆盖向量、矩阵、微积分、概率、机器学习、深度学习、NLP、计算机视觉、GPU 编程、ML 系统设计等 18 个章节，并附带一个可接入任意 AI 助手的 MCP 知识库服务器。</description>
+    </item>
+    
     <item>
       <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</link>

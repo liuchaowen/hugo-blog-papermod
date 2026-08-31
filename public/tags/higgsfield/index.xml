@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Higgsfield on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/higgsfield/</link>
+    <description>Recent content in Higgsfield on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/higgsfield/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scroll-world：打造沉浸式滚动驱动的世界飞行着陆页</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</guid>
+      <description>scroll-world 是一个 Agent 技能工具，能够为任意行业或品牌构建沉浸式的滚动驱动的「飞行穿越世界」着陆页。用户滚动页面时，摄像机从场景外部飞入内部，然后无缝流转到下一个场景，整个体验连贯无剪辑，适合打造类似 Apple 产品页的炫酷滚动动画效果。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Scanner：465&#43; 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</guid>
+      <description>kaifcodec/user-scanner 是一个集邮箱与用户名情报于一体的 OSINT 侦察套件，覆盖 465&#43; 扫描向量、支持跨扫描枢转、Hudson Rock 泄密情报查询、MCP 服务与多格式报告导出。本文从架构、技术原理到实战用法进行深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
+    </item>
+    
+    <item>
+      <title>DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</guid>
+      <description>DeepSec 是 Vercel Labs 开源的 Agent 驱动漏洞扫描器，支持在自有基础设施中运行，针对大型代码库进行深度安全审计，使用顶级 AI 模型在最思考级别下分析代码，可并行分布式执行、断点续传，帮助企业发现潜伏已久的隐蔽漏洞。</description>
+    </item>
+    
+    <item>
+      <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
+      <description>Claude-BugHunter 是一个为 Claude Code 打造的漏洞挖掘与红队技能包，包含 82 个技能、15 个斜杠命令，覆盖 Web 安全、API 测试、企业身份平台、GraphQL、OAuth 等 24 个漏洞类别的 681 个公开 HackerOne 报告模式，让 AI 助手从通用聊天机器人变身为专业安全研究员。</description>
+    </item>
+    
+    <item>
+      <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
+    </item>
+    
+    <item>
+      <title>ADR：Uber开源的企业级AI代理安全检测与响应系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/adr/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/adr/</guid>
+      <description>ADR是Uber开源的企业级AI代理安全系统，通过观测代理行为、评估安全防御、检测威胁并阻止不安全操作，保护Cursor、Claude Code等AI编码工具和客户服务代理的安全性，已在Uber生产环境部署，论文被MLSys 2026接收。</description>
+    </item>
+    
+    <item>
+      <title>VVAH：Visa开源的AI驱动漏洞发现与验证框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</guid>
+      <description>Visa开源的VVAH是一个基于前沿AI模型的自主漏洞发现、修复和验证框架，采用四阶段十一级流水线设计，从代码摄取到验证修复全流程自动化，支持多模型后端。</description>
+    </item>
+    
+    <item>
+      <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
+      <description>reverse-skill 是一个专为 AI Agent（Claude Code、Cursor、Cline 等）设计的逆向工程 / 渗透测试技能路由包，通过 38 个场景化 Skill 自动路由 &#43; 按需工具链自举 &#43; 可进化经验库，让 AI 在面对 APK、JS 加密、固件、CTF 等任务时不再盲猜命令。</description>
+    </item>
+    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>

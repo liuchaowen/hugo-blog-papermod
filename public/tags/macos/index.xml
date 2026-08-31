@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vorssaint：一个菜单栏图标，取代一打付费 macOS 效率工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/vorssaint-utils/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/vorssaint-utils/</guid>
+      <description>Vorssaint 是一款 GPL 开源、本地优先的 macOS 菜单栏效率套件，用一个图标整合了按应用音量、系统监视器、窗口管理、剪贴板历史、文本片段、截图录屏等数十项原本需要分别付费购买的 Mac 工具，全程无账户、无遥测、无订阅。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Mac：开发者与设计师的 macOS 神器清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/awesome-mac/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/awesome-mac/</guid>
+      <description>Awesome Mac 是 GitHub 上星标极高的 macOS 应用与工具精选清单，覆盖开发、设计、效率、AI 等数十个分类，并提供多语言结构化数据与静态站点，是 Mac 用户装机与选型的最佳参考。</description>
+    </item>
+    
+    <item>
+      <title>Vorssaint：一个菜单栏图标，替掉十几款付费 Mac 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</guid>
+      <description>Vorssaint 是一款用 Swift 编写的开源 macOS 菜单栏工具集，把逐应用音量、系统监控、窗口管理、剪贴板历史、截图录屏、清理卸载等十余款付费软件的能力，装进一个可按需安装/卸载的模块化应用中，本地优先、零账号、零遥测。</description>
+    </item>
+    
+    <item>
+      <title>findphone: 用蓝牙信号强度在命令行里找丢失的苹果设备</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/findphone/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/findphone/</guid>
+      <description>findphone 是一款 macOS 命令行工具，通过监测蓝牙 RSSI 信号强度，帮助你在室内定位附近的苹果设备。它不需要 Find My 网络，适用于 MDM 禁用 Find My 但设备仍在蓝牙范围内的场景，支持蜂鸣提示和地址脱敏。</description>
+    </item>
+    
+    <item>
+      <title>Recordly：开源录屏编辑器，自动放大 &#43; 光标美化 &#43; 动态背景一条龙</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/recordly/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/recordly/</guid>
+      <description>Recordly 是一款免费开源的跨平台录屏与视频编辑工具，支持自动放大镜头、光标美化、动态摄像头叠加、时间线剪辑、MP4/GIF 导出，无需设计师也能做出精致的演示视频。</description>
+    </item>
+    
+    <item>
+      <title>BitChat：蓝牙Mesh&#43;Nostr协议的去中心化P2P聊天应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</guid>
+      <description>BitChat 是一款创新的去中心化即时通讯应用，融合蓝牙Mesh离线网络与 Nostr 互联网协议，无需账户、电话号码或中心服务器，实现真正的隐私优先通信。</description>
+    </item>
+    
+    <item>
+      <title>ego-lite：让你和 AI 代理并行浏览的智能浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</guid>
+      <description>ego-lite 是一款专为人类与 AI 代理协同工作设计的 macOS 浏览器，突破性地实现了在同一浏览器内并行执行多个 AI 任务，同时不干扰用户的正常使用浏览体验。</description>
+    </item>
+    
+    <item>
+      <title>pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</guid>
+      <description>pi-computer-use 是一个 Pi Agent 扩展，让 AI 能够观察和控制 macOS 14&#43; 与 Windows 桌面应用。通过 Accessibility API 和 CDP，它提供 find_roots、observe_ui、act_ui 等工具，使 Agent 在没有 API 或 MCP 时也能操作正常桌面软件。</description>
+    </item>
+    
     <item>
       <title>FluidVoice：开源 macOS 语音转文字应用，本地 AI 加持的终极听写工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-29/fluidvoice/</link>

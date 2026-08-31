@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>逆向 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%80%86%E5%90%91/</link>
+    <description>Recent content in 逆向 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%80%86%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Python 命令行逆向 GetContact 私有 API：getcontact-cli 技术拆解</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</guid>
+      <description>getcontact-cli 是一个以 Python 编写的命令行工具，通过逆向还原 GetContact Android 客户端的通信协议（AES-256-ECB 加密、HMAC-SHA256 签名、Diffie-Hellman 密钥协商），在不安装 App 的情况下直接查询手机号归属信息与标签。本文从源码角度拆解其协议还原、凭据管理与批量查询实现。</description>
+    </item>
+    
+  </channel>
+</rss>

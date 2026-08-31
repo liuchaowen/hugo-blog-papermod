@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>API网关 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/api%E7%BD%91%E5%85%B3/</link>
+    <description>Recent content in API网关 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/api%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sub2API：把订阅额度做成 AI API 网关，统一管理 Claude / OpenAI / Gemini / Grok</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/sub2api/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/sub2api/</guid>
+      <description>Sub2API 是一个用 Go &#43; Vue 构建的开源 AI API 网关，可将 Claude、OpenAI、Gemini、Grok 等订阅账号的额度聚合、按 token 计费并二次分发给团队或 SaaS。本文拆解其架构、调度与部署实战。</description>
+    </item>
+    
+  </channel>
+</rss>

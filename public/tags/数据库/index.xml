@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat2DB：AI 驱动的跨平台数据库客户端与 SQL 工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/chat2db/</guid>
+      <description>Chat2DB 是一款开源免费的跨平台数据库客户端，支持 30&#43; 数据库类型，集成 AI 助手实现自然语言生成、解释和优化 SQL，适合开发者、DBA 和数据分析师日常使用。</description>
+    </item>
+    
     <item>
       <title>Prisma：下一代 Node.js 与 TypeScript ORM 深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-07-08/prisma/</link>

@@ -11,7 +11,223 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>freeAgentIdentity：本地化账号批量注册、登录恢复与资源池管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/freeagentidentity/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/freeagentidentity/</guid>
+      <description>freeAgentIdentity（aBaiAutoplus）是一个面向本地部署的账号注册、登录恢复、验活与资源池管理平台，采用 FastAPI 后端 &#43; React 前端，将协议注册、浏览器注册、密码与 2FA、401 刷新、邮箱池与代理池串成一套可观察、可停止、可复用的任务流程。</description>
+    </item>
+    
+    <item>
+      <title>OpenBot：让 AI 同事真正拥有自己的电脑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/openbot/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/openbot/</guid>
+      <description>OpenBot 是 CopilotKit 开源的一个 AI Agent 平台，每个 Bot 拥有独立计算机（真实浏览器&#43;文件系统），通过 AG-UI 协议接入企业工作流，支持 LangGraph、Mastra、CrewAI 等主流框架，构建可审计的 AI 工作力。</description>
+    </item>
+    
+    <item>
+      <title>Munder Difflin：多智能体协作办公系统，让 AI 克隆体 7x24 小时代你工作</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</guid>
+      <description>Munder Difflin 是一款免费开源的桌面应用，将 Claude Code、OpenAI Codex、xAI Grok 等终端 AI 工具包装成具备记忆、邮箱和办公桌位的智能体，由你的克隆体 Michael 协调整个团队在本地机器上自主协作，实现真正的多智能体自动化办公。</description>
+    </item>
+    
+    <item>
+      <title>CLI-Anything：一行命令让任何软件变成 AI Agent 原生工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</guid>
+      <description>HKUDS 出品的 CLI-Anything 用一条命令把任何带代码库的软件自动改造成 Agent 可驱动的命令行工具，通过七阶段流水线生成带 REPL、JSON 输出与完整测试的 Click CLI，并已覆盖 GIMP、Blender、LibreOffice 等 18&#43; 专业软件，2,461 项测试全部通过。</description>
+    </item>
+    
+    <item>
+      <title>Paperclip：用AI代理团队构建自主企业的开源编排平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/paperclip/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/paperclip/</guid>
+      <description>Paperclip是一个开源的AI代理编排平台，让用户能够像管理公司一样管理AI代理团队。通过组织架构、预算控制、治理审批和目标对齐，实现AI代理的自主协作，适合构建24/7自主运行的AI企业。</description>
+    </item>
+    
+    <item>
+      <title>Agent Orchestrator：并行 AI 编程代理的统一编排平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</guid>
+      <description>Agent Orchestrator 是一个元级代理 IDE，用于并行运行多个 AI 编程代理（如 Claude Code、Cursor、Codex 等）。它通过隔离的 git worktree、实时终端控制、自动反馈循环（CI 失败、审查评论、合并冲突）让多代理协作变得有序可控。</description>
+    </item>
+    
+    <item>
+      <title>JiuwenSwarm：让多智能体协作真正跑起来的开源 Agent 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</guid>
+      <description>JiuwenSwarm 是 openJiuwen 团队开源的 Agent 系统，通过 Leader 编排 &#43; 分布式智能体集群、Swarmflow 工作流、Skill 自进化与工具权限安全，让自然语言驱动的多智能体协作从 Demo 走向生产。支持单机到集群、浏览器/终端/IM 多入口接入。</description>
+    </item>
+    
+    <item>
+      <title>AutoGPT：把一句话需求变成能跑完工作的 AI 智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</guid>
+      <description>AutoGPT 是拥有 18.5 万&#43; Star 的开源 AI 智能体平台，支持用自然语言描述任务后自动构建、运行并汇报智能体。本文深入解析其四大产品面、托管与自托管两种路径、集成能力及实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Comp CRM：一个以 AI Agent 为核心的开源 CRM 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/crm/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/crm/</guid>
+      <description>Comp CRM 是一个革命性的开源 CRM 系统，与传统 CRM 不同，它以 AI Agent 为核心设计理念。Agent 不是 CRM 的功能，CRM 只是 Agent 记录笔记的地方。基于 Vercel eve 框架构建，支持持久化会话、自主调度、沙箱执行，真正实现了自动化客户关系管理。</description>
+    </item>
+    
+    <item>
+      <title>CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</guid>
+      <description>CyberPPT 是一个 Codex Skill，能将文档、研究材料和业务数据转化为高密度、可编辑、咨询风格的 PowerPoint 演示文稿。本文解析其三段式强制流程、8 种视觉风格与 15 道质量门禁，看它如何解决 AI 做 PPT 常见的密度不足与还原失真问题。</description>
+    </item>
+    
+    <item>
+      <title>yichen-skills：一站式 AI 创作者工具箱，支持微信、X、剪映、飞书等多个平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/yichen-skills/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/yichen-skills/</guid>
+      <description>yichen-skills 是专为 AI 创作者打造的一站式工具集，涵盖微信本地数据解析、X 文章发布、AI 视频字幕剪映对接、飞书操作、企业微信管理、跨平台内容归档等 21 个独立 Skill，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
+    </item>
+    
+    <item>
+      <title>agent-device：让 AI 编程代理在真实设备上验证应用变更</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/agent-device/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/agent-device/</guid>
+      <description>agent-device 是一个跨平台的 AI 代理自动化 CLI 工具，支持 iOS、Android、tvOS、macOS、Linux 和 Web 应用。它让编程代理能够检查、控制和验证应用，保存证据供审查，并支持工作流回放。</description>
+    </item>
+    
+    <item>
+      <title>k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</guid>
+      <description>一个覆盖韩国日常生活方方面面的 AI Agent 技能集合，包含 SRT/KTX 预订、地铁公交、房产、法律、金融等 100&#43; 实用技能，让 Claude Code、OpenClaw 等 Coding Agent 自动处理繁琐事务。</description>
+    </item>
+    
+    <item>
+      <title>Multica：把 AI 编程 Agent 变成并肩作战的队友</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/multica/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/multica/</guid>
+      <description>Multica 是一款开源的 managed agents 平台，把 Claude Code、Codex、OpenClaw 等编码 Agent 当成真正的团队成员来调度——分配 Issue、追踪进度、沉淀可复用 Skill。本文解析它的核心理念、架构设计与快速上手方式。</description>
+    </item>
+    
+    <item>
+      <title>Baileys：基于 WebSocket 的 WhatsApp Web API TypeScript 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/baileys/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/baileys/</guid>
+      <description>Baileys 是一个轻量级的 TypeScript 库，通过 WebSocket 协议与 WhatsApp Web API 交互，支持完整的消息收发、群组管理、媒体处理等功能，适合构建 WhatsApp 自动化工具和机器人。</description>
+    </item>
+    
+    <item>
+      <title>OpenWorker：吴恩达开源的桌面AI助手，让你的工作自动化</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/openworker/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/openworker/</guid>
+      <description>OpenWorker 是由吴恩达团队开源的桌面端 AI 助手，能够在本地运行并完成实际工作任务，如文档生成、日历管理、收件箱整理等，支持多种主流模型提供商和 25&#43; 集成工具。</description>
+    </item>
+    
+    <item>
+      <title>AstronRPA：讯飞开源企业级 RPA 桌面应用，支持低代码可视化流程设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/astron-rpa/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/astron-rpa/</guid>
+      <description>AstronRPA 是科大讯飞开源的企业级 RPA（机器人流程自动化）桌面应用，基于 Python 引擎，提供 300&#43; 预置原子组件，支持 Windows 桌面应用和网页自动化，采用前后端分离 &#43; Docker 微服务架构，低代码可视化设计器让业务人员也能快速构建自动化工作流。</description>
+    </item>
+    
+    <item>
+      <title>shadcn/improve：让 AI Agent 自主审计代码库并生成可执行改进计划</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/improve/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/improve/</guid>
+      <description>improve 是一个基于 AI Agent 的代码库审计工具，能够自动分析任意代码库并生成结构化的可执行改进计划，让大型语言模型专注于高价值推理工作，而将具体执行交给更经济的模型完成。</description>
+    </item>
+    
+    <item>
+      <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</guid>
+      <description>Loop Engineering 是一个面向 AI 编程工具的系统化工程框架，通过设计自动化循环来替代手动 Prompt，让 Grok、Claude Code、Codex 等工具能够自主完成持续性编码任务，减少人工干预并提升稳定性。</description>
+    </item>
+    
+    <item>
+      <title>Boop：基于 iMessage 的个人 AI 助手，无需 API Key 即可运行 Claude 或 Codex</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</guid>
+      <description>Boop 是一个开源的 iMessage 个人 AI 助手，支持 Claude Code 或 Codex/ChatGPT 订阅认证，无需额外 API Key。内置分层记忆、自动化任务、Composio 集成（Gmail、Slack、GitHub 等 1000&#43; 工具），可选本地浏览器控制和 Apple 数据源，适合个人使用和二次开发。</description>
+    </item>
+    
+    <item>
+      <title>video-autopilot-kit：一套让你搭出『属于自己』而非照搬他人的 YouTube 短视频自动化脚手架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/video-autopilot-kit/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/video-autopilot-kit/</guid>
+      <description>video-autopilot-kit 是一套框架式的 YouTube / 短影音自动化工具与方法论模板：它给你纯代码的 ffmpeg 流水线、CapCut 自动化脚本，以及一份『问卷式』模板——你回答关于自己频道的问题，它就变成属于你个人的创作系统，而非某个大 V 的私人配置。</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant Core：把本地控制与隐私放在第一位的开源智能家居中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/core/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/core/</guid>
+      <description>深入解析 Home Assistant Core 的架构设计与技术选型——基于 Python 3.14、aiohttp 异步框架与模块化集成机制，如何在树莓派或本地服务器上构建以本地控制与隐私为核心的开源智能家居系统。</description>
+    </item>
+    
+    <item>
+      <title>Prefect：让 Python 脚本秒变生产级数据工作流的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/prefect/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/prefect/</guid>
+      <description>Prefect 是一个 Python 原生的工作流编排框架，几行代码即可将脚本升级为具备调度、重试、可观测性的生产级数据管道，支持自托管与云端两种部署模式。</description>
+    </item>
+    
     <item>
       <title>OfficeCLI：AI Agent 专用的 Office 套件命令行工具</title>
       <link>https://blog.xlap.top/post/tech/2026-07-08/officecli/</link>

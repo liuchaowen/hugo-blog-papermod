@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoogleTest 深度解析：Google 的 C&#43;&#43; 单元测试框架设计与实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/googletest/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/googletest/</guid>
+      <description>本文深入剖析 GoogleTest（Google 的 C&#43;&#43; 测试框架，由 GoogleTest 与 GoogleMock 合并而来）的架构设计、断言体系、测试发现机制与参数化测试，并结合 CMake 集成给出可上手的实战示例。</description>
+    </item>
+    
     <item>
       <title>Catch2：现代 C&#43;&#43; 原生的单元测试、微基准与 BDD 框架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/catch2/</link>

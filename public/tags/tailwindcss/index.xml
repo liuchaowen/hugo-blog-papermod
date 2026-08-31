@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TailwindCSS on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/tailwindcss/</link>
+    <description>Recent content in TailwindCSS on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tailwindcss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI Skills：为 AI 时代设计工程师打造的 UI 技能导航</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ui-skills/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ui-skills/</guid>
+      <description>UI Skills 是一个面向设计工程师的 AI 辅助 UI 开发工具，通过 CLI 提供分类技能路由，让 AI 代理和开发者快速找到最适合当前 UI 任务的技能组合，基于 Astro &#43; React &#43; TailwindCSS 构建。</description>
+    </item>
+    
+  </channel>
+</rss>

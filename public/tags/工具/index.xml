@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills Manager：一个 App 统一管理 52 款 AI 编程助手的 Skills</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/skills-manager/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/skills-manager/</guid>
+      <description>Skills Manager 是一款用 Tauri 2 &#43; React 19 &#43; Rust 打造的桌面应用，把散落在 Claude Code、Cursor、Codex、OpenClaw 等 52 款 AI 编程工具里的 skills 收敛到一个统一中心库，支持市场安装、预设编排、多工具同步与 Git 备份多端同步。</description>
+    </item>
+    
+    <item>
+      <title>Decimen Optical Transfer：用屏幕和摄像头实现无网络文件传输</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</guid>
+      <description>Decimen Optical Transfer 是一个巧妙的离线文件传输工具，通过屏幕显示动态 QR 码、摄像头实时解码，实现两台设备间的无网络文件传输，零配对、零权限、零依赖。</description>
+    </item>
+    
+    <item>
+      <title>FluentCleaner：一款让 Windows 系统清洁工具回归初心的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</guid>
+      <description>FluentCleaner 是一款由个人开发者打造的现代 Windows 系统清洁工具，基于 WinUI 3 构建，兼容 winapp2.ini 清洁规则集，无广告、无暗模式，旨在让系统清理这件事回归纯粹和透明。</description>
+    </item>
+    
+  </channel>
+</rss>

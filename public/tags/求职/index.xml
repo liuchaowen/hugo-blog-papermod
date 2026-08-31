@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B1%82%E8%81%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B1%82%E8%81%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</guid>
+      <description>ResumeSkills 是一个面向 Claude Code 等 AI 助手的技能集合，包含 20 个专业简历优化技能，覆盖 ATS 优化、面试准备、薪资谈判等求职全流程，帮助求职者提升 2-3 倍面试机会。</description>
+    </item>
+    
     <item>
       <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
       <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>

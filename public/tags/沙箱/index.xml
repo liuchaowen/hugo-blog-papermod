@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B2%99%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B2%99%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSandbox 开源解读：面向 AI 应用的通用沙箱平台，多语言 SDK 与 K8s 大规模调度</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/opensandbox/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/opensandbox/</guid>
+      <description>OpenSandbox 是 opensandbox-group 推出的通用沙箱平台，为 Coding Agent、GUI Agent、Agent 评估与 RL 训练等场景提供多语言 SDK、统一沙箱 API 与 Docker/Kubernetes 运行时，并内置强隔离、凭据保险库与网络出口管控。</description>
+    </item>
+    
     <item>
       <title>Cua：构建、评估与部署计算机使用 Agent 的全栈平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-16/cua/</link>

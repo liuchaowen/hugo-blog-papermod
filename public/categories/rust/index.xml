@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topcoat：Rust 全栈框架的新选择</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/topcoat/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/topcoat/</guid>
+      <description>Topcoat 是 Tokio 团队推出的模块化全栈 Rust 框架，主打服务端渲染、客户端响应式和零样板代码。支持信号驱动的客户端交互、模块化路由、内置 Tailwind 集成，让构建现代 Web 应用更高效。</description>
+    </item>
+    
     <item>
       <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
       <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>

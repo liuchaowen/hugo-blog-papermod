@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VibeVoice：微软开源前沿语音 AI 模型家族</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</guid>
+      <description>VibeVoice 是微软开源的语音 AI 模型家族，同时支持语音识别（ASR）和语音合成（TTS），涵盖长音频（60分钟）识别、流式实时合成、BitNet CPU 量化推理等前沿能力。</description>
+    </item>
+    
     <item>
       <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>

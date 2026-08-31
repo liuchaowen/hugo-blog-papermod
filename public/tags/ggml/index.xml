@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ggml on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ggml/</link>
+    <description>Recent content in Ggml on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ggml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>transcribe.cpp：基于 GGML 的 C/C&#43;&#43; 语音识别推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</guid>
+      <description>transcribe.cpp 是一个基于 ggml 运行时的 C/C&#43;&#43; 语音识别推理库，支持 Metal/Vulkan/CUDA 多后端加速，涵盖 16 个模型家族、60&#43; 变体，兼容 Whisper、Parakeet、Canary 等主流 STT 模型。</description>
+    </item>
+    
+  </channel>
+</rss>

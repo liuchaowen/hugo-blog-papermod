@@ -11,7 +11,70 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ODS：一键将你的电脑变成私有 AI 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ods/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ods/</guid>
+      <description>ODS（Osmantic Deployment System）是一个开源的本地 AI 服务器解决方案，通过一条命令即可在你的 PC、Mac 或 Linux 上部署完整的 AI 技术栈，包括本地推理引擎、Web 聊天界面、语音服务、智能体、工作流自动化、RAG 检索增强生成、图像生成等，完全无需云端依赖。</description>
+    </item>
+    
+    <item>
+      <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
+    </item>
+    
+    <item>
+      <title>WeChat-AI：自托管微信角色扮演机器人，支持 iLink 多节点部署</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/wechat-ai/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/wechat-ai/</guid>
+      <description>WeChat-AI 是一个基于腾讯 iLink 协议的开源微信角色扮演机器人，支持 LINUX DO OAuth 登录、远端 Redis 存储、Chatflow 可视化编排，并可通过 Cloudflare Worker 实现多节点负载均衡部署。</description>
+    </item>
+    
+    <item>
+      <title>Kaneo：极简主义自托管项目管理平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/kaneo/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/kaneo/</guid>
+      <description>Kaneo 是一款以「少即是多」为理念的开源自托管项目管理工具，主打纯净界面、自我托管、数据自主和极致性能，采用 Hono &#43; PostgreSQL 技术栈，支持 Docker 一键部署和 Kubernetes Helm 安装。</description>
+    </item>
+    
+    <item>
+      <title>Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</guid>
+      <description>Go Music DL 是一个用 Go 语言编写的开源音乐搜索与下载工具，支持 Web 界面、TUI 终端、原生桌面和移动端，覆盖网易云、QQ 音乐、酷狗、酷我、咪咕、Bilibili 等 13 个平台，并提供 FLAC 无损音乐下载、歌单解析、本地音乐管理等功能。</description>
+    </item>
+    
+    <item>
+      <title>Floci：轻量级开源 AWS 本地模拟器，快速启动无需认证</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/floci/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/floci/</guid>
+      <description>Floci 是一个免费开源的 AWS 本地模拟器，支持 69 种 AWS 服务，启动时间仅 24 毫秒，内存占用仅 13MB，是 LocalStack 社区版停止维护后的最佳替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Openship: 开源一键部署平台, 推代码即上线</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/openship/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/openship/</guid>
+      <description>Openship 是一款开源、自托管的部署平台, 内置 CI/CD, 支持任意技术栈, 提供桌面 App、Web 面板和 CLI 三种操作界面, 让部署像 git push 一样简单。</description>
+    </item>
+    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>

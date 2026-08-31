@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>上下文管理 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 上下文管理 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenViking：字节开源的 AI Agent 上下文数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/openviking/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/openviking/</guid>
+      <description>OpenViking 是字节跳动开源的 AI Agent 原生上下文数据库，通过 viking:// 协议将记忆、资源和技能组织为虚拟文件系统，让 AI 可以像开发者浏览文件一样检索上下文，支持 L0/L1/L2 三层按需加载，显著降低 token 消耗。</description>
+    </item>
+    
+  </channel>
+</rss>

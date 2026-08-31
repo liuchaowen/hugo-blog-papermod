@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IOS on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ios/</link>
+    <description>Recent content in IOS on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</guid>
+      <description>majd/ipatool 是一款用 Go 编写的命令行工具，可在终端中搜索 App Store（iOS/iPadOS/tvOS/visionOS）应用并下载其 IPA 安装包。本文从功能定位、技术原理（purego 调用原生框架、plist/Mach-O 解析、FairPlay 加密包下载）到认证、搜索、购买、下载全流程实战进行拆解。</description>
+    </item>
+    
+    <item>
+      <title>vphone-cli：用 Apple Virtualization.framework 在 Mac 上启动一台虚拟 iPhone</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/vphone-cli/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/vphone-cli/</guid>
+      <description>vphone-cli 借助 Apple PCC 研究用 VM 基础设施与 Virtualization.framework，在 Apple Silicon Mac 上完整启动一台虚拟 iPhone。本文深入解析它的 Swift 补丁流水线、五档固件变体、DFU 恢复与 CFW 注入机制，并给出安装、实战与常见问题排查方案。</description>
+    </item>
+    
+    <item>
+      <title>Dopamine：iOS 15-26 跨代越狱的技术实现解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-11/dopamine/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-11/dopamine/</guid>
+      <description>深入解析 Dopamine 越狱工具如何通过多代内核漏洞利用、Rootless 架构设计、dyld 动态注入等技术实现 iOS 15 至 26 的全链路越狱，涵盖 ClearSword/Titan/kfd 等核心漏洞利用链的技术原理与工程实践。</description>
+    </item>
+    
+    <item>
+      <title>OpenMinis：把最强 AI Agent 跑在你的 iPhone 本地</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/openminis/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/openminis/</guid>
+      <description>OpenMinis 是一款开源的本地 AI Agent 应用，可运行于 iOS 和 Android，将 Claude、GPT、Gemini 等主流模型引入原生移动端，并内置 Linux 沙箱、设备深度集成与可扩展技能系统。</description>
+    </item>
+    
+    <item>
+      <title>BitChat：蓝牙Mesh&#43;Nostr协议的去中心化P2P聊天应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</guid>
+      <description>BitChat 是一款创新的去中心化即时通讯应用，融合蓝牙Mesh离线网络与 Nostr 互联网协议，无需账户、电话号码或中心服务器，实现真正的隐私优先通信。</description>
+    </item>
+    
+    <item>
+      <title>wloc：一行不改 GPS 也能改定位？深挖 Apple 网络定位（WLOC）虚拟定位黑科技</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/wloc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/wloc/</guid>
+      <description>GitHub Trending 项目 wloc 通过 MITM 拦截 Apple 的 /clls/wloc 网络定位接口并补丁 protobuf 响应坐标，实现 iOS 虚拟定位。本文解析其架构、数据流、iOS 26 缓存坑与自部署方案。</description>
+    </item>
+    
+  </channel>
+</rss>

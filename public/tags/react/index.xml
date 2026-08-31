@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</guid>
+      <description>灵犀跨境（lingxi）是一套面向跨境团队的开源多租户客户经营 SaaS，整合统一消息工作台、多语言翻译、意图与情绪分析、客户画像与经营分析，基于 Node.js &#43; PostgreSQL &#43; React 构建，支持 Docker 一键部署。</description>
+    </item>
+    
+    <item>
+      <title>无限画布（infinite-canvas）：一站式 AI 图片创作工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/infinite-canvas/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/infinite-canvas/</guid>
+      <description>infinite-canvas 是一款面向图片创作的开源工作台，将画布编排、AI 生图、参考图编辑、对话助手、提示词库与素材沉淀融为一体，适合视觉方案的探索与连续迭代。</description>
+    </item>
+    
+    <item>
+      <title>Pascal Editor：一个基于 WebGPU 的专业级 3D 建筑编辑器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/editor/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/editor/</guid>
+      <description>Pascal Editor 是一个开源的 3D 建筑编辑器，基于 React Three Fiber 和 WebGPU 构建，提供模块化节点系统、实时几何生成和插件扩展能力，适合建筑建模、室内设计及 BIM 可视化场景。</description>
+    </item>
+    
+    <item>
+      <title>video-shotcraft：将 AI 变成影视级产品视频工作室</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/video-shotcraft/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/video-shotcraft/</guid>
+      <description>video-shotcraft 是一个基于 Remotion 的 AI Agent 技能，让 Claude Code 或 Codex 化身影视工作室，通过 106 个镜头配方卡、162 种风格和完整的「Ink Press」视频模板，轻松制作 Cinematic 产品宣传视频。</description>
+    </item>
+    
+    <item>
+      <title>Ontology Playground：微软开源的交互式本体图谱可视化与设计工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</guid>
+      <description>微软开源的 Ontology Playground 是一个无需后端的静态 Web 应用，通过 Cytoscape.js 实现交互式本体（Ontology）图谱可视化，支持 RDF/OWL 导入导出、视觉化本体设计器、本体学堂和自然语言查询，让用户零门槛探索 Microsoft Fabric IQ 的核心概念。</description>
+    </item>
+    
+    <item>
+      <title>SkillHub：一个企业级开源 Agent 技能仓库，让团队共享 AI 能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</guid>
+      <description>SkillHub 是科大讯飞开源的企业级 Agent 技能注册与分发平台，支持自托管、语义化版本、团队命名空间、RBAC 权限管理，配合 CLI 一键安装 / 搜索 / 发布技能，适合在企业防火墙内搭建私有 AI 技能市场。</description>
+    </item>
+    
+    <item>
+      <title>UI Skills：为 AI 时代设计工程师打造的 UI 技能导航</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ui-skills/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ui-skills/</guid>
+      <description>UI Skills 是一个面向设计工程师的 AI 辅助 UI 开发工具，通过 CLI 提供分类技能路由，让 AI 代理和开发者快速找到最适合当前 UI 任务的技能组合，基于 Astro &#43; React &#43; TailwindCSS 构建。</description>
+    </item>
+    
+    <item>
+      <title>Next.js：React 全栈框架的工业级解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/next-js/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/next-js/</guid>
+      <description>Next.js 是 Vercel 开源的 React 全栈框架，集成了 Rust 构建工具（Turbopack）、服务端渲染、静态生成、API 路由等能力，被全球头部企业广泛采用，是构建高性能 Web 应用的首选方案。</description>
+    </item>
+    
     <item>
       <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
       <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>

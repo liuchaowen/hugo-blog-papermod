@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open-Inspect：开源背景编码代理系统，让 AI 替你做开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</guid>
+      <description>Open-Inspect 是一个受 Ramp Inspect 启发的开源背景编码代理系统，支持多客户端接入（Web、Slack、GitHub、Linear）、并行子任务沙箱、完整开发环境，以及 PR 归属追溯。深度解析其架构设计与安全模型。</description>
+    </item>
+    
     <item>
       <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/herdr/</link>

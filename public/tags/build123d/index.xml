@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Build123d on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/build123d/</link>
+    <description>Recent content in Build123d on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/build123d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</guid>
+      <description>清华 IEI Lab 开源的 Multi-Agent CAD 框架，用 4 个 Agent &#43; LangGraph 状态机把文本转 CAD 的 Token 消耗压到 1/116、成本降到 1/13，特征通过率反而提升到 99.3%。本文深入解析其结构化状态传递、确定性翻译器与白盒可审计设计。</description>
+    </item>
+    
+  </channel>
+</rss>

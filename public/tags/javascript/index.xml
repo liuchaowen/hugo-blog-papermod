@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/htmx/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/htmx/</guid>
+      <description>htmx 是一款仅约 14KB、零依赖的 JavaScript 库，它让你直接在 HTML 属性中发起 AJAX、CSS 过渡、WebSocket 与 SSE 请求，从而用超文本的简洁语法构建现代交互式用户界面。本文从动机、技术原理、快速上手到实战与排错，系统梳理 htmx 的核心能力。</description>
+    </item>
+    
+    <item>
+      <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/deno/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/deno/</guid>
+      <description>Deno 是由 Node.js 原作者 Ryan Dahl 打造的下一代 JavaScript/TypeScript 运行时，基于 V8、Rust 和 Tokio 构建，默认安全、TypeScript 原生支持、开箱即用。本文深入解析其架构设计与核心特性。</description>
+    </item>
+    
+    <item>
+      <title>CloakBrowser：源码级 C&#43;&#43; 补丁的隐身 Chromium，通过所有反爬虫检测</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</guid>
+      <description>CloakBrowser 是一款在 C&#43;&#43; 源码层面对 Chromium 进行指纹修改的隐身浏览器，71 个源码级补丁让它在 bot 检测中表现为真实浏览器。pip install 即可使用，兼容 Playwright API，通过 Cloudflare Turnstile、FingerprintJS 等 30&#43; 检测服务验证。</description>
+    </item>
+    
+    <item>
+      <title>node — Node.js JavaScript runtime ✨🐢🚀✨</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/node/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/node/</guid>
+      <description>Node.jsisanopen-source,cross-platformJavaScriptruntimeenvironment.</description>
+    </item>
+    
     <item>
       <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>

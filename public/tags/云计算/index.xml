@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Floci：轻量级开源 AWS 本地模拟器，快速启动无需认证</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/floci/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/floci/</guid>
+      <description>Floci 是一个免费开源的 AWS 本地模拟器，支持 69 种 AWS 服务，启动时间仅 24 毫秒，内存占用仅 13MB，是 LocalStack 社区版停止维护后的最佳替代方案。</description>
+    </item>
+    
     <item>
       <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>

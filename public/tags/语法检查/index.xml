@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>语法检查 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AF%AD%E6%B3%95%E6%A3%80%E6%9F%A5/</link>
+    <description>Recent content in 语法检查 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E6%B3%95%E6%A3%80%E6%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harper：轻量级隐私优先的英语语法检查器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
+    </item>
+    
+  </channel>
+</rss>

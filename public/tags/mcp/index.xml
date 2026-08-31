@@ -11,7 +11,205 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome MCP Servers：一份收录 3000&#43; 服务端的 MCP 生态全景清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</guid>
+      <description>awesome-mcp-servers 是 punkpeye 维护的 MCP 服务器精选清单，收录 3000&#43; 个覆盖数据库、浏览器自动化、云平台的 Model Context Protocol 服务端，并配套 Glama 在线目录，是接入 MCP 生态的首选入口。</description>
+    </item>
+    
+    <item>
+      <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</guid>
+      <description>codex-chatgpt-web 是一个本地 Responses 桥接工具，通过嵌入式浏览器让用户在 Codex 的原生界面中直接调用 ChatGPT Web（包括 Pro 订阅）的模型，无需 API Key，真正实现零成本使用高级 AI 能力。</description>
+    </item>
+    
+    <item>
+      <title>GitNexus：把代码库编译成知识图谱，让 AI Agent 不再「盲改」代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</guid>
+      <description>GitNexus（Akon Labs）将任意代码库索引为知识图谱（依赖、调用链、聚类、执行流），再通过 17 个智能 MCP 工具暴露给 Cursor、Claude Code、Codex 等 AI 编程 Agent。本文深入解析其架构、技术栈、MCP 工具与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</guid>
+      <description>HiThink-Tech/Financial-API 是同花顺官方维护的 A 股金融数据服务，通过统一 API Key 即可在 REST API、托管 MCP、CLI、Python SDK 与本地 DuckDB 之间自由切换，覆盖行情、财务、估值、集合竞价、龙虎榜等数据，特别适合 AI Agent、量化研究者与开发者接入。</description>
+    </item>
+    
+    <item>
+      <title>Ruflo：Claude Code 的 AI Agent 编排框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</link>
+      <pubDate>Sat, 22 Aug 2026 08:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</guid>
+      <description>Ruflo 是一个面向 Claude Code 和 Codex 的 Agent 元框架，提供 100&#43; 专业 Agent、自学习内存、联邦通信和企业级安全防护。本文深入解析其架构原理、核心组件和实战应用。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 工程化实战：极客时间万订阅专栏深度解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</guid>
+      <description>极客时间《Claude Code 工程化实战》专栏，23 讲覆盖 SubAgent、Skills、MCP、Headless、SDK、Hooks 全链路工程化实践，上线即登总榜第一。</description>
+    </item>
+    
+    <item>
+      <title>Corsair：为 AI Agent 构建安全集成层，让应用连接既强大又可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/corsair/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/corsair/</guid>
+      <description>Corsair 是一个统一的 Agent 集成层，为 AI Agent 提供安全的第三方应用连接能力。通过权限控制、凭证隔离和多租户支持，让 Agent 在访问 Gmail、GitHub、Slack 等应用时既高效又安全。</description>
+    </item>
+    
+    <item>
+      <title>Agent Plugins 1.0.0：中立开放的 AI Agent 插件打包标准</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</guid>
+      <description>Agent Plugins 是一套厂商中立、开放可移植的 AI Agent 插件打包规范，定义了一套用于封装 Agent Skills 与 MCP Server 的便携包格式。本文解析其包结构、plugin.json 清单、技能发现机制与标准化价值。</description>
+    </item>
+    
+    <item>
+      <title>EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</guid>
+      <description>EMILIA 是一套 Apache-2.0 的开源协议与证据底座，在动作发生的那一刻证明「智能体即将执行的动作，正是某位具名人类所授权的动作」。本文从架构、技术原理、快速上手到形式化验证，拆解它如何用「收据（Receipt）」取代「决策日志」，为自主工作流提供可离线验证的授权证据。</description>
+    </item>
+    
+    <item>
+      <title>tradingview-mcp：把 TradingView 行情、技术与回测能力接入任意 AI 助手的 37 工具 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/tradingview-mcp/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/tradingview-mcp/</guid>
+      <description>tradingview-mcp 是一个 MIT 协议的 MCP 服务器，为 Claude、ChatGPT、Cursor 等任意 MCP 客户端提供实时行情、30&#43; 技术指标、多交易所筛选器与 9 套回测策略，无需 TradingView 账号，自托管永久免费。</description>
+    </item>
+    
+    <item>
+      <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>LiveKit Agents：构建实时多模态语音 AI Agent 的 Python 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/agents/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/agents/</guid>
+      <description>LiveKit Agents 是一个开源 Python 框架，专为构建实时、可编程的语音 AI Agent 而设计，支持多模态交互、MCP 工具调用和内置测试框架。</description>
+    </item>
+    
+    <item>
+      <title>OpenWork：让 AI 工作流跨 Agent 共享的开源桌面应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/openwork/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/openwork/</guid>
+      <description>OpenWork 是开源的 AI 工作流共享桌面应用，通过 MCP 协议让 Codex、Claude Code、Cursor 等 Agent 复用同一套 skills、MCP 与连接服务，并配套 OpenWork Den 企业级控制台统一管理推理资源、权限与技能市场。</description>
+    </item>
+    
+    <item>
+      <title>jCodeMunch MCP：节省95% Token的GitHub代码检索神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</guid>
+      <description>jCodeMunch MCP 是一款基于 tree-sitter AST 解析的高效 GitHub 代码检索 MCP Server，可将 AI 代码探索的 Token 消耗削减 95% 以上，兼容 Claude Code、Cursor、VS Code 等主流 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>Repowise：为 AI 编程助手打造的代码库智能层，一次索引永久受益</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/repowise/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/repowise/</guid>
+      <description>Repowise 通过一次索引构建依赖图谱、Git 历史、架构决策和代码健康度，为 Claude Code、Cursor 等 AI 编程助手提供任务级 MCP 工具，减少 96% 的上下文加载 token，支持 16 种语言的深度解析，无需云端、本地运行、零 LLM 调用即可生成文档和重构计划。</description>
+    </item>
+    
+    <item>
+      <title>TradingView MCP：用 Claude Code 接管你本地的 TradingView 图表</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/tradingview-mcp/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/tradingview-mcp/</guid>
+      <description>tradesdontlie/tradingview-mcp 是一个通过 Chrome DevTools Protocol 把本地的 TradingView Desktop 暴露给 LLM 智能体的 MCP 服务，提供 78 个工具用于图表读取、Pine Script 开发、画线、告警与回放，全部数据本地处理、不连接 TradingView 服务器。</description>
+    </item>
+    
+    <item>
+      <title>FastMCP：用 Python 快速构建生产级 MCP 服务端与客户端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</guid>
+      <description>GitHub trending 项目 PrefectHQ/fastmcp 是 Model Context Protocol（MCP）的 Python 框架，只需几行代码即可构建 MCP 服务端、客户端和交互式 App，日下载量破百万，是目前最主流的 MCP 开发框架。</description>
+    </item>
+    
+    <item>
+      <title>Kimi CLI：月之暗面推出的终端 AI Agent，把 Shell、IDE 与 MCP 串成一条工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/kimi-cli/</guid>
+      <description>Kimi CLI 是 Moonshot AI 出品的终端 AI Agent，可读写代码、执行 Shell、抓取网页，并通过 ACP 接入 IDE、通过 MCP 接入工具生态。本文从源码剖析其架构、技术栈与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Wigolo：让 AI 代理本地上网搜索，无需 API Key 的 Web 智能工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</guid>
+      <description>Wigolo 是一款面向 AI 代理的本地优先 Web 智能 MCP 服务器，提供搜索、抓取、爬取、提取等 10 种工具，无需任何 API Key，数据全程留在本地。</description>
+    </item>
+    
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
+    <item>
+      <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</guid>
+      <description>NitroStack 是一个面向企业的 TypeScript 框架，用于构建生产级 MCP（Model Context Protocol）服务器，支持装饰器、依赖注入和 UI Widget，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>Next AI Draw.io：用自然语言对话式创建 draw.io 图表的开源神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/next-ai-draw-io/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/next-ai-draw-io/</guid>
+      <description>Next AI Draw.io 是一款将大语言模型与 draw.io 深度集成的开源图表工具，通过自然语言对话即可生成、编辑云架构图、流程图、技术架构图，支持 MCP 协议接入 Claude Desktop。</description>
+    </item>
+    
     <item>
       <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>

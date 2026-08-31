@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent-skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent-skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garden Skills：为 AI 编程 Agent 打造的生产级技能集合</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</guid>
+      <description>Garden Skills 是由 ConardLi 开源的一套面向 Claude Code、Cursor、Codex 等 AI 编程 Agent 的生产级技能集合，涵盖网页演示、前端设计、图像生成、知识库检索和文章编辑五大核心领域，每个技能都附带完整的 SKILL.md 规范、主题模板和实战案例。</description>
+    </item>
+    
     <item>
       <title>Agent Skills：给 AI Agent 装上可插拔的技能卡</title>
       <link>https://blog.xlap.top/post/tech/2026-07-03/agentskills/</link>

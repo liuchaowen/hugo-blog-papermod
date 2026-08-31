@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/bun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/bun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
+    </item>
+    
     <item>
       <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>

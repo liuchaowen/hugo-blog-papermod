@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ontology on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ontology/</link>
+    <description>Recent content in Ontology on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ontology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ontology Playground：微软开源的交互式本体图谱可视化与设计工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/ontology-playground/</guid>
+      <description>微软开源的 Ontology Playground 是一个无需后端的静态 Web 应用，通过 Cytoscape.js 实现交互式本体（Ontology）图谱可视化，支持 RDF/OWL 导入导出、视觉化本体设计器、本体学堂和自然语言查询，让用户零门槛探索 Microsoft Fabric IQ 的核心概念。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A0%81%E4%BB%A3%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A0%81%E4%BB%A3%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Interpreter：面向低成本模型的智能编码代理</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</guid>
+      <description>Open Interpreter 是一个专注于低成本模型优化的智能编码代理，基于 OpenAI Codex 分支开发，支持多种模型 Harness、跨平台沙箱执行、计算机操作能力等特性，让开发者可以用自然语言驱动代码执行与系统操作。</description>
+    </item>
+    
     <item>
       <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
       <link>https://blog.xlap.top/post/tech/2026-06-21/jcode/</link>

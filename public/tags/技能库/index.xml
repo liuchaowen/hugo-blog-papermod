@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E8%83%BD%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E8%83%BD%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mercury Agent Skills：为AI智能体打造的开源技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/mercury-agent-skills/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/mercury-agent-skills/</guid>
+      <description>Mercury Agent Skills 是一个开源的 AI 智能体技能库，包含 132 个经过精心策划的 SKILL.md 配置文件，覆盖开发、AI/ML、后端、前端、DevOps 等 23 个类别，兼容所有主流 Agent 运行时。</description>
+    </item>
+    
+    <item>
+      <title>David Ondrej 官方 Agent Skills：可复用的 AI 智能体工作流技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/skills/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/skills/</guid>
+      <description>davidondrej/skills 是 David Ondrej 维护的官方 Agent Skills 合集，将编码、研究、写作等可重复工作流打包为可加载的 SKILL.md 指令，是构建 AI 智能体能力的实用积木。</description>
+    </item>
+    
+    <item>
+      <title>Nature Skills：面向全球学者的科研 Agent Skill 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</guid>
+      <description>Nature Skills 是一个开源科研技能库，为 Claude Code、Codex、OpenClaw 等 AI Agent 提供 17 个可直接复用的科研技能，覆盖论文阅读、润色、PPT 生成、专利撰写、文献检索等场景，已获 Google DeepMind 借鉴。</description>
+    </item>
+    
     <item>
       <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
       <link>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</link>

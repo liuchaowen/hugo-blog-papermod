@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Address：基于 PostgreSQL 的自托管真实住宅地址生成器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/address/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/address/</guid>
+      <description>Address 是一个自托管的真实住宅地址生成器，底层由 PostgreSQL 驱动，覆盖 27 个国家与地区的官方公开地址源。本文解析其架构、技术选型、数据同步机制与一键部署方式。</description>
+    </item>
+    
+    <item>
+      <title>灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</guid>
+      <description>灵犀跨境（lingxi）是一套面向跨境团队的开源多租户客户经营 SaaS，整合统一消息工作台、多语言翻译、意图与情绪分析、客户画像与经营分析，基于 Node.js &#43; PostgreSQL &#43; React 构建，支持 Docker 一键部署。</description>
+    </item>
+    
+    <item>
+      <title>Talivia：开源收入优先分析平台，打通网站流量与营收数据</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/talivia/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/talivia/</guid>
+      <description>Talivia 是一款自托管的收入优先分析平台，整合网站分析、Session Replay、协作共享与 Stripe/LemonSqueezy 等多平台支付归因，帮助团队从流量到收入实现完整数据闭环。</description>
+    </item>
+    
     <item>
       <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>

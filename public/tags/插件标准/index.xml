@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>插件标准 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6%E6%A0%87%E5%87%86/</link>
+    <description>Recent content in 插件标准 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6%E6%A0%87%E5%87%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Plugins 1.0.0：中立开放的 AI Agent 插件打包标准</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</guid>
+      <description>Agent Plugins 是一套厂商中立、开放可移植的 AI Agent 插件打包规范，定义了一套用于封装 Agent Skills 与 MCP Server 的便携包格式。本文解析其包结构、plugin.json 清单、技能发现机制与标准化价值。</description>
+    </item>
+    
+  </channel>
+</rss>

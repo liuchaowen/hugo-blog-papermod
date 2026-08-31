@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/deeptutor/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/deeptutor/</guid>
+      <description>DeepTutor 是港大 HKUDS 开源的 Agent 原生学习工作台，将聊天、解题、测验、深度研究、可视化与掌握度练习统一在一个可扩展系统中，支持多引擎 RAG 知识库、子智能体与伙伴（Partner）、可检视的个性化记忆，并可作为工具被其他 Agent 驱动。</description>
+    </item>
+    
     <item>
       <title>freeCodeCamp：免费学习编程的开源社区与课程体系</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/freecodecamp/</link>

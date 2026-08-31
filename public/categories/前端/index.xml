@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</guid>
+      <description>ChartGPU 是一个基于 WebGPU 的高性能图表渲染库，支持百万级数据点实时流式更新、多图表共享 GPU 设备、2D/3D 图表渲染，零 npm 运行时依赖，MIT 协议开源。</description>
+    </item>
+    
+    <item>
+      <title>Tailwind CSS — 实用优先的 CSS 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</guid>
+      <description>Tailwind CSS 是一个实用优先（utility-first）的 CSS 框架，通过组合细粒度的原子类实现快速构建自定义用户界面，无需编写自定义 CSS，广泛应用于现代前端项目。</description>
+    </item>
+    
+    <item>
+      <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</guid>
+      <description>img2threejs 是一个 AI 驱动的 3D 重建工具，只需提供一张物体参考图，即可自动生成代码级的 Three.js 模型，支持硬表面物体和角色两类重建路径，带有动画层级和交互能力。</description>
+    </item>
+    
+    <item>
+      <title>scroll-world：打造沉浸式滚动驱动的世界飞行着陆页</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/scroll-world/</guid>
+      <description>scroll-world 是一个 Agent 技能工具，能够为任意行业或品牌构建沉浸式的滚动驱动的「飞行穿越世界」着陆页。用户滚动页面时，摄像机从场景外部飞入内部，然后无缝流转到下一个场景，整个体验连贯无剪辑，适合打造类似 Apple 产品页的炫酷滚动动画效果。</description>
+    </item>
+    
+    <item>
+      <title>Next.js：React 全栈框架的工业级解决方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/next-js/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/next-js/</guid>
+      <description>Next.js 是 Vercel 开源的 React 全栈框架，集成了 Rust 构建工具（Turbopack）、服务端渲染、静态生成、API 路由等能力，被全球头部企业广泛采用，是构建高性能 Web 应用的首选方案。</description>
+    </item>
+    
     <item>
       <title>Astryx：Meta 开源的全面可定制设计系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/astryx/</link>

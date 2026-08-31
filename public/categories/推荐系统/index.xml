@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>推荐系统 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 推荐系统 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenBiliClaw：本地运行的跨平台个性化内容推荐 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</guid>
+      <description>OpenBiliClaw 是一个本地运行的跨平台内容推荐 AI Agent，支持 B 站、小红书、抖音、YouTube、X、知乎等 12 个平台，通过构建五层心理画像主动破除信息茧房，数据 100% 留在本地 SQLite。</description>
+    </item>
+    
+  </channel>
+</rss>

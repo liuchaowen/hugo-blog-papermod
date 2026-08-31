@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>嵌入模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B5%8C%E5%85%A5%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 嵌入模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B5%8C%E5%85%A5%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>腾讯开源 WeMM-Embedding：统一多模态嵌入模型的新标杆</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</guid>
+      <description>WeMM-Embedding 是腾讯微信团队推出的通用多模态嵌入模型，支持文本、图像、视频、视觉文档等多种输入，在 MMEB-v2 和 v3 基准测试中取得 SOTA 性能，提供 2B、4B、9B 三个规模，支持 Matryoshka 嵌套嵌入技术实现灵活的向量维度控制。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</guid>
+      <description>free-stockdb 是一款面向 A 股日 K、分钟 K 与 ETF 数据的本地量化引擎，通过增量同步、Zstd 压缩存储、内置 39 种技术指标和 5 种指数计算，实现全市场 7000&#43; 股票分钟线回测从 10 个工作日压缩到 30 分钟内完成。</description>
+    </item>
+    
+    <item>
+      <title>TradingView MCP：用 Claude Code 接管你本地的 TradingView 图表</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/tradingview-mcp/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/tradingview-mcp/</guid>
+      <description>tradesdontlie/tradingview-mcp 是一个通过 Chrome DevTools Protocol 把本地的 TradingView Desktop 暴露给 LLM 智能体的 MCP 服务，提供 78 个工具用于图表读取、Pine Script 开发、画线、告警与回放，全部数据本地处理、不连接 TradingView 服务器。</description>
+    </item>
+    
+    <item>
+      <title>KTransformers：CPU-GPU 异构推理，让消费级硬件跑起超大 MoE 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</guid>
+      <description>KTransformers 是清华 MADSys 实验室开源的 CPU-GPU 异构大模型推理与微调框架，通过 AMX/AVX 加速、量化与专家调度，让 DeepSeek-R1/V3 等超大 MoE 模型在单张 24GB 显卡甚至纯 CPU 上高效运行，并提供与 LLaMA-Factory 集成的 SFT 微调能力。</description>
+    </item>
+    
+    <item>
+      <title>Bonsai-demo：本地跑起 1-bit 与三值量化的前沿大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</guid>
+      <description>Bonsai-demo 是 PrismML 提供的开箱即用演示仓库，让你在 Mac、Linux/Windows（CUDA、Vulkan、ROCm）或 CPU 上本地运行 1-bit Bonsai 与 Ternary-Bonsai 大模型，默认即拉起 27B 视觉语言模型，支持推理、工具调用与超长上下文。</description>
+    </item>
+    
     <item>
       <title>Daily Stock Analysis：基于 AI 大模型的股票智能分析系统深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-21/daily-stock-analysis/</link>

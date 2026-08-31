@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gen1Recomp：用 LÖVE2D 原生重写宝可梦红/蓝/黄，无需模拟器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</guid>
+      <description>Gen1Recomp 是一个完全手写的 LÖVE2D 游戏引擎，逐帧还原 Game Boy 宝可梦红、蓝、黄的运行逻辑，ROM 数据仅用于初始化，引擎本身完全独立运行。</description>
+    </item>
+    
     <item>
       <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>

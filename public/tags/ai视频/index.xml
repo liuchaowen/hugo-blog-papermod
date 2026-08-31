@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>融光：Agent 驱动的视频创作平台，剧本到成片一站式搞定</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/ai-fusion-video/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/ai-fusion-video/</guid>
+      <description>融光（ai-fusion-video）是一款面向视频创作者的 Agent 驱动创作平台，将项目、剧本、分镜、素材及图片与视频生成整合在统一工作区，基于 Java 21 &#43; Spring Boot 3.5 &#43; Next.js 16 构建，支持 Docker 一键部署。</description>
+    </item>
+    
+    <item>
+      <title>HeyGen HyperFrames Launches：把产品发布会做成可复现的代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/hyperframes-launches/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/hyperframes-launches/</guid>
+      <description>盘点 heygen-com/hyperframes-launches 仓库——HeyGen 用自家的 HyperFrames 框架制作的一系列产品发布会视频源码。每个子目录都是一份独立的 HyperFrames 合成工程，用 HTML/JSON 描述镜头，配合 Git LFS 管理视频素材，可本地预览、渲染或二次创作。</description>
+    </item>
+    
+    <item>
+      <title>DramaClaw：一个开源的工业化短剧生产流水线</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/dramaclaw/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/dramaclaw/</guid>
+      <description>DramaClaw 是一款 source-available 的工业化短剧生产工具，支持从小说稿件解析、角色资产管理、分镜生成、配音合成到最终成片导出的全链路自动化。本文深入解析其架构设计与核心技术实现。</description>
+    </item>
+    
     <item>
       <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>

@@ -11,7 +11,196 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专利点挖掘与交底书编写利器：patent-disclosure-skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</guid>
+      <description>一个功能强大的 AI 技能，支持发明/实用新型/外观设计三种专利类型的交底书编写，以及公开专利的通俗解读与知识图谱构建，帮助研发人员高效完成专利申请全流程。</description>
+    </item>
+    
+    <item>
+      <title>Agnes AI：面向多模态与 Agent 工作流的 OpenAI 兼容统一 API 网关</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/agnesai-models/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/agnesai-models/</guid>
+      <description>AgnesAI-Models 是前沿 AI 公司 Agnes AI 的官方网关与模型目录，通过统一的 OpenAI 兼容 API 为开发者提供文本、图像、视频与 Agent 工作流的多模态模型接入，并支持流式输出、工具调用与异步视频任务轮询。</description>
+    </item>
+    
+    <item>
+      <title>Effective HTML：用 AI 快速创建高质量 HTML 原型与可视化工件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</guid>
+      <description>Effective HTML 是一套专注于用 AI 生成高质量 HTML 工件的技能集合，从低保真线框图到可交互原型、架构图、路线图，都能通过单个自包含的 HTML 文件快速呈现。</description>
+    </item>
+    
+    <item>
+      <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</guid>
+      <description>Claude-Obsidian 是一个本地优先的知识管理系统，专为 Claude Code 和兼容的 Agent Skills 宿主设计。它将源材料转化为链接的、有来源引用的 Obsidian 页面，基于已收集的证据回答问题，并提供研究、检索、维护和可视化的工作流。</description>
+    </item>
+    
+    <item>
+      <title>Claude Plugins Community：Anthropic 官方托管的 Claude Code 社区插件市场</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</guid>
+      <description>Claude Plugins Community 是 Anthropic 官方维护的 Claude Code / Claude Cowork 社区插件市场只读镜像。所有插件均经过自动安全扫描与人工审核，开发者只需一条命令即可订阅整个市场并安装数百个社区插件，覆盖 DeFi、电商、API 安全、可访问性、团队协作等场景。</description>
+    </item>
+    
+    <item>
+      <title>Lieflat Charts：给 AI Agent 用的专业数据可视化 Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/lieflat-charts/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/lieflat-charts/</guid>
+      <description>Lieflat Charts 是一套遵循 Agent Skills 格式的数据可视化与报告生成 skill，支持 moxt、Claude Code、Codex 等 AI agent，可生成 Lupi 编辑叙事型、Glance 快读型、Basics 基础型三类图表，以及 12 套中英文整页报告模板。</description>
+    </item>
+    
+    <item>
+      <title>holaOS：一个让你和AI代理共享工作空间的本地优先操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/holaos/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/holaos/</guid>
+      <description>holaOS 是一个本地优先的桌面操作系统，让你可以在同一个工作空间中运行任意 AI 代理（Claude Code、Codex 等），共享内存、工具和文件，支持内置前沿模型或自带 API Key。</description>
+    </item>
+    
+    <item>
+      <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</guid>
+      <description>ResumeSkills 是一个面向 Claude Code 等 AI 助手的技能集合，包含 20 个专业简历优化技能，覆盖 ATS 优化、面试准备、薪资谈判等求职全流程，帮助求职者提升 2-3 倍面试机会。</description>
+    </item>
+    
+    <item>
+      <title>OpenChamber：贯穿桌面、浏览器与移动端的开源 AI 编程工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/openchamber/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/openchamber/</guid>
+      <description>OpenChamber 是基于 OpenCode 的开源 AI 编程工作台，支持桌面、Web、VS Code 与移动端多端协同，提供 Session Goals、Multi-run、Changes Walkthrough、Preview 与私有中继远程访问，让 Agent 编程全流程可控、可 Review、随处可续。</description>
+    </item>
+    
+    <item>
+      <title>Paperclip：用AI代理团队构建自主企业的开源编排平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/paperclip/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/paperclip/</guid>
+      <description>Paperclip是一个开源的AI代理编排平台，让用户能够像管理公司一样管理AI代理团队。通过组织架构、预算控制、治理审批和目标对齐，实现AI代理的自主协作，适合构建24/7自主运行的AI企业。</description>
+    </item>
+    
+    <item>
+      <title>Agent Orchestrator：并行 AI 编程代理的统一编排平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</guid>
+      <description>Agent Orchestrator 是一个元级代理 IDE，用于并行运行多个 AI 编程代理（如 Claude Code、Cursor、Codex 等）。它通过隔离的 git worktree、实时终端控制、自动反馈循环（CI 失败、审查评论、合并冲突）让多代理协作变得有序可控。</description>
+    </item>
+    
+    <item>
+      <title>CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</guid>
+      <description>CyberPPT 是一个 Codex Skill，能将文档、研究材料和业务数据转化为高密度、可编辑、咨询风格的 PowerPoint 演示文稿。本文解析其三段式强制流程、8 种视觉风格与 15 道质量门禁，看它如何解决 AI 做 PPT 常见的密度不足与还原失真问题。</description>
+    </item>
+    
+    <item>
+      <title>Dashi PPT Skill：让 AI Agent 为你生成可编辑的专业 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/dashi-ppt-skill/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/dashi-ppt-skill/</guid>
+      <description>一个专为职场人打造的 PPT Skill，将文档交给 AI Agent 后即可生成带编辑控制台的网页版 PPT，支持 12 套视觉主题、1020 个版式页面，并可一键导出为可编辑的 PPTX 文件。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>ego-lite：让你和 AI 代理并行浏览的智能浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</guid>
+      <description>ego-lite 是一款专为人类与 AI 代理协同工作设计的 macOS 浏览器，突破性地实现了在同一浏览器内并行执行多个 AI 任务，同时不干扰用户的正常使用浏览体验。</description>
+    </item>
+    
+    <item>
+      <title>Nature Skills：面向全球学者的科研 Agent Skill 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</guid>
+      <description>Nature Skills 是一个开源科研技能库，为 Claude Code、Codex、OpenClaw 等 AI Agent 提供 17 个可直接复用的科研技能，覆盖论文阅读、润色、PPT 生成、专利撰写、文献检索等场景，已获 Google DeepMind 借鉴。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Claude Skills：汇聚 1000&#43; 生产级 AI 技能的开源宝库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</guid>
+      <description>Awesome Claude Skills 是 ComposioHQ 维护的超大规模 Claude AI 技能集合，涵盖文档处理、开发工具、数据分析、办公自动化等 12 大领域，支持 Claude.ai、Claude Code、Cursor、Gemini CLI 等主流 AI 平台。</description>
+    </item>
+    
+    <item>
+      <title>opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</guid>
+      <description>opencodex 是一个开源的本地代理工具，它将 OpenAI Codex 的 Responses API 翻译为任意 LLM 提供商的协议，让 Claude Code、Codex CLI/App/SDK 都能无缝使用 Anthropic、Google、DeepSeek、GLM、Qwen 等 40&#43; 模型。</description>
+    </item>
+    
+    <item>
+      <title>shadcn/improve：让 AI Agent 自主审计代码库并生成可执行改进计划</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/improve/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/improve/</guid>
+      <description>improve 是一个基于 AI Agent 的代码库审计工具，能够自动分析任意代码库并生成结构化的可执行改进计划，让大型语言模型专注于高价值推理工作，而将具体执行交给更经济的模型完成。</description>
+    </item>
+    
+    <item>
+      <title>9Router: 用 RTK Token 节省 &#43; 自动Fallback 打通所有 AI 编程工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/9router/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/9router/</guid>
+      <description>9Router 是一个开源的 AI 路由器，支持 40&#43; AI 服务商、100&#43; 模型，可自动压缩 tool_result 节省 20-40% tokens，并实现订阅→低价→免费的三级自动切换，是 Claude Code、Cursor、OpenClaw 等编程工具的完美伴侣。</description>
+    </item>
+    
     <item>
       <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>

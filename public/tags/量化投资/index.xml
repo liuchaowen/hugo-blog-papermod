@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>量化投资 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</link>
+    <description>Recent content in 量化投资 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DojoAgents：面向个人投资的全局市场 AI 智能体框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/dojoagents/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/dojoagents/</guid>
+      <description>DojoAgents 是 Alpha-Dojo 开源的面向个人投资的 AI 智能体框架，以 Loop-Driven 认知组合智能体为核心引擎，结合机构级四柱仪表盘、自动量化分析与多模态持仓诊断，把跨市场数据认知、策略推演与组合管理整合到一个自主推理循环中。</description>
+    </item>
+    
+    <item>
+      <title>AI Hedge Fund：多智能体协作的 AI 对冲基金系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</guid>
+      <description>一个基于多智能体架构的 AI 对冲基金概念验证项目，融合了巴菲特、芒格、达摩达兰等13位投资大师的投资哲学，通过基本面、技术面、情绪分析等多维度信号辅助投资决策。</description>
+    </item>
+    
+  </channel>
+</rss>

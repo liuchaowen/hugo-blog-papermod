@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude SEO：为 Claude Code 打造的开源 AI 搜索引擎优化技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</guid>
+      <description>Claude SEO 是面向 Claude Code 的开源 SEO 分析插件，基于 25 个子技能与 18 个专家 Agent 并行审计技术 SEO、内容质量、结构化数据与 AI 搜索优化，并输出带可证伪性校验的优先级行动计划。</description>
+    </item>
+    
     <item>
       <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>

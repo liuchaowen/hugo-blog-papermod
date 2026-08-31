@@ -11,7 +11,115 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Address：基于 PostgreSQL 的自托管真实住宅地址生成器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/address/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/address/</guid>
+      <description>Address 是一个自托管的真实住宅地址生成器，底层由 PostgreSQL 驱动，覆盖 27 个国家与地区的官方公开地址源。本文解析其架构、技术选型、数据同步机制与一键部署方式。</description>
+    </item>
+    
+    <item>
+      <title>n8n: 开源 AI 工作流自动化平台，一站式构建生产级 AI Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/n8n/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/n8n/</guid>
+      <description>n8n 是一款开源的 fair-code 工作流自动化平台，支持可视化和代码两种方式构建 AI Agent 和多步骤工作流，集成 1500&#43; 应用，自托管或云端部署，适合从原型到生产的全场景 AI 自动化需求。</description>
+    </item>
+    
+    <item>
+      <title>Ghost 开源项目架构解析：monorepo 工程化实践与依赖边界设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ghost/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ghost/</guid>
+      <description>Ghost 是一个拥有 1 亿&#43;下载量的专业开源出版平台，本文深入剖析其基于 pnpm &#43; Nx 的 monorepo 工程架构，详解 shared/server/frontend 依赖边界、shade 设计系统分层以及 UMD 公开包的隔离机制。</description>
+    </item>
+    
+    <item>
+      <title>Magnitude：一个完全本地运行的开源 AI Agent，支持离线使用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/magnitude/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/magnitude/</guid>
+      <description>Magnitude 是一个开源 AI Agent，内置本地大模型支持，完全离线运行，无需配置 Ollama 或任何推理服务。上手简单，Apache 2.0 开源，彻底保护隐私。</description>
+    </item>
+    
+    <item>
+      <title>nvm：Node.js 版本管理神器，让多版本切换如丝般顺滑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-11/nvm/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-11/nvm/</guid>
+      <description>nvm（Node Version Manager）是 GitHub 星标 8.3 万的 Node.js 版本管理工具，支持安装、切换、隔离不同项目所需的 Node 版本，一行命令搞定版本切换告别全局污染。</description>
+    </item>
+    
+    <item>
+      <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/computer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/computer/</guid>
+      <description>Cloudflare Computer 是一个运行在 Durable Object 内部的虚拟文件系统，通过 SQLite 持久化状态，并提供 Container、Isolate Shell、Isolate JavaScript 三种可插拔执行后端，可在云端 Sandbox 中运行完整 Linux 环境、bash 命令或 ECMAScript 模块。</description>
+    </item>
+    
+    <item>
+      <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
+      <description>pdf-inspector 是 Firecrawl 开源的 Rust 库，能在 200ms 内完成 PDF 类型判定（文本型/扫描型/混合型），并直接输出结构化 Markdown。零 OCR、零云服务、多语言绑定，适合大规模文档处理流水线。</description>
+    </item>
+    
+    <item>
+      <title>Pi Web：为 pi 编程 agent 打造的浏览器工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/pi-web/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/pi-web/</guid>
+      <description>Pi Web 是一个本地 Web UI，为 pi 编程 agent 提供浏览器端会话浏览、实时聊天、模型配置、技能管理和项目文件预览能力，让终端开发者也能享受图形化协作体验。</description>
+    </item>
+    
+    <item>
+      <title>Wigolo：让 AI 代理本地上网搜索，无需 API Key 的 Web 智能工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</guid>
+      <description>Wigolo 是一款面向 AI 代理的本地优先 Web 智能 MCP 服务器，提供搜索、抓取、爬取、提取等 10 种工具，无需任何 API Key，数据全程留在本地。</description>
+    </item>
+    
+    <item>
+      <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</guid>
+      <description>NitroStack 是一个面向企业的 TypeScript 框架，用于构建生产级 MCP（Model Context Protocol）服务器，支持装饰器、依赖注入和 UI Widget，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>Toonflow：AI 短剧漫剧一站式工作台，把小说秒变视频</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</guid>
+      <description>Toonflow 是一款开源 AI 短剧漫剧工具，通过决策层、执行层、监督层三层 Agent 协作，实现从小说文本到分镜、素材、视频的全流程自动化，支持本地部署与云端使用。</description>
+    </item>
+    
     <item>
       <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>

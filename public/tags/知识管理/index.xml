@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</guid>
+      <description>Claude-Obsidian 是一个本地优先的知识管理系统，专为 Claude Code 和兼容的 Agent Skills 宿主设计。它将源材料转化为链接的、有来源引用的 Obsidian 页面，基于已收集的证据回答问题，并提供研究、检索、维护和可视化的工作流。</description>
+    </item>
+    
+    <item>
+      <title>Obsidian Skills：让 AI Agent 原生理解你的笔记</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</guid>
+      <description>kepano 开源了一套基于 Agent Skills 规范的 Obsidian 工具包，包含 Markdown 编辑、Bases 查询、JSON Canvas 绘制等技能，让 Claude Code、Codex、OpenCode 等主流 AI Agent 都能原生理解 Obsidian 笔记语法，大幅提升 AI 辅助写作与知识管理的效率。</description>
+    </item>
+    
     <item>
       <title>Tolaria：开源跨平台的 Markdown 知识库管理工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</link>

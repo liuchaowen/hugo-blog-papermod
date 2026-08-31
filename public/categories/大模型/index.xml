@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 大模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeToken：在消费级显卡上跑 290B&#43; 顶级 MoE 大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</guid>
+      <description>FreeToken 是一个边缘原生的 MoE（混合专家）推理引擎，能在游戏显卡、家用 PC 等消费级硬件上，以交互级速度运行 290B&#43; 前沿开源大模型，支持 DeepSeek-V4-Flash、Qwen3.6-35B 等主流 MoE 模型。</description>
+    </item>
+    
+    <item>
+      <title>《动手学大模型》：上海交大出品的大模型编程实践教程，11 章从微调、提示工程到越狱与水印</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</guid>
+      <description>dive-into-llms 是上海交通大学开源的《动手学大模型》系列编程实践教程，由 NLP 与 AI 安全课程讲义拓展而来，公益免费。教程以 Jupyter Notebook 形式覆盖微调与部署、提示学习与思维链、知识编辑、数学推理、模型水印、越狱攻击、大模型隐写、多模态、GUI 智能体、智能体安全与 RLHF 安全对齐等 11 个主题，并联合华为昇腾推出国产化《大模型开发全流程》课程。</description>
+    </item>
+    
+  </channel>
+</rss>

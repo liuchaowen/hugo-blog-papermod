@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自动化工具链 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%E9%93%BE/</link>
+    <description>Recent content in 自动化工具链 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%E9%93%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
+      <description>reverse-skill 是一个专为 AI Agent（Claude Code、Cursor、Cline 等）设计的逆向工程 / 渗透测试技能路由包，通过 38 个场景化 Skill 自动路由 &#43; 按需工具链自举 &#43; 可进化经验库，让 AI 在面对 APK、JS 加密、固件、CTF 等任务时不再盲猜命令。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文档处理 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in 文档处理 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%96%87%E6%A1%A3%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docling Graph：将文档转化为结构化知识图谱的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/docling-graph/</guid>
+      <description>Docling Graph 是 IBM 开源的工具包，可将 PDF、图片等文档通过 LLM 或 VLM 提取为 Pydantic 对象，进而构建带 provenance 的有向知识图谱，支持化学、金融、法律等高精度领域。</description>
+    </item>
+    
+    <item>
+      <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/doc7/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/doc7/</guid>
+      <description>doc7 是一款开源文档转换工具，通过本地部署的视觉语言模型（VLM）将 PDF、Office 文件、扫描件、图片等任意格式文档转换为结构化 Markdown，无需云 API，按页计费彻底成为历史。</description>
+    </item>
+    
+  </channel>
+</rss>

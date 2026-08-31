@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Praxist：把可量化研究交给自主 AI 研究团队的实验系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/praxist/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/praxist/</guid>
+      <description>Praxist 是 Sapient Intelligence 开源的自主科研系统，将已可运行、目标可量化的研究项目转化为多智能体、多代际的持续研究循环，通过并行研究员、持久证据链与代际综合来逼近最优解。</description>
+    </item>
+    
     <item>
       <title>OpenScience：会读文献、写代码、跑实验并自动成文的开源科研工作台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/openscience/</link>

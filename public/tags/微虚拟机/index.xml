@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>微虚拟机 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BE%AE%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+    <description>Recent content in 微虚拟机 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BE%AE%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/substrate/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/substrate/</guid>
+      <description>Agent Substrate 是 Google 开源的高性能 Agent 运行时基础设施，通过 Actor-Worker 多路复用架构实现亚秒级 Agent 挂起/恢复，支持 30 倍以上资源超售，让大规模 AI Agent 部署变得经济可行。</description>
+    </item>
+    
+  </channel>
+</rss>

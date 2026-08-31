@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>学术研究 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</link>
+    <description>Recent content in 学术研究 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARS-Codex：为学术研究者打造的 AI 助手套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/</guid>
+      <description>ARS-Codex 是专为 Codex 平台设计的学术研究技能套件，集成深度文献综述、论文撰写、同行评审、实验规划等五大工作流，帮助研究者从选题到定稿全流程提效。</description>
+    </item>
+    
+  </channel>
+</rss>

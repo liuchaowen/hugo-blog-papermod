@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>腾讯 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%85%BE%E8%AE%AF/</link>
+    <description>Recent content in 腾讯 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%85%BE%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>腾讯开源 WeMM-Embedding：统一多模态嵌入模型的新标杆</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/wemm-embedding/</guid>
+      <description>WeMM-Embedding 是腾讯微信团队推出的通用多模态嵌入模型，支持文本、图像、视频、视觉文档等多种输入，在 MMEB-v2 和 v3 基准测试中取得 SOTA 性能，提供 2B、4B、9B 三个规模，支持 Matryoshka 嵌套嵌入技术实现灵活的向量维度控制。</description>
+    </item>
+    
+    <item>
+      <title>腾讯开源 AI-Infra-Guard：一站式 AI 红队安全检测平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/ai-infra-guard/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/ai-infra-guard/</guid>
+      <description>AI-Infra-Guard（简称 A.I.G）是腾讯朱雀实验室开源的一站式 AI 红队安全检测平台，整合 AI 基础设施漏洞扫描、MCP Server 与 Agent Skills 扫描、越狱评估等能力，覆盖 2000&#43; CVE 规则与 9 类 Skills 安全风险，帮助个人与企业自查 AI 系统安全。</description>
+    </item>
+    
+    <item>
+      <title>Octop：腾讯开源的自托管多用户 AI 助手平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/octop/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/octop/</guid>
+      <description>Octop 是腾讯云开源的自托管 AI 助手平台，支持多用户、多 Agent 架构，集成 Web Dashboard、CLI、IM 通道（飞书/钉钉/QQ/Discord/企业微信）和定时任务，所有数据本地存储，隐私安全有保障。</description>
+    </item>
+    
+  </channel>
+</rss>

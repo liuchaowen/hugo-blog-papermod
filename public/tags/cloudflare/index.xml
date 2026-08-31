@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloudflare on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</guid>
+      <description>Mailflare 是一个运行在 Cloudflare 上的自托管邮件系统，借助 Workers、D1、R2、Durable Objects 和 Email Routing 实现自定义域名的收发信、实时通知与 AI 收件箱。本文从架构、技术栈、安装与实战角度深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>EmDash：用 Astro &#43; Cloudflare 重写 WordPress 的现代 CMS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/emdash/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/emdash/</guid>
+      <description>EmDash 是基于 Astro 与 Cloudflare 的全栈 TypeScript CMS，借鉴 WordPress 的插件生态与后台体验，却以无服务器、类型安全的架构重建，并用沙箱化 Worker 隔离解决插件安全隐患。</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/computer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/computer/</guid>
+      <description>Cloudflare Computer 是一个运行在 Durable Object 内部的虚拟文件系统，通过 SQLite 持久化状态，并提供 Container、Isolate Shell、Isolate JavaScript 三种可插拔执行后端，可在云端 Sandbox 中运行完整 Linux 环境、bash 命令或 ECMAScript 模块。</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare 临时邮箱：零成本搭建私有临时邮件服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/cloudflare-temp-email/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/cloudflare-temp-email/</guid>
+      <description>cloudflare_temp_email 是一个基于 Cloudflare Workers &#43; D1 &#43; Pages 搭建的临时邮箱服务，完全免费、功能完整，支持邮件收发、AI 验证码识别、SMTP/IMAP 代理、社区 Telegram Bot 等，适合个人隐私保护和开发测试场景。</description>
+    </item>
+    
+    <item>
+      <title>wloc：一行不改 GPS 也能改定位？深挖 Apple 网络定位（WLOC）虚拟定位黑科技</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/wloc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/wloc/</guid>
+      <description>GitHub Trending 项目 wloc 通过 MITM 拦截 Apple 的 /clls/wloc 网络定位接口并补丁 protobuf 响应坐标，实现 iOS 虚拟定位。本文解析其架构、数据流、iOS 26 缓存坑与自部署方案。</description>
+    </item>
+    
+    <item>
+      <title>Open-Inspect：开源背景编码代理系统，让 AI 替你做开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/background-agents/</guid>
+      <description>Open-Inspect 是一个受 Ramp Inspect 启发的开源背景编码代理系统，支持多客户端接入（Web、Slack、GitHub、Linear）、并行子任务沙箱、完整开发环境，以及 PR 归属追溯。深度解析其架构设计与安全模型。</description>
+    </item>
+    
+  </channel>
+</rss>

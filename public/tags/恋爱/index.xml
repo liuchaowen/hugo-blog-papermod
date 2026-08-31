@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>恋爱 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%81%8B%E7%88%B1/</link>
+    <description>Recent content in 恋爱 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%81%8B%E7%88%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>狗头军师：一个基于跨学科知识库的 AI 恋爱顾问</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/goutoujunshi/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/goutoujunshi/</guid>
+      <description>狗头军师是一个把情绪支持、关系科学与可执行策略整合进一个 AI 恋爱军师的 GitHub 开源项目，支持聊天截图分析、MBTI 关系判断、跨周期关系策略与本地记忆功能。</description>
+    </item>
+    
+  </channel>
+</rss>

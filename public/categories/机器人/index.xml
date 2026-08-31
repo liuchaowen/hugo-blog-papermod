@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</guid>
+      <description>Microduck RL 是 Pollen Robotics 开源的强化学习训练框架，基于 MuJoCo Warp 和 PPO 算法，专门为 Microduck 这款约 800g、25cm 高的双足机器人打造 Sim2Real 迁移管道。</description>
+    </item>
+    
+    <item>
+      <title>OOMWOO：用树莓派和 ROS2 自己造一台扫地机器人</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</guid>
+      <description>OOMWOO 是一个完全开源的扫地机器人项目，基于树莓派、ROS2、3D 打印和 Home Assistant 构建，支持 2D LiDAR 自主导航，完全本地运行无需云端，真正做到可 hack、可修复、可升级。</description>
+    </item>
+    
+    <item>
+      <title>Robonix：面向具身智能的机器人操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/robonix/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/robonix/</guid>
+      <description>Robonix 是一个开源的具身智能操作系统，旨在为异构机器人构建统一的「大脑」底座，让 AI 模型和技能可以跨不同机器人形态复用，无需为每个厂商 SDK 重写代码。</description>
+    </item>
+    
+    <item>
+      <title>text-to-cad：AI驱动的CAD与机器人设计技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</guid>
+      <description>text-to-cad是一个开源的AI Agent技能库,专注于CAD模型生成、机器人描述文件创建和硬件设计自动化。支持STEP/STL/3MF导出、URDF/SDF/SRDF机器人文件生成、G-code切片和3D打印集成，让AI Agent能够从自然语言生成工程级CAD模型和机器人描述。</description>
+    </item>
+    
     <item>
       <title>Introduction to Autonomous Robots：MIT Press 开源机器人学教材</title>
       <link>https://blog.xlap.top/post/tech/2026-06-15/introduction-to-autonomous-robots/</link>

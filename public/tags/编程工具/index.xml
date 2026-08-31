@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Codex CLI：本地运行的 AI 编程助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/codex/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/codex/</guid>
+      <description>Codex CLI 是 OpenAI 推出的本地 AI 编程工具，通过命令行直接在终端中调用 GPT-4o 等模型完成代码编写、调试和重构任务，支持 Mac/Linux/Windows 多平台。</description>
+    </item>
+    
+    <item>
+      <title>Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/paseo/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/paseo/</guid>
+      <description>Paseo 是一个开源的本地 AI 编程 Agent 编排工具，通过统一接口同时管理 Claude Code、Codex、GitHub Copilot、OpenCode、Pi 等多种 Agent，支持跨设备控制与语音交互，隐私优先，无遥测无强制登录。</description>
+    </item>
+    
     <item>
       <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
       <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>

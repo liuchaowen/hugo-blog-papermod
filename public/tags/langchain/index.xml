@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 智能体实战速成指南：从零到企业级落地的系统性学习路线</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</guid>
+      <description>全网首个系统开源的 AI 智能体教程，涵盖大模型基础、LangChain/LangGraph 框架、企业级 RAG/Agent 实战、微调实践和面试题库，提供完整源码和可运行案例，适合零基础到工程化落地的全链路学习。</description>
+    </item>
+    
+    <item>
+      <title>OpenWiki：为 AI Agent 打造的代码文档自动化 CLI 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/openwiki/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/openwiki/</guid>
+      <description>OpenWiki 是 LangChain 团队推出的 CLI 工具，专为 AI Agent 设计，能够自动生成和维护代码库文档或个人知识库。支持 Git 仓库、Notion、Gmail、X/Twitter 等多种数据源，通过内置连接器同步更新，并可与 GitHub Actions 集成实现 CI 自动化文档更新。</description>
+    </item>
+    
     <item>
       <title>OpenDataLoader PDF：排名第一的开源 PDF 解析与无障碍自动化工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-04/opendataloader-pdf/</link>

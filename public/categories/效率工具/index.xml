@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LifeOS：一个把 AI 变成你专属生活操作系统的新项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-11/lifeos/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-11/lifeos/</guid>
+      <description>LifeOS 是由 Daniel Miessler 推出的 AI 驱动个人操作系统，通过持久记忆、自定义技能、智能路由和自我进化机制，让 AI 真正了解你、记住你、帮助你从现状走向理想状态。支持 TypeScript &#43; Bun，构建在通用原语之上，跨 Claude Code、Cursor 等主流 AI 编码助手运行。</description>
+    </item>
+    
     <item>
       <title>用 Claude Code 打造 AI 求职助手：从自我画像到简历、求职信全自动生成</title>
       <link>https://blog.xlap.top/post/tech/2026-07-07/ai-job-search/</link>

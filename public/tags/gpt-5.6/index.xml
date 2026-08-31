@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GPT-5.6 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/gpt-5.6/</link>
+    <description>Recent content in GPT-5.6 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gpt-5.6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codex gpt-5.6-sol 破甲提示词包：一键突破安全限制，测试120/120全通过</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/gpt-5-6-instruct/</guid>
+      <description>MDX-Tom/gpt-5.6-instruct 提供针对 gpt-5.6-sol Codex CLI 的越狱提示词包，v5 版本在 low、medium、high 三档推理等级下均达到 120/120 测试通过率，显著超越上游 5.5 提示词。</description>
+    </item>
+    
+  </channel>
+</rss>

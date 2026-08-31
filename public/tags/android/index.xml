@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</guid>
+      <description>OneStep4.0 是一款面向 Android Root 与系统特权环境的多应用桌面容器，通过 VirtualDisplay &#43; SurfaceView 技术，在无自由窗口模式的设备上实现主窗口 &#43; 多侧边窗口的多任务交互，并支持 Magisk / KSU 两种刷入方式。</description>
+    </item>
+    
+    <item>
+      <title>NeriPlayer：一个功能强大的多源音频播放器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/neriplayer/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/neriplayer/</guid>
+      <description>NeriPlayer 是一个基于 Jetpack Compose 和 Media3 的原生 Android 音频播放器，支持网易云音乐、Bilibili、YouTube Music 多源播放，本地优先数据管理，以及 GitHub/WebDAV 同步，为音乐爱好者提供极致的播放体验。</description>
+    </item>
+    
+    <item>
+      <title>OpenMinis：把最强 AI Agent 跑在你的 iPhone 本地</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/openminis/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/openminis/</guid>
+      <description>OpenMinis 是一款开源的本地 AI Agent 应用，可运行于 iOS 和 Android，将 Claude、GPT、Gemini 等主流模型引入原生移动端，并内置 Linux 沙箱、设备深度集成与可扩展技能系统。</description>
+    </item>
+    
     <item>
       <title>Headunit Revived：把 Android 平板变成 Android Auto 车机屏幕</title>
       <link>https://blog.xlap.top/post/tech/2026-06-25/headunit-revived/</link>

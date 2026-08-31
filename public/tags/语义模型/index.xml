@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>语义模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%AF%AD%E4%B9%89%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 语义模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E4%B9%89%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Ossie：打破数据孤岛，打造统一语义模型规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ossie/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ossie/</guid>
+      <description>Apache Ossie 是 Apache 基金会旗下的开源项目，致力于用一套统一的 JSON/YAML 语义模型规范打通 AI Agent、BI 平台和数据工具之间的壁垒，消除数据定义不一致的根源性问题。</description>
+    </item>
+    
+  </channel>
+</rss>

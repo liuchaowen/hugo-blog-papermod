@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>虚拟定位 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D/</link>
+    <description>Recent content in 虚拟定位 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wloc：一行不改 GPS 也能改定位？深挖 Apple 网络定位（WLOC）虚拟定位黑科技</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/wloc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/wloc/</guid>
+      <description>GitHub Trending 项目 wloc 通过 MITM 拦截 Apple 的 /clls/wloc 网络定位接口并补丁 protobuf 响应坐标，实现 iOS 虚拟定位。本文解析其架构、数据流、iOS 26 缓存坑与自部署方案。</description>
+    </item>
+    
+  </channel>
+</rss>

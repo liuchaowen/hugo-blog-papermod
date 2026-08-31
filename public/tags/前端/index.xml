@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/htmx/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/htmx/</guid>
+      <description>htmx 是一款仅约 14KB、零依赖的 JavaScript 库，它让你直接在 HTML 属性中发起 AJAX、CSS 过渡、WebSocket 与 SSE 请求，从而用超文本的简洁语法构建现代交互式用户界面。本文从动机、技术原理、快速上手到实战与排错，系统梳理 htmx 的核心能力。</description>
+    </item>
+    
+    <item>
+      <title>screenshot-to-code：用 AI 将截图、Figma 与录屏一键转换为可运行代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/screenshot-to-code/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/screenshot-to-code/</guid>
+      <description>screenshot-to-code 是一个开源 AI 工具，可以把截图、线框图、Figma 设计和网站录屏转换为干净、可运行的代码（HTML&#43;Tailwind、React、Vue 等）。本文拆解其架构设计、技术栈选型、本地部署与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>免费领取你的专属子域名：Stackryze FreeDomains 项目解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/freedomains/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/freedomains/</guid>
+      <description>FreeDomains 是 Stackryze 推出的免费托管子域名服务，面向开发者、学生与开源社区，支持 .indevs.in、.sryze.cc 等后缀，可指向任意托管商且完全无锁定。本文解析其架构、技术栈与本地部署方式。</description>
+    </item>
+    
+    <item>
+      <title>Clypra：基于 Tauri v2 &#43; Rust &#43; React 19 的免费开源专业视频编辑器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/clypra/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/clypra/</guid>
+      <description>Clypra 是一款采用 Tauri v2、React 19 与 Rust 构建的跨平台开源视频编辑器，MIT 协议永久免费，支持硬件加速解码、多轨时间线与可选的 AI 增强能力。</description>
+    </item>
+    
     <item>
       <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>

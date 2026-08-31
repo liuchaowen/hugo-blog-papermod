@@ -1,0 +1,110 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- /* 归档页改为「左侧年月树形导航 + 右侧单月文章列表」：
+      年份为一级菜单（点击展开/收起），月份为二级菜单（点击切换文章列表），
+      模板只输出导航树与一份数据 JSON，文章列表由 JS 按选中月份渲染，
+      避免全量文章一次性输出导致页面过大。 */}}
+{{- $months := slice }}
+{{- range $pages.GroupByDate "2006-01" }}
+{{- if ne (strings.SliceString .Key 0 4) "0001" }}
+{{- $year := strings.SliceString .Key 0 4 }}
+{{- $label := printf "%s年%d月" $year (int (strings.TrimLeft "0" (strings.SliceString .Key 5 7))) }}
+{{- $posts := slice }}
+{{- range .Pages }}
+{{- $meta := slice }}
+{{- with .Params.categories }}
+{{- if reflect.IsSlice . }}
+{{- $meta = $meta | append (delimit . " · ") }}
+{{- else }}
+{{- $meta = $meta | append (string .) }}
+{{- end }}
+{{- end }}
+{{- if not .Date.IsZero }}
+{{- $meta = $meta | append (.Date.Format "2006-01-02") }}
+{{- end }}
+{{- if site.Params.ShowReadingTime }}
+{{- $meta = $meta | append (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)) }}
+{{- end }}
+{{- if site.Params.ShowWordCount }}
+{{- $meta = $meta | append (i18n "words" .WordCount | default (printf "%d words" .WordCount)) }}
+{{- end }}
+{{- $posts = $posts | append (dict "t" .Title "u" .RelPermalink "m" (delimit $meta " · ")) }}
+{{- end }}
+{{- $monthLabel := printf "%d月" (int (strings.TrimLeft "0" (strings.SliceString .Key 5 7))) }}
+{{- $months = $months | append (dict "k" .Key "l" $label "lm" $monthLabel "n" (len .Pages) "p" $posts) }}
+{{- end }}
+{{- end }}
+
+{{- /* 按年份聚合成树：一级为年份（文章数为各月累加），二级为该年各月 */}}
+{{- $years := slice }}
+{{- $yearKeys := slice }}
+{{- range $months }}
+{{- $y := strings.SliceString .k 0 4 }}
+{{- if not (in $yearKeys $y) }}
+{{- $yearKeys = $yearKeys | append $y }}
+{{- end }}
+{{- end }}
+{{- range $y := $yearKeys }}
+{{- $yearMonths := slice }}
+{{- $yearCount := 0 }}
+{{- range $months }}
+{{- if eq (strings.SliceString .k 0 4) $y }}
+{{- $yearMonths = $yearMonths | append . }}
+{{- $yearCount = add $yearCount .n }}
+{{- end }}
+{{- end }}
+{{- $years = $years | append (dict "y" $y "n" $yearCount "m" $yearMonths) }}
+{{- end }}
+
+{{- if $months }}
+<div class="archives-layout">
+  <nav class="archive-nav" id="archive-nav" aria-label="归档年月导航">
+    {{- $firstYear := (index $years 0).y }}
+    {{- range $years }}
+    <details class="archive-year-group" data-year="{{ .y }}"{{ if eq .y $firstYear }} open{{ end }}>
+      <summary class="archive-nav-item archive-year-item">
+        <span class="archive-nav-label">{{ .y }}年</span>
+        <span class="archive-nav-count">{{ .n }}</span>
+      </summary>
+      <div class="archive-month-list">
+        {{- range .m }}
+        <a class="archive-nav-item archive-month-item" data-month="{{ .k }}" href="#{{ .k }}">
+          <span class="archive-nav-label">{{ .lm }}</span>
+          <span class="archive-nav-count">{{ .n }}</span>
+        </a>
+        {{- end }}
+      </div>
+    </details>
+    {{- end }}
+  </nav>
+  <section class="archive-content">
+    <h2 class="archive-month-header">
+      <span id="archive-current-label">{{ (index $months 0).l }}</span>
+      <sup class="archive-count" id="archive-current-count">&nbsp;&nbsp;{{ (index $months 0).n }}</sup>
+    </h2>
+    <div class="archive-posts" id="archive-posts"><p class="archive-loading">正在加载文章列表…</p></div>
+    <noscript><p class="archive-noscript">文章列表需要启用 JavaScript 才能显示。</p></noscript>
+  </section>
+</div>
+{{- end }}
+
+<script type="application/json" id="archives-data">{{ $months | jsonify | safeJS }}</script>
+{{- $archivesJs := resources.Get "js/archives.js" | minify | fingerprint }}
+<script src="{{ $archivesJs.RelPermalink }}" defer></script>
+
+{{- end }}{{/* end main */}}

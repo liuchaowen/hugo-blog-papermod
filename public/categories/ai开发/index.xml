@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
     <item>
       <title>Anthropic Claude Cookbooks：开发者必备的 Claude API 实战指南</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/claude-cookbooks/</link>

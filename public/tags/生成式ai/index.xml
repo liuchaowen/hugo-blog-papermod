@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%9F%E6%88%90%E5%BC%8Fai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%9F%E6%88%90%E5%BC%8Fai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DramaClaw：一个开源的工业化短剧生产流水线</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/dramaclaw/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/dramaclaw/</guid>
+      <description>DramaClaw 是一款 source-available 的工业化短剧生产工具，支持从小说稿件解析、角色资产管理、分镜生成、配音合成到最终成片导出的全链路自动化。本文深入解析其架构设计与核心技术实现。</description>
+    </item>
+    
     <item>
       <title>awesome-generative-ai-guide：一份仍在持续生长的生成式 AI 全栈学习路线图</title>
       <link>https://blog.xlap.top/post/tech/2026-06-20/awesome-generative-ai-guide/</link>

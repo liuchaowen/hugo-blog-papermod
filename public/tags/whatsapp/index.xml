@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baileys：基于 WebSocket 的 WhatsApp Web API TypeScript 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/baileys/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/baileys/</guid>
+      <description>Baileys 是一个轻量级的 TypeScript 库，通过 WebSocket 协议与 WhatsApp Web API 交互，支持完整的消息收发、群组管理、媒体处理等功能，适合构建 WhatsApp 自动化工具和机器人。</description>
+    </item>
+    
     <item>
       <title>OpenWA：开源 WhatsApp API 网关，彻底摆脱商业短信 API 的枷锁</title>
       <link>https://blog.xlap.top/post/tech/2026-06-17/openwa/</link>

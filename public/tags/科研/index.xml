@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科研 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94/</link>
+    <description>Recent content in 科研 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Agent Skills 详解：163 个开箱即用的科研 Agent Skills，让你的 AI 变身「桌面科研科学家」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/</guid>
+      <description>K-Dense-AI 开源的 scientific-agent-skills 收录 163 个面向生物、化学、医学、材料等科学领域的 Agent Skills，统一接入 100&#43; 数据库，让你的 AI 智能体几分钟内胜任多步科研工作流。</description>
+    </item>
+    
+    <item>
+      <title>Open Science：本地优先、模型无关的开源 AI 科研工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/open-science/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/open-science/</guid>
+      <description>Open Science 是 aipoch 开源的本地优先、模型无关的 AI 科研工作台，主打可复现的科学发现：项目/会话管理、产物溯源、18 项科研技能与 24 个数据连接器，基于 Electron &#43; React &#43; ACP Agent 运行时。</description>
+    </item>
+    
+    <item>
+      <title>Nature Skills：面向全球学者的科研 Agent Skill 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</guid>
+      <description>Nature Skills 是一个开源科研技能库，为 Claude Code、Codex、OpenClaw 等 AI Agent 提供 17 个可直接复用的科研技能，覆盖论文阅读、润色、PPT 生成、专利撰写、文献检索等场景，已获 Google DeepMind 借鉴。</description>
+    </item>
+    
+    <item>
+      <title>ResearchStudio：微软开源的 AI 全流程科研助手，从想法到论文一气呵成</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14-researchstudio/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14-researchstudio/</guid>
+      <description>ResearchStudio 是微软开源的 AI 科研技能套件，覆盖从研究想法构思（Idea）到论文发布（Reel）的完整科研生命周期，基于 Claude Code 和 Codex 构建，助力研究人员高效产出。</description>
+    </item>
+    
+  </channel>
+</rss>

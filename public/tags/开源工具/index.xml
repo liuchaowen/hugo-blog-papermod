@@ -11,7 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailcat：Tailscale 出品的去中心化 netcat 替代品</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/tailcat/</guid>
+      <description>Tailcat 是 Tailscale 开源的创新工具，将 Tailscale 的数据平面（WireGuard 加密、NAT 穿透）与控制平面解耦，让你无需账号、无需 root、无需配置即可在两台机器间建立端到端加密隧道。本文深入解析其技术原理、使用场景与实战技巧。</description>
+    </item>
+    
+    <item>
+      <title>Effective HTML：用 AI 快速创建高质量 HTML 原型与可视化工件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</guid>
+      <description>Effective HTML 是一套专注于用 AI 生成高质量 HTML 工件的技能集合，从低保真线框图到可交互原型、架构图、路线图，都能通过单个自包含的 HTML 文件快速呈现。</description>
+    </item>
+    
+    <item>
+      <title>J-Space Cognition Suite V3.6：让AI拥有深度推理与长期任务能力的推理时控制系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</guid>
+      <description>J-Space Cognition Suite V3.6 是一个模型无关的推理时控制系统，通过选择性加载工作空间、广播中心和元认知控制等机制，显著提升大模型的深度推理、长期任务执行、工具使用和恢复能力，在多个基准测试中实现了2-3倍的效率提升。</description>
+    </item>
+    
+    <item>
+      <title>Humanizer：让 AI 生成的文本回归自然写作风格</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/humanizer/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/humanizer/</guid>
+      <description>Humanizer 是一个开源工具，通过识别并改写 AI 写作的 35 种常见模式，让文本从机器生成的痕迹中解放出来，保留作者的真实意图与个人风格。支持多种 Agent 安装方式，并提供写作样本匹配功能。</description>
+    </item>
+    
+    <item>
+      <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</guid>
+      <description>anydoc 是 Firecrawl 团队开源的 Rust 库，支持 14 种文档格式（Word、Excel、PPT、PDF、RTF、EPUB 等）在单数字毫秒级转换为统一的 GitHub-Flavored Markdown，提供 Node.js、Python、WASM 多语言绑定，并可作为 Agent Skill 直接集成到 AI 编程助手中。</description>
+    </item>
+    
+    <item>
+      <title>Vorssaint：一个菜单栏图标，替掉十几款付费 Mac 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</guid>
+      <description>Vorssaint 是一款用 Swift 编写的开源 macOS 菜单栏工具集，把逐应用音量、系统监控、窗口管理、剪贴板历史、截图录屏、清理卸载等十余款付费软件的能力，装进一个可按需安装/卸载的模块化应用中，本地优先、零账号、零遥测。</description>
+    </item>
+    
+    <item>
+      <title>ARS-Codex：为学术研究者打造的 AI 助手套件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/</guid>
+      <description>ARS-Codex 是专为 Codex 平台设计的学术研究技能套件，集成深度文献综述、论文撰写、同行评审、实验规划等五大工作流，帮助研究者从选题到定稿全流程提效。</description>
+    </item>
+    
+    <item>
+      <title>Castor：终端驱动的智能电视视频推送利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/castor/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/castor/</guid>
+      <description>Castor 是一款终端视频推送工具，通过 headless Chrome 提取网页视频流、ffmpeg 转码后直接推送到 DLNA/UPnP 电视，无需遥控器，适合开发者和技术用户。</description>
+    </item>
+    
+    <item>
+      <title>NullHub：一个 Zig 构建的本地化 AI 工具管理中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</guid>
+      <description>NullHub 是一款基于 Zig 0.16.0 &#43; Svelte 5 构建的开源本地管理工具，通过单个二进制文件即可安装、配置、监控和更新 NullClaw 生态中的所有组件（NullClaw、NullBoiler、NullTickets、NullWatch），并提供内置 Svelte Web UI。</description>
+    </item>
+    
     <item>
       <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
       <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>

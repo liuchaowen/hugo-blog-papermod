@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WASM on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/wasm/</link>
+    <description>Recent content in WASM on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/wasm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
+      <description>pdf-inspector 是 Firecrawl 开源的 Rust 库，能在 200ms 内完成 PDF 类型判定（文本型/扫描型/混合型），并直接输出结构化 Markdown。零 OCR、零云服务、多语言绑定，适合大规模文档处理流水线。</description>
+    </item>
+    
+  </channel>
+</rss>

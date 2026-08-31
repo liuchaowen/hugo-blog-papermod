@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 爆火的 CS 自学指南：北大开源，涵盖从入门到就业的全套计算机学习路径</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/cs-self-learning/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/cs-self-learning/</guid>
+      <description>PKUFlyingPig/cs-self-learning 是一个由北大在校生维护的计算机科学自学指南，汇聚欧美名校高质量开源课程，覆盖算法、体系、网络、操作系统、人工智能等几乎所有 CS 核心领域，目标是让自学者在 2-3 年内成长为一个有竞争力的全能程序员。</description>
+    </item>
+    
+    <item>
+      <title>OSSU Computer Science：GitHub 上最完整的免费计算机科学自学体系</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/computer-science/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/computer-science/</guid>
+      <description>OSSU Computer Science 是一个基于 GitHub 的开源项目，汇集全球顶尖高校（哈佛、MIT、普林斯顿等）的免费在线课程，提供一套完整的计算机科学自学路径，涵盖从编程入门到高级专业的全流程。</description>
+    </item>
+    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</guid>
+      <description>NitroStack 是一个面向企业的 TypeScript 框架，用于构建生产级 MCP（Model Context Protocol）服务器，支持装饰器、依赖注入和 UI Widget，开箱即用。</description>
+    </item>
+    
     <item>
       <title>Flue：下一代自主Agent开发框架，让AI真正拥有自主能力</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/flue/</link>

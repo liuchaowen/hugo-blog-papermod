@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EmDash：用 Astro &#43; Cloudflare 重写 WordPress 的现代 CMS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/emdash/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/emdash/</guid>
+      <description>EmDash 是基于 Astro 与 Cloudflare 的全栈 TypeScript CMS，借鉴 WordPress 的插件生态与后台体验，却以无服务器、类型安全的架构重建，并用沙箱化 Worker 隔离解决插件安全隐患。</description>
+    </item>
+    
+    <item>
+      <title>Ghost 开源项目架构解析：monorepo 工程化实践与依赖边界设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ghost/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ghost/</guid>
+      <description>Ghost 是一个拥有 1 亿&#43;下载量的专业开源出版平台，本文深入剖析其基于 pnpm &#43; Nx 的 monorepo 工程架构，详解 shared/server/frontend 依赖边界、shade 设计系统分层以及 UMD 公开包的隔离机制。</description>
+    </item>
+    
     <item>
       <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/instatic/</link>

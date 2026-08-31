@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/celld/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/celld/</guid>
+      <description>celld 是 Deno 官方开源的 daemon，可将 Cloudflare Workers 和 Durable Objects 运行在你自己的机器上。每个对象都是一个独立的 SQLite 数据库，通过 S3 兼容存储桶实现去中心化协调，无需控制平面或共识协议。</description>
+    </item>
+    
     <item>
       <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
       <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>

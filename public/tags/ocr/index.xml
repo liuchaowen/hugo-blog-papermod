@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</guid>
+      <description>Unlimited-OCR 是百度开源的多格式文档 OCR 模型，支持单图、PDF、多页文档的端到端识别，基于 Transformers/vLLM/SGLang 推理，一键输出结构化文本。</description>
+    </item>
+    
     <item>
       <title>olmOCR：基于视觉语言模型的开源 PDF 文档 OCR 工具包</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/olmocr/</link>

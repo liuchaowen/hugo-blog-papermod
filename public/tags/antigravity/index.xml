@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Antigravity on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/antigravity/</link>
+    <description>Recent content in Antigravity on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/antigravity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AG Kit：为 AI Agent 工程化而生的 Antigravity 开发工具包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</guid>
+      <description>AG Kit 是一个以 Google Antigravity 为核心运行时的 AI Agent 工程化工具包，提供了规则、技能、专家 Agent、工作流、持久化记忆、MCP 集成、原生安全钩子等一站式解决方案。</description>
+    </item>
+    
+  </channel>
+</rss>

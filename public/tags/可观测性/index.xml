@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostHog：一站式开源产品分析平台，用数据驱动产品「自动驾驶」</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/posthog/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/posthog/</guid>
+      <description>PostHog 是一个开源的全栈产品分析平台，集产品分析、会话回放、特性开关、实验、错误追踪、日志、数据仓库与 AI 可观测性于一体。本文结合源码剖析其多阶段构建、测试期性能工程与「自动驾驶」工作流，并给出自托管与 SDK 接入实践。</description>
+    </item>
+    
     <item>
       <title>Grafana：开源可观测性平台的架构设计与最佳实践</title>
       <link>https://blog.xlap.top/post/tech/2026-06-27/grafana/</link>

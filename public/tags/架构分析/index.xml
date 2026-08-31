@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>架构分析 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 架构分析 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeFlow：零配置在浏览器中秒级可视化代码架构</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/codeflow/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/codeflow/</guid>
+      <description>CodeFlow 是一个纯前端、零安装的开源工具，粘贴 GitHub 仓库 URL 或选择本地文件即可秒级生成可交互的代码架构依赖图，并支持爆炸半径分析、安全扫描、健康评分等能力，代码永不上传，可离线运行。</description>
+    </item>
+    
+  </channel>
+</rss>

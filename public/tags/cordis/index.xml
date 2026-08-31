@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cordis on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/cordis/</link>
+    <description>Recent content in Cordis on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cordis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cordis：面向时空可组合性的元框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/cordis/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/cordis/</guid>
+      <description>cordiverse/cordis 是一个主打「时空可组合性（Spatiotemporal Composability）」的元框架，目前处于早期活跃开发阶段，API 尚不稳定。本文基于其仓库结构与工具链，解析其 monorepo 架构、构建体系与设计取向。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSS on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/css/</link>
+    <description>Recent content in CSS on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailwind CSS — 实用优先的 CSS 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</guid>
+      <description>Tailwind CSS 是一个实用优先（utility-first）的 CSS 框架，通过组合细粒度的原子类实现快速构建自定义用户界面，无需编写自定义 CSS，广泛应用于现代前端项目。</description>
+    </item>
+    
+  </channel>
+</rss>

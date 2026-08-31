@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HydraDB：构建在对象存储之上的 Rust 分布式图数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</guid>
+      <description>HydraDB 是一个用 Rust 编写、以 S3 对象存储为持久化真相源的分布式图数据库。它把存储与计算彻底分离，用 SlateDB 保存图数据，提供快照一致的 OpenCypher 查询、GraphBLAS 遍历、Neo4j 兼容的 Bolt 协议与 HTTPS 查询 API。本文深入解析其架构、技术原理、上手方式与实战用法。</description>
+    </item>
+    
     <item>
       <title>Flowsint：开源 OSINT 图谱探索工具，让情报分析可视化</title>
       <link>https://blog.xlap.top/post/tech/2026-06-03/flowsint/</link>

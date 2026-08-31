@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tree-Sitter on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/tree-sitter/</link>
+    <description>Recent content in Tree-Sitter on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tree-sitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>calldiff：一个 Git 风格的代码调用链路 Diff 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</guid>
+      <description>calldiff 是一款通过 tree-sitter 解析代码 AST、对比 git 提交间函数调用关系变化的 CLI 工具，支持 22 种编程语言，输出结构化树形 diff，专为 AI 代码审查场景设计。</description>
+    </item>
+    
+    <item>
+      <title>Code-Graph-RAG：用知识图谱 &#43; RAG 彻底搞懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
+      <description>Code-Graph-RAG 是一款开源的多语言代码库 RAG 工具，基于 Tree-sitter 解析代码 AST，构建到 Memgraph 图数据库中，再用自然语言驱动 AI 查询、编辑和优化代码，支持 12 种编程语言。</description>
+    </item>
+    
+    <item>
+      <title>jCodeMunch MCP：节省95% Token的GitHub代码检索神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</guid>
+      <description>jCodeMunch MCP 是一款基于 tree-sitter AST 解析的高效 GitHub 代码检索 MCP Server，可将 AI 代码探索的 Token 消耗削减 95% 以上，兼容 Claude Code、Cursor、VS Code 等主流 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>code-review-graph：让 AI 代码审查节省 82 倍 Token 的知识图谱工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/code-review-graph/</guid>
+      <description>一款基于 Tree-sitter 和 MCP 的本地知识图谱工具，通过结构化代码分析和增量更新，让 AI 代码审查的 Token 消耗降低 38-528 倍，支持 30&#43; 编程语言和 GitHub Action 集成。</description>
+    </item>
+    
+    <item>
+      <title>Graphify：将代码库转化为可查询的知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/grpc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/grpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protocol Buffers：Google 高性能序列化框架深度解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/protobuf/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/protobuf/</guid>
+      <description>Protocol Buffers（protobuf）是 Google 开源的语言中立、平台中立、可扩展的数据序列化框架，支持 C&#43;&#43;/Java/Python/Go/JS 等十余种语言。本文深入剖析其 IDL 语法、Wire 格式编码原理及最新 v7.37.0 版本特性。</description>
+    </item>
+    
     <item>
       <title>Insomnia：开源跨平台 API 客户端的技术架构与深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</link>

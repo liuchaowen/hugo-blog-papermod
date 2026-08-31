@@ -11,49 +11,796 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://blog.xlap.top/categories/ai/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/ai/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>AI工具</title>
+      <link>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器人</title>
+      <link>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>技术</title>
       <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>技术博客</title>
-      <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>开源</title>
       <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>强化学习</title>
+      <link>https://blog.xlap.top/categories/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>专利</title>
+      <link>https://blog.xlap.top/categories/%E4%B8%93%E5%88%A9/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E4%B8%93%E5%88%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MacOS</title>
+      <link>https://blog.xlap.top/categories/macos/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安全</title>
+      <link>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOS 逆向</title>
+      <link>https://blog.xlap.top/categories/ios-%E9%80%86%E5%90%91/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ios-%E9%80%86%E5%90%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>逆向工程</title>
+      <link>https://blog.xlap.top/categories/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://blog.xlap.top/categories/c&#43;&#43;/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go语言</title>
+      <link>https://blog.xlap.top/categories/go%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/go%E8%AF%AD%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安全工具</title>
+      <link>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多模态</title>
+      <link>https://blog.xlap.top/categories/%E5%A4%9A%E6%A8%A1%E6%80%81/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%A4%9A%E6%A8%A1%E6%80%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>开源项目</title>
       <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</link>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>隐私保护</title>
+      <link>https://blog.xlap.top/categories/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化</title>
+      <link>https://blog.xlap.top/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器学习</title>
+      <link>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源工具</title>
+      <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI 工具</title>
+      <link>https://blog.xlap.top/categories/ai-%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai-%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>https://blog.xlap.top/categories/gis/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大模型</title>
+      <link>https://blog.xlap.top/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>可视化</title>
+      <link>https://blog.xlap.top/categories/%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI编程</title>
+      <link>https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI 技术</title>
+      <link>https://blog.xlap.top/categories/ai-%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sat, 22 Aug 2026 08:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai-%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人工智能</title>
+      <link>https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI基础设施</title>
+      <link>https://blog.xlap.top/categories/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>云计算</title>
+      <link>https://blog.xlap.top/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudflare</title>
+      <link>https://blog.xlap.top/categories/cloudflare/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源硬件</title>
+      <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E7%A1%AC%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>雷达技术</title>
+      <link>https://blog.xlap.top/categories/%E9%9B%B7%E8%BE%BE%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%9B%B7%E8%BE%BE%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>区块链</title>
+      <link>https://blog.xlap.top/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>量化交易</title>
+      <link>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Agent</title>
+      <link>https://blog.xlap.top/categories/ai-agent/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络</title>
+      <link>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开发工具</title>
+      <link>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>前端</title>
+      <link>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>框架</title>
+      <link>https://blog.xlap.top/categories/%E6%A1%86%E6%9E%B6/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%A1%86%E6%9E%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>推荐系统</title>
+      <link>https://blog.xlap.top/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开发者工具</title>
+      <link>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络工具</title>
+      <link>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理</title>
+      <link>https://blog.xlap.top/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>https://blog.xlap.top/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOS安全</title>
+      <link>https://blog.xlap.top/categories/ios%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ios%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>效率工具</title>
+      <link>https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>越狱开发</title>
+      <link>https://blog.xlap.top/categories/%E8%B6%8A%E7%8B%B1%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%B6%8A%E7%8B%B1%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://blog.xlap.top/categories/android/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI 基础设施</title>
+      <link>https://blog.xlap.top/categories/ai-%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai-%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI智能体</title>
+      <link>https://blog.xlap.top/categories/ai%E6%99%BA%E8%83%BD%E4%BD%93/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E6%99%BA%E8%83%BD%E4%BD%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://blog.xlap.top/categories/java/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据采集</title>
+      <link>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://blog.xlap.top/categories/css/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机视觉</title>
+      <link>https://blog.xlap.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>投资</title>
+      <link>https://blog.xlap.top/categories/%E6%8A%95%E8%B5%84/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%8A%95%E8%B5%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移动开发</title>
+      <link>https://blog.xlap.top/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://blog.xlap.top/categories/windows/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏</title>
+      <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>嵌入式</title>
+      <link>https://blog.xlap.top/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI 编程</title>
+      <link>https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏开发</title>
+      <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://blog.xlap.top/categories/python/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>量化投资</title>
+      <link>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI安全</title>
+      <link>https://blog.xlap.top/categories/ai%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://blog.xlap.top/categories/web/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具软件</title>
+      <link>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>视频处理</title>
+      <link>https://blog.xlap.top/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据库</title>
+      <link>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术博客</title>
+      <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神经科学</title>
+      <link>https://blog.xlap.top/categories/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数学</title>
+      <link>https://blog.xlap.top/categories/%E6%95%B0%E5%AD%A6/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%95%B0%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术测评</title>
+      <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E6%B5%8B%E8%AF%84/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E6%B5%8B%E8%AF%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>隐私通信</title>
+      <link>https://blog.xlap.top/categories/%E9%9A%90%E7%A7%81%E9%80%9A%E4%BF%A1/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E9%9A%90%E7%A7%81%E9%80%9A%E4%BF%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://blog.xlap.top/categories/linux/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>https://blog.xlap.top/categories/rpa/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://blog.xlap.top/categories/rust/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI开发</title>
+      <link>https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI科研</title>
+      <link>https://blog.xlap.top/categories/ai%E7%A7%91%E7%A0%94/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E7%A7%91%E7%A0%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机科学</title>
+      <link>https://blog.xlap.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>序列化</title>
+      <link>https://blog.xlap.top/categories/%E5%BA%8F%E5%88%97%E5%8C%96/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏逆向</title>
+      <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E9%80%86%E5%90%91/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E9%80%86%E5%90%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent</title>
+      <link>https://blog.xlap.top/categories/agent/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>独立开发</title>
+      <link>https://blog.xlap.top/categories/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI应用</title>
+      <link>https://blog.xlap.top/categories/ai%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/ai%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>知识图谱</title>
+      <link>https://blog.xlap.top/categories/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>航天</title>
+      <link>https://blog.xlap.top/categories/%E8%88%AA%E5%A4%A9/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/%E8%88%AA%E5%A4%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://blog.xlap.top/categories/devops/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/categories/devops/</guid>
       <description></description>
     </item>
     
@@ -67,42 +814,6 @@
     </item>
     
     <item>
-      <title>安全</title>
-      <link>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI工具</title>
-      <link>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://blog.xlap.top/categories/devops/</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>游戏开发</title>
-      <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>云原生</title>
       <link>https://blog.xlap.top/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
@@ -112,38 +823,11 @@
     </item>
     
     <item>
-      <title>效率工具</title>
-      <link>https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>资源汇总</title>
       <link>https://blog.xlap.top/categories/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>机器学习</title>
-      <link>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>人工智能</title>
-      <link>https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
       <description></description>
     </item>
     
@@ -184,15 +868,6 @@
     </item>
     
     <item>
-      <title>Rust</title>
-      <link>https://blog.xlap.top/categories/rust/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/rust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>数据库工具</title>
       <link>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
@@ -211,15 +886,6 @@
     </item>
     
     <item>
-      <title>工具</title>
-      <link>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>技术学习</title>
       <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
@@ -234,33 +900,6 @@
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E8%AF%BE%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>前端</title>
-      <link>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI应用</title>
-      <link>https://blog.xlap.top/categories/ai%E5%BA%94%E7%94%A8/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai%E5%BA%94%E7%94%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>安全工具</title>
-      <link>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
     
@@ -319,15 +958,6 @@
     </item>
     
     <item>
-      <title>开发工具</title>
-      <link>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>可观测性</title>
       <link>https://blog.xlap.top/categories/%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
@@ -355,38 +985,11 @@
     </item>
     
     <item>
-      <title>AI编程</title>
-      <link>https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>工具·效率</title>
       <link>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7%E6%95%88%E7%8E%87/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7%E6%95%88%E7%8E%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>网络工具</title>
-      <link>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开源工具</title>
-      <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
     
@@ -400,29 +1003,11 @@
     </item>
     
     <item>
-      <title>AI Agent</title>
-      <link>https://blog.xlap.top/categories/ai-agent/</link>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai-agent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>开源框架</title>
       <link>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>数据库</title>
-      <link>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
       <description></description>
     </item>
     
@@ -459,51 +1044,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI基础设施</title>
-      <link>https://blog.xlap.top/categories/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://blog.xlap.top/categories/android/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Windows</title>
-      <link>https://blog.xlap.top/categories/windows/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/windows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>机器人</title>
-      <link>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://blog.xlap.top/categories/python/</link>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/python/</guid>
       <description></description>
     </item>
     
@@ -670,15 +1210,6 @@
     </item>
     
     <item>
-      <title>AI 编程</title>
-      <link>https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai-%E7%BC%96%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AI辅助学习</title>
       <link>https://blog.xlap.top/categories/ai%E8%BE%85%E5%8A%A9%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
@@ -738,15 +1269,6 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
       
       <guid>https://blog.xlap.top/categories/%E7%89%A9%E7%90%86%E4%BB%BF%E7%9C%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI开发</title>
-      <link>https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/categories/ai%E5%BC%80%E5%8F%91/</guid>
       <description></description>
     </item>
     

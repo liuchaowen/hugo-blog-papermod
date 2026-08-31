@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Multi-Agent on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/multi-agent/</link>
+    <description>Recent content in Multi-Agent on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/multi-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Praxist：把可量化研究交给自主 AI 研究团队的实验系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/praxist/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/praxist/</guid>
+      <description>Praxist 是 Sapient Intelligence 开源的自主科研系统，将已可运行、目标可量化的研究项目转化为多智能体、多代际的持续研究循环，通过并行研究员、持久证据链与代际综合来逼近最优解。</description>
+    </item>
+    
+    <item>
+      <title>Ruflo：Claude Code 的 AI Agent 编排框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</link>
+      <pubDate>Sat, 22 Aug 2026 08:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</guid>
+      <description>Ruflo 是一个面向 Claude Code 和 Codex 的 Agent 元框架，提供 100&#43; 专业 Agent、自学习内存、联邦通信和企业级安全防护。本文深入解析其架构原理、核心组件和实战应用。</description>
+    </item>
+    
+    <item>
+      <title>MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</guid>
+      <description>清华 IEI Lab 开源的 Multi-Agent CAD 框架，用 4 个 Agent &#43; LangGraph 状态机把文本转 CAD 的 Token 消耗压到 1/116、成本降到 1/13，特征通过率反而提升到 99.3%。本文深入解析其结构化状态传递、确定性翻译器与白盒可审计设计。</description>
+    </item>
+    
+  </channel>
+</rss>

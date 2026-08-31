@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>数据备份 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD/</link>
+    <description>Recent content in 数据备份 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QzoneArchive：安全归档你的QQ空间记忆，一个跨平台本地工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</guid>
+      <description>QzoneArchive 是一款用 Rust &#43; Tauri 2 &#43; Vue 3 构建的跨平台桌面和移动端工具，可以安全地将QQ空间动态、照片、视频与互动记录归档到本地SQLite数据库，支持断点续传、频率保护、HTML导出和媒体时光轴等功能，所有数据完全本地存储，不上传任何服务器。</description>
+    </item>
+    
+  </channel>
+</rss>

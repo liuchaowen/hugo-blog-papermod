@@ -11,7 +11,106 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</guid>
+      <description>Claude-Obsidian 是一个本地优先的知识管理系统，专为 Claude Code 和兼容的 Agent Skills 宿主设计。它将源材料转化为链接的、有来源引用的 Obsidian 页面，基于已收集的证据回答问题，并提供研究、检索、维护和可视化的工作流。</description>
+    </item>
+    
+    <item>
+      <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
+      <description>Claude-BugHunter 是一个为 Claude Code 打造的漏洞挖掘与红队技能包，包含 82 个技能、15 个斜杠命令，覆盖 Web 安全、API 测试、企业身份平台、GraphQL、OAuth 等 24 个漏洞类别的 681 个公开 HackerOne 报告模式，让 AI 助手从通用聊天机器人变身为专业安全研究员。</description>
+    </item>
+    
+    <item>
+      <title>Diagram Design：60 秒让 AI 画出贴合品牌的编辑级图表</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-11/diagram-design/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-11/diagram-design/</guid>
+      <description>cathrynlavery/diagram-design 是一个 Claude Code Skill，内置 27 种编辑级图表类型，并能在 60 秒内读取你的网站、把品牌色与字体自动映射到每一张图。本文解析它的架构设计、品牌 onboarding 流程、设计系统与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Nature Skills：面向全球学者的科研 Agent Skill 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/nature-skills/</guid>
+      <description>Nature Skills 是一个开源科研技能库，为 Claude Code、Codex、OpenClaw 等 AI Agent 提供 17 个可直接复用的科研技能，覆盖论文阅读、润色、PPT 生成、专利撰写、文献检索等场景，已获 Google DeepMind 借鉴。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Claude Skills：汇聚 1000&#43; 生产级 AI 技能的开源宝库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</guid>
+      <description>Awesome Claude Skills 是 ComposioHQ 维护的超大规模 Claude AI 技能集合，涵盖文档处理、开发工具、数据分析、办公自动化等 12 大领域，支持 Claude.ai、Claude Code、Cursor、Gemini CLI 等主流 AI 平台。</description>
+    </item>
+    
+    <item>
+      <title>i-have-adhd：让 AI 助手直击重点，告别冗长废话</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/i-have-adhd/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/i-have-adhd/</guid>
+      <description>一个专为 Claude Code 和 Codex 设计的输出风格插件，通过 10 条简单规则让 AI 助手优先输出行动指令而非冗长铺垫，显著提升 ADHD 用户及所有追求效率的开发者体验。</description>
+    </item>
+    
+    <item>
+      <title>Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/paseo/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/paseo/</guid>
+      <description>Paseo 是一个开源的本地 AI 编程 Agent 编排工具，通过统一接口同时管理 Claude Code、Codex、GitHub Copilot、OpenCode、Pi 等多种 Agent，支持跨设备控制与语音交互，隐私优先，无遥测无强制登录。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic cwc-workshops：跟着官方学用 Claude 构建生产级智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/cwc-workshops/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/cwc-workshops/</guid>
+      <description>anthropics/cwc-workshops 是 Anthropic 官方「Code with Claude」工作坊的开放材料，包含 9 个可动手运行的实验，覆盖模型选型、多智能体编排、Skills 与 MCP、记忆系统、Eval 驱动开发等核心主题，手把手教你从会用 Claude 进阶到能构建生产级 Agent 系统。</description>
+    </item>
+    
+    <item>
+      <title>逆向 Claude「思考签名」：用开源服务端解锁被封存的思维链</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/open-open-reasoning/</guid>
+      <description>open-open-reasoning 是「Open Reasoning」演示的自包含复现：它逆向分析了 Claude 的 thinking signature 本质（base64 protobuf 封装 &#43; AEAD 加密的私有推理），并提供了一个可运行的 Flask 服务端，把隐藏的思维链原样解锁出来。本文拆解其原理、代码与实战。</description>
+    </item>
+    
+    <item>
+      <title>Boop：基于 iMessage 的个人 AI 助手，无需 API Key 即可运行 Claude 或 Codex</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</guid>
+      <description>Boop 是一个开源的 iMessage 个人 AI 助手，支持 Claude Code 或 Codex/ChatGPT 订阅认证，无需额外 API Key。内置分层记忆、自动化任务、Composio 集成（Gmail、Slack、GitHub 等 1000&#43; 工具），可选本地浏览器控制和 Apple 数据源，适合个人使用和二次开发。</description>
+    </item>
+    
+    <item>
+      <title>9Router: 用 RTK Token 节省 &#43; 自动Fallback 打通所有 AI 编程工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/9router/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/9router/</guid>
+      <description>9Router 是一个开源的 AI 路由器，支持 40&#43; AI 服务商、100&#43; 模型，可自动压缩 tool_result 节省 20-40% tokens，并实现订阅→低价→免费的三级自动切换，是 Claude Code、Cursor、OpenClaw 等编程工具的完美伴侣。</description>
+    </item>
+    
     <item>
       <title>Desktop Commander MCP: 让 AI 在你的电脑上执行终端命令、操作文件</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/desktopcommandermcp/</link>

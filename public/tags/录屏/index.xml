@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>录屏 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BD%95%E5%B1%8F/</link>
+    <description>Recent content in 录屏 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recordly：开源录屏编辑器，自动放大 &#43; 光标美化 &#43; 动态背景一条龙</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/recordly/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/recordly/</guid>
+      <description>Recordly 是一款免费开源的跨平台录屏与视频编辑工具，支持自动放大镜头、光标美化、动态摄像头叠加、时间线剪辑、MP4/GIF 导出，无需设计师也能做出精致的演示视频。</description>
+    </item>
+    
+  </channel>
+</rss>

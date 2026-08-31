@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>性能优化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</link>
+    <description>Recent content in 性能优化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TypePHP：PHP 原生 AOT 编译器，将 PHP 编译成机器码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/typephp/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/typephp/</guid>
+      <description>TypePHP 是一个 PHP 原生 AOT 编译器，将 PHP 源代码编译成原生机器码，无需解释器和 JIT 预热，性能提升高达 8 倍。支持原生类型系统、高精度数值、强类型容器，可生成可执行文件、PHP 扩展和共享库。</description>
+    </item>
+    
+    <item>
+      <title>meshoptimizer：为 GPU 渲染而生的网格优化与压缩库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</guid>
+      <description>meshoptimizer 是 zeux 开发的高性能 C/C&#43;&#43; 网格处理库，提供顶点缓存优化、Overdraw 优化、顶点量化、Meshlet 生成、网格压缩与简化等一整套算法，能显著提升 GPU 渲染效率并降低存储与带宽开销。本文深入其架构与核心管线。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>音视频生成 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in 音视频生成 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelixWorld：实时交互式音视频世界模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</guid>
+      <description>HelixWorld 1.0 是 Noiz AI 推出的实时交互式音视频世界模型，支持图像与提示词输入，实现画面与声音同步更新，空间声场随视角转动，音频不再是后期添加的配乐。</description>
+    </item>
+    
+  </channel>
+</rss>

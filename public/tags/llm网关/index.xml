@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM网关 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/llm%E7%BD%91%E5%85%B3/</link>
+    <description>Recent content in LLM网关 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/llm%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiential：把生产流量变成专属路由器的开源 Agent 网关</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/experiential/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/experiential/</guid>
+      <description>Experiential 是 experientiallabs 开源的 Agent 工作流网关与路由器，用统一的 OpenAI 兼容 API 接管托管、BYOK 与本地模型，提供细粒度鉴权、预算控制，并能基于生产流量训练专属路由策略或微调模型。本文从架构、核心代码到实战部署深度拆解。</description>
+    </item>
+    
+  </channel>
+</rss>

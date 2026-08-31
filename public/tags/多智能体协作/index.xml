@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>多智能体协作 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C/</link>
+    <description>Recent content in 多智能体协作 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JiuwenSwarm：让多智能体协作真正跑起来的开源 Agent 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</guid>
+      <description>JiuwenSwarm 是 openJiuwen 团队开源的 Agent 系统，通过 Leader 编排 &#43; 分布式智能体集群、Swarmflow 工作流、Skill 自进化与工具权限安全，让自然语言驱动的多智能体协作从 Demo 走向生产。支持单机到集群、浏览器/终端/IM 多入口接入。</description>
+    </item>
+    
+  </channel>
+</rss>

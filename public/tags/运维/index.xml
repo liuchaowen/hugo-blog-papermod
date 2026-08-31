@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>运维 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%BF%90%E7%BB%B4/</link>
+    <description>Recent content in 运维 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BF%90%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8sQuest：50 关本地闯关，把 Kubernetes 排障玩成游戏</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/k8squest/</guid>
+      <description>K8sQuest 是一个本地游戏化的 Kubernetes 训练平台，内置 50 个渐进式故障排查关卡，覆盖 Pod、部署、网络、存储与安全的真实场景，无需云账号即可动手练习 kubectl 排障与调试。</description>
+    </item>
+    
+  </channel>
+</rss>

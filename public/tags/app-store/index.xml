@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>App Store on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/app-store/</link>
+    <description>Recent content in App Store on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</guid>
+      <description>majd/ipatool 是一款用 Go 编写的命令行工具，可在终端中搜索 App Store（iOS/iPadOS/tvOS/visionOS）应用并下载其 IPA 安装包。本文从功能定位、技术原理（purego 调用原生框架、plist/Mach-O 解析、FairPlay 加密包下载）到认证、搜索、购买、下载全流程实战进行拆解。</description>
+    </item>
+    
+  </channel>
+</rss>

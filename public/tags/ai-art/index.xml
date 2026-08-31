@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Art on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai-art/</link>
+    <description>Recent content in AI Art on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo Abstract Editorial：将照片转化为摄影与抽象记忆面板的编辑作品</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</guid>
+      <description>Photo Abstract Editorial 是一个开源 Codex Skill，能够将任意照片转化为「原始摄影区 &#43; 抽象记忆面板 &#43; 诗意英文标题」的竖向编辑作品，保留照片真实内容的同时，从空间关系、构图节奏和色彩关系中提炼出极简抽象面板。</description>
+    </item>
+    
+  </channel>
+</rss>

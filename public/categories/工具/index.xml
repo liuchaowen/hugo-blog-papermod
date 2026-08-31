@@ -11,7 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</guid>
+      <description>majd/ipatool 是一款用 Go 编写的命令行工具，可在终端中搜索 App Store（iOS/iPadOS/tvOS/visionOS）应用并下载其 IPA 安装包。本文从功能定位、技术原理（purego 调用原生框架、plist/Mach-O 解析、FairPlay 加密包下载）到认证、搜索、购买、下载全流程实战进行拆解。</description>
+    </item>
+    
+    <item>
+      <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/obscura/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/obscura/</guid>
+      <description>Obscura 是一个完全使用 Rust 编写的开源无头浏览器引擎，无需 Chromium，仅 30MB 内存占用，支持 Puppeteer 和 Playwright 协议，内置反检测和 CDP，是 AI 代理自动化和大规模爬虫的理想选择。</description>
+    </item>
+    
+    <item>
+      <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
+    </item>
+    
+    <item>
+      <title>Decimen Optical Transfer：用屏幕和摄像头实现无网络文件传输</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/decimen-optical-transfer/</guid>
+      <description>Decimen Optical Transfer 是一个巧妙的离线文件传输工具，通过屏幕显示动态 QR 码、摄像头实时解码，实现两台设备间的无网络文件传输，零配对、零权限、零依赖。</description>
+    </item>
+    
+    <item>
+      <title>Voice-Pro：集语音识别、翻译与声音克隆于一体的开源配音神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/voice-pro/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/voice-pro/</guid>
+      <description>Voice-Pro 是基于 Whisper、F5-TTS、Edge-TTS 等开源模型打造的本地化 AI 配音工作流，一站式完成 YouTube 下载、人声分离、语音识别、翻译与多语言 TTS，是 ElevenLabs 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>gh-stack：用一条命令管理 GitHub 堆叠式 PR，把大改动拆成可评审的小 PR</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</guid>
+      <description>gh-stack 是 GitHub 官方推出的 gh CLI 扩展，专用于管理堆叠式（stacked）分支与 Pull Request。本文深入解析其架构设计、核心命令与实战工作流，帮助你把动辄上千行的大型 PR 拆分成彼此依赖、易于评审的小 PR。</description>
+    </item>
+    
+    <item>
+      <title>Superfile：现代化的终端文件管理器，让命令行操作更优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/superfile/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/superfile/</guid>
+      <description>Superfile 是一个用 Go 语言编写的现代终端文件管理器，提供直观的 TUI 界面、丰富的快捷键、插件系统和主题定制功能，支持 macOS、Linux 和 Windows，是命令行用户的效率利器。</description>
+    </item>
+    
+    <item>
+      <title>NullHub：一个 Zig 构建的本地化 AI 工具管理中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</guid>
+      <description>NullHub 是一款基于 Zig 0.16.0 &#43; Svelte 5 构建的开源本地管理工具，通过单个二进制文件即可安装、配置、监控和更新 NullClaw 生态中的所有组件（NullClaw、NullBoiler、NullTickets、NullWatch），并提供内置 Svelte Web UI。</description>
+    </item>
+    
+    <item>
+      <title>DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</guid>
+      <description>DNSHE 是一个由新加坡公益团队运营的免费域名注册和 DNS 解析平台，为开发者、开源项目和早期互联网创作者提供稳定、易用的免费域名基础设施，支持 A/AAAA/CNAME/MX/TXT 等全量 DNS 记录和 API 自动化管理。</description>
+    </item>
+    
     <item>
       <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/herdr/</link>

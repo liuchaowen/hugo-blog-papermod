@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 Python 命令行逆向 GetContact 私有 API：getcontact-cli 技术拆解</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/getcontact-cli/</guid>
+      <description>getcontact-cli 是一个以 Python 编写的命令行工具，通过逆向还原 GetContact Android 客户端的通信协议（AES-256-ECB 加密、HMAC-SHA256 签名、Diffie-Hellman 密钥协商），在不安装 App 的情况下直接查询手机号归属信息与标签。本文从源码角度拆解其协议还原、凭据管理与批量查询实现。</description>
+    </item>
+    
+    <item>
+      <title>public-apis：开发者必备的免费公共 API 大全集</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/public-apis/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/public-apis/</guid>
+      <description>public-apis 是 GitHub 上星标极高的社区维护清单，按 50&#43; 分类汇总了上千个免费公共 API，并标注鉴权方式、HTTPS 与 CORS 支持。本文介绍其数据结构、检索方式，以及如何把它用进真实项目。</description>
+    </item>
+    
+    <item>
+      <title>FreeLLMAPI：一个 API 聚合 29 家免费大模型，月均 40 亿 Token 随便用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/freellmapi/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/freellmapi/</guid>
+      <description>FreeLLMAPI 将 Google Groq、Cerebras、Mistral、Cohere 等 29 家平台的免费额度聚合为一个 OpenAI 兼容接口，自动路由、智能切换，让 Claude Code、Codex CLI 等主流 Coding Agent 无缝接入。</description>
+    </item>
+    
     <item>
       <title>Insomnia：开源跨平台 API 客户端的技术架构与深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/insomnia/</link>

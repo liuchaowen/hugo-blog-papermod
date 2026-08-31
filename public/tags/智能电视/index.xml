@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>智能电视 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86/</link>
+    <description>Recent content in 智能电视 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castor：终端驱动的智能电视视频推送利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/castor/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/castor/</guid>
+      <description>Castor 是一款终端视频推送工具，通过 headless Chrome 提取网页视频流、ffmpeg 转码后直接推送到 DLNA/UPnP 电视，无需遥控器，适合开发者和技术用户。</description>
+    </item>
+    
+  </channel>
+</rss>

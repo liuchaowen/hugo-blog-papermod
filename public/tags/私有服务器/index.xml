@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>私有服务器 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%A7%81%E6%9C%89%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+    <description>Recent content in 私有服务器 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%A7%81%E6%9C%89%E6%9C%8D%E5%8A%A1%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ODS：一键将你的电脑变成私有 AI 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ods/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ods/</guid>
+      <description>ODS（Osmantic Deployment System）是一个开源的本地 AI 服务器解决方案，通过一条命令即可在你的 PC、Mac 或 Linux 上部署完整的 AI 技术栈，包括本地推理引擎、Web 聊天界面、语音服务、智能体、工作流自动化、RAG 检索增强生成、图像生成等，完全无需云端依赖。</description>
+    </item>
+    
+  </channel>
+</rss>

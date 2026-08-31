@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Stitch Design Skills：用 Agent Skills 标准把设计稿变成可落地的生产代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/stitch-skills/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/stitch-skills/</guid>
+      <description>Google Labs 开源的 Stitch Design Skills 是一套遵循 Agent Skills 开放标准的技能与插件集合，面向 Google Stitch 设计平台，可让 Codex、Claude Code、Cursor 等编码智能体完成从设计生成、代码转换到视频走查的全流程，打通设计与工程之间的最后一公里。</description>
+    </item>
+    
     <item>
       <title>PhotoGIMP：把 GIMP 武装成你熟悉的 Photoshop 工作流</title>
       <link>https://blog.xlap.top/post/tech/2026-07-09/photogimp/</link>

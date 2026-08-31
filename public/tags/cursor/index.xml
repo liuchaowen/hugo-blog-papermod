@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JetBrains 发布 go-modern-guidelines：让 AI 编码助手写出地道 Go 代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</guid>
+      <description>JetBrains 开源 go-modern-guidelines 项目，为 AI 编码代理提供从 Go 1.0 到 1.27 的现代 Go 编码规范，解决 AI 训练数据滞后和频率偏差两大痛点，让 Claude Code、Cursor 等工具自动生成符合最新语言特性的高质量 Go 代码。</description>
+    </item>
+    
+    <item>
+      <title>Garden Skills：为 AI 编程 Agent 打造的生产级技能集合</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</guid>
+      <description>Garden Skills 是由 ConardLi 开源的一套面向 Claude Code、Cursor、Codex 等 AI 编程 Agent 的生产级技能集合，涵盖网页演示、前端设计、图像生成、知识库检索和文章编辑五大核心领域，每个技能都附带完整的 SKILL.md 规范、主题模板和实战案例。</description>
+    </item>
+    
+    <item>
+      <title>jCodeMunch MCP：节省95% Token的GitHub代码检索神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</guid>
+      <description>jCodeMunch MCP 是一款基于 tree-sitter AST 解析的高效 GitHub 代码检索 MCP Server，可将 AI 代码探索的 Token 消耗削减 95% 以上，兼容 Claude Code、Cursor、VS Code 等主流 AI 编程工具。</description>
+    </item>
+    
+    <item>
+      <title>9Router: 用 RTK Token 节省 &#43; 自动Fallback 打通所有 AI 编程工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/9router/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/9router/</guid>
+      <description>9Router 是一个开源的 AI 路由器，支持 40&#43; AI 服务商、100&#43; 模型，可自动压缩 tool_result 节省 20-40% tokens，并实现订阅→低价→免费的三级自动切换，是 Claude Code、Cursor、OpenClaw 等编程工具的完美伴侣。</description>
+    </item>
+    
     <item>
       <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>

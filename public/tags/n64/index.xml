@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>N64 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/n64/</link>
+    <description>Recent content in N64 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/n64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lighthouse：经典游戏《班卓熊大冒险》的现代重生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</guid>
+      <description>Lighthouse 是 HarbourMasters 团队开发的《班卓熊大冒险》现代化移植项目，基于 libultraship 引擎重新编译，支持多平台运行、高分辨率渲染、MOD 扩展和自定义资源，让这款经典 N64 游戏在现代硬件上焕发新生。</description>
+    </item>
+    
+  </channel>
+</rss>

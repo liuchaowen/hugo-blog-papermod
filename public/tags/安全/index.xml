@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MailAccess：面向安全研究的自托管邮件情报 OSINT 平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/mailaccess/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/mailaccess/</guid>
+      <description>MailAccess 是一个 MIT 授权的开源 OSINT 平台，面向安全研究员与渗透测试人员，围绕邮箱地址聚合泄露库、社交网络、DNS 与开放互联网信号，输出统一的暴露评分与可导出结构化取证报告。</description>
+    </item>
+    
+    <item>
+      <title>DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</guid>
+      <description>DeepSec 是 Vercel Labs 开源的 Agent 驱动漏洞扫描器，支持在自有基础设施中运行，针对大型代码库进行深度安全审计，使用顶级 AI 模型在最思考级别下分析代码，可并行分布式执行、断点续传，帮助企业发现潜伏已久的隐蔽漏洞。</description>
+    </item>
+    
+    <item>
+      <title>用一封邮箱反查全网账号：Holehe OSINT 工具深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/holehe/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/holehe/</guid>
+      <description>Holehe 是一款基于 Python 的开源 OSINT 工具，能通过邮箱的「忘记密码」接口静默检测该邮箱是否在 120&#43; 主流站点注册过账号，且不触发任何通知。本文从原理、源码到实战完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
+      <description>Claude-BugHunter 是一个为 Claude Code 打造的漏洞挖掘与红队技能包，包含 82 个技能、15 个斜杠命令，覆盖 Web 安全、API 测试、企业身份平台、GraphQL、OAuth 等 24 个漏洞类别的 681 个公开 HackerOne 报告模式，让 AI 助手从通用聊天机器人变身为专业安全研究员。</description>
+    </item>
+    
+    <item>
+      <title>EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</guid>
+      <description>EMILIA 是一套 Apache-2.0 的开源协议与证据底座，在动作发生的那一刻证明「智能体即将执行的动作，正是某位具名人类所授权的动作」。本文从架构、技术原理、快速上手到形式化验证，拆解它如何用「收据（Receipt）」取代「决策日志」，为自主工作流提供可离线验证的授权证据。</description>
+    </item>
+    
+    <item>
+      <title>Ladybird：一个真正独立的现代网页浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</guid>
+      <description>Ladybird 是一个从零开始构建的独立网页浏览器，采用全新的浏览器引擎，完全基于 Web 标准实现。多进程架构设计、沙盒安全隔离、跨平台支持，展现了现代浏览器开发的全新思路。</description>
+    </item>
+    
+    <item>
+      <title>VVAH：Visa开源的AI驱动漏洞发现与验证框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</guid>
+      <description>Visa开源的VVAH是一个基于前沿AI模型的自主漏洞发现、修复和验证框架，采用四阶段十一级流水线设计，从代码摄取到验证修复全流程自动化，支持多模型后端。</description>
+    </item>
+    
+    <item>
+      <title>Agent Governance Toolkit：让 AI Agent 安全上线的治理利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</guid>
+      <description>微软开源的 Agent Governance Toolkit (AGT) 是一套生产级 AI Agent 治理工具，通过策略引擎、身份认证、沙箱隔离和审计日志，解决 Agent 自主决策带来的权限控制、身份追溯和合规审计三大核心问题。支持 Python、TypeScript、.NET、Rust、Go 五种语言，覆盖 OWASP Agentic AI Top 10 全部风险类别。</description>
+    </item>
+    
     <item>
       <title>Anthropic Cybersecurity Skills: AI 智能体的网络安全技能库</title>
       <link>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>

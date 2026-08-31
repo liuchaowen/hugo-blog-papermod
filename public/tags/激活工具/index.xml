@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>激活工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 激活工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDM 激活脚本中文版：一键激活 Internet Download Manager 的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</guid>
+      <description>IDM Activation Script 中文版是一款面向中文 Windows 用户的 Internet Download Manager 激活脚本，支持冻结试用期、随机注册信息激活、试用重置三种模式，全程中文菜单，无需安装依赖， GPL-3.0 开源可审查。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%8A%A0%E5%AF%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>croc：一行命令在任意两台电脑间安全传输文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/croc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/croc/</guid>
+      <description>croc 是一款简洁安全的命令行文件传输工具，支持任意两台电脑间直接传输文件/文件夹，基于 PAKE 端到端加密，无需公网 IP 或端口转发，跨平台支持 Windows、Linux、macOS。</description>
+    </item>
+    
     <item>
       <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</link>

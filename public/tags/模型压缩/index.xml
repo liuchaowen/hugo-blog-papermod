@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>模型压缩 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/</link>
+    <description>Recent content in 模型压缩 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Needle 2：一个 14MB 的设备端工具调用模型，45M 参数跑满本地场景</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/needle/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/needle/</guid>
+      <description>Needle 2 是 Cactus Compute 开源的 45M 参数工具调用模型，仅 14MB 大小、28MB 内存即可完整运行，支持函数调用、设备控制、结构化数据提取，体积比同类小 5-70 倍。</description>
+    </item>
+    
+  </channel>
+</rss>

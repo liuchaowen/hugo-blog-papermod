@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDM 激活脚本中文版：一键激活 Internet Download Manager 的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</guid>
+      <description>IDM Activation Script 中文版是一款面向中文 Windows 用户的 Internet Download Manager 激活脚本，支持冻结试用期、随机注册信息激活、试用重置三种模式，全程中文菜单，无需安装依赖， GPL-3.0 开源可审查。</description>
+    </item>
+    
+    <item>
+      <title>FluentCleaner：一款让 Windows 系统清洁工具回归初心的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</guid>
+      <description>FluentCleaner 是一款由个人开发者打造的现代 Windows 系统清洁工具，基于 WinUI 3 构建，兼容 winapp2.ini 清洁规则集，无广告、无暗模式，旨在让系统清理这件事回归纯粹和透明。</description>
+    </item>
+    
+    <item>
+      <title>Recordly：开源录屏编辑器，自动放大 &#43; 光标美化 &#43; 动态背景一条龙</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/recordly/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/recordly/</guid>
+      <description>Recordly 是一款免费开源的跨平台录屏与视频编辑工具，支持自动放大镜头、光标美化、动态摄像头叠加、时间线剪辑、MP4/GIF 导出，无需设计师也能做出精致的演示视频。</description>
+    </item>
+    
+    <item>
+      <title>pi-computer-use：让 AI Agent 操控 macOS 和 Windows 桌面应用的 Pi 扩展</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/pi-computer-use/</guid>
+      <description>pi-computer-use 是一个 Pi Agent 扩展，让 AI 能够观察和控制 macOS 14&#43; 与 Windows 桌面应用。通过 Accessibility API 和 CDP，它提供 find_roots、observe_ui、act_ui 等工具，使 Agent 在没有 API 或 MCP 时也能操作正常桌面软件。</description>
+    </item>
+    
     <item>
       <title>Microsoft PowerToys：Windows 效率神器完全解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/powertoys/</link>

@@ -11,7 +11,133 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源健身插画库 workout-guide：302 个动作逐帧 SVG 与框架无关 npm 包解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</guid>
+      <description>workout-guide 是 Bryl Lim 维护的开源健身动作插画库，包含 302 个动作、每个动作 3 帧共 906 张透明 SVG，并提供类型安全的框架无关 npm 包与可搜索静态画廊。本文解析其 monorepo 架构、资源生成管线与集成方式。</description>
+    </item>
+    
+    <item>
+      <title>MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</guid>
+      <description>MyContext 是一个本地优先的个人工作上下文记忆系统，将散落在 IM、文档、日历、会议中的信息持续整理为私有、可演进的个人知识图谱，让大模型和 AI Agent 能够真正理解你的工作上下文。</description>
+    </item>
+    
+    <item>
+      <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</guid>
+      <description>ChartGPU 是一个基于 WebGPU 的高性能图表渲染库，支持百万级数据点实时流式更新、多图表共享 GPU 设备、2D/3D 图表渲染，零 npm 运行时依赖，MIT 协议开源。</description>
+    </item>
+    
+    <item>
+      <title>Cordis：面向时空可组合性的元框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/cordis/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/cordis/</guid>
+      <description>cordiverse/cordis 是一个主打「时空可组合性（Spatiotemporal Composability）」的元框架，目前处于早期活跃开发阶段，API 尚不稳定。本文基于其仓库结构与工具链，解析其 monorepo 架构、构建体系与设计取向。</description>
+    </item>
+    
+    <item>
+      <title>holaOS：一个让你和AI代理共享工作空间的本地优先操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/holaos/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/holaos/</guid>
+      <description>holaOS 是一个本地优先的桌面操作系统，让你可以在同一个工作空间中运行任意 AI 代理（Claude Code、Codex 等），共享内存、工具和文件，支持内置前沿模型或自带 API Key。</description>
+    </item>
+    
+    <item>
+      <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/deno/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/deno/</guid>
+      <description>Deno 是由 Node.js 原作者 Ryan Dahl 打造的下一代 JavaScript/TypeScript 运行时，基于 V8、Rust 和 Tokio 构建，默认安全、TypeScript 原生支持、开箱即用。本文深入解析其架构设计与核心特性。</description>
+    </item>
+    
+    <item>
+      <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
+    </item>
+    
+    <item>
+      <title>Baileys：基于 WebSocket 的 WhatsApp Web API TypeScript 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/baileys/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/baileys/</guid>
+      <description>Baileys 是一个轻量级的 TypeScript 库，通过 WebSocket 协议与 WhatsApp Web API 交互，支持完整的消息收发、群组管理、媒体处理等功能，适合构建 WhatsApp 自动化工具和机器人。</description>
+    </item>
+    
+    <item>
+      <title>t3code — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/t3code/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/t3code/</guid>
+      <description>T3CodeisaminimalwebGUIforcodingagents(currentlyCodex,Claude,Cursor,andOpenCode,morecomingsoon).</description>
+    </item>
+    
+    <item>
+      <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</guid>
+      <description>img2threejs 是一个 AI 驱动的 3D 重建工具，只需提供一张物体参考图，即可自动生成代码级的 Three.js 模型，支持硬表面物体和角色两类重建路径，带有动画层级和交互能力。</description>
+    </item>
+    
+    <item>
+      <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</guid>
+      <description>NitroStack 是一个面向企业的 TypeScript 框架，用于构建生产级 MCP（Model Context Protocol）服务器，支持装饰器、依赖注入和 UI Widget，开箱即用。</description>
+    </item>
+    
+    <item>
+      <title>Toonflow：AI 短剧漫剧一站式工作台，把小说秒变视频</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</guid>
+      <description>Toonflow 是一款开源 AI 短剧漫剧工具，通过决策层、执行层、监督层三层 Agent 协作，实现从小说文本到分镜、素材、视频的全流程自动化，支持本地部署与云端使用。</description>
+    </item>
+    
     <item>
       <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>

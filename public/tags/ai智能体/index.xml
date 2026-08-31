@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI智能体 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E6%99%BA%E8%83%BD%E4%BD%93/</link>
+    <description>Recent content in AI智能体 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E6%99%BA%E8%83%BD%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 智能体实战速成指南：从零到企业级落地的系统性学习路线</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</guid>
+      <description>全网首个系统开源的 AI 智能体教程，涵盖大模型基础、LangChain/LangGraph 框架、企业级 RAG/Agent 实战、微调实践和面试题库，提供完整源码和可运行案例，适合零基础到工程化落地的全链路学习。</description>
+    </item>
+    
+    <item>
+      <title>EMILIA Protocol：给智能体时代装上「安全带」的授权凭证协议</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/emilia-protocol/</guid>
+      <description>EMILIA 是一套 Apache-2.0 的开源协议与证据底座，在动作发生的那一刻证明「智能体即将执行的动作，正是某位具名人类所授权的动作」。本文从架构、技术原理、快速上手到形式化验证，拆解它如何用「收据（Receipt）」取代「决策日志」，为自主工作流提供可离线验证的授权证据。</description>
+    </item>
+    
+    <item>
+      <title>AutoGPT：把一句话需求变成能跑完工作的 AI 智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/autogpt/</guid>
+      <description>AutoGPT 是拥有 18.5 万&#43; Star 的开源 AI 智能体平台，支持用自然语言描述任务后自动构建、运行并汇报智能体。本文深入解析其四大产品面、托管与自托管两种路径、集成能力及实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Prime Agent：会自我进化的开源 RLM 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/prime-agent/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/prime-agent/</guid>
+      <description>Prime Agent 是 PrimeIntellect-ai 开源的一款自进化编程智能体，基于递归语言模型（RLM）架构，支持持久化 REPL、子 Agent 并行、Continual Harness 自我优化，适合长时间运行的复杂任务和研究评估。</description>
+    </item>
+    
+    <item>
+      <title>DojoAgents：面向个人投资的全局市场 AI 智能体框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/dojoagents/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/dojoagents/</guid>
+      <description>DojoAgents 是 Alpha-Dojo 开源的面向个人投资的 AI 智能体框架，以 Loop-Driven 认知组合智能体为核心引擎，结合机构级四柱仪表盘、自动量化分析与多模态持仓诊断，把跨市场数据认知、策略推演与组合管理整合到一个自主推理循环中。</description>
+    </item>
+    
+  </channel>
+</rss>

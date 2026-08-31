@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>媒体播放器 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E5%99%A8/</link>
+    <description>Recent content in 媒体播放器 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 19 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jellium Desktop：基于 CEF 和 mpv 的 Jellyfin 桌面客户端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/jellium-desktop/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/jellium-desktop/</guid>
+      <description>Jellium Desktop 是一款非官方的 Jellyfin 桌面客户端，采用 Chromium Embedded Framework (CEF) 渲染界面、mpv 作为媒体播放器，跨平台支持 Linux、macOS 和 Windows，提供原生桌面级的媒体流媒体播放体验。</description>
+    </item>
+    
+  </channel>
+</rss>

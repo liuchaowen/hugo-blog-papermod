@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CLI工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/cli%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in CLI工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/cli%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>calldiff：一个 Git 风格的代码调用链路 Diff 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</guid>
+      <description>calldiff 是一款通过 tree-sitter 解析代码 AST、对比 git 提交间函数调用关系变化的 CLI 工具，支持 22 种编程语言，输出结构化树形 diff，专为 AI 代码审查场景设计。</description>
+    </item>
+    
+  </channel>
+</rss>

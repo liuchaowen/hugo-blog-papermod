@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>协作工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%8D%8F%E4%BD%9C%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 协作工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8D%8F%E4%BD%9C%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buzz：人类与 AI Agent 协作的下一代工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/buzz/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/buzz/</guid>
+      <description>Buzz 是 Block 推出的自托管工作空间，基于 Nostr 协议实现人类与 AI Agent 在同一频道协作，支持 Git 集成、工作流自动化和完整的审计追踪，让 Agent 成为真正的团队成员而非机器人。</description>
+    </item>
+    
+  </channel>
+</rss>

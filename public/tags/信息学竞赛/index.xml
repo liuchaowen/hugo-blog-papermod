@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>信息学竞赛 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BF%A1%E6%81%AF%E5%AD%A6%E7%AB%9E%E8%B5%9B/</link>
+    <description>Recent content in 信息学竞赛 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BF%A1%E6%81%AF%E5%AD%A6%E7%AB%9E%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OICPP IDE：一款专为信息学竞赛打造的轻量级 IDE</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/oicpp/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/oicpp/</guid>
+      <description>OICPP IDE 是一款基于 Electron &#43; Monaco Editor 构建的竞赛编程集成开发环境，内置代码编辑、调试、对拍、云编译、云空间等专为 OI/ACM 选手设计的功能，支持 Codeforces、AtCoder、Luogu 等主流竞赛平台的样例一键抓取。</description>
+    </item>
+    
+  </channel>
+</rss>

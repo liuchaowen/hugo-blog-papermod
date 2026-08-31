@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTA5 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/gta5/</link>
+    <description>Recent content in GTA5 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/gta5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/</guid>
+      <description>YimMenuV2 是 GitHub Trending 上的开源项目，一个为 GTA 5: Enhanced 打造的实验性注入式菜单框架。本文从 CMake 工程结构、C&#43;&#43;23 特性、LuaJIT 脚本化、MinHook 钩取与 ImGui 渲染等技术角度，拆解其架构设计与快速上手方式。</description>
+    </item>
+    
+  </channel>
+</rss>

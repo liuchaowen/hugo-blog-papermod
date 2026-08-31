@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spring on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/spring/</link>
+    <description>Recent content in Spring on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embabel Agent Framework：JVM 平台的智能 Agent 开发框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</guid>
+      <description>Embabel Agent Framework 是一个运行在 JVM 上的智能 Agent 开发框架，支持动态规划、目标导向行动规划（GOAP）和多 LLM 混合，由 Spring 创始人打造，让企业级 AI 应用开发更简单、更安全、更可测试。</description>
+    </item>
+    
+  </channel>
+</rss>

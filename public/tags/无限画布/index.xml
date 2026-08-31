@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>无限画布 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%97%A0%E9%99%90%E7%94%BB%E5%B8%83/</link>
+    <description>Recent content in 无限画布 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%97%A0%E9%99%90%E7%94%BB%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>无限画布（infinite-canvas）：一站式 AI 图片创作工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/infinite-canvas/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/infinite-canvas/</guid>
+      <description>infinite-canvas 是一款面向图片创作的开源工作台，将画布编排、AI 生图、参考图编辑、对话助手、提示词库与素材沉淀融为一体，适合视觉方案的探索与连续迭代。</description>
+    </item>
+    
+  </channel>
+</rss>

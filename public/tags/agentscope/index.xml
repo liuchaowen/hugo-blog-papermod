@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AgentScope on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/agentscope/</link>
+    <description>Recent content in AgentScope on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agentscope/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QwenPaw 深度解析：AgentScope 打造的个人 AI 助手工作站</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</guid>
+      <description>QwenPaw 是 AgentScope 团队开源的本地优先个人 AI 助手，融合三层记忆、内核级沙箱、多智能体编排与全渠道触达，支持本地免费运行 QwenPaw-Flash 模型，把 Agent 真正装进你的设备。</description>
+    </item>
+    
+  </channel>
+</rss>

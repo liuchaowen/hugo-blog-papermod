@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TypePHP：PHP 原生 AOT 编译器，将 PHP 编译成机器码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/typephp/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/typephp/</guid>
+      <description>TypePHP 是一个 PHP 原生 AOT 编译器，将 PHP 源代码编译成原生机器码，无需解释器和 JIT 预热，性能提升高达 8 倍。支持原生类型系统、高精度数值、强类型容器，可生成可执行文件、PHP 扩展和共享库。</description>
+    </item>
+    
     <item>
       <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>

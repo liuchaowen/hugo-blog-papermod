@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Design Primer：系统设计面试自学指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/system-design-primer/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/system-design-primer/</guid>
+      <description>System Design Primer 是 GitHub  star 超 18 万的系统设计自学指南，覆盖 scalability、load balancer、数据库分片、CAP 定理等核心面试主题，配有 Anki 闪卡和大量实战案例，是准备大型科技公司系统设计面试的首选资源。</description>
+    </item>
+    
     <item>
       <title>System Design 101：可视化学习系统设计的终极资源库</title>
       <link>https://blog.xlap.top/post/tech/2026-06-29/system-design-101/</link>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Llama.cpp on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/llama.cpp/</link>
+    <description>Recent content in Llama.cpp on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/llama.cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomic Agent：本地优先的 AI Agent 运行时，让小模型跑满多步任务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/atomic-agent/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/atomic-agent/</guid>
+      <description>Atomic Agent 是一个本地优先的 AI Agent 框架，基于 llama.cpp 和 TurboQuant 技术，在消费级硬件上实现高效的多步工具调用任务，GAIA L1 基准测试准确率达 69.8%。</description>
+    </item>
+    
+    <item>
+      <title>Bonsai-demo：本地跑起 1-bit 与三值量化的前沿大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</guid>
+      <description>Bonsai-demo 是 PrismML 提供的开箱即用演示仓库，让你在 Mac、Linux/Windows（CUDA、Vulkan、ROCm）或 CPU 上本地运行 1-bit Bonsai 与 Ternary-Bonsai 大模型，默认即拉起 27B 视觉语言模型，支持推理、工具调用与超长上下文。</description>
+    </item>
+    
+  </channel>
+</rss>

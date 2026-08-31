@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aisuite on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/aisuite/</link>
+    <description>Recent content in Aisuite on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/aisuite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWorker：吴恩达开源的桌面AI助手，让你的工作自动化</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/openworker/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/openworker/</guid>
+      <description>OpenWorker 是由吴恩达团队开源的桌面端 AI 助手，能够在本地运行并完成实际工作任务，如文档生成、日历管理、收件箱整理等，支持多种主流模型提供商和 25&#43; 集成工具。</description>
+    </item>
+    
+  </channel>
+</rss>

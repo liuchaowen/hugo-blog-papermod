@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deno on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/deno/</link>
+    <description>Recent content in Deno on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/deno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/celld/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/celld/</guid>
+      <description>celld 是 Deno 官方开源的 daemon，可将 Cloudflare Workers 和 Durable Objects 运行在你自己的机器上。每个对象都是一个独立的 SQLite 数据库，通过 S3 兼容存储桶实现去中心化协调，无需控制平面或共识协议。</description>
+    </item>
+    
+    <item>
+      <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/deno/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/deno/</guid>
+      <description>Deno 是由 Node.js 原作者 Ryan Dahl 打造的下一代 JavaScript/TypeScript 运行时，基于 V8、Rust 和 Tokio 构建，默认安全、TypeScript 原生支持、开箱即用。本文深入解析其架构设计与核心特性。</description>
+    </item>
+    
+  </channel>
+</rss>

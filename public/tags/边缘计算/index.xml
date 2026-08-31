@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeToken：在消费级显卡上跑 290B&#43; 顶级 MoE 大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</guid>
+      <description>FreeToken 是一个边缘原生的 MoE（混合专家）推理引擎，能在游戏显卡、家用 PC 等消费级硬件上，以交互级速度运行 290B&#43; 前沿开源大模型，支持 DeepSeek-V4-Flash、Qwen3.6-35B 等主流 MoE 模型。</description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Computer： Durable Object 内置的虚拟文件系统与多后端运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/computer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/computer/</guid>
+      <description>Cloudflare Computer 是一个运行在 Durable Object 内部的虚拟文件系统，通过 SQLite 持久化状态，并提供 Container、Isolate Shell、Isolate JavaScript 三种可插拔执行后端，可在云端 Sandbox 中运行完整 Linux 环境、bash 命令或 ECMAScript 模块。</description>
+    </item>
+    
     <item>
       <title>RuView：用普通 WiFi 穿墙感知人体，ESP32&#43;脉冲神经网络实现无摄像头空间智能</title>
       <link>https://blog.xlap.top/post/tech/2026-06-11/ruview/</link>

@@ -11,7 +11,98 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoogleTest 深度解析：Google 的 C&#43;&#43; 单元测试框架设计与实践</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/googletest/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/googletest/</guid>
+      <description>本文深入剖析 GoogleTest（Google 的 C&#43;&#43; 测试框架，由 GoogleTest 与 GoogleMock 合并而来）的架构设计、断言体系、测试发现机制与参数化测试，并结合 CMake 集成给出可上手的实战示例。</description>
+    </item>
+    
+    <item>
+      <title>Ladybird：一个真正独立的现代网页浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/ladybird/</guid>
+      <description>Ladybird 是一个从零开始构建的独立网页浏览器，采用全新的浏览器引擎，完全基于 Web 标准实现。多进程架构设计、沙盒安全隔离、跨平台支持，展现了现代浏览器开发的全新思路。</description>
+    </item>
+    
+    <item>
+      <title>spdlog：速度极快的 C&#43;&#43; 日志库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/spdlog/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/spdlog/</guid>
+      <description>spdlog 是一个高性能 C&#43;&#43; 日志库，支持头文件和编译两种使用模式，提供异步日志、多 Sink（文件、控制台、syslog 等）、运行时日志级别过滤、彩色输出等丰富功能，安装方式覆盖主流包管理器。</description>
+    </item>
+    
+    <item>
+      <title>free-stockdb：一个本地量化数据引擎，让 A 股全市场回测从 10 天压缩到 30 分钟</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/free-stockdb/</guid>
+      <description>free-stockdb 是一款面向 A 股日 K、分钟 K 与 ETF 数据的本地量化引擎，通过增量同步、Zstd 压缩存储、内置 39 种技术指标和 5 种指数计算，实现全市场 7000&#43; 股票分钟线回测从 10 个工作日压缩到 30 分钟内完成。</description>
+    </item>
+    
+    <item>
+      <title>Dear ImGui：一款让你爱不释手的 C&#43;&#43; 即时模式 GUI 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/imgui/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/imgui/</guid>
+      <description>Dear ImGui 是一款轻量级、无依赖的 C&#43;&#43; 即时模式 GUI 库，广泛用于游戏工具开发、实时 3D 可视化和嵌入式应用中，以其极简的 API 和高效的资源消耗著称。</description>
+    </item>
+    
+    <item>
+      <title>amnezia-client — Amnezia VPN Client (Desktop&#43;Mobile)</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</guid>
+      <description>(https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
+(https://gitpod.io/https://github.com/amnezia-vpn/amnezia-client)</description>
+    </item>
+    
+    <item>
+      <title>transcribe.cpp：基于 GGML 的 C/C&#43;&#43; 语音识别推理引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/transcribe-cpp/</guid>
+      <description>transcribe.cpp 是一个基于 ggml 运行时的 C/C&#43;&#43; 语音识别推理库，支持 Metal/Vulkan/CUDA 多后端加速，涵盖 16 个模型家族、60&#43; 变体，兼容 Whisper、Parakeet、Canary 等主流 STT 模型。</description>
+    </item>
+    
+    <item>
+      <title>Windows Terminal 深度解析：微软如何重塑命令行体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/terminal/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/terminal/</guid>
+      <description>深入剖析微软开源的 Windows Terminal 项目：从 conhost.exe 的历史包袱到全新的 C&#43;&#43; 现代化终端架构，解读其 DirectWrite 渲染引擎、ConPTY 伪控制台、共享组件设计，以及安装、构建与调试的完整实战指南。</description>
+    </item>
+    
+    <item>
+      <title>YimMenuV2：面向 GTA 5 Enhanced 的实验性注入式菜单框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/yimmenuv2/</guid>
+      <description>YimMenuV2 是 GitHub Trending 上的开源项目，一个为 GTA 5: Enhanced 打造的实验性注入式菜单框架。本文从 CMake 工程结构、C&#43;&#43;23 特性、LuaJIT 脚本化、MinHook 钩取与 ImGui 渲染等技术角度，拆解其架构设计与快速上手方式。</description>
+    </item>
+    
+    <item>
+      <title>F Prime：NASA 开源的航天飞行软件框架，让小卫星也能拥有「大脑」</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/fprime/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/fprime/</guid>
+      <description>F Prime 是 NASA JPL 开发的开源飞行软件框架，专为 CubeSat、SmallSat 及小型航天器设计，提供组件化架构、C&#43;&#43; 运行时、建模工具和完整测试体系，大幅降低航天嵌入式软件开发门槛。</description>
+    </item>
+    
     <item>
       <title>Abseil：C&#43;&#43; 标准库的有力补充</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</link>
@@ -28,6 +119,15 @@
       
       <guid>https://blog.xlap.top/post/tech/2026-07-11/catch2/</guid>
       <description>Catch2 是当前 GitHub 上最受欢迎的 C&#43;&#43; 测试框架之一，以纯 C&#43;&#43; 语法、类自然语言的断言、Section 共享测试夹具、内置微基准与 BDD 宏著称。本文从架构、技术原理、安装实战到常见问题，带你看懂这个现代 C&#43;&#43; 原生测试框架。</description>
+    </item>
+    
+    <item>
+      <title>meshoptimizer：为 GPU 渲染而生的网格优化与压缩库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</guid>
+      <description>meshoptimizer 是 zeux 开发的高性能 C/C&#43;&#43; 网格处理库，提供顶点缓存优化、Overdraw 优化、顶点量化、Meshlet 生成、网格压缩与简化等一整套算法，能显著提升 GPU 渲染效率并降低存储与带宽开销。本文深入其架构与核心管线。</description>
     </item>
     
     <item>

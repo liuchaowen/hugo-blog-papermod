@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>远程桌面 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/</link>
+    <description>Recent content in 远程桌面 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RustDesk：Rust 写的远程桌面神器，开箱即用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</guid>
+      <description>RustDesk 是一款用 Rust 编写的远程桌面解决方案，跨平台支持 Windows、macOS、Linux、Android 和 iOS，无需配置即可开箱即用，支持文件传输、剪贴板同步、TCP 隧道等功能，数据完全自主可控。</description>
+    </item>
+    
+  </channel>
+</rss>

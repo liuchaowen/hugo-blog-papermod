@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CRDT on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/crdt/</link>
+    <description>Recent content in CRDT on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/crdt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zeron：本地优先的 AI 编程代理控制引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/comet/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/comet/</guid>
+      <description>Zeron 是一个开源的本地优先引擎，让你完全控制 Claude Code、Cursor、Codex 等 AI 编程代理。支持离线运行、多设备可选同步，采用 CRDT 技术实现跨设备实时协作，适合追求隐私和自主权的开发者。</description>
+    </item>
+    
+  </channel>
+</rss>

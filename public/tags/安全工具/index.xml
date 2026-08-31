@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dcg：一款防止 AI 编程助手误删代码的 Rust 安全钩子</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/destructive-command-guard/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/destructive-command-guard/</guid>
+      <description>dcg（Destructive Command Guard）是一款高性能的 Rust 工具，通过预执行钩子拦截 AI 编程助手（Claude Code、Codex CLI、Cursor 等）的危险命令，防止意外删除代码。目前已支持 12&#43; 款主流 AI 编程工具，支持 Linux、macOS 和 Windows。</description>
+    </item>
+    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>

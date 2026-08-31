@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>形式化证明 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E/</link>
+    <description>Recent content in 形式化证明 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erdős 猜想的 AI 证明工厂：ShouqiaoW/erdos 如何用 AI &#43; Lean 攻克数学难题</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/erdos/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/erdos/</guid>
+      <description>ShouqiaoW/erdos 是一个用 AI 辅助生成、再用 Lean 形式化验证 Erdős 数学问题的开源项目。以问题 1002 为例，作者证明旋转和的分布收敛到中心柯西分布，呈现「AI 生成证明 → 数值校验 → 机器检查」的三段式工作流，是 AI 与严格数学结合的典型范本。</description>
+    </item>
+    
+  </channel>
+</rss>

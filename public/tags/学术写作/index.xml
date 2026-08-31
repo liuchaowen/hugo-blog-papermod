@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>学术写作 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 学术写作 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Scholar：面向 AI 科研人员的半自动化研究助理工作流</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/claude-scholar/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/claude-scholar/</guid>
+      <description>深度解析 GitHub Trending 项目 Claude Scholar：基于 Claude Code / Codex CLI / Kimi Code 的半自动化科研助理，覆盖文献综述、实验分析、论文写作、Rebuttal 全流程，含安装与实战指南。</description>
+    </item>
+    
+  </channel>
+</rss>

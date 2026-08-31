@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weave on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/weave/</link>
+    <description>Recent content in Weave on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/weave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weave Router：智能模型路由器，让每次请求都选择最优模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/router/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/router/</guid>
+      <description>Weave Router 是一个基于语义的 AI 模型路由器，支持 Anthropic、OpenAI、Gemini 等主流 API，通过本地 ONNX 嵌入模型实现请求级智能路由，让你一次部署就能自动选择性价比最高的模型，降低成本提升效率。</description>
+    </item>
+    
+  </channel>
+</rss>

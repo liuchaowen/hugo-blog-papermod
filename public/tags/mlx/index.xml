@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mlx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mlx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oMLX：为 Mac 而生的本地 LLM 推理引擎，把大模型跑成「菜单栏常驻服务」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/omlx/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/omlx/</guid>
+      <description>oMLX 是基于 Apple MLX 的本地大模型推理服务，主打连续批处理、热/冷两级 KV 缓存与菜单栏管理，让 Apple Silicon Mac 上的 LLM、VLM、Embedding、Reranker 推理变得随手可用。</description>
+    </item>
+    
     <item>
       <title>OpenMed：本地优先的医疗AI，患者数据永不离开设备</title>
       <link>https://blog.xlap.top/post/tech/2026-06-09/openmed/</link>

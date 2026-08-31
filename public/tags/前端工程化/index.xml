@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpack 深度解析：从模块打包器到现代前端工程化基石</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/webpack/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/webpack/</guid>
+      <description>Webpack 是前端领域最经典的模块打包器，由 Tobias Koppers 发起、现隶属于 Linux 基金会。本文从架构设计、核心概念（Loader / Plugin / Tapable）、依赖图构建与代码分割等维度，深入剖析 webpack 5 的工作原理，并附上安装、配置与实战示例。</description>
+    </item>
+    
     <item>
       <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>

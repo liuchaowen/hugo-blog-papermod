@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Maka：本地优先的 AI Agent 工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/maka/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/maka/</guid>
+      <description>Maka 是 Apache 基金会推出的本地优先 AI Agent 工作空间，通过 Runtime Event Log 作为核心抽象，实现会话、UI 与模型上下文的所有投影，支撑 Desktop、TUI、CLI 和 Eval 多入口。</description>
+    </item>
+    
+    <item>
+      <title>Apache Cassandra：面向云原生时代的高性能分布式数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/cassandra/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/cassandra/</guid>
+      <description>Apache Cassandra 是一款高度可扩展的分布式 NoSQL 数据库，采用去中心化架构，支持多数据中心复制与线性扩展。本文深入解析其核心架构、技术原理及实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Apache Ossie：打破数据孤岛，打造统一语义模型规范</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/ossie/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/ossie/</guid>
+      <description>Apache Ossie 是 Apache 基金会旗下的开源项目，致力于用一套统一的 JSON/YAML 语义模型规范打通 AI Agent、BI 平台和数据工具之间的壁垒，消除数据定义不一致的根源性问题。</description>
+    </item>
+    
     <item>
       <title>Apache Maven：Java 项目构建管理的行业标准与架构演进</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/maven/</link>

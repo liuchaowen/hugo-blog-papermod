@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webpack on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/webpack/</link>
+    <description>Recent content in Webpack on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/webpack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpack 深度解析：从模块打包器到现代前端工程化基石</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/webpack/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/webpack/</guid>
+      <description>Webpack 是前端领域最经典的模块打包器，由 Tobias Koppers 发起、现隶属于 Linux 基金会。本文从架构设计、核心概念（Loader / Plugin / Tapable）、依赖图构建与代码分割等维度，深入剖析 webpack 5 的工作原理，并附上安装、配置与实战示例。</description>
+    </item>
+    
+  </channel>
+</rss>

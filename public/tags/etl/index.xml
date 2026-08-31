@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ETL on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/etl/</link>
+    <description>Recent content in ETL on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prefect：让 Python 脚本秒变生产级数据工作流的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/prefect/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/prefect/</guid>
+      <description>Prefect 是一个 Python 原生的工作流编排框架，几行代码即可将脚本升级为具备调度、重试、可观测性的生产级数据管道，支持自托管与云端两种部署模式。</description>
+    </item>
+    
+  </channel>
+</rss>

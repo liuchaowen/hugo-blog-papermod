@@ -11,7 +11,106 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipatool：用命令行搜索并下载 App Store 应用 IPA 包的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ipatool/</guid>
+      <description>majd/ipatool 是一款用 Go 编写的命令行工具，可在终端中搜索 App Store（iOS/iPadOS/tvOS/visionOS）应用并下载其 IPA 安装包。本文从功能定位、技术原理（purego 调用原生框架、plist/Mach-O 解析、FairPlay 加密包下载）到认证、搜索、购买、下载全流程实战进行拆解。</description>
+    </item>
+    
+    <item>
+      <title>JetBrains 发布 go-modern-guidelines：让 AI 编码助手写出地道 Go 代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</guid>
+      <description>JetBrains 开源 go-modern-guidelines 项目，为 AI 编码代理提供从 Go 1.0 到 1.27 的现代 Go 编码规范，解决 AI 训练数据滞后和频率偏差两大痛点，让 Claude Code、Cursor 等工具自动生成符合最新语言特性的高质量 Go 代码。</description>
+    </item>
+    
+    <item>
+      <title>Hister：打造你自己的隐私优先个人搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/hister/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/hister/</guid>
+      <description>Hister 是一个自托管的个人搜索引擎，对浏览过的网页与本地文件做全文索引，支持网页、终端、MCP 多端检索，默认零遥测。本文从架构、技术栈与实战角度解析这款 GitHub Trending 项目。</description>
+    </item>
+    
+    <item>
+      <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/doc7/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/doc7/</guid>
+      <description>doc7 是一款开源文档转换工具，通过本地部署的视觉语言模型（VLM）将 PDF、Office 文件、扫描件、图片等任意格式文档转换为结构化 Markdown，无需云 API，按页计费彻底成为历史。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>用 Mindwalk 把 AI 编程过程变成一张「地图」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</guid>
+      <description>Mindwalk 是一款将 AI 编程助手会话记录可视化为 3D 代码地图的开源工具，通过光迹追踪的方式让开发者直观看到 AI 在代码库中的探索路径、编辑热点和思维盲区。</description>
+    </item>
+    
+    <item>
+      <title>Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</guid>
+      <description>Go Music DL 是一个用 Go 语言编写的开源音乐搜索与下载工具，支持 Web 界面、TUI 终端、原生桌面和移动端，覆盖网易云、QQ 音乐、酷狗、酷我、咪咕、Bilibili 等 13 个平台，并提供 FLAC 无损音乐下载、歌单解析、本地音乐管理等功能。</description>
+    </item>
+    
+    <item>
+      <title>OpenCodeReview：阿里开源的 AI 代码评审工具，精度更高、Token 消耗仅通用 Agent 的 1/9</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/open-code-review/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/open-code-review/</guid>
+      <description>OpenCodeReview 是阿里巴巴开源的 AI 代码评审 CLI 工具，起源于阿里内部 AI 代码审查助手，已服务数万名开发者、识别数百万代码缺陷。相比通用 Agent，用同样模型即可实现更高精度和 F1，且 Token 消耗仅为通用 Agent 的 1/9。</description>
+    </item>
+    
+    <item>
+      <title>Superfile：现代化的终端文件管理器，让命令行操作更优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/superfile/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/superfile/</guid>
+      <description>Superfile 是一个用 Go 语言编写的现代终端文件管理器，提供直观的 TUI 界面、丰富的快捷键、插件系统和主题定制功能，支持 macOS、Linux 和 Windows，是命令行用户的效率利器。</description>
+    </item>
+    
+    <item>
+      <title>croc：一行命令在任意两台电脑间安全传输文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/croc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/croc/</guid>
+      <description>croc 是一款简洁安全的命令行文件传输工具，支持任意两台电脑间直接传输文件/文件夹，基于 PAKE 端到端加密，无需公网 IP 或端口转发，跨平台支持 Windows、Linux、macOS。</description>
+    </item>
+    
+    <item>
+      <title>Castor：终端驱动的智能电视视频推送利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/castor/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/castor/</guid>
+      <description>Castor 是一款终端视频推送工具，通过 headless Chrome 提取网页视频流、ffmpeg 转码后直接推送到 DLNA/UPnP 电视，无需遥控器，适合开发者和技术用户。</description>
+    </item>
+    
     <item>
       <title>Mattermost：开源自托管的团队协作与 DevSecOps 平台</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/mattermost/</link>

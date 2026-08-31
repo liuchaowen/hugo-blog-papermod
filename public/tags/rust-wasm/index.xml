@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rust WASM on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/rust-wasm/</link>
+    <description>Recent content in Rust WASM on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rust-wasm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare 临时邮箱：零成本搭建私有临时邮件服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/cloudflare-temp-email/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/cloudflare-temp-email/</guid>
+      <description>cloudflare_temp_email 是一个基于 Cloudflare Workers &#43; D1 &#43; Pages 搭建的临时邮箱服务，完全免费、功能完整，支持邮件收发、AI 验证码识别、SMTP/IMAP 代理、社区 Telegram Bot 等，适合个人隐私保护和开发测试场景。</description>
+    </item>
+    
+  </channel>
+</rss>

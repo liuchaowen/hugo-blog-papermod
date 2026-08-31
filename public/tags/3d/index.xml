@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/3d/</link>
+    <description>Recent content in 3D on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>img2threejs：将一张图片重建为可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/img2threejs/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/img2threejs/</guid>
+      <description>img2threejs 是一个 AI Agent 驱动的图片转 3D 模型工具，通过多阶段渐进式管线将单张参考图重建为代码生成的 Three.js 程序化模型，支持动画骨骼、可交互关节，代码可审计、模型可 diff。</description>
+    </item>
+    
+  </channel>
+</rss>

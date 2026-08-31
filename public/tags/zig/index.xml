@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zig on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/zig/</link>
+    <description>Recent content in Zig on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/zig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NullHub：一个 Zig 构建的本地化 AI 工具管理中枢</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/nullhub/</guid>
+      <description>NullHub 是一款基于 Zig 0.16.0 &#43; Svelte 5 构建的开源本地管理工具，通过单个二进制文件即可安装、配置、监控和更新 NullClaw 生态中的所有组件（NullClaw、NullBoiler、NullTickets、NullWatch），并提供内置 Svelte Web UI。</description>
+    </item>
+    
+  </channel>
+</rss>

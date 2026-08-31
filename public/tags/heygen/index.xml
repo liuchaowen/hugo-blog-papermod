@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HeyGen on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/heygen/</link>
+    <description>Recent content in HeyGen on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/heygen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeyGen HyperFrames Launches：把产品发布会做成可复现的代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/hyperframes-launches/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/hyperframes-launches/</guid>
+      <description>盘点 heygen-com/hyperframes-launches 仓库——HeyGen 用自家的 HyperFrames 框架制作的一系列产品发布会视频源码。每个子目录都是一份独立的 HyperFrames 合成工程，用 HTML/JSON 描述镜头，配合 Git LFS 管理视频素材，可本地预览、渲染或二次创作。</description>
+    </item>
+    
+  </channel>
+</rss>

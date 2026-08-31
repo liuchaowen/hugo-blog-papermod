@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/vlm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/vlm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/doc7/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/doc7/</guid>
+      <description>doc7 是一款开源文档转换工具，通过本地部署的视觉语言模型（VLM）将 PDF、Office 文件、扫描件、图片等任意格式文档转换为结构化 Markdown，无需云 API，按页计费彻底成为历史。</description>
+    </item>
+    
     <item>
       <title>MinerU：高精度文档解析引擎，一键转换 PDF/DOCX/PPTX/XLSX 为 Markdown</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/mineru/</link>

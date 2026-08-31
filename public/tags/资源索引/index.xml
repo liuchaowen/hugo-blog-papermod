@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>资源索引 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95/</link>
+    <description>Recent content in 资源索引 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%B5%84%E6%BA%90%E7%B4%A2%E5%BC%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Zhuiju Free：一份每日自动检测可用性的免费追剧资源索引</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/awesome-zhuiju-free/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/awesome-zhuiju-free/</guid>
+      <description>Awesome Zhuiju Free 是一个人工精选、社区共建的免费无广告追剧资源索引，覆盖在线影视、网盘搜索、磁力 BT、TVBox 配置、直播源与开源工具，并通过 GitHub Actions 每日自动检测资源可用性，公开评分与风险提示。</description>
+    </item>
+    
+  </channel>
+</rss>

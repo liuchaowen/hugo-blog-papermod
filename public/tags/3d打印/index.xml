@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D打印 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/3d%E6%89%93%E5%8D%B0/</link>
+    <description>Recent content in 3D打印 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/3d%E6%89%93%E5%8D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</guid>
+      <description>清华 IEI Lab 开源的 Multi-Agent CAD 框架，用 4 个 Agent &#43; LangGraph 状态机把文本转 CAD 的 Token 消耗压到 1/116、成本降到 1/13，特征通过率反而提升到 99.3%。本文深入解析其结构化状态传递、确定性翻译器与白盒可审计设计。</description>
+    </item>
+    
+    <item>
+      <title>OOMWOO：用树莓派和 ROS2 自己造一台扫地机器人</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/oomwoo/</guid>
+      <description>OOMWOO 是一个完全开源的扫地机器人项目，基于树莓派、ROS2、3D 打印和 Home Assistant 构建，支持 2D LiDAR 自主导航，完全本地运行无需云端，真正做到可 hack、可修复、可升级。</description>
+    </item>
+    
+    <item>
+      <title>text-to-cad：AI驱动的CAD与机器人设计技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</guid>
+      <description>text-to-cad是一个开源的AI Agent技能库,专注于CAD模型生成、机器人描述文件创建和硬件设计自动化。支持STEP/STL/3MF导出、URDF/SDF/SRDF机器人文件生成、G-code切片和3D打印集成，让AI Agent能够从自然语言生成工程级CAD模型和机器人描述。</description>
+    </item>
+    
+  </channel>
+</rss>

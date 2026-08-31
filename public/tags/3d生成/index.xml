@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D生成 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/3d%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in 3D生成 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/3d%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modly：用开源 AI 模型在本地把图片变成 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/modly/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/modly/</guid>
+      <description>Modly 是一款跨平台桌面应用，基于开源 AI 模型（Hunyuan3D 2、Trellis2 等）实现在本地 GPU 上将任意图片转换为 3D mesh，全程离线运行，数据不离开设备。</description>
+    </item>
+    
+    <item>
+      <title>微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</guid>
+      <description>TRELLIS.2 是微软推出的 40 亿参数图像到 3D 生成模型，提出 O-Voxel 这一「无场」稀疏体素表示，以原生、紧凑的结构化潜变量突破传统 SDF/NeRF 的拓扑限制，支持开放表面、非流形几何与完整 PBR 材质，H100 上 512³ 资产生成仅需约 3 秒。</description>
+    </item>
+    
+  </channel>
+</rss>

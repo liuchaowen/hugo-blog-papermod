@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>策略回测 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%AD%96%E7%95%A5%E5%9B%9E%E6%B5%8B/</link>
+    <description>Recent content in 策略回测 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%AD%96%E7%95%A5%E5%9B%9E%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome Systematic Trading：量化交易资源大全，97个库与40&#43;策略一网打尽</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</guid>
+      <description>系统化交易（量化交易）领域最全面的资源合集，涵盖97个回测与实盘交易库、40&#43;机构与学术界策略、55本经典书籍、23个视频教程，以及丰富的博客与课程资源，适合从入门到精通的量化交易者。</description>
+    </item>
+    
+  </channel>
+</rss>

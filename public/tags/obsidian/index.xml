@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obsidian on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专利点挖掘与交底书编写利器：patent-disclosure-skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</guid>
+      <description>一个功能强大的 AI 技能，支持发明/实用新型/外观设计三种专利类型的交底书编写，以及公开专利的通俗解读与知识图谱构建，帮助研发人员高效完成专利申请全流程。</description>
+    </item>
+    
+    <item>
+      <title>Claude-Obsidian：让你的知识库越用越聪明的本地优先系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</guid>
+      <description>Claude-Obsidian 是一个本地优先的知识管理系统，专为 Claude Code 和兼容的 Agent Skills 宿主设计。它将源材料转化为链接的、有来源引用的 Obsidian 页面，基于已收集的证据回答问题，并提供研究、检索、维护和可视化的工作流。</description>
+    </item>
+    
+    <item>
+      <title>Obsidian Skills：让 AI Agent 原生理解你的笔记</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</guid>
+      <description>kepano 开源了一套基于 Agent Skills 规范的 Obsidian 工具包，包含 Markdown 编辑、Bases 查询、JSON Canvas 绘制等技能，让 Claude Code、Codex、OpenCode 等主流 AI Agent 都能原生理解 Obsidian 笔记语法，大幅提升 AI 辅助写作与知识管理的效率。</description>
+    </item>
+    
+  </channel>
+</rss>

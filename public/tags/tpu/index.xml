@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TPU on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/tpu/</link>
+    <description>Recent content in TPU on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marin：开源大模型训练全流程平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/marin/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/marin/</guid>
+      <description>Marin 是一个研究项目、软件平台和社区，专注于大语言模型的研发全流程，包括数据清洗、预训练、后训练和评估，核心价值是开放开发——完整记录从原始数据到最终模型的每一步。</description>
+    </item>
+    
+  </channel>
+</rss>

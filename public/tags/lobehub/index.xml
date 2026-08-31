@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LobeHub on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/lobehub/</link>
+    <description>Recent content in LobeHub on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/lobehub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LobeHub：把 AI Agent 当成「团队组员」来雇佣、调度与汇报的开源智能体工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</guid>
+      <description>LobeHub 是一个开源的 AI Agent 工作与生活空间，把 Agent 当作工作单元（Unit of Work），提供招聘、调度、协作与个性化记忆能力，并支持 Docker / Vercel 一键自托管。本文深入解析其设计理念、核心架构、技术栈与快速上手方式。</description>
+    </item>
+    
+  </channel>
+</rss>

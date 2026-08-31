@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>多Agent on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%A4%9Aagent/</link>
+    <description>Recent content in 多Agent on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%9Aagent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入理解 AI Agent：设计原理与工程实践 — 开源书&#43;配套代码全解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/ai-agent-book/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/ai-agent-book/</guid>
+      <description>GitHub trending 项目 bojieli/ai-agent-book 是一款完全开源的 AI Agent 系统性教程，以「Agent = LLM &#43; 上下文 &#43; 工具」为核心公式，涵盖 10 章内容与完整配套代码，适合想深入掌握 Agent 核心工程能力的开发者。</description>
+    </item>
+    
+  </channel>
+</rss>

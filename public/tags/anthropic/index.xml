@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Plugins Community：Anthropic 官方托管的 Claude Code 社区插件市场</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</guid>
+      <description>Claude Plugins Community 是 Anthropic 官方维护的 Claude Code / Claude Cowork 社区插件市场只读镜像。所有插件均经过自动安全扫描与人工审核，开发者只需一条命令即可订阅整个市场并安装数百个社区插件，覆盖 DeFi、电商、API 安全、可访问性、团队协作等场景。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic cwc-workshops：跟着官方学用 Claude 构建生产级智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/cwc-workshops/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/cwc-workshops/</guid>
+      <description>anthropics/cwc-workshops 是 Anthropic 官方「Code with Claude」工作坊的开放材料，包含 9 个可动手运行的实验，覆盖模型选型、多智能体编排、Skills 与 MCP、记忆系统、Eval 驱动开发等核心主题，手把手教你从会用 Claude 进阶到能构建生产级 Agent 系统。</description>
+    </item>
+    
     <item>
       <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>

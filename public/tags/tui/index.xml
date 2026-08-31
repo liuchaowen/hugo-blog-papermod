@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TUI on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/tui/</link>
+    <description>Recent content in TUI on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gloomberb：开源全键盘驱动金融终端，一站式搞定投资研究</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/gloomberb/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/gloomberb/</guid>
+      <description>Gloomberb 是一款开源键盘驱动金融终端，同时提供桌面应用和 TUI 界面，支持股票查询、图表分析、组合管理、宏观数据监控和 AI 筛选器，覆盖 macOS、Linux、Windows 全平台。</description>
+    </item>
+    
+    <item>
+      <title>Herdr：终端里的 AI Agent 多路复用器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/herdr/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/herdr/</guid>
+      <description>Herdr 是一款专为 AI 编程助手设计的终端多路复用器，提供实时终端视图、会话持久化、纯 Socket API 等能力，让 AI Agent 的工作流管理更加高效。</description>
+    </item>
+    
+    <item>
+      <title>tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</guid>
+      <description>tuicr 是一款用 Rust 编写的终端代码审查工具，提供 GitHub 风格连续 diff、Vim 键位、行级评论，并可一键将审查结果推送到 GitHub/GitLab 或导出给 AI 编程助手。</description>
+    </item>
+    
+    <item>
+      <title>Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</guid>
+      <description>Go Music DL 是一个用 Go 语言编写的开源音乐搜索与下载工具，支持 Web 界面、TUI 终端、原生桌面和移动端，覆盖网易云、QQ 音乐、酷狗、酷我、咪咕、Bilibili 等 13 个平台，并提供 FLAC 无损音乐下载、歌单解析、本地音乐管理等功能。</description>
+    </item>
+    
+    <item>
+      <title>Superfile：现代化的终端文件管理器，让命令行操作更优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/superfile/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/superfile/</guid>
+      <description>Superfile 是一个用 Go 语言编写的现代终端文件管理器，提供直观的 TUI 界面、丰富的快捷键、插件系统和主题定制功能，支持 macOS、Linux 和 Windows，是命令行用户的效率利器。</description>
+    </item>
+    
+  </channel>
+</rss>

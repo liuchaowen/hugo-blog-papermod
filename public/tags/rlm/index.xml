@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RLM on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/rlm/</link>
+    <description>Recent content in RLM on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rlm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prime Agent：会自我进化的开源 RLM 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/prime-agent/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/prime-agent/</guid>
+      <description>Prime Agent 是 PrimeIntellect-ai 开源的一款自进化编程智能体，基于递归语言模型（RLM）架构，支持持久化 REPL、子 Agent 并行、Continual Harness 自我优化，适合长时间运行的复杂任务和研究评估。</description>
+    </item>
+    
+  </channel>
+</rss>

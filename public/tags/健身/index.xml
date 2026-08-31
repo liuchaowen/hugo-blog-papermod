@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%81%A5%E8%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%81%A5%E8%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源健身插画库 workout-guide：302 个动作逐帧 SVG 与框架无关 npm 包解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</guid>
+      <description>workout-guide 是 Bryl Lim 维护的开源健身动作插画库，包含 302 个动作、每个动作 3 帧共 906 张透明 SVG，并提供类型安全的框架无关 npm 包与可搜索静态画廊。本文解析其 monorepo 架构、资源生成管线与集成方式。</description>
+    </item>
+    
     <item>
       <title>Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</link>

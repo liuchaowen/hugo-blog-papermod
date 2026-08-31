@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome DSH Plugin：DeepSeek Harness 插件生态精选</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/awesome-dsh-plugin/</guid>
+      <description>Awesome DSH Plugin 是 DeepSeek Harness (DSH) 插件生态的精选列表，收录了社区开发的各类插件，涵盖 UI 增强、主题外观、模型提供商、工具扩展等多个类别，支持一键安装和即插即用。</description>
+    </item>
+    
     <item>
       <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
       <link>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>

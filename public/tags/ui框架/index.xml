@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UI框架 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ui%E6%A1%86%E6%9E%B6/</link>
+    <description>Recent content in UI框架 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ui%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dioxus 0.8：用 Rust 写跨平台应用，一套代码覆盖 Web、桌面、移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</guid>
+      <description>Dioxus 是一个用 Rust 编写的跨平台 UI 框架，支持 Web、桌面、移动端、SSR 等平台，一套代码多端运行。本文深入解析其核心理念、技术架构与快速上手指南。</description>
+    </item>
+    
+  </channel>
+</rss>

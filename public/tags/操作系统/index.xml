@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AOS Community Edition：为智能体打造的可审计、可组合开源操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/aos-ce/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/aos-ce/</guid>
+      <description>AOS Community Edition（unicity-aos/aos-ce）是一套面向智能体的开源操作系统，提供可检视、可组合的运行时环境、aos CLI、HTTP API、约 21 个内置 Capsule 与 Unicity 审计能力。本文从架构、技术栈到安装实战进行深度拆解。</description>
+    </item>
+    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
       <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>

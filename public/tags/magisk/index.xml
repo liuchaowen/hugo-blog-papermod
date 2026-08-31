@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Magisk on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/magisk/</link>
+    <description>Recent content in Magisk on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/magisk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</guid>
+      <description>OneStep4.0 是一款面向 Android Root 与系统特权环境的多应用桌面容器，通过 VirtualDisplay &#43; SurfaceView 技术，在无自由窗口模式的设备上实现主窗口 &#43; 多侧边窗口的多任务交互，并支持 Magisk / KSU 两种刷入方式。</description>
+    </item>
+    
+  </channel>
+</rss>

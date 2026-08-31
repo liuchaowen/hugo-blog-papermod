@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modly：用开源 AI 模型在本地把图片变成 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/modly/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/modly/</guid>
+      <description>Modly 是一款跨平台桌面应用，基于开源 AI 模型（Hunyuan3D 2、Trellis2 等）实现在本地 GPU 上将任意图片转换为 3D mesh，全程离线运行，数据不离开设备。</description>
+    </item>
+    
     <item>
       <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-07/opencv/</link>

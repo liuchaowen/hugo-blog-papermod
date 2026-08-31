@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WalGit：一个跑在对象存储前的单二进制 Git 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/walgit/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/walgit/</guid>
+      <description>WalGit 是 tobi 开源的单二进制 Git 服务器，用对象存储（S3/GCS）作为唯一真相源，以写前日志（WAL）&#43; 比较并交换（CAS）取代数据库与主从协商，让无状态、可横向扩展的 Git 托管在比仓库更小的机器上稳定运行。本文拆解其架构与关键技术。</description>
+    </item>
+    
+    <item>
+      <title>gh-stack：用一条命令管理 GitHub 堆叠式 PR，把大改动拆成可评审的小 PR</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/gh-stack/</guid>
+      <description>gh-stack 是 GitHub 官方推出的 gh CLI 扩展，专用于管理堆叠式（stacked）分支与 Pull Request。本文深入解析其架构设计、核心命令与实战工作流，帮助你把动辄上千行的大型 PR 拆分成彼此依赖、易于评审的小 PR。</description>
+    </item>
+    
     <item>
       <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
       <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>

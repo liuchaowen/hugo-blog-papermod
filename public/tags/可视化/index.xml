@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>God&#39;s Eye View：用公开数据在浏览器里造一个实时的「上帝视角」地球</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/</guid>
+      <description>God&amp;#39;s Eye View 是一个完全运行在浏览器里的实时地理空间情报控制台：基于 CesiumJS 与 Google 真实感 3D 地球，叠加全球航班、船舶、卫星、地震、交通与公共摄像头等 13 个公开数据源，还支持用 OpenAI Realtime API 语音指挥。本文拆解它的架构、技术栈与本地运行方式。</description>
+    </item>
+    
+    <item>
+      <title>CodeFlow：零配置在浏览器中秒级可视化代码架构</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/codeflow/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/codeflow/</guid>
+      <description>CodeFlow 是一个纯前端、零安装的开源工具，粘贴 GitHub 仓库 URL 或选择本地文件即可秒级生成可交互的代码架构依赖图，并支持爆炸半径分析、安全扫描、健康评分等能力，代码永不上传，可离线运行。</description>
+    </item>
+    
     <item>
       <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
       <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>

@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/substrate/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/substrate/</guid>
+      <description>Agent Substrate 是 Google 开源的高性能 Agent 运行时基础设施，通过 Actor-Worker 多路复用架构实现亚秒级 Agent 挂起/恢复，支持 30 倍以上资源超售，让大规模 AI Agent 部署变得经济可行。</description>
+    </item>
+    
+    <item>
+      <title>Guava 深度解析：Google 的 Java 核心库为何仍是工程标配</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/guava/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/guava/</guid>
+      <description>深入剖析 Google Guava 核心库：不可变集合、Multimap/Multiset、Cache、ListenableFuture、Graph 与哈希工具的设计原理，附 JRE/Android 双版本选型、Maven/Gradle 接入方式与 @Beta、依赖冲突等常见坑的解决方案。</description>
+    </item>
+    
+    <item>
+      <title>Protocol Buffers：Google 高性能序列化框架深度解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/protobuf/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/protobuf/</guid>
+      <description>Protocol Buffers（protobuf）是 Google 开源的语言中立、平台中立、可扩展的数据序列化框架，支持 C&#43;&#43;/Java/Python/Go/JS 等十余种语言。本文深入剖析其 IDL 语法、Wire 格式编码原理及最新 v7.37.0 版本特性。</description>
+    </item>
+    
     <item>
       <title>Abseil：C&#43;&#43; 标准库的有力补充</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</link>
@@ -19,6 +46,15 @@
       
       <guid>https://blog.xlap.top/post/tech/2026-07-11/abseil-cpp/</guid>
       <description>Abseil 是 Google 开源的 C&#43;&#43; 通用库集合，提供超过 20 个高质量组件，涵盖字符串处理、并发编程、错误处理、时间计算等场景，是对 C&#43;&#43; 标准库的重要补充。</description>
+    </item>
+    
+    <item>
+      <title>Google Stitch Design Skills：用 Agent Skills 标准把设计稿变成可落地的生产代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/stitch-skills/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/stitch-skills/</guid>
+      <description>Google Labs 开源的 Stitch Design Skills 是一套遵循 Agent Skills 开放标准的技能与插件集合，面向 Google Stitch 设计平台，可让 Codex、Claude Code、Cursor 等编码智能体完成从设计生成、代码转换到视频走查的全流程，打通设计与工程之间的最后一公里。</description>
     </item>
     
     <item>

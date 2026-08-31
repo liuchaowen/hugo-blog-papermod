@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>换肤 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8D%A2%E8%82%A4/</link>
+    <description>Recent content in 换肤 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8D%A2%E8%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codex Dream Skin：给 Codex 桌面端换一张会呼吸的脸</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/codex-dream-skin/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/codex-dream-skin/</guid>
+      <description>Codex Dream Skin 是一款面向 Codex 桌面端的外部换肤工具，通过本机 CDP 注入实现真正可交互的主题化，不修改官方安装包与代码签名。本文解析其架构原理、安装流程与实战用法。</description>
+    </item>
+    
+  </channel>
+</rss>

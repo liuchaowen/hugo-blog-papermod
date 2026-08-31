@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</guid>
+      <description>anydoc 是 Firecrawl 团队开源的 Rust 库，支持 14 种文档格式（Word、Excel、PPT、PDF、RTF、EPUB 等）在单数字毫秒级转换为统一的 GitHub-Flavored Markdown，提供 Node.js、Python、WASM 多语言绑定，并可作为 Agent Skill 直接集成到 AI 编程助手中。</description>
+    </item>
+    
+    <item>
+      <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/doc7/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/doc7/</guid>
+      <description>doc7 是一款开源文档转换工具，通过本地部署的视觉语言模型（VLM）将 PDF、Office 文件、扫描件、图片等任意格式文档转换为结构化 Markdown，无需云 API，按页计费彻底成为历史。</description>
+    </item>
+    
     <item>
       <title>Tolaria：开源跨平台的 Markdown 知识库管理工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</link>

@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Codex CLI：本地运行的 AI 编程助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/codex/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/codex/</guid>
+      <description>Codex CLI 是 OpenAI 推出的本地 AI 编程工具，通过命令行直接在终端中调用 GPT-4o 等模型完成代码编写、调试和重构任务，支持 Mac/Linux/Windows 多平台。</description>
+    </item>
+    
+    <item>
+      <title>Harness Engineering：通过环境塑造让 AI Agent 输出质量提升 100 倍</title>
+      <link>https://blog.xlap.top/post/tech/harness-engineering/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/harness-engineering/</guid>
+      <description>Harness Engineering 是一种新兴的 AI 工程实践，通过系统性地塑造 AI Agent 的外部环境（上下文与工具），在不改变模型本身的前提下大幅提升 Agent 输出质量。本文深入解析其核心理念、架构设计与实践方法。</description>
+    </item>
+    
+    <item>
+      <title>Wardrobe：用 AI 把衣服装进你的数字衣橱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/wardrobe/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/wardrobe/</guid>
+      <description>Wardrobe 是一款本地优先的 AI 衣橱管理工具，通过 OpenAI 多模态模型自动识别照片中的衣物、提取商品级抠图，并生成模特穿搭预览图，让你的衣橱管理、穿搭灵感生成全部在本地完成。</description>
+    </item>
+    
     <item>
       <title>Codex 橙皮书：从入门到实战的全链路 AI 编程指南</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/codex-orange-book/</link>

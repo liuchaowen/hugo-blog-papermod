@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Music DL：一站式多平台音乐搜索下载工具，支持 Web/TUI/桌面/移动端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/go-music-dl/</guid>
+      <description>Go Music DL 是一个用 Go 语言编写的开源音乐搜索与下载工具，支持 Web 界面、TUI 终端、原生桌面和移动端，覆盖网易云、QQ 音乐、酷狗、酷我、咪咕、Bilibili 等 13 个平台，并提供 FLAC 无损音乐下载、歌单解析、本地音乐管理等功能。</description>
+    </item>
+    
     <item>
       <title>Folia：全屏沉浸式歌词播放器，让音乐可视化如文字PV般震撼</title>
       <link>https://blog.xlap.top/post/tech/2026-07-05/folia-major/</link>

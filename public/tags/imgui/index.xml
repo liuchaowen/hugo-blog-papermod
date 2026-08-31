@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ImGui on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/imgui/</link>
+    <description>Recent content in ImGui on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/imgui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dear ImGui：一款让你爱不释手的 C&#43;&#43; 即时模式 GUI 库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/imgui/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/imgui/</guid>
+      <description>Dear ImGui 是一款轻量级、无依赖的 C&#43;&#43; 即时模式 GUI 库，广泛用于游戏工具开发、实时 3D 可视化和嵌入式应用中，以其极简的 API 和高效的资源消耗著称。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mlsys/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mlsys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADR：Uber开源的企业级AI代理安全检测与响应系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/adr/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/adr/</guid>
+      <description>ADR是Uber开源的企业级AI代理安全系统，通过观测代理行为、评估安全防御、检测威胁并阻止不安全操作，保护Cursor、Claude Code等AI编码工具和客户服务代理的安全性，已在Uber生产环境部署，论文被MLSys 2026接收。</description>
+    </item>
+    
     <item>
       <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</link>

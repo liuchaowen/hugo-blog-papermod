@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA Switchyard：用 Rust 构建统一多后端的 LLM 流量代理与路由网关</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/switchyard/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/switchyard/</guid>
+      <description>Switchyard 是 NVIDIA NeMo 推出的 Rust LLM 流量代理与库，支持 OpenAI / Anthropic / OpenAI Responses 协议互转、多后端路由（随机、LLM 分类器、信号驱动阶段路由等）以及 Prometheus 可观测指标，让你的编码智能体无缝对接任意 OpenAI 兼容端点。</description>
+    </item>
+    
     <item>
       <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
       <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>

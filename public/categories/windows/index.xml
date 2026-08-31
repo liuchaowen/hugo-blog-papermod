@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDM 激活脚本中文版：一键激活 Internet Download Manager 的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</guid>
+      <description>IDM Activation Script 中文版是一款面向中文 Windows 用户的 Internet Download Manager 激活脚本，支持冻结试用期、随机注册信息激活、试用重置三种模式，全程中文菜单，无需安装依赖， GPL-3.0 开源可审查。</description>
+    </item>
+    
+    <item>
+      <title>FluentCleaner：一款让 Windows 系统清洁工具回归初心的开源项目</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/fluentcleaner/</guid>
+      <description>FluentCleaner 是一款由个人开发者打造的现代 Windows 系统清洁工具，基于 WinUI 3 构建，兼容 winapp2.ini 清洁规则集，无广告、无暗模式，旨在让系统清理这件事回归纯粹和透明。</description>
+    </item>
+    
     <item>
       <title>Win11Debloat: 一键精简 Windows 11，关闭遥测与预装全家桶</title>
       <link>https://blog.xlap.top/post/tech/2026-06-16/win11debloat/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>QQ on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/qq/</link>
+    <description>Recent content in QQ on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/qq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AstrBot：一站式开源 AI 聊天机器人平台，让 IM 秒变 Agent 工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/astrbot/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/astrbot/</guid>
+      <description>AstrBot 是一款免费开源的全能型 AI 聊天机器人平台，可接入 QQ、微信、飞书、Telegram 等主流 IM，内置 Agent、MCP、知识库与 1000&#43; 插件，让你在熟悉的聊天框里直接驱动大模型完成任务。</description>
+    </item>
+    
+  </channel>
+</rss>

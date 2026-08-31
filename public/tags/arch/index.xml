@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arch on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/arch/</link>
+    <description>Recent content in Arch on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Omarchy：DHH 打造的「固执己见」的现代 Linux 桌面</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/omarchy/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/omarchy/</guid>
+      <description>Omarchy 是 37signals 创始人 DHH 推出的基于 Arch Linux 的美观、现代且高度 opinionated 的桌面发行版，提供从主题、快捷键到 AI 工具链的完整开箱即用体验。本文解读它的设计理念、核心特性与快速上手方式。</description>
+    </item>
+    
+  </channel>
+</rss>

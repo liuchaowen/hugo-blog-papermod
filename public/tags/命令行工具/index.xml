@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>命令行工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 命令行工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>findphone: 用蓝牙信号强度在命令行里找丢失的苹果设备</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/findphone/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/findphone/</guid>
+      <description>findphone 是一款 macOS 命令行工具，通过监测蓝牙 RSSI 信号强度，帮助你在室内定位附近的苹果设备。它不需要 Find My 网络，适用于 MDM 禁用 Find My 但设备仍在蓝牙范围内的场景，支持蜂鸣提示和地址脱敏。</description>
+    </item>
+    
+    <item>
+      <title>witr：一行命令追根溯源，搞清楚「这个进程为什么在跑」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/witr/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/witr/</guid>
+      <description>witr 是一款跨平台进程溯源工具，一句话找到任意进程、端口、容器或文件的完整启动链路，搞清楚「为什么在跑」。</description>
+    </item>
+    
+    <item>
+      <title>croc：一行命令在任意两台电脑间安全传输文件</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/croc/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/croc/</guid>
+      <description>croc 是一款简洁安全的命令行文件传输工具，支持任意两台电脑间直接传输文件/文件夹，基于 PAKE 端到端加密，无需公网 IP 或端口转发，跨平台支持 Windows、Linux、macOS。</description>
+    </item>
+    
+  </channel>
+</rss>

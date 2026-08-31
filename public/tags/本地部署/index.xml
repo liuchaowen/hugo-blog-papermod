@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StemDeck: 完全本地化的音频人声伴奏分离工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</guid>
+      <description>StemDeck 是一款免费、开源的本地音频分离工具，支持将音乐拆分为人声、鼓点、贝斯、吉他、钢琴等6个音轨，全程离线运行，无需注册、无需上传、无需订阅。</description>
+    </item>
+    
+    <item>
+      <title>ODS：一键将你的电脑变成私有 AI 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/ods/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/ods/</guid>
+      <description>ODS（Osmantic Deployment System）是一个开源的本地 AI 服务器解决方案，通过一条命令即可在你的 PC、Mac 或 Linux 上部署完整的 AI 技术栈，包括本地推理引擎、Web 聊天界面、语音服务、智能体、工作流自动化、RAG 检索增强生成、图像生成等，完全无需云端依赖。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaw：用开源方式把 AI 助手部署到你自己的设备上</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/openclaw/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/openclaw/</guid>
+      <description>OpenClaw 是一个开源的个人 AI 助手框架，支持在本地设备运行，支持多平台消息通道（WhatsApp、Telegram、Discord 等），通过插件体系灵活扩展，由非营利组织 OpenClaw Foundation 维护。</description>
+    </item>
+    
+    <item>
+      <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Unsloth：首款本地运行与训练 AI 模型的桌面应用，支持全平台 GPU 加速</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</guid>
+      <description>Unsloth 是一款开源本地 AI 模型运行与训练工具，提供桌面应用、Web UI 和命令行三种使用方式，支持 LLM、扩散模型、Embedding、音频模型的本地部署与微调，训练速度提升 2 倍、显存占用减少 70%。</description>
+    </item>
+    
+    <item>
+      <title>Atomic Agent：本地优先的 AI Agent 运行时，让小模型跑满多步任务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/atomic-agent/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/atomic-agent/</guid>
+      <description>Atomic Agent 是一个本地优先的 AI Agent 框架，基于 llama.cpp 和 TurboQuant 技术，在消费级硬件上实现高效的多步工具调用任务，GAIA L1 基准测试准确率达 69.8%。</description>
+    </item>
+    
+    <item>
+      <title>OpenJarvis：让个人 AI 真正运行在你的个人设备上</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</guid>
+      <description>OpenJarvis 是斯坦福 Hazy Research 开源的本地优先（local-first）个人 AI 框架，用共享原语、以能耗/FLOPs/延迟/成本为第一约束的评测体系，以及基于本地轨迹的学习闭环，让人人都能在本地设备上构建默认离线运行、按需上云的个人智能体。</description>
+    </item>
+    
+    <item>
+      <title>QwenPaw 深度解析：AgentScope 打造的个人 AI 助手工作站</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</guid>
+      <description>QwenPaw 是 AgentScope 团队开源的本地优先个人 AI 助手，融合三层记忆、内核级沙箱、多智能体编排与全渠道触达，支持本地免费运行 QwenPaw-Flash 模型，把 Agent 真正装进你的设备。</description>
+    </item>
+    
     <item>
       <title>llama.cpp：纯 C/C&#43;&#43; 实现的高性能 LLM 推理引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</link>

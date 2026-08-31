@@ -11,7 +11,511 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creator Buddy：面向内容创作者的全栈 Skill 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/creator-buddy/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/creator-buddy/</guid>
+      <description>基于开放 Agent Skills 协议，为公众号、小红书、视频创作者提供从选题、情报到成品产出的全流程工具集，覆盖定位装修、爆款分析、长短视频创作等完整链路。</description>
+    </item>
+    
+    <item>
+      <title>Diffusion Studio Editor：用 JSX 代码驱动、为 Agent 而生的专业视频编辑器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/editor/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/editor/</guid>
+      <description>Diffusion Studio Editor 是一个开源视频编辑器，以 SolidJS 模块作为文档源，通过 JSX 声明式地编写视频合成、剪辑与生成式素材，并提供 dapi CLI 让 AI Agent 直接观看、理解并剪辑素材。本文解析其架构、技术原理与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Experiential：把生产流量变成专属路由器的开源 Agent 网关</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/experiential/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/experiential/</guid>
+      <description>Experiential 是 experientiallabs 开源的 Agent 工作流网关与路由器，用统一的 OpenAI 兼容 API 接管托管、BYOK 与本地模型，提供细粒度鉴权、预算控制，并能基于生产流量训练专属路由策略或微调模型。本文从架构、核心代码到实战部署深度拆解。</description>
+    </item>
+    
+    <item>
+      <title>GitNexus：把代码库编译成知识图谱，让 AI Agent 不再「盲改」代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</guid>
+      <description>GitNexus（Akon Labs）将任意代码库索引为知识图谱（依赖、调用链、聚类、执行流），再通过 17 个智能 MCP 工具暴露给 Cursor、Claude Code、Codex 等 AI 编程 Agent。本文深入解析其架构、技术栈、MCP 工具与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Terminal-Bench-Science：用科学任务基准评估 AI Agent 的研究能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/terminal-bench-science/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/terminal-bench-science/</guid>
+      <description>Terminal-Bench-Science 是一个由 Stanford、Anthropic 等机构联合发布的 AI Agent 评测基准，涵盖生命、物理、地球、数学、工程五大科学领域 70&#43; 项专家策划的任务，帮助研究者和开发者量化 AI 在真实科研工作流中的表现。</description>
+    </item>
+    
+    <item>
+      <title>AgentConnect：把多个 AI 智能体接入团队工作流的开源平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/agentconnect/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/agentconnect/</guid>
+      <description>AgentConnect 是一个开源的多智能体协作平台，让 Claude Code、Codex、Grok、DeepSeek 等任意 ACP 兼容智能体在 Slack、Telegram、Discord、Lark 以及 GitHub/GitLab 中与团队并肩工作。本文从架构、核心特性、快速部署到实战用法，带你看懂这个项目。</description>
+    </item>
+    
+    <item>
+      <title>Cumora：让 AI 智能体成为团队一等公民的跨平台协作工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-28/cumora/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-28/cumora/</guid>
+      <description>Cumora 是一个跨平台团队聊天工具，把 AI 智能体当作与人类同等的成员：共享同一个通讯录、群聊、看板与日历，支持云端托管或 Bring Your Own Agent 本地运行，并通过 seen-cursor 门控与原子化任务抢占实现多智能体无冲突协作。</description>
+    </item>
+    
+    <item>
+      <title>OpenBot：让 AI 同事真正拥有自己的电脑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/openbot/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/openbot/</guid>
+      <description>OpenBot 是 CopilotKit 开源的一个 AI Agent 平台，每个 Bot 拥有独立计算机（真实浏览器&#43;文件系统），通过 AG-UI 协议接入企业工作流，支持 LangGraph、Mastra、CrewAI 等主流框架，构建可审计的 AI 工作力。</description>
+    </item>
+    
+    <item>
+      <title>Ponytail：AI Agent 懒惰资深开发模式，代码减少 54%</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/ponytail/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/ponytail/</guid>
+      <description>Ponytail 是一个 AI Agent 插件，通过懒惰资深开发者思维模式，减少不必要的代码生成。实测显示平均减少 54% 代码量，降低 20% 成本，加快 27% 执行速度，同时保持 100% 安全性。</description>
+    </item>
+    
+    <item>
+      <title>unlazy：用可执行的验收闸门，给 AI Agent 的「敷衍式交付」上把锁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/unlazy/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/unlazy/</guid>
+      <description>GitHub Trending 项目 unlazy 是一套面向 AI 编程 Agent 的「完成纪律」框架：先写验收账本、再执行可运行闸门、最后用证据说话。本文拆解其闸门契约、安全边界与并行编排设计，帮你根治 Agent 半成品交付。</description>
+    </item>
+    
+    <item>
+      <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</guid>
+      <description>HiThink-Tech/Financial-API 是同花顺官方维护的 A 股金融数据服务，通过统一 API Key 即可在 REST API、托管 MCP、CLI、Python SDK 与本地 DuckDB 之间自由切换，覆盖行情、财务、估值、集合竞价、龙虎榜等数据，特别适合 AI Agent、量化研究者与开发者接入。</description>
+    </item>
+    
+    <item>
+      <title>Ruflo：Claude Code 的 AI Agent 编排框架深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</link>
+      <pubDate>Sat, 22 Aug 2026 08:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</guid>
+      <description>Ruflo 是一个面向 Claude Code 和 Codex 的 Agent 元框架，提供 100&#43; 专业 Agent、自学习内存、联邦通信和企业级安全防护。本文深入解析其架构原理、核心组件和实战应用。</description>
+    </item>
+    
+    <item>
+      <title>Apache Maka：本地优先的 AI Agent 工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/maka/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/maka/</guid>
+      <description>Maka 是 Apache 基金会推出的本地优先 AI Agent 工作空间，通过 Runtime Event Log 作为核心抽象，实现会话、UI 与模型上下文的所有投影，支撑 Desktop、TUI、CLI 和 Eval 多入口。</description>
+    </item>
+    
+    <item>
+      <title>Webcmd：让 AI Agent 停止重复探索网站的自学习浏览器基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/webcmd/</guid>
+      <description>Webcmd 是一个专为 AI Agent 设计的自学习浏览器基础设施，能够将网站导航知识编译成确定性 CLI 命令，降低高达 90% 的浏览器 Agent token 消耗。本文深入分析其架构设计、技术原理与实战应用。</description>
+    </item>
+    
+    <item>
+      <title>Agent Substrate：大规模 AI Agent 部署的高密度运行时环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/substrate/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/substrate/</guid>
+      <description>Agent Substrate 是 Google 开源的高性能 Agent 运行时基础设施，通过 Actor-Worker 多路复用架构实现亚秒级 Agent 挂起/恢复，支持 30 倍以上资源超售，让大规模 AI Agent 部署变得经济可行。</description>
+    </item>
+    
+    <item>
+      <title>BetterWright：为 AI Agent 量身打造的 token 高效浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</guid>
+      <description>BetterWright 是一个基于 Playwright、面向 AI Agent 的持久化浏览器：用压缩快照替代原始 HTML，只读任务单轮完成，内置策略沙箱、凭证保险库与 CAPTCHA 助手，让 Agent 像人类一样高效、安全地操作网页。</description>
+    </item>
+    
+    <item>
+      <title>OpenViking：字节开源的 AI Agent 上下文数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/openviking/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/openviking/</guid>
+      <description>OpenViking 是字节跳动开源的 AI Agent 原生上下文数据库，通过 viking:// 协议将记忆、资源和技能组织为虚拟文件系统，让 AI 可以像开发者浏览文件一样检索上下文，支持 L0/L1/L2 三层按需加载，显著降低 token 消耗。</description>
+    </item>
+    
+    <item>
+      <title>Internet Court Skill：为 AI Agent 经济打造的开放纠纷裁技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/internet-court-skill/</guid>
+      <description>Internet Court 是一个开源 Agent 技能，将碎片化的 Agent 间交易协议栈（六层标准）统一封装，并独家加入纠纷裁审层，让 AI Agent 在无人值守的情况下也能安全交易、放心协作。</description>
+    </item>
+    
+    <item>
+      <title>Awesome DeepSeek Agent：把 DeepSeek 模型装进你常用的 AI 编码助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</guid>
+      <description>deepseek-ai 出品的 Awesome DeepSeek Agent 是一份精心整理的指南清单，手把手教你把 DeepSeek-V4 系列模型接入 AstrBot、Claude Code、Cline、OpenClaw 等 20&#43; 主流 AI Agent 与编码工具。本文带你一览清单全貌、剖析接入原理，并给出快速上手示例。</description>
+    </item>
+    
+    <item>
+      <title>Claude Code 工程化实战：极客时间万订阅专栏深度解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</guid>
+      <description>极客时间《Claude Code 工程化实战》专栏，23 讲覆盖 SubAgent、Skills、MCP、Headless、SDK、Hooks 全链路工程化实践，上线即登总榜第一。</description>
+    </item>
+    
+    <item>
+      <title>CLI-Anything：一行命令让任何软件变成 AI Agent 原生工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/cli-anything/</guid>
+      <description>HKUDS 出品的 CLI-Anything 用一条命令把任何带代码库的软件自动改造成 Agent 可驱动的命令行工具，通过七阶段流水线生成带 REPL、JSON 输出与完整测试的 Click CLI，并已覆盖 GIMP、Blender、LibreOffice 等 18&#43; 专业软件，2,461 项测试全部通过。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek Harness Desktop：为 AI Agent 打造开箱即用的桌面端体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/deepseek-harness-desktop/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/deepseek-harness-desktop/</guid>
+      <description>DeepSeek Harness Desktop 是一款将 DeepSeek Harness 本地 Web UI 封装为原生桌面应用的工具，无需安装 Node.js 或执行命令即可使用 AI Agent，支持插件市场、手机远程控制和多平台 IM 通道接入。</description>
+    </item>
+    
+    <item>
+      <title>OpenBiliClaw：本地运行的跨平台个性化内容推荐 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</guid>
+      <description>OpenBiliClaw 是一个本地运行的跨平台内容推荐 AI Agent，支持 B 站、小红书、抖音、YouTube、X、知乎等 12 个平台，通过构建五层心理画像主动破除信息茧房，数据 100% 留在本地 SQLite。</description>
+    </item>
+    
+    <item>
+      <title>dot-skill: 把任何人蒸馏成 AI Agent Skill 的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/colleague-skill/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/colleague-skill/</guid>
+      <description>dot-skill（前身 colleague.skill）是一款开源 AI 技能蒸馏工具，支持将同事、伴侣、偶像等任何人通过多源数据（飞书、微信、邮件等）转化为可调用的 AI Agent Skill，已获 20K&#43; GitHub Stars。</description>
+    </item>
+    
+    <item>
+      <title>Obsidian Skills：让 AI Agent 原生理解你的笔记</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/obsidian-skills/</guid>
+      <description>kepano 开源了一套基于 Agent Skills 规范的 Obsidian 工具包，包含 Markdown 编辑、Bases 查询、JSON Canvas 绘制等技能，让 Claude Code、Codex、OpenCode 等主流 AI Agent 都能原生理解 Obsidian 笔记语法，大幅提升 AI 辅助写作与知识管理的效率。</description>
+    </item>
+    
+    <item>
+      <title>Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/brigade/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/brigade/</guid>
+      <description>Brigade 是一个完全自托管的个人 AI Agent 生态：一套共享长期记忆（Tideline）的智能体「军团」，支持真实组织架构成员协作、跨模型无缝切换、1000&#43; 应用连接器与多消息渠道，所有密钥与数据都留在你自己的机器上。</description>
+    </item>
+    
+    <item>
+      <title>Embabel Agent Framework：JVM 平台的智能 Agent 开发框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/embabel-agent/</guid>
+      <description>Embabel Agent Framework 是一个运行在 JVM 上的智能 Agent 开发框架，支持动态规划、目标导向行动规划（GOAP）和多 LLM 混合，由 Spring 创始人打造，让企业级 AI 应用开发更简单、更安全、更可测试。</description>
+    </item>
+    
+    <item>
+      <title>Nasiko：一个开源的 AI Agent 控制平面，一键部署任何 A2A 智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</guid>
+      <description>Nasiko 是由 Nasiko-Labs 开发的开源 AI Agent 控制平面，通过单一二进制程序为所有 Agent 提供路由、工具访问、密钥管理与可观测性，彻底解决多 Agent 协作时的运维难题。</description>
+    </item>
+    
+    <item>
+      <title>Agent Plugins 1.0.0：中立开放的 AI Agent 插件打包标准</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-plugins-spec/</guid>
+      <description>Agent Plugins 是一套厂商中立、开放可移植的 AI Agent 插件打包规范，定义了一套用于封装 Agent Skills 与 MCP Server 的便携包格式。本文解析其包结构、plugin.json 清单、技能发现机制与标准化价值。</description>
+    </item>
+    
+    <item>
+      <title>JiuwenSwarm：让多智能体协作真正跑起来的开源 Agent 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/jiuwenswarm/</guid>
+      <description>JiuwenSwarm 是 openJiuwen 团队开源的 Agent 系统，通过 Leader 编排 &#43; 分布式智能体集群、Swarmflow 工作流、Skill 自进化与工具权限安全，让自然语言驱动的多智能体协作从 Demo 走向生产。支持单机到集群、浏览器/终端/IM 多入口接入。</description>
+    </item>
+    
+    <item>
+      <title>Semantica：给 AI Agent 装上「可审计的大脑」——开源版 Palantir 的图原生上下文基础设施</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/semantica/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/semantica/</guid>
+      <description>深度解析 GitHub Trending 项目 Semantica：一个图原生、确定性、可自托管的 AI Agent 上下文与问责基础设施。涵盖 Context Graph、决策智能、W3C PROV-O 溯源、Rete/Datalog 推理引擎的架构原理、安装实战与常见问题排查。</description>
+    </item>
+    
+    <item>
+      <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
+    </item>
+    
+    <item>
+      <title>Comp CRM：一个以 AI Agent 为核心的开源 CRM 系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/crm/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/crm/</guid>
+      <description>Comp CRM 是一个革命性的开源 CRM 系统，与传统 CRM 不同，它以 AI Agent 为核心设计理念。Agent 不是 CRM 的功能，CRM 只是 Agent 记录笔记的地方。基于 Vercel eve 框架构建，支持持久化会话、自主调度、沙箱执行，真正实现了自动化客户关系管理。</description>
+    </item>
+    
+    <item>
+      <title>David Ondrej 官方 Agent Skills：可复用的 AI 智能体工作流技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/skills/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/skills/</guid>
+      <description>davidondrej/skills 是 David Ondrej 维护的官方 Agent Skills 合集，将编码、研究、写作等可重复工作流打包为可加载的 SKILL.md 指令，是构建 AI 智能体能力的实用积木。</description>
+    </item>
+    
+    <item>
+      <title>LoopX：用控制平面管理长期运行的 AI Agent 任务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/loopx/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/loopx/</guid>
+      <description>LoopX 是一个轻量级的 AI Agent 本地控制平面，专为长期运行的多轮任务设计。它保持目标、门控、待办、证据、配额和交接稳定，让 Codex、Claude Code、Cursor 等运行时在有界的轮次中执行，是 Agent 化Kanban的核心理念。</description>
+    </item>
+    
+    <item>
+      <title>OpenJarvis：让个人 AI 真正运行在你的个人设备上</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</guid>
+      <description>OpenJarvis 是斯坦福 Hazy Research 开源的本地优先（local-first）个人 AI 框架，用共享原语、以能耗/FLOPs/延迟/成本为第一约束的评测体系，以及基于本地轨迹的学习闭环，让人人都能在本地设备上构建默认离线运行、按需上云的个人智能体。</description>
+    </item>
+    
+    <item>
+      <title>k-skill：韩国生活全场景 AI 自动化技能包，让 Coding Agent 帮你搞定一切</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/k-skill/</guid>
+      <description>一个覆盖韩国日常生活方方面面的 AI Agent 技能集合，包含 SRT/KTX 预订、地铁公交、房产、法律、金融等 100&#43; 实用技能，让 Claude Code、OpenClaw 等 Coding Agent 自动处理繁琐事务。</description>
+    </item>
+    
+    <item>
+      <title>Multica：把 AI 编程 Agent 变成并肩作战的队友</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/multica/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/multica/</guid>
+      <description>Multica 是一款开源的 managed agents 平台，把 Claude Code、Codex、OpenClaw 等编码 Agent 当成真正的团队成员来调度——分配 Issue、追踪进度、沉淀可复用 Skill。本文解析它的核心理念、架构设计与快速上手方式。</description>
+    </item>
+    
+    <item>
+      <title>ADHD：让 AI 编程代理突破「思维定势」的开源技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/adhd/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/adhd/</guid>
+      <description>ADHD 是一个为 AI 编程代理设计的开源技能，通过并行发散思考和独立评分机制，让 AI 在设计决策、模糊调试、API 命名等任务上显著提升创意广度和陷阱检测能力。</description>
+    </item>
+    
+    <item>
+      <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
+      <description>reverse-skill 是一个专为 AI Agent（Claude Code、Cursor、Cline 等）设计的逆向工程 / 渗透测试技能路由包，通过 38 个场景化 Skill 自动路由 &#43; 按需工具链自举 &#43; 可进化经验库，让 AI 在面对 APK、JS 加密、固件、CTF 等任务时不再盲猜命令。</description>
+    </item>
+    
+    <item>
+      <title>Agent Governance Toolkit：让 AI Agent 安全上线的治理利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</guid>
+      <description>微软开源的 Agent Governance Toolkit (AGT) 是一套生产级 AI Agent 治理工具，通过策略引擎、身份认证、沙箱隔离和审计日志，解决 Agent 自主决策带来的权限控制、身份追溯和合规审计三大核心问题。支持 Python、TypeScript、.NET、Rust、Go 五种语言，覆盖 OWASP Agentic AI Top 10 全部风险类别。</description>
+    </item>
+    
+    <item>
+      <title>OpenMinis：把最强 AI Agent 跑在你的 iPhone 本地</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/openminis/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/openminis/</guid>
+      <description>OpenMinis 是一款开源的本地 AI Agent 应用，可运行于 iOS 和 Android，将 Claude、GPT、Gemini 等主流模型引入原生移动端，并内置 Linux 沙箱、设备深度集成与可扩展技能系统。</description>
+    </item>
+    
+    <item>
+      <title>OpenHuman：一个本地优先、会记住一切的 AI 个人超智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</guid>
+      <description>OpenHuman 是 tinyhumansai 开源的个人 AI 超智能项目，集持久记忆、多智能体编排与深度研究于一体，本地优先且重视隐私。本文从架构、核心技术栈与实战角度深入剖析这个项目。</description>
+    </item>
+    
+    <item>
+      <title>QwenPaw 深度解析：AgentScope 打造的个人 AI 助手工作站</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/qwenpaw/</guid>
+      <description>QwenPaw 是 AgentScope 团队开源的本地优先个人 AI 助手，融合三层记忆、内核级沙箱、多智能体编排与全渠道触达，支持本地免费运行 QwenPaw-Flash 模型，把 Agent 真正装进你的设备。</description>
+    </item>
+    
+    <item>
+      <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</guid>
+      <description>iFixAi 是一款开源的 AI 操作偏差诊断工具，通过 45 项检测（32 项核心 &#43; 13 项高级）评估 AI 代理是否存在幻觉、权限滥用、提示词注入等行为偏差，支持 CLI、插件和 Skill 三种运行方式，可集成到 CI 流程中。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Claude Skills：汇聚 1000&#43; 生产级 AI 技能的开源宝库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/awesome-claude-skills/</guid>
+      <description>Awesome Claude Skills 是 ComposioHQ 维护的超大规模 Claude AI 技能集合，涵盖文档处理、开发工具、数据分析、办公自动化等 12 大领域，支持 Claude.ai、Claude Code、Cursor、Gemini CLI 等主流 AI 平台。</description>
+    </item>
+    
+    <item>
+      <title>Harness Engineering：通过环境塑造让 AI Agent 输出质量提升 100 倍</title>
+      <link>https://blog.xlap.top/post/tech/harness-engineering/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/harness-engineering/</guid>
+      <description>Harness Engineering 是一种新兴的 AI 工程实践，通过系统性地塑造 AI Agent 的外部环境（上下文与工具），在不改变模型本身的前提下大幅提升 Agent 输出质量。本文深入解析其核心理念、架构设计与实践方法。</description>
+    </item>
+    
+    <item>
+      <title>text-to-cad：AI驱动的CAD与机器人设计技能库</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</guid>
+      <description>text-to-cad是一个开源的AI Agent技能库,专注于CAD模型生成、机器人描述文件创建和硬件设计自动化。支持STEP/STL/3MF导出、URDF/SDF/SRDF机器人文件生成、G-code切片和3D打印集成，让AI Agent能够从自然语言生成工程级CAD模型和机器人描述。</description>
+    </item>
+    
+    <item>
+      <title>FastMCP：用 Python 快速构建生产级 MCP 服务端与客户端</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/fastmcp/</guid>
+      <description>GitHub trending 项目 PrefectHQ/fastmcp 是 Model Context Protocol（MCP）的 Python 框架，只需几行代码即可构建 MCP 服务端、客户端和交互式 App，日下载量破百万，是目前最主流的 MCP 开发框架。</description>
+    </item>
+    
+    <item>
+      <title>SkillHub：一个企业级开源 Agent 技能仓库，让团队共享 AI 能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</guid>
+      <description>SkillHub 是科大讯飞开源的企业级 Agent 技能注册与分发平台，支持自托管、语义化版本、团队命名空间、RBAC 权限管理，配合 CLI 一键安装 / 搜索 / 发布技能，适合在企业防火墙内搭建私有 AI 技能市场。</description>
+    </item>
+    
+    <item>
+      <title>深入理解 AI Agent：设计原理与工程实践 — 开源书&#43;配套代码全解读</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/ai-agent-book/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/ai-agent-book/</guid>
+      <description>GitHub trending 项目 bojieli/ai-agent-book 是一款完全开源的 AI Agent 系统性教程，以「Agent = LLM &#43; 上下文 &#43; 工具」为核心公式，涵盖 10 章内容与完整配套代码，适合想深入掌握 Agent 核心工程能力的开发者。</description>
+    </item>
+    
+    <item>
+      <title>Wigolo：让 AI 代理本地上网搜索，无需 API Key 的 Web 智能工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</guid>
+      <description>Wigolo 是一款面向 AI 代理的本地优先 Web 智能 MCP 服务器，提供搜索、抓取、爬取、提取等 10 种工具，无需任何 API Key，数据全程留在本地。</description>
+    </item>
+    
+    <item>
+      <title>EverOS：让 AI 代理拥有持久化记忆的开源框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/everos/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/everos/</guid>
+      <description>EverOS 是一个 Python 库和本地优先的 AI 记忆运行时，它以人类可读的 Markdown 文件为核心存储层，配合 SQLite 和 LanceDB 实现快速检索，赋予 AI 编码助手、App 和工作流跨越会话的持久记忆能力。</description>
+    </item>
+    
+    <item>
+      <title>LobeHub：把 AI Agent 当成「团队组员」来雇佣、调度与汇报的开源智能体工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/lobehub/</guid>
+      <description>LobeHub 是一个开源的 AI Agent 工作与生活空间，把 Agent 当作工作单元（Unit of Work），提供招聘、调度、协作与个性化记忆能力，并支持 Docker / Vercel 一键自托管。本文深入解析其设计理念、核心架构、技术栈与快速上手方式。</description>
+    </item>
+    
+    <item>
+      <title>DeepTutor：把辅导、解题、出题与研究融进同一套 Agent 的终身学习工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/deeptutor/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/deeptutor/</guid>
+      <description>DeepTutor 是港大 HKUDS 开源的 Agent 原生学习工作台，将聊天、解题、测验、深度研究、可视化与掌握度练习统一在一个可扩展系统中，支持多引擎 RAG 知识库、子智能体与伙伴（Partner）、可检视的个性化记忆，并可作为工具被其他 Agent 驱动。</description>
+    </item>
+    
+    <item>
+      <title>nihaisha：用 AI Agent 技能把倪海厦中医课程变成可检索、可追溯的学习助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/</guid>
+      <description>nihaisha 是一个将倪海厦中医课程体系蒸馏成 AI Agent Skill 的开源项目，支持按症状、方剂、穴位、课程模块检索，配有 2986 张截图证据和 3003 张 PDF 页级证据，学习中医经典不再无从下手。</description>
+    </item>
+    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>

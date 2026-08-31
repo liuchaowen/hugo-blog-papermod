@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/</guid>
+      <description>Agent Orchestrator 是一款本地桌面应用，为 AI 编程 Agent 提供统一的任务编排、隔离工作区、实时看板和 PR/CI/Review 全流程追踪，支持 Claude Code、Cursor、Aider 等 26 种主流编码 Agent 协同工作。</description>
+    </item>
+    
+    <item>
+      <title>Repowise：为 AI 编程助手打造的代码库智能层，一次索引永久受益</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/repowise/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/repowise/</guid>
+      <description>Repowise 通过一次索引构建依赖图谱、Git 历史、架构决策和代码健康度，为 Claude Code、Cursor 等 AI 编程助手提供任务级 MCP 工具，减少 96% 的上下文加载 token，支持 16 种语言的深度解析，无需云端、本地运行、零 LLM 调用即可生成文档和重构计划。</description>
+    </item>
+    
+    <item>
+      <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</guid>
+      <description>Loop Engineering 是一个面向 AI 编程工具的系统化工程框架，通过设计自动化循环来替代手动 Prompt，让 Grok、Claude Code、Codex 等工具能够自主完成持续性编码任务，减少人工干预并提升稳定性。</description>
+    </item>
+    
     <item>
       <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
       <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软 Generative AI for Beginners：用 21 节课带你从零入门生成式 AI 开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/generative-ai-for-beginners/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/generative-ai-for-beginners/</guid>
+      <description>微软官方推出的 Generative AI for Beginners 开源课程，21 节系统性课程覆盖 LLM 基础、提示工程、RAG、Agent 开发等核心主题，配有 Python/TypeScript 双语言示例代码，适合想快速上手生成式 AI 开发的工程师。</description>
+    </item>
+    
     <item>
       <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
       <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>

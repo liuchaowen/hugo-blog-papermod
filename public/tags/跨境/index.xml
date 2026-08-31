@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>跨境 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%B7%A8%E5%A2%83/</link>
+    <description>Recent content in 跨境 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%B7%A8%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</guid>
+      <description>灵犀跨境（lingxi）是一套面向跨境团队的开源多租户客户经营 SaaS，整合统一消息工作台、多语言翻译、意图与情绪分析、客户画像与经营分析，基于 Node.js &#43; PostgreSQL &#43; React 构建，支持 Docker 一键部署。</description>
+    </item>
+    
+  </channel>
+</rss>

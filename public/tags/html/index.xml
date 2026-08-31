@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective HTML：用 AI 快速创建高质量 HTML 原型与可视化工件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</guid>
+      <description>Effective HTML 是一套专注于用 AI 生成高质量 HTML 工件的技能集合，从低保真线框图到可交互原型、架构图、路线图，都能通过单个自包含的 HTML 文件快速呈现。</description>
+    </item>
+    
+    <item>
+      <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
+      <description>Guizang PPT Skill 是一个面向 Claude Code / Codex 等 Agent 环境的网页 PPT 技能，能生成单文件 HTML 横向翻页 PPT、PPT 配图与多平台封面，并内置完整的排练与演讲者模式。本文拆解其双视觉系统、版式锁定机制与本地演讲者运行时。</description>
+    </item>
+    
     <item>
       <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>

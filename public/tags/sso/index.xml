@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSO on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/sso/</link>
+    <description>Recent content in SSO on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
+    </item>
+    
+  </channel>
+</rss>

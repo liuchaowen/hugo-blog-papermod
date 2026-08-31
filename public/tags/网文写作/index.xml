@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>网文写作 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E7%BD%91%E6%96%87%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 网文写作 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BD%91%E6%96%87%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oh-story-claudecode：把网文写作工业化的开源 AI Skill 包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/oh-story-claudecode/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/oh-story-claudecode/</guid>
+      <description>oh-story-claudecode 是一套覆盖扫榜、拆文、写作、去 AI 味、封面生成全流程的网文写作 Skill 包，原生适配 Claude Code、OpenCode、OpenClaw、Codex 等多端 AI 编程环境，用文件系统把长篇设定、大纲、正文、追踪拆开维护，让 AI 也能稳定产出可商业化的网文。</description>
+    </item>
+    
+  </channel>
+</rss>

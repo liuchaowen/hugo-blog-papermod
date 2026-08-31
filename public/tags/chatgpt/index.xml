@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</guid>
+      <description>codex-chatgpt-web 是一个本地 Responses 桥接工具，通过嵌入式浏览器让用户在 Codex 的原生界面中直接调用 ChatGPT Web（包括 Pro 订阅）的模型，无需 API Key，真正实现零成本使用高级 AI 能力。</description>
+    </item>
+    
+    <item>
+      <title>用 ChatGPT 把长视频安全剪成 9:16 短影音：chatgpt-video-editing-skills 上手指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/chatgpt-video-editing-skills/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/chatgpt-video-editing-skills/</guid>
+      <description>chatgpt-video-editing-skills 是一套面向可操作本机文件的 AI Agent 的繁体中文 Skills，把环境检查与实际剪辑拆成两个 Skill，在保护原始素材、取得上传同意的前提下，把长视频做成 9:16 直式短影音。本文拆解它的分工与设计哲学。</description>
+    </item>
+    
+    <item>
+      <title>Codex QQ Skin：将 ChatGPT/Codex 桌面端变成复古 QQ 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</guid>
+      <description>Codex QQ Skin 是一款面向 Codex/ChatGPT 桌面端的主题美化工具，支持 macOS 与 Windows，可一键将 AI 对话界面替换为经典的 QQ 2007 复古风格皮肤，同时内置深度皮肤助手、图片生成、自定义皮肤库与成长统计等丰富功能。</description>
+    </item>
+    
+    <item>
+      <title>Codex&#43;&#43;：不改动 app.asar 的 Codex / ChatGPT 桌面端启动器与增强管家</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/codexplusplus/</guid>
+      <description>Codex&#43;&#43; 是一个基于 Rust &#43; Tauri 的 OpenAI Codex / ChatGPT 桌面端外部启动器，通过 CDP 协议与本地辅助服务实现供应商切换、协议转换与界面增强，不修改官方 app.asar，本文详解其架构、用法与实战。</description>
+    </item>
+    
     <item>
       <title>System Prompts Leaks：一个汇集主流 AI 助手 System Prompt 的开源项目</title>
       <link>https://blog.xlap.top/post/tech/2026-06-22/system-prompts-leaks/</link>

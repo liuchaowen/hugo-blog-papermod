@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI浏览器 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
+    <description>Recent content in AI浏览器 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ego-lite：让你和 AI 代理并行浏览的智能浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/ego-lite/</guid>
+      <description>ego-lite 是一款专为人类与 AI 代理协同工作设计的 macOS 浏览器，突破性地实现了在同一浏览器内并行执行多个 AI 任务，同时不干扰用户的正常使用浏览体验。</description>
+    </item>
+    
+  </channel>
+</rss>

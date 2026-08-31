@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agent on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/agent/</link>
+    <description>Recent content in Agent on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boop：基于 iMessage 的个人 AI 助手，无需 API Key 即可运行 Claude 或 Codex</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/boop-agent/</guid>
+      <description>Boop 是一个开源的 iMessage 个人 AI 助手，支持 Claude Code 或 Codex/ChatGPT 订阅认证，无需额外 API Key。内置分层记忆、自动化任务、Composio 集成（Gmail、Slack、GitHub 等 1000&#43; 工具），可选本地浏览器控制和 Apple 数据源，适合个人使用和二次开发。</description>
+    </item>
+    
+  </channel>
+</rss>

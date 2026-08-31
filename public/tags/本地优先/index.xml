@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>本地优先 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88/</link>
+    <description>Recent content in 本地优先 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E4%BC%98%E5%85%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Maka：本地优先的 AI Agent 工作空间</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/maka/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/maka/</guid>
+      <description>Maka 是 Apache 基金会推出的本地优先 AI Agent 工作空间，通过 Runtime Event Log 作为核心抽象，实现会话、UI 与模型上下文的所有投影，支撑 Desktop、TUI、CLI 和 Eval 多入口。</description>
+    </item>
+    
+    <item>
+      <title>MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</guid>
+      <description>MyContext 是一个本地优先的个人工作上下文记忆系统，将散落在 IM、文档、日历、会议中的信息持续整理为私有、可演进的个人知识图谱，让大模型和 AI Agent 能够真正理解你的工作上下文。</description>
+    </item>
+    
+    <item>
+      <title>OpenBiliClaw：本地运行的跨平台个性化内容推荐 Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/openbiliclaw/</guid>
+      <description>OpenBiliClaw 是一个本地运行的跨平台内容推荐 AI Agent，支持 B 站、小红书、抖音、YouTube、X、知乎等 12 个平台，通过构建五层心理画像主动破除信息茧房，数据 100% 留在本地 SQLite。</description>
+    </item>
+    
+    <item>
+      <title>Zeron：本地优先的 AI 编程代理控制引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/comet/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/comet/</guid>
+      <description>Zeron 是一个开源的本地优先引擎，让你完全控制 Claude Code、Cursor、Codex 等 AI 编程代理。支持离线运行、多设备可选同步，采用 CRDT 技术实现跨设备实时协作，适合追求隐私和自主权的开发者。</description>
+    </item>
+    
+    <item>
+      <title>holaOS：一个让你和AI代理共享工作空间的本地优先操作系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/holaos/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/holaos/</guid>
+      <description>holaOS 是一个本地优先的桌面操作系统，让你可以在同一个工作空间中运行任意 AI 代理（Claude Code、Codex 等），共享内存、工具和文件，支持内置前沿模型或自带 API Key。</description>
+    </item>
+    
+    <item>
+      <title>OpenHuman：一个本地优先、会记住一切的 AI 个人超智能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</guid>
+      <description>OpenHuman 是 tinyhumansai 开源的个人 AI 超智能项目，集持久记忆、多智能体编排与深度研究于一体，本地优先且重视隐私。本文从架构、核心技术栈与实战角度深入剖析这个项目。</description>
+    </item>
+    
+    <item>
+      <title>Wigolo：让 AI 代理本地上网搜索，无需 API Key 的 Web 智能工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/wigolo/</guid>
+      <description>Wigolo 是一款面向 AI 代理的本地优先 Web 智能 MCP 服务器，提供搜索、抓取、爬取、提取等 10 种工具，无需任何 API Key，数据全程留在本地。</description>
+    </item>
+    
+  </channel>
+</rss>

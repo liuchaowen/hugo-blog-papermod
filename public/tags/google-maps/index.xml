@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Maps on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/google-maps/</link>
+    <description>Recent content in Google Maps on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/google-maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>把 Google 地图时间线变成动态旅行视频：google-timeline-visualizer 技术解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</guid>
+      <description>google-timeline-visualizer 能把 Google 地图时间线导出的 JSON 变成动态旅行视频。本文从源码解析其 Web Mercator 投影、大圆插值、长途压缩与相机平滑等核心实现。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>控制平面 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%8E%A7%E5%88%B6%E5%B9%B3%E9%9D%A2/</link>
+    <description>Recent content in 控制平面 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8E%A7%E5%88%B6%E5%B9%B3%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LoopX：用控制平面管理长期运行的 AI Agent 任务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/loopx/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/loopx/</guid>
+      <description>LoopX 是一个轻量级的 AI Agent 本地控制平面，专为长期运行的多轮任务设计。它保持目标、门控、待办、证据、配额和交接稳定，让 Codex、Claude Code、Cursor 等运行时在有界的轮次中执行，是 Agent 化Kanban的核心理念。</description>
+    </item>
+    
+  </channel>
+</rss>

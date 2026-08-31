@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DSL on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/dsl/</link>
+    <description>Recent content in DSL on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/dsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LikeC4：用代码绘制软件架构图的利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/likec4/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/likec4/</guid>
+      <description>LikeC4 是一款受 C4 Model 启发的软件架构建模语言，通过自定义 DSL 描述系统架构，自动生成美观、实时更新的架构图。本文深入解析其设计理念、核心特性和实战用法。</description>
+    </item>
+    
+  </channel>
+</rss>

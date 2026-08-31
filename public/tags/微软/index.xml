@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BE%AE%E8%BD%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BE%AE%E8%BD%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
+    </item>
+    
+    <item>
+      <title>微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</guid>
+      <description>TRELLIS.2 是微软推出的 40 亿参数图像到 3D 生成模型，提出 O-Voxel 这一「无场」稀疏体素表示，以原生、紧凑的结构化潜变量突破传统 SDF/NeRF 的拓扑限制，支持开放表面、非流形几何与完整 PBR 材质，H100 上 512³ 资产生成仅需约 3 秒。</description>
+    </item>
+    
+    <item>
+      <title>VibeVoice：微软开源前沿语音 AI 模型家族</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</guid>
+      <description>VibeVoice 是微软开源的语音 AI 模型家族，同时支持语音识别（ASR）和语音合成（TTS），涵盖长音频（60分钟）识别、流式实时合成、BitNet CPU 量化推理等前沿能力。</description>
+    </item>
+    
+    <item>
+      <title>Agent Governance Toolkit：让 AI Agent 安全上线的治理利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</guid>
+      <description>微软开源的 Agent Governance Toolkit (AGT) 是一套生产级 AI Agent 治理工具，通过策略引擎、身份认证、沙箱隔离和审计日志，解决 Agent 自主决策带来的权限控制、身份追溯和合规审计三大核心问题。支持 Python、TypeScript、.NET、Rust、Go 五种语言，覆盖 OWASP Agentic AI Top 10 全部风险类别。</description>
+    </item>
+    
+    <item>
+      <title>SkillOpt：用训练神经网络的思路优化 Agent 技能文档</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/skillopt/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/skillopt/</guid>
+      <description>微软开源的 SkillOpt 框架，将神经网络训练中的 epoch、batch、学习率、验证集等概念引入 Agent 技能文档优化，实现了在冻结模型权重的情况下持续提升 Agent 表现。</description>
+    </item>
+    
+    <item>
+      <title>Windows Terminal 深度解析：微软如何重塑命令行体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/terminal/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/terminal/</guid>
+      <description>深入剖析微软开源的 Windows Terminal 项目：从 conhost.exe 的历史包袱到全新的 C&#43;&#43; 现代化终端架构，解读其 DirectWrite 渲染引擎、ConPTY 伪控制台、共享组件设计，以及安装、构建与调试的完整实战指南。</description>
+    </item>
+    
     <item>
       <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
       <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>

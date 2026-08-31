@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>反爬虫 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%8F%8D%E7%88%AC%E8%99%AB/</link>
+    <description>Recent content in 反爬虫 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8F%8D%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CloakBrowser：源码级 C&#43;&#43; 补丁的隐身 Chromium，通过所有反爬虫检测</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/cloakbrowser/</guid>
+      <description>CloakBrowser 是一款在 C&#43;&#43; 源码层面对 Chromium 进行指纹修改的隐身浏览器，71 个源码级补丁让它在 bot 检测中表现为真实浏览器。pip install 即可使用，兼容 Playwright API，通过 Cloudflare Turnstile、FingerprintJS 等 30&#43; 检测服务验证。</description>
+    </item>
+    
+  </channel>
+</rss>

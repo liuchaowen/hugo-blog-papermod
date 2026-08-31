@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nitter：保护隐私的 Twitter 开源替代前端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/nitter/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/nitter/</guid>
+      <description>Nitter 是一个专注于隐私和性能的 Twitter 开源替代前端,无需 JavaScript 即可浏览 Twitter,防止 IP 追踪和浏览器指纹识别,平均比 Twitter 快 2-4 倍。</description>
+    </item>
+    
+    <item>
+      <title>Hister：打造你自己的隐私优先个人搜索引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/hister/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/hister/</guid>
+      <description>Hister 是一个自托管的个人搜索引擎，对浏览过的网页与本地文件做全文索引，支持网页、终端、MCP 多端检索，默认零遥测。本文从架构、技术栈与实战角度解析这款 GitHub Trending 项目。</description>
+    </item>
+    
+    <item>
+      <title>watermarks-remover: 多厂商 AI 水印一键清除工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/watermarks-remover/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/watermarks-remover/</guid>
+      <description>watermarks-remover 是一款纯 Python stdlib 实现的开源工具，支持同时去除 Claude、Gemini、OpenAI 等主流 AI 生成内容的水印标记，涵盖 Unicode 隐匿字符、C2PA 元数据、统计采样水印等多个层次，适用于文本、PNG、JPEG、SVG、PDF、DOCX 等多种文件格式。</description>
+    </item>
+    
     <item>
       <title>Meetily：隐私优先的开源 AI 会议助手，本地转录与总结</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/meetily/</link>

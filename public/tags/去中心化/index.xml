@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BitChat：蓝牙Mesh&#43;Nostr协议的去中心化P2P聊天应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</guid>
+      <description>BitChat 是一款创新的去中心化即时通讯应用，融合蓝牙Mesh离线网络与 Nostr 互联网协议，无需账户、电话号码或中心服务器，实现真正的隐私优先通信。</description>
+    </item>
+    
     <item>
       <title>Iroh：基于公钥直连的去中心化网络框架</title>
       <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>

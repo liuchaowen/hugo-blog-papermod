@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WalGit：一个跑在对象存储前的单二进制 Git 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/walgit/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/walgit/</guid>
+      <description>WalGit 是 tobi 开源的单二进制 Git 服务器，用对象存储（S3/GCS）作为唯一真相源，以写前日志（WAL）&#43; 比较并交换（CAS）取代数据库与主从协商，让无状态、可横向扩展的 Git 托管在比仓库更小的机器上稳定运行。本文拆解其架构与关键技术。</description>
+    </item>
+    
+    <item>
+      <title>HydraDB：构建在对象存储之上的 Rust 分布式图数据库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</guid>
+      <description>HydraDB 是一个用 Rust 编写、以 S3 对象存储为持久化真相源的分布式图数据库。它把存储与计算彻底分离，用 SlateDB 保存图数据，提供快照一致的 OpenCypher 查询、GraphBLAS 遍历、Neo4j 兼容的 Bolt 协议与 HTTPS 查询 API。本文深入解析其架构、技术原理、上手方式与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/celld/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/celld/</guid>
+      <description>celld 是 Deno 官方开源的 daemon，可将 Cloudflare Workers 和 Durable Objects 运行在你自己的机器上。每个对象都是一个独立的 SQLite 数据库，通过 S3 兼容存储桶实现去中心化协调，无需控制平面或共识协议。</description>
+    </item>
+    
     <item>
       <title>Elasticsearch：分布式搜索与向量数据库的工业级实践</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/elasticsearch/</link>

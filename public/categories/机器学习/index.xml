@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Models 101：免费互动课程，一次性搞清楚什么是世界模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</guid>
+      <description>World Models 101 是一个免费的互动课程，用 9 个章节、约两小时，带你从零搞懂世界模型（World Model）的五种定义、核心原理与最新前沿进展，无需注册，随学随用。</description>
+    </item>
+    
+    <item>
+      <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
+    </item>
+    
+    <item>
+      <title>Unsloth：首款本地运行与训练 AI 模型的桌面应用，支持全平台 GPU 加速</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/unsloth/</guid>
+      <description>Unsloth 是一款开源本地 AI 模型运行与训练工具，提供桌面应用、Web UI 和命令行三种使用方式，支持 LLM、扩散模型、Embedding、音频模型的本地部署与微调，训练速度提升 2 倍、显存占用减少 70%。</description>
+    </item>
+    
+    <item>
+      <title>FAROS：开源 AutoResearch 运行时，让 AI 自己搞定科研全流程</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-29/faros/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-29/faros/</guid>
+      <description>FAROS（Foundation AutoResearch Operating System）是一个基于 Blueprint 蓝图驱动的开源 AutoResearch 运行时，支持从「idea → experiment → paper → review」全链路自动化，Python 3.11&#43; 即可运行。</description>
+    </item>
+    
     <item>
       <title>哈佛 CS249R：重新定义机器学习系统教育，从训练模型到工程智能系统</title>
       <link>https://blog.xlap.top/post/tech/2026-07-04/cs249r-book/</link>

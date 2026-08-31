@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/asp.net-core/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/asp.net-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shittim-Server：一个 Blue Archive 私服的 C# 实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</guid>
+      <description>Shittim-Server 是 Neoexm 用 C# 和 ASP.NET Core .NET 10 实现的功能完整的 Blue Archive 私服，支持 Nexon/IAS/IMS 登录流程、MX 游戏协议加解密、SQLite 持久化，适合二次元游戏逆向和私服研究。</description>
+    </item>
+    
     <item>
       <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</link>

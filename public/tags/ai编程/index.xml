@@ -11,7 +11,133 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective HTML：用 AI 快速创建高质量 HTML 原型与可视化工件</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</guid>
+      <description>Effective HTML 是一套专注于用 AI 生成高质量 HTML 工件的技能集合，从低保真线框图到可交互原型、架构图、路线图，都能通过单个自包含的 HTML 文件快速呈现。</description>
+    </item>
+    
+    <item>
+      <title>Garden Skills：为 AI 编程 Agent 打造的生产级技能集合</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</guid>
+      <description>Garden Skills 是由 ConardLi 开源的一套面向 Claude Code、Cursor、Codex 等 AI 编程 Agent 的生产级技能集合，涵盖网页演示、前端设计、图像生成、知识库检索和文章编辑五大核心领域，每个技能都附带完整的 SKILL.md 规范、主题模板和实战案例。</description>
+    </item>
+    
+    <item>
+      <title>Agent Orchestrator：统一编排 26 种编程 Agent 的桌面工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-24/agent-orchestrator/</guid>
+      <description>Agent Orchestrator 是一款本地桌面应用，为 AI 编程 Agent 提供统一的任务编排、隔离工作区、实时看板和 PR/CI/Review 全流程追踪，支持 Claude Code、Cursor、Aider 等 26 种主流编码 Agent 协同工作。</description>
+    </item>
+    
+    <item>
+      <title>Zeron：本地优先的 AI 编程代理控制引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/comet/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/comet/</guid>
+      <description>Zeron 是一个开源的本地优先引擎，让你完全控制 Claude Code、Cursor、Codex 等 AI 编程代理。支持离线运行、多设备可选同步，采用 CRDT 技术实现跨设备实时协作，适合追求隐私和自主权的开发者。</description>
+    </item>
+    
+    <item>
+      <title>OpenChamber：贯穿桌面、浏览器与移动端的开源 AI 编程工作台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-13/openchamber/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-13/openchamber/</guid>
+      <description>OpenChamber 是基于 OpenCode 的开源 AI 编程工作台，支持桌面、Web、VS Code 与移动端多端协同，提供 Session Goals、Multi-run、Changes Walkthrough、Preview 与私有中继远程访问，让 Agent 编程全流程可控、可 Review、随处可续。</description>
+    </item>
+    
+    <item>
+      <title>Agent Orchestrator：并行 AI 编程代理的统一编排平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/agent-orchestrator/</guid>
+      <description>Agent Orchestrator 是一个元级代理 IDE，用于并行运行多个 AI 编程代理（如 Claude Code、Cursor、Codex 等）。它通过隔离的 git worktree、实时终端控制、自动反馈循环（CI 失败、审查评论、合并冲突）让多代理协作变得有序可控。</description>
+    </item>
+    
+    <item>
+      <title>Code-Graph-RAG：用知识图谱 &#43; RAG 彻底搞懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
+      <description>Code-Graph-RAG 是一款开源的多语言代码库 RAG 工具，基于 Tree-sitter 解析代码 AST，构建到 Memgraph 图数据库中，再用自然语言驱动 AI 查询、编辑和优化代码，支持 12 种编程语言。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>用 Mindwalk 把 AI 编程过程变成一张「地图」</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</guid>
+      <description>Mindwalk 是一款将 AI 编程助手会话记录可视化为 3D 代码地图的开源工具，通过光迹追踪的方式让开发者直观看到 AI 在代码库中的探索路径、编辑热点和思维盲区。</description>
+    </item>
+    
+    <item>
+      <title>Repowise：为 AI 编程助手打造的代码库智能层，一次索引永久受益</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-23/repowise/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-23/repowise/</guid>
+      <description>Repowise 通过一次索引构建依赖图谱、Git 历史、架构决策和代码健康度，为 Claude Code、Cursor 等 AI 编程助手提供任务级 MCP 工具，减少 96% 的上下文加载 token，支持 16 种语言的深度解析，无需云端、本地运行、零 LLM 调用即可生成文档和重构计划。</description>
+    </item>
+    
+    <item>
+      <title>Kimi Code CLI：月之暗面出品的开箱即用的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/kimi-code/</guid>
+      <description>Kimi Code CLI 是 Moonshot AI（月之暗面）推出的终端 AI 编程智能体，单文件分发、毫秒级启动，支持视频输入、AI 原生 MCP 配置、子智能体并行、生命周期钩子与 ACP 编辑器集成，开箱即用 Kimi 模型，也可接入兼容服务商。</description>
+    </item>
+    
+    <item>
+      <title>opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</guid>
+      <description>opencodex 是一个开源的本地代理工具，它将 OpenAI Codex 的 Responses API 翻译为任意 LLM 提供商的协议，让 Claude Code、Codex CLI/App/SDK 都能无缝使用 Anthropic、Google、DeepSeek、GLM、Qwen 等 40&#43; 模型。</description>
+    </item>
+    
+    <item>
+      <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</guid>
+      <description>Loop Engineering 是一个面向 AI 编程工具的系统化工程框架，通过设计自动化循环来替代手动 Prompt，让 Grok、Claude Code、Codex 等工具能够自主完成持续性编码任务，减少人工干预并提升稳定性。</description>
+    </item>
+    
+    <item>
+      <title>Open Interpreter：面向低成本模型的智能编码代理</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/openinterpreter/</guid>
+      <description>Open Interpreter 是一个专注于低成本模型优化的智能编码代理，基于 OpenAI Codex 分支开发，支持多种模型 Harness、跨平台沙箱执行、计算机操作能力等特性，让开发者可以用自然语言驱动代码执行与系统操作。</description>
+    </item>
+    
     <item>
       <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
       <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>

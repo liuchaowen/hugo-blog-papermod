@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</guid>
+      <description>OneStep4.0 是一款面向 Android Root 与系统特权环境的多应用桌面容器，通过 VirtualDisplay &#43; SurfaceView 技术，在无自由窗口模式的设备上实现主窗口 &#43; 多侧边窗口的多任务交互，并支持 Magisk / KSU 两种刷入方式。</description>
+    </item>
+    
+    <item>
+      <title>Lighthouse：经典游戏《班卓熊大冒险》的现代重生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</guid>
+      <description>Lighthouse 是 HarbourMasters 团队开发的《班卓熊大冒险》现代化移植项目，基于 libultraship 引擎重新编译，支持多平台运行、高分辨率渲染、MOD 扩展和自定义资源，让这款经典 N64 游戏在现代硬件上焕发新生。</description>
+    </item>
+    
     <item>
       <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>

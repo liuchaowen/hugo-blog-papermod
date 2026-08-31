@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face Transformers：连接整个 ML 生态的模型定义框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-12/transformers/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-12/transformers/</guid>
+      <description>Transformers 是 Hugging Face 开源的模型定义框架，统一的模型定义让它成为 PyTorch 训练框架、vLLM 等推理引擎与各类建模库之间的枢纽。本文从源码视角解析其架构设计、Pipeline 快速上手与工程实践要点。</description>
+    </item>
+    
+    <item>
+      <title>FaceSwap：开源深度学习换脸工具完全指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</guid>
+      <description>FaceSwap 是 deepfakes 团队开源的深度学习换脸工具，支持提取、训练、转换三大核心流程，基于 PyTorch/TensorFlow 深度学习框架，可运行于 NVIDIA GPU、AMD ROCm 及 Apple Silicon 等多平台。</description>
+    </item>
+    
     <item>
       <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
       <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>

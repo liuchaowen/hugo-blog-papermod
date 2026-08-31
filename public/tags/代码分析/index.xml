@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitNexus：把代码库编译成知识图谱，让 AI Agent 不再「盲改」代码</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</guid>
+      <description>GitNexus（Akon Labs）将任意代码库索引为知识图谱（依赖、调用链、聚类、执行流），再通过 17 个智能 MCP 工具暴露给 Cursor、Claude Code、Codex 等 AI 编程 Agent。本文深入解析其架构、技术栈、MCP 工具与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>calldiff：一个 Git 风格的代码调用链路 Diff 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</guid>
+      <description>calldiff 是一款通过 tree-sitter 解析代码 AST、对比 git 提交间函数调用关系变化的 CLI 工具，支持 22 种编程语言，输出结构化树形 diff，专为 AI 代码审查场景设计。</description>
+    </item>
+    
+    <item>
+      <title>Code-Graph-RAG：用知识图谱 &#43; RAG 彻底搞懂你的代码库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
+      <description>Code-Graph-RAG 是一款开源的多语言代码库 RAG 工具，基于 Tree-sitter 解析代码 AST，构建到 Memgraph 图数据库中，再用自然语言驱动 AI 查询、编辑和优化代码，支持 12 种编程语言。</description>
+    </item>
+    
+    <item>
+      <title>Graphify：将代码库转化为可查询的知识图谱</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
+    </item>
+    
     <item>
       <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
       <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>

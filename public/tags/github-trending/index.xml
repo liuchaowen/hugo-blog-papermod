@@ -11,7 +11,230 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>把 Google 地图时间线变成动态旅行视频：google-timeline-visualizer 技术解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</guid>
+      <description>google-timeline-visualizer 能把 Google 地图时间线导出的 JSON 变成动态旅行视频。本文从源码解析其 Web Mercator 投影、大圆插值、长途压缩与相机平滑等核心实现。</description>
+    </item>
+    
+    <item>
+      <title>Learn Harness Engineering：如何构建让 AI 编码 Agent 稳定可靠工作的环境</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/learn-harness-engineering/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/learn-harness-engineering/</guid>
+      <description>Learn Harness Engineering 是一门关于 AI 编码 Agent 环境工程的实战课程，涵盖 14 节讲座、8 个项目，教你从零构建包含指令系统、状态管理、验证机制和生命周期控制的完整 Harness，引用 OpenAI 与 Anthropic 官方工程实践。</description>
+    </item>
+    
+    <item>
+      <title>OpenLogi：用 Rust 重写 Logitech Options&#43;，本地优先的罗技鼠标驱动替代方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-19/openlogi/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-19/openlogi/</guid>
+      <description>OpenLogi 是一个用 Rust 编写的 Logitech Options&#43; 本地替代方案，支持 Bolt/Unifying 接收器、蓝牙直连和 USB 有线设备，提供按键重映射、DPI 调节、SmartShift 滚轮控制和 RGB 灯光配置，无需账户、无遥测、跨平台支持 macOS/Linux/Windows。</description>
+    </item>
+    
+    <item>
+      <title>Soup：一条命令微调大模型，告别配置地狱</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-16/soup/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-16/soup/</guid>
+      <description>Soup 是一个开源 LLM 微调工具，支持在 4GB 显存笔记本 GPU 上微调 8B 模型。通过层流式传输技术，将冻结的基座模型从主机内存逐层送入 GPU，实现低显存高效率训练。支持 SFT、DPO、ORPO、SimPO、KTO 等多种训练任务，无需 SSH、零配置地狱。</description>
+    </item>
+    
+    <item>
+      <title>Vorssaint：一个菜单栏图标，替掉十几款付费 Mac 工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/vorssaint-utils/</guid>
+      <description>Vorssaint 是一款用 Swift 编写的开源 macOS 菜单栏工具集，把逐应用音量、系统监控、窗口管理、剪贴板历史、截图录屏、清理卸载等十余款付费软件的能力，装进一个可按需安装/卸载的模块化应用中，本地优先、零账号、零遥测。</description>
+    </item>
+    
+    <item>
+      <title>ABot-World：用单张桌面 GPU 实现无限交互式世界仿真</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</guid>
+      <description>ABot-World 是高德地图 CV 团队开源的项目，仅需一块 NVIDIA RTX 5090 桌面 GPU（19GB 显存）即可在 720P 分辨率、16 FPS、1.2s 延迟下实现无限动作条件化的交互式世界仿真，为游戏引擎和自动驾驶仿真提供了全新的端到端可微分替代方案。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek-Reasonix：深度适配 DeepSeek 前缀缓存的终端 AI 编程智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/deepseek-reasonix/</guid>
+      <description>DeepSeek-Reasonix 是一个配置驱动的终端 AI 编程智能体，基于 DeepSeek 的前缀缓存机制大幅降低 Token 消耗，单文件 Go 二进制部署，支持多模型编排与 MCP 协议插件扩展。</description>
+    </item>
+    
+    <item>
+      <title>IDM 激活脚本中文版：一键激活 Internet Download Manager 的开源工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-03/idm-activation-script-chinese/</guid>
+      <description>IDM Activation Script 中文版是一款面向中文 Windows 用户的 Internet Download Manager 激活脚本，支持冻结试用期、随机注册信息激活、试用重置三种模式，全程中文菜单，无需安装依赖， GPL-3.0 开源可审查。</description>
+    </item>
+    
+    <item>
+      <title>AG Kit：为 AI Agent 工程化而生的 Antigravity 开发工具包</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/ag-kit/</guid>
+      <description>AG Kit 是一个以 Google Antigravity 为核心运行时的 AI Agent 工程化工具包，提供了规则、技能、专家 Agent、工作流、持久化记忆、MCP 集成、原生安全钩子等一站式解决方案。</description>
+    </item>
+    
+    <item>
+      <title>amnezia-client — Amnezia VPN Client (Desktop&#43;Mobile)</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</guid>
+      <description>(https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
+(https://gitpod.io/https://github.com/amnezia-vpn/amnezia-client)</description>
+    </item>
+    
+    <item>
+      <title>bitchat-android — bluetooth mesh chat, IRC vibes</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;imgsrc=&amp;#34;https://github.com/user-attachments/assets/188c42f8-d249-4a72-b27a-e2b4f10a00a8&amp;#34;alt=&amp;#34;BitchatAndroidLogo&amp;#34;width=&amp;#34;480&amp;#34;
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>jenkins — Jenkins automation server</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</guid>
+      <description>&amp;lt;ahref=&amp;#34;https://jenkins.io&amp;#34;
+&amp;lt;imgwidth=&amp;#34;400&amp;#34;src=&amp;#34;https://www.jenkins.io/images/jenkins-logo-title-dark.svg&amp;#34;alt=&amp;#34;Jenkinslogo&amp;#34;
+&amp;lt;/a</description>
+    </item>
+    
+    <item>
+      <title>node — Node.js JavaScript runtime ✨🐢🚀✨</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/node/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/node/</guid>
+      <description>Node.jsisanopen-source,cross-platformJavaScriptruntimeenvironment.</description>
+    </item>
+    
+    <item>
+      <title>t3code — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/t3code/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/t3code/</guid>
+      <description>T3CodeisaminimalwebGUIforcodingagents(currentlyCodex,Claude,Cursor,andOpenCode,morecomingsoon).</description>
+    </item>
+    
+    <item>
+      <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</guid>
+      <description>iFixAi 是一款开源的 AI 操作偏差诊断工具，通过 45 项检测（32 项核心 &#43; 13 项高级）评估 AI 代理是否存在幻觉、权限滥用、提示词注入等行为偏差，支持 CLI、插件和 Skill 三种运行方式，可集成到 CI 流程中。</description>
+    </item>
+    
+    <item>
+      <title>img2threejs：将一张图片重建为可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/img2threejs/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/img2threejs/</guid>
+      <description>img2threejs 是一个 AI Agent 驱动的图片转 3D 模型工具，通过多阶段渐进式管线将单张参考图重建为代码生成的 Three.js 程序化模型，支持动画骨骼、可交互关节，代码可审计、模型可 diff。</description>
+    </item>
+    
+    <item>
+      <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</guid>
+      <description>img2threejs 是一个 AI 驱动的 3D 重建工具，只需提供一张物体参考图，即可自动生成代码级的 Three.js 模型，支持硬表面物体和角色两类重建路径，带有动画层级和交互能力。</description>
+    </item>
+    
+    <item>
+      <title>shadcn/improve：让 AI Agent 自主审计代码库并生成可执行改进计划</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-17/improve/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-17/improve/</guid>
+      <description>improve 是一个基于 AI Agent 的代码库审计工具，能够自动分析任意代码库并生成结构化的可执行改进计划，让大型语言模型专注于高价值推理工作，而将具体执行交给更经济的模型完成。</description>
+    </item>
+    
+    <item>
+      <title>Loop Engineering：用循环设计替代反复 Prompt 的 AI 编程新范式</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/loop-engineering/</guid>
+      <description>Loop Engineering 是一个面向 AI 编程工具的系统化工程框架，通过设计自动化循环来替代手动 Prompt，让 Grok、Claude Code、Codex 等工具能够自主完成持续性编码任务，减少人工干预并提升稳定性。</description>
+    </item>
+    
+    <item>
+      <title>grok2api — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</guid>
+      <description>&amp;lt;palign=&amp;#34;center&amp;#34;
+&amp;lt;imgalt=&amp;#34;Grok2API&amp;#34;src=&amp;#34;./frontend/public/grok2api.png&amp;#34;width=&amp;#34;720&amp;#34;/
+&amp;lt;/p</description>
+    </item>
+    
+    <item>
+      <title>SharpEmu — 一个实验性的 PlayStation 5 模拟器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</guid>
+      <description>SharpEmu 是一个从零开发的实验性 PlayStation 5 模拟器，基于 C#/.NET SDK，已能加载真实游戏 eboot.bin 文件并部分运行《恶魔之魂》等游戏。</description>
+    </item>
+    
+    <item>
+      <title>OpenMAIC：用多智能体把任意主题一键变成沉浸式 AI 互动课堂</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</guid>
+      <description>OpenMAIC（Open Multi-Agent Interactive Classroom）是清华 MAIC 团队开源的 AI 教学平台，基于 LangGraph 多智能体编排，把任意主题或文档一键生成幻灯片、测验、交互仿真与项目式学习，并由可语音、可画白板的 AI 老师和 AI 同学实时授课。本文拆解其架构、技术栈与快速上手。</description>
+    </item>
+    
+    <item>
+      <title>OpenCut：一套代码跨三端，开源视频编辑器进入 Rust 时代</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/opencut/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/opencut/</guid>
+      <description>OpenCut 是一个完全重写的开源视频编辑器，基于 Rust 核心实现 Web、桌面和移动端三端合一，内置插件架构、MCP 服务器和自动化批量渲染能力。</description>
+    </item>
+    
+    <item>
+      <title>pgrust: 用 Rust 从头重写 Postgres，已通过 46000&#43; 回归测试</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</guid>
+      <description>pgrust 是一个用 Rust 从头重写 Postgres 的开源项目，目标兼容 Postgres 18.3，已通过超过 46000 条回归测试。它与 Postgres 磁盘兼容，可直接启动现有数据目录，并已在事务负载上比 Postgres 快 50%、分析负载上快约 300 倍。</description>
+    </item>
+    
     <item>
       <title>asio — 开源项目深度解析</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
@@ -20,6 +243,20 @@
       <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
       <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
 documentationandatutorial.</description>
+    </item>
+    
+    <item>
+      <title>tailscale — 开源项目深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</guid>
+      <description>ThisrepositorycontainsthemajorityofTailscale&amp;#39;sopensourcecode.
+Notably,itincludesthetailscaleddaemonand
+thetailscaleCLItool.ThetailscaleddaemonrunsonLinux,Windows,
+,andtovaryingdegrees
+onFreeBSDandOpenBSD.TheTailscaleiOSandAndroidappsusethisrepo&amp;#39;s
+code,butthisrepodoesn&amp;#39;tcontainthemobileGUIcode.</description>
     </item>
     
     <item>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marin：开源大模型训练全流程平台</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/marin/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/marin/</guid>
+      <description>Marin 是一个研究项目、软件平台和社区，专注于大语言模型的研发全流程，包括数据清洗、预训练、后训练和评估，核心价值是开放开发——完整记录从原始数据到最终模型的每一步。</description>
+    </item>
+    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
       <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>

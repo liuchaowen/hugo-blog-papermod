@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>金融数据 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE/</link>
+    <description>Recent content in 金融数据 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</guid>
+      <description>HiThink-Tech/Financial-API 是同花顺官方维护的 A 股金融数据服务，通过统一 API Key 即可在 REST API、托管 MCP、CLI、Python SDK 与本地 DuckDB 之间自由切换，覆盖行情、财务、估值、集合竞价、龙虎榜等数据，特别适合 AI Agent、量化研究者与开发者接入。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
+    </item>
+    
+    <item>
+      <title>Harper：轻量级隐私优先的英语语法检查器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
+    </item>
+    
+    <item>
+      <title>intercom/2x-skills：一个汇聚 Claude Code 高质量技能的开放市场</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</guid>
+      <description>2x-skills 是 Intercom 团队推出的 Claude Code 技能市场，提供代码审查、安全加固、权限分析、成本优化等一系列精选插件，帮助开发者更高效地使用 Claude Code。</description>
+    </item>
+    
+    <item>
+      <title>DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</guid>
+      <description>DNSHE 是一个由新加坡公益团队运营的免费域名注册和 DNS 解析平台，为开发者、开源项目和早期互联网创作者提供稳定、易用的免费域名基础设施，支持 A/AAAA/CNAME/MX/TXT 等全量 DNS 记录和 API 自动化管理。</description>
+    </item>
+    
     <item>
       <title>Awesome：GitHub 上最全的开源项目资源汇总索引</title>
       <link>https://blog.xlap.top/post/tech/2026-07-07/awesome/</link>

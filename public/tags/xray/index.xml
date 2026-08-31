@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xray on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/xray/</link>
+    <description>Recent content in Xray on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/xray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spider Panel：一站式 VLESS 代理面板与多地区 Cloudflare Worker 中继</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-17/spider--panel/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-17/spider--panel/</guid>
+      <description>Spider Panel 是一个基于 FastAPI 的 VLESS/XHTTP/WS-TLS 订阅与代理中继管理面板，支持 Railway &#43; Cloudflare Workers 部署。核心亮点包括：Reality 密钥由 Xray 二进制生成、浏览器端 IP 扫描、多地区 Worker 代理池自动同步、用户订阅页面自动生成，实现流量不经 Railway 直连出口。</description>
+    </item>
+    
+    <item>
+      <title>PasarGuard：开源抗审查代理管理面板，统一管理 Xray 与 WireGuard</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</guid>
+      <description>PasarGuard 是一个用 Python &#43; React 构建的开源抗审查代理管理面板，支持 Xray-core 与 WireGuard，提供多用户/多入站管理、流量与到期限制、订阅链接与二维码分享、TLS/REALITY 等特性，适合自建节点与订阅管理。</description>
+    </item>
+    
+    <item>
+      <title>3x-ui-Upgrade：基于 Railway 单端口部署的代理面板方案</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-12/3x-ui-upgrade/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-12/3x-ui-upgrade/</guid>
+      <description>深入解析 x4gKing/3x-ui-Upgrade——一个把 Heimdall（3x-ui 改进版）面板与 Nginx 反代结合，在 Railway 上用单个端口同时承载管理面板、订阅与 VLESS/WebSocket 入站的开源部署方案。</description>
+    </item>
+    
+  </channel>
+</rss>

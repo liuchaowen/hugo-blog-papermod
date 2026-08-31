@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C# on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/c%23/</link>
+    <description>Recent content in C# on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shittim-Server：一个 Blue Archive 私服的 C# 实现</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-30/shittim-server/</guid>
+      <description>Shittim-Server 是 Neoexm 用 C# 和 ASP.NET Core .NET 10 实现的功能完整的 Blue Archive 私服，支持 Nexon/IAS/IMS 登录流程、MX 游戏协议加解密、SQLite 持久化，适合二次元游戏逆向和私服研究。</description>
+    </item>
+    
+    <item>
+      <title>SharpEmu — 一个实验性的 PlayStation 5 模拟器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</guid>
+      <description>SharpEmu 是一个从零开发的实验性 PlayStation 5 模拟器，基于 C#/.NET SDK，已能加载真实游戏 eboot.bin 文件并部分运行《恶魔之魂》等游戏。</description>
+    </item>
+    
+  </channel>
+</rss>

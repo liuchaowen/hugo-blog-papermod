@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</guid>
+      <description>HiThink-Tech/Financial-API 是同花顺官方维护的 A 股金融数据服务，通过统一 API Key 即可在 REST API、托管 MCP、CLI、Python SDK 与本地 DuckDB 之间自由切换，覆盖行情、财务、估值、集合竞价、龙虎榜等数据，特别适合 AI Agent、量化研究者与开发者接入。</description>
+    </item>
+    
+    <item>
+      <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</guid>
+      <description>NautilusTrader 是一款开源生产级 Rust 原生交易引擎，支持多资产、多交易所的量化策略研究、回测与实盘运行，Python 作为策略控制平面，Rust 作为高性能执行核心。</description>
+    </item>
+    
+    <item>
+      <title>tradingview-mcp：把 TradingView 行情、技术与回测能力接入任意 AI 助手的 37 工具 MCP 服务器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/tradingview-mcp/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/tradingview-mcp/</guid>
+      <description>tradingview-mcp 是一个 MIT 协议的 MCP 服务器，为 Claude、ChatGPT、Cursor 等任意 MCP 客户端提供实时行情、30&#43; 技术指标、多交易所筛选器与 9 套回测策略，无需 TradingView 账号，自托管永久免费。</description>
+    </item>
+    
+    <item>
+      <title>Awesome Systematic Trading：量化交易资源大全，97个库与40&#43;策略一网打尽</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/awesome-systematic-trading/</guid>
+      <description>系统化交易（量化交易）领域最全面的资源合集，涵盖97个回测与实盘交易库、40&#43;机构与学术界策略、55本经典书籍、23个视频教程，以及丰富的博客与课程资源，适合从入门到精通的量化交易者。</description>
+    </item>
+    
     <item>
       <title>Vibe-Trading: 一句话让你的 AI 秒变专业交易员</title>
       <link>https://blog.xlap.top/post/tech/2026-06-04/vibe-trading/</link>

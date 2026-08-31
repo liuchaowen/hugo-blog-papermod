@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</guid>
+      <description>DNSHE 是一个由新加坡公益团队运营的免费域名注册和 DNS 解析平台，为开发者、开源项目和早期互联网创作者提供稳定、易用的免费域名基础设施，支持 A/AAAA/CNAME/MX/TXT 等全量 DNS 记录和 API 自动化管理。</description>
+    </item>
+    
     <item>
       <title>FreeDomain：500 万用户信赖的免费域名注册平台</title>
       <link>https://blog.xlap.top/post/tech/2026-05-26/freedomain/</link>

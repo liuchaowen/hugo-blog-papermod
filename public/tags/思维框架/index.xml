@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>思维框架 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6/</link>
+    <description>Recent content in 思维框架 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 31 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADHD：让 AI 编程代理突破「思维定势」的开源技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-31/adhd/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-31/adhd/</guid>
+      <description>ADHD 是一个为 AI 编程代理设计的开源技能，通过并行发散思考和独立评分机制，让 AI 在设计决策、模糊调试、API 命名等任务上显著提升创意广度和陷阱检测能力。</description>
+    </item>
+    
+  </channel>
+</rss>

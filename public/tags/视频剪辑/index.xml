@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>视频剪辑 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/</link>
+    <description>Recent content in 视频剪辑 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 ChatGPT 把长视频安全剪成 9:16 短影音：chatgpt-video-editing-skills 上手指南</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/chatgpt-video-editing-skills/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/chatgpt-video-editing-skills/</guid>
+      <description>chatgpt-video-editing-skills 是一套面向可操作本机文件的 AI Agent 的繁体中文 Skills，把环境检查与实际剪辑拆成两个 Skill，在保护原始素材、取得上传同意的前提下，把长视频做成 9:16 直式短影音。本文拆解它的分工与设计哲学。</description>
+    </item>
+    
+  </channel>
+</rss>

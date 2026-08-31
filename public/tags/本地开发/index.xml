@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>本地开发 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 本地开发 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Floci：轻量级开源 AWS 本地模拟器，快速启动无需认证</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-26/floci/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-26/floci/</guid>
+      <description>Floci 是一个免费开源的 AWS 本地模拟器，支持 69 种 AWS 服务，启动时间仅 24 毫秒，内存占用仅 13MB，是 LocalStack 社区版停止维护后的最佳替代方案。</description>
+    </item>
+    
+  </channel>
+</rss>

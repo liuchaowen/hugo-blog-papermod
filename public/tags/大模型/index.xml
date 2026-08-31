@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>大模型 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 大模型 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal-Bench-Science：用科学任务基准评估 AI Agent 的研究能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-29/terminal-bench-science/</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-29/terminal-bench-science/</guid>
+      <description>Terminal-Bench-Science 是一个由 Stanford、Anthropic 等机构联合发布的 AI Agent 评测基准，涵盖生命、物理、地球、数学、工程五大科学领域 70&#43; 项专家策划的任务，帮助研究者和开发者量化 AI 在真实科研工作流中的表现。</description>
+    </item>
+    
+    <item>
+      <title>Browser Use：让 AI 真正操控浏览器的开源利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-27/browser-use/</guid>
+      <description>Browser Use 是一个开源的 AI 浏览器自动化框架，让大语言模型通过自然语言指令控制浏览器完成复杂任务，如填表、数据抓取、内容提取等，支持 OpenAI、Anthropic、Google 等多模型。</description>
+    </item>
+    
+    <item>
+      <title>FreeToken：在消费级显卡上跑 290B&#43; 顶级 MoE 大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-25/freetoken/</guid>
+      <description>FreeToken 是一个边缘原生的 MoE（混合专家）推理引擎，能在游戏显卡、家用 PC 等消费级硬件上，以交互级速度运行 290B&#43; 前沿开源大模型，支持 DeepSeek-V4-Flash、Qwen3.6-35B 等主流 MoE 模型。</description>
+    </item>
+    
+    <item>
+      <title>Awesome DeepSeek Agent：把 DeepSeek 模型装进你常用的 AI 编码助手</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-15/awesome-deepseek-agent/</guid>
+      <description>deepseek-ai 出品的 Awesome DeepSeek Agent 是一份精心整理的指南清单，手把手教你把 DeepSeek-V4 系列模型接入 AstrBot、Claude Code、Cline、OpenClaw 等 20&#43; 主流 AI Agent 与编码工具。本文带你一览清单全貌、剖析接入原理，并给出快速上手示例。</description>
+    </item>
+    
+    <item>
+      <title>Harvey LAB: 首个AI法律智能体评测基准，1671个真实任务覆盖24个法律领域</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/harvey-labs/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/harvey-labs/</guid>
+      <description>Harvey LAB 是 Harvey AI 开源的法律智能体评测基准项目，提供1671个真实法律任务，覆盖24个法律实践领域和合同起草场景，采用MIT协议开源，旨在衡量大模型在现实法律工作中的实际能力。</description>
+    </item>
+    
+    <item>
+      <title>FreeLLMAPI：一个 API 聚合 29 家免费大模型，月均 40 亿 Token 随便用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-08/freellmapi/</link>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-08/freellmapi/</guid>
+      <description>FreeLLMAPI 将 Google Groq、Cerebras、Mistral、Cohere 等 29 家平台的免费额度聚合为一个 OpenAI 兼容接口，自动路由、智能切换，让 Claude Code、Codex CLI 等主流 Coding Agent 无缝接入。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaw Zero Token：零 API 密钥免费调用所有主流大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-05/openclaw-zero-token/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-05/openclaw-zero-token/</guid>
+      <description>OpenClaw Zero Token 是 OpenClaw 的一个 fork，专注于通过浏览器登录的方式彻底移除 API token 成本，支持 DeepSeek、Qwen、Kimi、Claude、ChatGPT、Gemini 等十余个主流模型。</description>
+    </item>
+    
+    <item>
+      <title>微软 Generative AI for Beginners：用 21 节课带你从零入门生成式 AI 开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-01/generative-ai-for-beginners/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-01/generative-ai-for-beginners/</guid>
+      <description>微软官方推出的 Generative AI for Beginners 开源课程，21 节系统性课程覆盖 LLM 基础、提示工程、RAG、Agent 开发等核心主题，配有 Python/TypeScript 双语言示例代码，适合想快速上手生成式 AI 开发的工程师。</description>
+    </item>
+    
+    <item>
+      <title>《动手学大模型》：上海交大出品的大模型编程实践教程，11 章从微调、提示工程到越狱与水印</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/dive-into-llms/</guid>
+      <description>dive-into-llms 是上海交通大学开源的《动手学大模型》系列编程实践教程，由 NLP 与 AI 安全课程讲义拓展而来，公益免费。教程以 Jupyter Notebook 形式覆盖微调与部署、提示学习与思维链、知识编辑、数学推理、模型水印、越狱攻击、大模型隐写、多模态、GUI 智能体、智能体安全与 RLHF 安全对齐等 11 个主题，并联合华为昇腾推出国产化《大模型开发全流程》课程。</description>
+    </item>
+    
+    <item>
+      <title>WrenAI：用上下文层让 AI Agents 真正读懂你的业务数据</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-20/wrenai/</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-20/wrenai/</guid>
+      <description>WrenAI 是一个开源的生成式 BI 引擎，通过可版本化、可审查的上下文层，让 AI Agents 能够生成、部署和治理 BI 报表，解决了传统 AI 生成 SQL 准确率低、业务语义缺失的核心难题。</description>
+    </item>
+    
+    <item>
+      <title>KTransformers：CPU-GPU 异构推理，让消费级硬件跑起超大 MoE 模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-19/ktransformers/</guid>
+      <description>KTransformers 是清华 MADSys 实验室开源的 CPU-GPU 异构大模型推理与微调框架，通过 AMX/AVX 加速、量化与专家调度，让 DeepSeek-R1/V3 等超大 MoE 模型在单张 24GB 显卡甚至纯 CPU 上高效运行，并提供与 LLaMA-Factory 集成的 SFT 微调能力。</description>
+    </item>
+    
+    <item>
+      <title>Colibrì：用25GB内存在消费级机器上运行744B参数的GLM-5.2模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/colibri/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/colibri/</guid>
+      <description>Colibrì是一个轻量级MoE运行时引擎，通过将专家层从磁盘流式加载，实现在仅需25GB RAM的消费级硬件上运行744B参数的GLM-5.2模型。本文深入分析其技术原理、架构设计与实际性能表现。</description>
+    </item>
+    
+    <item>
+      <title>G0DM0D3：开源多模型AI聊天界面，突破后训练层的极限</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-18/g0dm0d3/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-18/g0dm0d3/</guid>
+      <description>G0DM0D3 是一个完全开源、隐私透明的多模型聊天界面，集成了 GODMODE CLASSIC 并行竞速模式和 ULTRAPLINIAN 多模型评估引擎，支持 60&#43; OpenRouter 模型和本地部署，专为红队测试、认知研究和 AI 交互探索而设计。</description>
+    </item>
+    
+    <item>
+      <title>Sub2API：把订阅额度做成 AI API 网关，统一管理 Claude / OpenAI / Gemini / Grok</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-16/sub2api/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-16/sub2api/</guid>
+      <description>Sub2API 是一个用 Go &#43; Vue 构建的开源 AI API 网关，可将 Claude、OpenAI、Gemini、Grok 等订阅账号的额度聚合、按 token 计费并二次分发给团队或 SaaS。本文拆解其架构、调度与部署实战。</description>
+    </item>
+    
+    <item>
+      <title>Bonsai-demo：本地跑起 1-bit 与三值量化的前沿大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-15/bonsai-demo/</guid>
+      <description>Bonsai-demo 是 PrismML 提供的开箱即用演示仓库，让你在 Mac、Linux/Windows（CUDA、Vulkan、ROCm）或 CPU 上本地运行 1-bit Bonsai 与 Ternary-Bonsai 大模型，默认即拉起 27B 视觉语言模型，支持推理、工具调用与超长上下文。</description>
+    </item>
+    
+  </channel>
+</rss>

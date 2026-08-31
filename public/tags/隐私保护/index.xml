@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magnitude：一个完全本地运行的开源 AI Agent，支持离线使用</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/magnitude/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/magnitude/</guid>
+      <description>Magnitude 是一个开源 AI Agent，内置本地大模型支持，完全离线运行，无需配置 Ollama 或任何推理服务。上手简单，Apache 2.0 开源，彻底保护隐私。</description>
+    </item>
+    
+    <item>
+      <title>Invidious：无需登录、无广告、无追踪的 YouTube 替代前端</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-02/invidious/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-02/invidious/</guid>
+      <description>Invidious 是一个开源的 YouTube 前端替代方案，采用 Crystal 语言开发，无需 JavaScript、不追踪用户行为、无广告，支持音视频分离播放和多个公开实例即开即用。</description>
+    </item>
+    
+    <item>
+      <title>BitChat：蓝牙Mesh&#43;Nostr协议的去中心化P2P聊天应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/bitchat/</guid>
+      <description>BitChat 是一款创新的去中心化即时通讯应用，融合蓝牙Mesh离线网络与 Nostr 互联网协议，无需账户、电话号码或中心服务器，实现真正的隐私优先通信。</description>
+    </item>
+    
+    <item>
+      <title>Harper：轻量级隐私优先的英语语法检查器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
+    </item>
+    
     <item>
       <title>VeraCrypt：TrueCrypt 的继承者，开源磁盘加密的安全增强方案</title>
       <link>https://blog.xlap.top/post/tech/2026-06-30/veracrypt/</link>

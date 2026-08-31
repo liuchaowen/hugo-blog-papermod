@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI安全 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/categories/ai%E5%AE%89%E5%85%A8/</link>
+    <description>Recent content in AI安全 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/ai%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent Governance Toolkit：让 AI Agent 安全上线的治理利器</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-28/agent-governance-toolkit/</guid>
+      <description>微软开源的 Agent Governance Toolkit (AGT) 是一套生产级 AI Agent 治理工具，通过策略引擎、身份认证、沙箱隔离和审计日志，解决 Agent 自主决策带来的权限控制、身份追溯和合规审计三大核心问题。支持 Python、TypeScript、.NET、Rust、Go 五种语言，覆盖 OWASP Agentic AI Top 10 全部风险类别。</description>
+    </item>
+    
+    <item>
+      <title>iFixAi: AI 操作偏差诊断工具，让你的 AI 代理更安全可控</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-25/ifixai/</guid>
+      <description>iFixAi 是一款开源的 AI 操作偏差诊断工具，通过 45 项检测（32 项核心 &#43; 13 项高级）评估 AI 代理是否存在幻觉、权限滥用、提示词注入等行为偏差，支持 CLI、插件和 Skill 三种运行方式，可集成到 CI 流程中。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI教育 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E6%95%99%E8%82%B2/</link>
+    <description>Recent content in AI教育 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenMAIC：用多智能体把任意主题一键变成沉浸式 AI 互动课堂</title>
+      <link>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-07-14/openmaic/</guid>
+      <description>OpenMAIC（Open Multi-Agent Interactive Classroom）是清华 MAIC 团队开源的 AI 教学平台，基于 LangGraph 多智能体编排，把任意主题或文档一键生成幻灯片、测验、交互仿真与项目式学习，并由可语音、可画白板的 AI 老师和 AI 同学实时授课。本文拆解其架构、技术栈与快速上手。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代理网关 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%90%86%E7%BD%91%E5%85%B3/</link>
+    <description>Recent content in 代理网关 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%90%86%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RVG Gateway：一款高性能多协议代理网关服务</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-14/rvg/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-14/rvg/</guid>
+      <description>RVG Gateway 是基于 FastAPI 构建的异步多协议代理网关，支持 VLESS、Trojan、Shadowsocks 和 MTProto 等协议，具备模块化设计、内置管理面板和自动化部署能力。</description>
+    </item>
+    
+  </channel>
+</rss>

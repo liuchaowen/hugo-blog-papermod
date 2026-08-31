@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>主题美化 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</link>
+    <description>Recent content in 主题美化 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codex QQ Skin：将 ChatGPT/Codex 桌面端变成复古 QQ 界面</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-04/codex-qq-skin/</guid>
+      <description>Codex QQ Skin 是一款面向 Codex/ChatGPT 桌面端的主题美化工具，支持 macOS 与 Windows，可一键将 AI 对话界面替换为经典的 QQ 2007 复古风格皮肤，同时内置深度皮肤助手、图片生成、自定义皮肤库与成长统计等丰富功能。</description>
+    </item>
+    
+  </channel>
+</rss>

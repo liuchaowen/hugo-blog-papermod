@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ppt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ppt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
+      <description>Guizang PPT Skill 是一个面向 Claude Code / Codex 等 Agent 环境的网页 PPT 技能，能生成单文件 HTML 横向翻页 PPT、PPT 配图与多平台封面，并内置完整的排练与演讲者模式。本文拆解其双视觉系统、版式锁定机制与本地演讲者运行时。</description>
+    </item>
+    
+    <item>
+      <title>CyberPPT：把文档变成咨询级高保真 PPT 的 Codex Skill</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/cyberppt/</guid>
+      <description>CyberPPT 是一个 Codex Skill，能将文档、研究材料和业务数据转化为高密度、可编辑、咨询风格的 PowerPoint 演示文稿。本文解析其三段式强制流程、8 种视觉风格与 15 道质量门禁，看它如何解决 AI 做 PPT 常见的密度不足与还原失真问题。</description>
+    </item>
+    
+    <item>
+      <title>Dashi PPT Skill：让 AI Agent 为你生成可编辑的专业 PPT</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-06/dashi-ppt-skill/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-06/dashi-ppt-skill/</guid>
+      <description>一个专为职场人打造的 PPT Skill，将文档交给 AI Agent 后即可生成带编辑控制台的网页版 PPT，支持 12 套视觉主题、1020 个版式页面，并可一键导出为可编辑的 PPTX 文件。</description>
+    </item>
+    
     <item>
       <title>PPT Master: 用 AI 从任意文档生成原生可编辑的 PPTX</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</link>

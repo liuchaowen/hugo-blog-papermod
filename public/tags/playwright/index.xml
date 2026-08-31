@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/playwright/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/playwright/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</guid>
+      <description>codex-chatgpt-web 是一个本地 Responses 桥接工具，通过嵌入式浏览器让用户在 Codex 的原生界面中直接调用 ChatGPT Web（包括 Pro 订阅）的模型，无需 API Key，真正实现零成本使用高级 AI 能力。</description>
+    </item>
+    
+    <item>
+      <title>BetterWright：为 AI Agent 量身打造的 token 高效浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-20/betterwright/</guid>
+      <description>BetterWright 是一个基于 Playwright、面向 AI Agent 的持久化浏览器：用压缩快照替代原始 HTML，只读任务单轮完成，内置策略沙箱、凭证保险库与 CAPTCHA 助手，让 Agent 像人类一样高效、安全地操作网页。</description>
+    </item>
+    
+    <item>
+      <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-09/obscura/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-09/obscura/</guid>
+      <description>Obscura 是一个完全使用 Rust 编写的开源无头浏览器引擎，无需 Chromium，仅 30MB 内存占用，支持 Puppeteer 和 Playwright 协议，内置反检测和 CDP，是 AI 代理自动化和大规模爬虫的理想选择。</description>
+    </item>
+    
     <item>
       <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
       <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>
