@@ -21,9 +21,6 @@ description: "no-comments"
 
 ### 项目维护 [🔗](https://github.com/liuchaowen/project.xlap.top)
 
-* [X API](https://api.xlap.top) AI接口中转站
-* [AITools](https://aitools.uno) AI工具集导航
 * [XLapTop](https://www.xlap.top) 张国荣·顶级
-* [X News](https://news.xlap.top) 新闻站
 * [Dongbaz](https://project.xlap.top/dongbaz) 东巴人木刻
 * [FlipClock](https://project.xlap.top/flipclock/) 一个基于Flutter的翻页时钟App
