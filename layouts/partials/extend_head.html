@@ -1,3 +1,38 @@
 {{- /* Google AdSense */ -}}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9390784729514239"
         crossorigin="anonymous"></script>
+
+{{- /* LA data */}}
+<script charset="UTF-8" id="LA_COLLECT" src="/js/js-sdk-pro.min.js"></script>
+<script>LA.init({ id: "JvUDwnR8WxIRefWQ", ck: "JvUDwnR8WxIRefWQ" })</script>
+
+{{- /* Busuanzi data */}}
+<script src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+{{- /* font */}}
+<link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-screen-webfont/style.css" media="print"
+    onload="this.media='all'">
+
+{{- /* twikoo */}}
+<!-- <script src="https://cdn.staticfile.org/twikoo/1.6.10/twikoo.all.min.js"></script> -->
+
+{{- if eq .Section "tags"}}
+{{/* 标签云 */}}
+<link rel="stylesheet" href="/css/word-cloud.css" \>
+<script src="/js/wordcloud2.js"></script>
+{{- end }}
+
+{{- /* Main App CSS/JS */}}
+<link rel="stylesheet" href="/css/styles.css" \>
+<script src="/js/application.js"></script>
+
+{{- if .IsHome }}
+{{- /* cal-heatmap */}}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/cal-heatmap@4.0.0-beta.9/dist/cal-heatmap.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/cal-heatmap@4.0.0-beta.9/dist/cal-heatmap.css">
+
+{{/* tooltip */}}
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+{{- end }}
