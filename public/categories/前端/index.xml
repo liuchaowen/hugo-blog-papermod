@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zod 深度解析：TypeScript 优先的类型安全校验库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/zod/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/zod/</guid>
+      <description>Zod 是当下最流行的 TypeScript 优先 schema 校验库，能够用一份 schema 同时完成运行时数据校验与静态类型推断。本文从核心特性、技术原理、AOT 编译优化到实战用法，带你系统掌握 Zod，并理解它为何成为全栈类型安全的基石。</description>
+    </item>
+    
     <item>
       <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
       <link>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</link>

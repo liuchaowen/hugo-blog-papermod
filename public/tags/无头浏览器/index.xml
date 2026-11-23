@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 23:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lightpanda Browser：用 Zig 从零打造的 AI 原生无头浏览器</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/browser/</link>
+      <pubDate>Mon, 07 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/browser/</guid>
+      <description>Lightpanda Browser 是一个用 Zig 语言从零开始编写的无头浏览器，专为 AI 代理和自动化场景设计。内存占用仅为 Chrome 的 1/16，执行速度快 9 倍，支持 CDP、WebDriver BiDi、MCP 协议和内置 Agent 模式。</description>
+    </item>
+    
     <item>
       <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
       <link>https://blog.xlap.top/post/tech/2026-08-09/obscura/</link>

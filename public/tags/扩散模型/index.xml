@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 16:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OmniVoice：支持600&#43;语言的零样本TTS语音克隆模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</link>
+      <pubDate>Wed, 09 Sep 2026 16:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</guid>
+      <description>OmniVoice 是 k2-fsa 团队开源的零样本多语言文本转语音模型，支持超过600种语言，基于扩散语言模型架构，支持语音克隆、语音设计和细粒度控制，推理速度 RTF 低至 0.025。</description>
+    </item>
+    
     <item>
       <title>ABot-World：用单张桌面 GPU 实现无限交互式世界仿真</title>
       <link>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</link>

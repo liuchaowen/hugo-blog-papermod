@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 12:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</link>
+      <pubDate>Mon, 07 Sep 2026 12:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</guid>
+      <description>Stremio Web 是 Stremio 官方开源 Web UI：React 前端 &#43; Rust 编写的 stremio-core 引擎编译为 WASM 在 Web Worker 中运行。本文深入解析其 Addon 生态、UI/Core 架构、视频播放链路与本地部署方式。</description>
+    </item>
+    
+    <item>
+      <title>NoSignups：一个拒绝注册墙的开源工具聚合站</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/fcksignups/</link>
+      <pubDate>Sat, 05 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/fcksignups/</guid>
+      <description>NoSignups（前称 FckSignups）是一个开源的工具聚合目录，收录 200&#43; 个无需注册、无需邮箱、无追踪即可直接在浏览器中使用的工具。本文解析其 React &#43; TypeScript &#43; Vite 技术栈、工具 Schema 设计与社区贡献机制。</description>
+    </item>
+    
     <item>
       <title>灵犀跨境：开源的多租户、多语言、AI 增强跨境客户经营 SaaS</title>
       <link>https://blog.xlap.top/post/tech/2026-08-10/lingxi/</link>

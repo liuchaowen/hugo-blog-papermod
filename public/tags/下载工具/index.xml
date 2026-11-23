@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 13:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ReClip：基于 yt-dlp 的自托管视频/音频下载器，自带极简 Web UI</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/reclip/</link>
+      <pubDate>Wed, 02 Sep 2026 13:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/reclip/</guid>
+      <description>ReClip 是一个自托管的开源视频/音频下载器，基于 yt-dlp 与 ffmpeg 构建，支持 YouTube、TikTok、Instagram 等 1000&#43; 站点，提供无需打包的纯前端 Web UI，后端仅约 150 行 Flask 代码，可一键将链接下载为 MP4 或 MP3。</description>
+    </item>
+    
     <item>
       <title>Motrix v2 Turbo：基于 MDXP 协议重构的全功能下载管理器</title>
       <link>https://blog.xlap.top/post/tech/2026-08-18/motrix/</link>

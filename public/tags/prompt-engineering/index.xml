@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 23:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything Claude Code：一位 Anthropic 黑客松冠军的 Claude Code 配置全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
+      <pubDate>Sat, 05 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
+      <description>Everything Claude Code 是 Anthropic 黑客松冠军 Affaan Mustafa 开源的 Claude Code 配置合集，包含经过 10 个月以上生产环境打磨的 agents、skills、hooks、commands、rules 与 MCP 配置，覆盖 Token 优化、记忆持久化、验证循环与并行化等高级工程实践，支持 Windows、macOS、Linux 全平台。</description>
+    </item>
+    
     <item>
       <title>Photo Abstract Editorial：将照片转化为摄影与抽象记忆面板的编辑作品</title>
       <link>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</link>

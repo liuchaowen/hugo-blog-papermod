@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工程实践 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</link>
+    <description>Recent content in 工程实践 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Sep 2026 09:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mattpocock/skills：给 AI 编程助手装上「工程师大脑」</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</link>
+      <pubDate>Sun, 06 Sep 2026 09:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</guid>
+      <description>mattpocock/skills 是 TypeScript 大神 Matt Pocock 开源的 AI Agent 技能集，包含 grill-me、TDD、代码审查等 20&#43; 实战技能，旨在解决 AI 编程中的对齐偏差、冗余表达、代码质量和架构腐化四大痛点。</description>
+    </item>
+    
+  </channel>
+</rss>

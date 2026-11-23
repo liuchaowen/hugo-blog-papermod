@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 16:06:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cn：shadcn 团队打造的新一代 Tailwind 类名合并引擎，比 tailwind-merge 快 30 倍</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</link>
+      <pubDate>Fri, 04 Sep 2026 16:06:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</guid>
+      <description>shadcn-ui 团队推出的 cn 库，替代 tailwind-merge 和 clsx，采用编译时表生成 &#43; 运行时缓存策略，性能提升 30 倍，零依赖且框架无关。</description>
+    </item>
+    
+    <item>
+      <title>{fmt}：现代 C&#43;&#43; 格式化库的性能与优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/fmt/</link>
+      <pubDate>Wed, 02 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/fmt/</guid>
+      <description>深入解析 GitHub Trending 热门项目 {fmt}——一个快速、安全、可扩展的 C&#43;&#43; 格式化库，实现了 C&#43;&#43;20 std::format 和 C&#43;&#43;23 std::print，性能比 printf 快 50%，比 iostreams 快数倍。</description>
+    </item>
+    
     <item>
       <title>TypePHP：PHP 原生 AOT 编译器，将 PHP 编译成机器码</title>
       <link>https://blog.xlap.top/post/tech/2026-08-29/typephp/</link>

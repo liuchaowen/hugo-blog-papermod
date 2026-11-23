@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 22:04:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VoiceStudio：本地运行的语音克隆、视频配音与多引擎 TTS 工具箱</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</link>
+      <pubDate>Wed, 02 Sep 2026 22:04:24 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</guid>
+      <description>VoiceStudio 是一个本地优先的语音工具平台，支持 16 种 TTS 引擎和 11 种 ASR 引擎，覆盖 646 种语言，可在 macOS、Windows、Linux 和 Docker 上运行，无需 API Key 或订阅，让语音克隆、视频配音、听写和长篇音频制作完全在本地完成。</description>
+    </item>
+    
     <item>
       <title>StemDeck: 完全本地化的音频人声伴奏分离工具</title>
       <link>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</link>

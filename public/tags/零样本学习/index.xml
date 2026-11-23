@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>零样本学习 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 零样本学习 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Sep 2026 16:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OmniVoice：支持600&#43;语言的零样本TTS语音克隆模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</link>
+      <pubDate>Wed, 09 Sep 2026 16:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</guid>
+      <description>OmniVoice 是 k2-fsa 团队开源的零样本多语言文本转语音模型，支持超过600种语言，基于扩散语言模型架构，支持语音克隆、语音设计和细粒度控制，推理速度 RTF 低至 0.025。</description>
+    </item>
+    
+  </channel>
+</rss>

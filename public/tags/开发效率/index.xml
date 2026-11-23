@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 00:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/opencode/</link>
+      <pubDate>Sat, 05 Sep 2026 00:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/opencode/</guid>
+      <description>OpenCode 是一个开源 AI 编程助手，支持多平台安装，提供 build 和 plan 双 Agent 模式，让开发者通过自然语言完成代码编辑、命令行操作等开发任务。</description>
+    </item>
+    
     <item>
       <title>Orca：为 100x 开发者打造的 AI 编排器——并行 Agent 工作流终极 IDE</title>
       <link>https://blog.xlap.top/post/tech/2026-06-25/orca/</link>

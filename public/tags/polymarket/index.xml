@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/polymarket/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 19:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/polymarket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</link>
+      <pubDate>Thu, 10 Sep 2026 19:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</guid>
+      <description>Clodds（Claude &#43; Odds）是 alsk1992 开源的 AI 交易终端，用自然语言打通 Polymarket、Kalshi 等 10 个预测市场、7 家合约交易所与 Solana/EVM 链上 DeFi，内置 118&#43; 策略、统一风控引擎、语义记忆与 21 个消息渠道，12 天为 Colosseum Hackathon 建成。</description>
+    </item>
+    
     <item>
       <title>Polymarket-5min-bot：Polymarket 5分钟预测市场套利机器人</title>
       <link>https://blog.xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</link>

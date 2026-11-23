@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 04:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portless：用稳定的 .localhost 域名取代开发端口号，给本地开发一个真正的 HTTPS 体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/portless/</link>
+      <pubDate>Thu, 03 Sep 2026 04:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/portless/</guid>
+      <description>portless 是 Vercel 实验室出品的本地开发代理工具，用 https://myapp.localhost 这样的稳定命名 URL 取代 localhost:3000 这类易变端口号，默认开启 HTTP/2 &#43; HTTPS，支持 monorepo、子域名、Git worktree、Tailscale/ngrok 共享，让本地开发与生产环境的域名结构保持一致。</description>
+    </item>
+    
+    <item>
+      <title>Atlas：给 AI 编程 Agent 装上版本控制，让每一行提交都说清&#34;为什么&#34;</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/atlas/</link>
+      <pubDate>Thu, 03 Sep 2026 02:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/atlas/</guid>
+      <description>Atlas 是一款面向 AI 编程 Agent 的源代码管理工具，将每个 Agent 会话记录为检查点，把提交、提示词、工具调用与推理过程串联起来，支持 Claude Code、Codex 多 Agent 并行与共享记忆。</description>
+    </item>
+    
     <item>
       <title>OpenChamber：贯穿桌面、浏览器与移动端的开源 AI 编程工作台</title>
       <link>https://blog.xlap.top/post/tech/2026-08-13/openchamber/</link>

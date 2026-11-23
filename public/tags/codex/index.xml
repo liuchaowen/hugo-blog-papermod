@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/codex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2026 23:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/codex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openai/skills：Agent Skills 官方技能库，从入门到迁移 Plugins</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-06/skills/</link>
+      <pubDate>Sun, 06 Sep 2026 23:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-06/skills/</guid>
+      <description>openai/skills 是 OpenAI 官方的 Agent Skills 技能仓库，定义了 AI Agent 可发现、可复用的能力封装格式，Codex 通过 system/curated/experimental 三级目录与 $skill-installer 安装技能。仓库现已弃用并迁移至 openai/plugins，本文详解其结构、用法与迁移路径。</description>
+    </item>
+    
+    <item>
+      <title>Codex with ChatGPT：让 ChatGPT 负责思考，Codex 负责干活</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</link>
+      <pubDate>Wed, 02 Sep 2026 07:25:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</guid>
+      <description>Codex with ChatGPT 是一个将 ChatGPT 网页版变为 Codex 编码会话规划大脑的开源项目，通过只读 MCP 桥接实现思考与执行的分离，无需 API Key，不搞逆向代理，安全高效地复用付费订阅额度。</description>
+    </item>
+    
     <item>
       <title>codex-chatgpt-web：将 ChatGPT Web 变身为 Codex 原生模型的本地桥梁</title>
       <link>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</link>

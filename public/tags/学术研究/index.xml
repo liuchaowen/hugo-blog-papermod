@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 11:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Research Skills：把 Claude Code 变成覆盖学术研究全流程的 AI 副驾驶</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/</link>
+      <pubDate>Wed, 02 Sep 2026 11:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/</guid>
+      <description>Academic Research Skills (ARS) 是一套为 Claude Code 打造的学术研究技能套件，用 Deep Research、Academic Paper、Reviewer 与 Pipeline 四个技能把文献调研、论文写作、同行评审到投稿的全流程串联起来，并以强制性的完整性校验门（integrity gate）对抗 AI 幻觉与学术不端。</description>
+    </item>
+    
     <item>
       <title>ARS-Codex：为学术研究者打造的 AI 助手套件</title>
       <link>https://blog.xlap.top/post/tech/2026-07-24/academic-research-skills-codex/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI训练 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/ai%E8%AE%AD%E7%BB%83/</link>
+    <description>Recent content in AI训练 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Sep 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E8%AE%AD%E7%BB%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MiniMind：3块钱2小时，从零训练你自己的大语言模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/minimind/</link>
+      <pubDate>Wed, 02 Sep 2026 12:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/minimind/</guid>
+      <description>MiniMind 是一个从零开始的大语言模型全链路开源项目，仅用3块钱成本和2小时训练时间，即可训练出约64M参数的超小语言模型，覆盖预训练、SFT、LoRA、RLHF、Tool Use、Agentic RL等完整流程。</description>
+    </item>
+    
+  </channel>
+</rss>

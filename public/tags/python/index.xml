@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 23:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia-X：基于 Python 工程化重构的 A 股量化选股系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</link>
+      <pubDate>Wed, 02 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</guid>
+      <description>Sequoia-X 是一个面向 A 股市场的量化选股系统，以 OOP 架构、向量化计算和增量数据更新为核心，使用免费数据源 baostock 规避反爬，日终自动选股并推送至飞书。本文剖析其架构设计与内置的 7 类交易策略。</description>
+    </item>
+    
+    <item>
+      <title>ReClip：基于 yt-dlp 的自托管视频/音频下载器，自带极简 Web UI</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/reclip/</link>
+      <pubDate>Wed, 02 Sep 2026 13:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/reclip/</guid>
+      <description>ReClip 是一个自托管的开源视频/音频下载器，基于 yt-dlp 与 ffmpeg 构建，支持 YouTube、TikTok、Instagram 等 1000&#43; 站点，提供无需打包的纯前端 Web UI，后端仅约 150 行 Flask 代码，可一键将链接下载为 MP4 或 MP3。</description>
+    </item>
+    
     <item>
       <title>Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架</title>
       <link>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</link>

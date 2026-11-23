@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 08:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M3E Canvas：浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</link>
+      <pubDate>Mon, 07 Sep 2026 08:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</guid>
+      <description>M3E Canvas 是一个开源的浏览器端设计工具，支持拖拽绘制 Material 3 Expressive 风格的界面原型，自动生成结构化提示词供 Claude Code、Codex 等 AI 编程工具使用，实现从设计到代码的无缝衔接。</description>
+    </item>
+    
     <item>
       <title>Google Stitch Design Skills：用 Agent Skills 标准把设计稿变成可落地的生产代码</title>
       <link>https://blog.xlap.top/post/tech/2026-07-11/stitch-skills/</link>

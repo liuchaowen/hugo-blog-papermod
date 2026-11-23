@@ -11,7 +11,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 21:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai-agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camofox Browser：让 AI Agent 拥有反检测浏览器能力</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/camofox-browser/</link>
+      <pubDate>Mon, 07 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/camofox-browser/</guid>
+      <description>Camofox Browser 是基于 Camoufox 的反检测浏览器服务器，通过 C&#43;&#43; 层级指纹伪装绕过检测，为 AI Agent 提供稳定可靠的网页浏览能力，支持元素引用、会话隔离、代理 GeoIP 等丰富功能。</description>
+    </item>
+    
+    <item>
+      <title>AutoHedge：基于 Swarm 多智能体架构的自主交易对冲基金</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</link>
+      <pubDate>Mon, 07 Sep 2026 04:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</guid>
+      <description>AutoHedge 是 The Swarm Corporation 开源的企业级自主智能体对冲基金，基于 Swarm 多智能体架构在 Solana 上自动完成市场分析、风险管控与下单执行。本文解析其多 Agent 流水线、技术栈选型与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>openai/skills：Agent Skills 官方技能库，从入门到迁移 Plugins</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-06/skills/</link>
+      <pubDate>Sun, 06 Sep 2026 23:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-06/skills/</guid>
+      <description>openai/skills 是 OpenAI 官方的 Agent Skills 技能仓库，定义了 AI Agent 可发现、可复用的能力封装格式，Codex 通过 system/curated/experimental 三级目录与 $skill-installer 安装技能。仓库现已弃用并迁移至 openai/plugins，本文详解其结构、用法与迁移路径。</description>
+    </item>
+    
+    <item>
+      <title>mattpocock/skills：给 AI 编程助手装上「工程师大脑」</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</link>
+      <pubDate>Sun, 06 Sep 2026 09:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</guid>
+      <description>mattpocock/skills 是 TypeScript 大神 Matt Pocock 开源的 AI Agent 技能集，包含 grill-me、TDD、代码审查等 20&#43; 实战技能，旨在解决 AI 编程中的对齐偏差、冗余表达、代码质量和架构腐化四大痛点。</description>
+    </item>
+    
+    <item>
+      <title>Everything Claude Code：一位 Anthropic 黑客松冠军的 Claude Code 配置全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
+      <pubDate>Sat, 05 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
+      <description>Everything Claude Code 是 Anthropic 黑客松冠军 Affaan Mustafa 开源的 Claude Code 配置合集，包含经过 10 个月以上生产环境打磨的 agents、skills、hooks、commands、rules 与 MCP 配置，覆盖 Token 优化、记忆持久化、验证循环与并行化等高级工程实践，支持 Windows、macOS、Linux 全平台。</description>
+    </item>
+    
+    <item>
+      <title>HumanLayer Skills：让 Claude Code 拥有专业领域技能的扩展技能集</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/skills/</link>
+      <pubDate>Sat, 05 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/skills/</guid>
+      <description>HumanLayer 开源的 skills 项目为 Claude Code 提供了一套可插拔的专业领域技能包，覆盖 CLAUDE.md 优化、React 类型收窄、Agentic 循环构建和控制回路设计等场景，通过简单的 npx 命令即可安装并在对话中以 /skill 形式调用。</description>
+    </item>
+    
+    <item>
+      <title>Anthropic 商业 Agent 蓝图：用 Claude 构建购物与商家双智能体</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</link>
+      <pubDate>Sat, 05 Sep 2026 07:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</guid>
+      <description>Anthropic 开源的 commerce-agents 项目提供了一套完整的商业 Agent 参考实现，包含购物 Agent 和商家 Agent 两个角色，覆盖零售、旅游、电信、娱乐四大垂直场景，基于 Claude Messages API、Agent SDK 和 Managed Agents 三种运行时。</description>
+    </item>
+    
+    <item>
+      <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/sie/</link>
+      <pubDate>Thu, 03 Sep 2026 00:04:38 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/sie/</guid>
+      <description>SIE 是 Superlinked 开源的自托管推理引擎，通过一个集群统一服务于 Agent 所需的全部模型任务——搜索检索、文档转 Markdown、结构化输出、内容安全和 Agent 循环本身，兼容 OpenAI API，支持 100&#43; 模型按需加载。</description>
+    </item>
+    
     <item>
       <title>Creator Buddy：面向内容创作者的全栈 Skill 工具箱</title>
       <link>https://blog.xlap.top/post/tech/2026-08-29/creator-buddy/</link>

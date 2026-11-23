@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 07:18:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaude：开源 coding-agent CLI，一个终端搞定所有大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/openclaude/</link>
+      <pubDate>Wed, 02 Sep 2026 07:18:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/openclaude/</guid>
+      <description>OpenClaude 是一款开源的 coding-agent CLI 工具，支持 OpenAI、Claude、 Gemini、DeepSeek、Ollama 等 200&#43; 大模型，一个终端工作流集成 prompts、工具、agents、MCP、斜杠命令和流式输出。</description>
+    </item>
+    
     <item>
       <title>Terminal-Bench-Science：用科学任务基准评估 AI Agent 的研究能力</title>
       <link>https://blog.xlap.top/post/tech/2026-08-29/terminal-bench-science/</link>

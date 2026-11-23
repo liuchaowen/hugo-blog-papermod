@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 20:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploitarium：汇集 40&#43; 高危漏洞 PoC 的开源漏洞研究档案库</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/exploitarium/</link>
+      <pubDate>Fri, 04 Sep 2026 20:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/exploitarium/</guid>
+      <description>Exploitarium 是一个集中归档公开 PoC 与漏洞研究笔记的 GitHub 仓库，覆盖 7-Zip、Firefox、QEMU、curl、FFmpeg、Redis 等 40&#43; 组高危漏洞验证代码。本文解析其目录组织、基于 Git 树的归档一致性校验机制与 AI 辅助 Fuzzing 工作流，并给出复现与防御建议。</description>
+    </item>
+    
     <item>
       <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
       <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>

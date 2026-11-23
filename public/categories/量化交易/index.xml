@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 23:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia-X：基于 Python 工程化重构的 A 股量化选股系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</link>
+      <pubDate>Wed, 02 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</guid>
+      <description>Sequoia-X 是一个面向 A 股市场的量化选股系统，以 OOP 架构、向量化计算和增量数据更新为核心，使用免费数据源 baostock 规避反爬，日终自动选股并推送至飞书。本文剖析其架构设计与内置的 7 类交易策略。</description>
+    </item>
+    
     <item>
       <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
       <link>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</link>

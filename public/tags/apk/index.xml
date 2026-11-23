@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>APK on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/apk/</link>
+    <description>Recent content in APK on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Sep 2026 14:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/apk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebToApp：把整个 APK 工坊装进口袋，在 Android 手机上打包 Web、Node、PHP、Python 与 Go 应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/web-to-app/</link>
+      <pubDate>Tue, 08 Sep 2026 14:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/web-to-app/</guid>
+      <description>WebToApp 是一款开源 Android 应用，无需电脑即可在手机上把网页、HTML、Node.js、PHP、Python、Go 乃至 WordPress 打包成 APK/AAB，内置本地服务运行时、反审查网络栈与 MV3 扩展支持，并可直接签名上架 Google Play。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 11:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X 算法开源：For You 推荐-feed 的技术架构深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/x-algorithm-feed/</link>
+      <pubDate>Tue, 08 Sep 2026 11:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/x-algorithm-feed/</guid>
+      <description>xAI 开源了 X (Twitter) For You 信息流的核心推荐算法，涵盖多动作预测模型 Phoenix、可见性过滤系统、SimClusters 聚类检索等关键组件。本文从源码角度深度解析其架构设计与工程实现。</description>
+    </item>
+    
     <item>
       <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
       <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>

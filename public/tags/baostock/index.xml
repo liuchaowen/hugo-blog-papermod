@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baostock on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/baostock/</link>
+    <description>Recent content in Baostock on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Sep 2026 23:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/baostock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia-X：基于 Python 工程化重构的 A 股量化选股系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</link>
+      <pubDate>Wed, 02 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</guid>
+      <description>Sequoia-X 是一个面向 A 股市场的量化选股系统，以 OOP 架构、向量化计算和增量数据更新为核心，使用免费数据源 baostock 规避反爬，日终自动选股并推送至飞书。本文剖析其架构设计与内置的 7 类交易策略。</description>
+    </item>
+    
+  </channel>
+</rss>

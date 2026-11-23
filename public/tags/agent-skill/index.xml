@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent-skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 23:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/agent-skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sepia：基于叙事架构层面的 AI 去痕写作技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</link>
+      <pubDate>Fri, 04 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</guid>
+      <description>sepia 是一个 Agent Skill，从叙事架构层面修复 AI 写作痕迹，支持 fiction 和专业文档两大类，覆盖 Claude Code、Codex、Grok Build、Antigravity 四大平台。</description>
+    </item>
+    
     <item>
       <title>nihaisha：用 AI Agent 技能把倪海厦中医课程变成可检索、可追溯的学习助手</title>
       <link>https://blog.xlap.top/post/tech/2026-07-13/nihaisha-nishi-tcm/</link>

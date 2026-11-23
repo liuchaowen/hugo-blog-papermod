@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 23:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything Claude Code：一位 Anthropic 黑客松冠军的 Claude Code 配置全家桶</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
+      <pubDate>Sat, 05 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
+      <description>Everything Claude Code 是 Anthropic 黑客松冠军 Affaan Mustafa 开源的 Claude Code 配置合集，包含经过 10 个月以上生产环境打磨的 agents、skills、hooks、commands、rules 与 MCP 配置，覆盖 Token 优化、记忆持久化、验证循环与并行化等高级工程实践，支持 Windows、macOS、Linux 全平台。</description>
+    </item>
+    
+    <item>
+      <title>HumanLayer Skills：让 Claude Code 拥有专业领域技能的扩展技能集</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/skills/</link>
+      <pubDate>Sat, 05 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/skills/</guid>
+      <description>HumanLayer 开源的 skills 项目为 Claude Code 提供了一套可插拔的专业领域技能包，覆盖 CLAUDE.md 优化、React 类型收窄、Agentic 循环构建和控制回路设计等场景，通过简单的 npx 命令即可安装并在对话中以 /skill 形式调用。</description>
+    </item>
+    
     <item>
       <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
       <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>

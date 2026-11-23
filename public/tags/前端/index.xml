@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 04:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portless：用稳定的 .localhost 域名取代开发端口号，给本地开发一个真正的 HTTPS 体验</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/portless/</link>
+      <pubDate>Thu, 03 Sep 2026 04:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/portless/</guid>
+      <description>portless 是 Vercel 实验室出品的本地开发代理工具，用 https://myapp.localhost 这样的稳定命名 URL 取代 localhost:3000 这类易变端口号，默认开启 HTTP/2 &#43; HTTPS，支持 monorepo、子域名、Git worktree、Tailscale/ngrok 共享，让本地开发与生产环境的域名结构保持一致。</description>
+    </item>
+    
     <item>
       <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
       <link>https://blog.xlap.top/post/tech/2026-08-30/htmx/</link>

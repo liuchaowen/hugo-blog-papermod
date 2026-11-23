@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>前端工具 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 前端工具 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Sep 2026 13:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M3E Canvas：在浏览器里拼装 Material 3 Expressive 界面，一键生成 AI 编程提示词</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</link>
+      <pubDate>Mon, 07 Sep 2026 13:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</guid>
+      <description>M3E Canvas 是一个开源的 Material 3 Expressive 界面设计工具，支持拖放组件、磁吸连接、屏幕导航、主题切换，并能将设计转化为自然语言提示词，配合 Claude Code、Cursor 等 AI 编程工具使用。</description>
+    </item>
+    
+    <item>
+      <title>cn：shadcn 团队打造的新一代 Tailwind 类名合并引擎，比 tailwind-merge 快 30 倍</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</link>
+      <pubDate>Fri, 04 Sep 2026 16:06:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</guid>
+      <description>shadcn-ui 团队推出的 cn 库，替代 tailwind-merge 和 clsx，采用编译时表生成 &#43; 运行时缓存策略，性能提升 30 倍，零依赖且框架无关。</description>
+    </item>
+    
+  </channel>
+</rss>

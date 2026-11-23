@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 04:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AutoHedge：基于 Swarm 多智能体架构的自主交易对冲基金</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</link>
+      <pubDate>Mon, 07 Sep 2026 04:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</guid>
+      <description>AutoHedge 是 The Swarm Corporation 开源的企业级自主智能体对冲基金，基于 Swarm 多智能体架构在 Solana 上自动完成市场分析、风险管控与下单执行。本文解析其多 Agent 流水线、技术栈选型与实战用法。</description>
+    </item>
+    
     <item>
       <title>GitHub 热榜推荐：中文投资入门指南，零基础搞懂美股、期权与加密货币</title>
       <link>https://blog.xlap.top/post/tech/2026-08-04/investing-for-beginners/</link>

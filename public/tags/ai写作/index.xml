@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 23:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sepia：基于叙事架构层面的 AI 去痕写作技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</link>
+      <pubDate>Fri, 04 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</guid>
+      <description>sepia 是一个 Agent Skill，从叙事架构层面修复 AI 写作痕迹，支持 fiction 和专业文档两大类，覆盖 Claude Code、Codex、Grok Build、Antigravity 四大平台。</description>
+    </item>
+    
     <item>
       <title>Humanizer：让 AI 生成的文本回归自然写作风格</title>
       <link>https://blog.xlap.top/post/tech/2026-08-19/humanizer/</link>

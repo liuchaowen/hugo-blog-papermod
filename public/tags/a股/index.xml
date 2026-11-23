@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/a%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 23:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/a%E8%82%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequoia-X：基于 Python 工程化重构的 A 股量化选股系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</link>
+      <pubDate>Wed, 02 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</guid>
+      <description>Sequoia-X 是一个面向 A 股市场的量化选股系统，以 OOP 架构、向量化计算和增量数据更新为核心，使用免费数据源 baostock 规避反爬，日终自动选股并推送至飞书。本文剖析其架构设计与内置的 7 类交易策略。</description>
+    </item>
+    
     <item>
       <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
       <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>

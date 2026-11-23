@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tailwind-css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2026 16:06:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/tailwind-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cn：shadcn 团队打造的新一代 Tailwind 类名合并引擎，比 tailwind-merge 快 30 倍</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</link>
+      <pubDate>Fri, 04 Sep 2026 16:06:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</guid>
+      <description>shadcn-ui 团队推出的 cn 库，替代 tailwind-merge 和 clsx，采用编译时表生成 &#43; 运行时缓存策略，性能提升 30 倍，零依赖且框架无关。</description>
+    </item>
+    
     <item>
       <title>Tailwind CSS — 实用优先的 CSS 框架</title>
       <link>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</link>

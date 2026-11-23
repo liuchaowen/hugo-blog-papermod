@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 10:20:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>free-programming-books：开发者书签里值得常驻的免费编程书籍清单</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</link>
+      <pubDate>Thu, 10 Sep 2026 10:20:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</guid>
+      <description>free-programming-books 由 EbookFoundation 维护，是 GitHub 上星标近 40 万的明星开源清单，按编程语言与主题汇总了数十种语言的免费编程书籍、在线课程、题集与播客，并配套在线搜索站点。本文介绍其内容结构、使用方式与贡献方法。</description>
+    </item>
+    
     <item>
       <title>GitHub 超全编程实战教程合集：Project Based Learning 完全指南</title>
       <link>https://blog.xlap.top/post/tech/2026-08-12/project-based-learning/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D纹理绘制 on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/3d%E7%BA%B9%E7%90%86%E7%BB%98%E5%88%B6/</link>
+    <description>Recent content in 3D纹理绘制 on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 10 Sep 2026 21:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/3d%E7%BA%B9%E7%90%86%E7%BB%98%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArmorPaint：用 Haxe 打造的跨平台 GPU 3D PBR 纹理绘制引擎</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-10/armorpaint/</link>
+      <pubDate>Thu, 10 Sep 2026 21:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-10/armorpaint/</guid>
+      <description>ArmorPaint 是一个基于 Haxe 与 Kha 构建的开源 3D PBR 纹理绘制软件，支持 Windows、Linux、macOS、iOS、Android 与 WASM。本文深入解析它的 GPU 渲染管线、Haxe 跨平台架构、节点式材质系统与编译工作流，并给出从源码构建到实战绘制的完整指南。</description>
+    </item>
+    
+  </channel>
+</rss>

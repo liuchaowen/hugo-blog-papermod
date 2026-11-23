@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2026 23:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openai/skills：Agent Skills 官方技能库，从入门到迁移 Plugins</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-06/skills/</link>
+      <pubDate>Sun, 06 Sep 2026 23:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-06/skills/</guid>
+      <description>openai/skills 是 OpenAI 官方的 Agent Skills 技能仓库，定义了 AI Agent 可发现、可复用的能力封装格式，Codex 通过 system/curated/experimental 三级目录与 $skill-installer 安装技能。仓库现已弃用并迁移至 openai/plugins，本文详解其结构、用法与迁移路径。</description>
+    </item>
+    
     <item>
       <title>OpenAI Codex CLI：本地运行的 AI 编程助手</title>
       <link>https://blog.xlap.top/post/tech/2026-08-22/codex/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Megatron-LM on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/megatron-lm/</link>
+    <description>Recent content in Megatron-LM on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 04 Sep 2026 21:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/megatron-lm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miles：面向大规模模型后训练的企业级强化学习框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/miles/</link>
+      <pubDate>Fri, 04 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/miles/</guid>
+      <description>Miles 是 Radixark 开源、基于 SGLang &#43; Megatron-LM 的企业级强化学习后训练框架，支持全异步 RL、低精度训练、P2P 秒级权重同步与 MoE 路由对齐，可在千卡集群上训练万亿参数模型。</description>
+    </item>
+    
+  </channel>
+</rss>

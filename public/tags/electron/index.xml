@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 19:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escrcpy：基于 Electron 封装 scrcpy 的开源安卓图形化投屏控制工具</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/escrcpy/</link>
+      <pubDate>Tue, 08 Sep 2026 19:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/escrcpy/</guid>
+      <description>Escrcpy 是基于 Electron 封装 scrcpy 核心打造的开源安卓图形化投屏与控制工具，支持嵌入式镜像、键鼠映射、多设备批量控制、无线连接、自动化脚本与 AI Copilot，让你在电脑上高效操控安卓设备。</description>
+    </item>
+    
     <item>
       <title>terminal-browser：在终端里跑浏览器的奇思妙想</title>
       <link>https://blog.xlap.top/post/tech/2026-08-21/terminal-browser/</link>

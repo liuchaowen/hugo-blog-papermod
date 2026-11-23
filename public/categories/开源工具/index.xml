@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 00:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/opencode/</link>
+      <pubDate>Sat, 05 Sep 2026 00:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/opencode/</guid>
+      <description>OpenCode 是一个开源 AI 编程助手，支持多平台安装，提供 build 和 plan 双 Agent 模式，让开发者通过自然语言完成代码编辑、命令行操作等开发任务。</description>
+    </item>
+    
     <item>
       <title>QzoneArchive：安全归档你的QQ空间记忆，一个跨平台本地工具</title>
       <link>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</link>

@@ -11,7 +11,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 21:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PI-Desktop 深度解析：把 AI 编程代理装进本地优先的桌面工作区</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</link>
+      <pubDate>Wed, 09 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</guid>
+      <description>PI-Desktop 是一个本地优先的开源桌面应用，为 AI 编程代理提供统一工作区，支持自带模型、权限审批、Plan/Goal 工作流与插件扩展，覆盖 macOS、Windows 与 Linux。</description>
+    </item>
+    
+    <item>
+      <title>M3E Canvas：在浏览器里拼装 Material 3 Expressive 界面，一键生成 AI 编程提示词</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</link>
+      <pubDate>Mon, 07 Sep 2026 13:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</guid>
+      <description>M3E Canvas 是一个开源的 Material 3 Expressive 界面设计工具，支持拖放组件、磁吸连接、屏幕导航、主题切换，并能将设计转化为自然语言提示词，配合 Claude Code、Cursor 等 AI 编程工具使用。</description>
+    </item>
+    
+    <item>
+      <title>M3E Canvas：浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</link>
+      <pubDate>Mon, 07 Sep 2026 08:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</guid>
+      <description>M3E Canvas 是一个开源的浏览器端设计工具，支持拖拽绘制 Material 3 Expressive 风格的界面原型，自动生成结构化提示词供 Claude Code、Codex 等 AI 编程工具使用，实现从设计到代码的无缝衔接。</description>
+    </item>
+    
+    <item>
+      <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/opencode/</link>
+      <pubDate>Sat, 05 Sep 2026 00:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/opencode/</guid>
+      <description>OpenCode 是一个开源 AI 编程助手，支持多平台安装，提供 build 和 plan 双 Agent 模式，让开发者通过自然语言完成代码编辑、命令行操作等开发任务。</description>
+    </item>
+    
+    <item>
+      <title>Codex with ChatGPT：让 ChatGPT 负责思考，Codex 负责干活</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</link>
+      <pubDate>Wed, 02 Sep 2026 07:25:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</guid>
+      <description>Codex with ChatGPT 是一个将 ChatGPT 网页版变为 Codex 编码会话规划大脑的开源项目，通过只读 MCP 桥接实现思考与执行的分离，无需 API Key，不搞逆向代理，安全高效地复用付费订阅额度。</description>
+    </item>
+    
+    <item>
+      <title>OpenClaude：开源 coding-agent CLI，一个终端搞定所有大模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/openclaude/</link>
+      <pubDate>Wed, 02 Sep 2026 07:18:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/openclaude/</guid>
+      <description>OpenClaude 是一款开源的 coding-agent CLI 工具，支持 OpenAI、Claude、 Gemini、DeepSeek、Ollama 等 200&#43; 大模型，一个终端工作流集成 prompts、工具、agents、MCP、斜杠命令和流式输出。</description>
+    </item>
+    
     <item>
       <title>Effective HTML：用 AI 快速创建高质量 HTML 原型与可视化工件</title>
       <link>https://blog.xlap.top/post/tech/2026-08-26/effective-html/</link>

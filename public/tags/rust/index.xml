@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 12:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</link>
+      <pubDate>Mon, 07 Sep 2026 12:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</guid>
+      <description>Stremio Web 是 Stremio 官方开源 Web UI：React 前端 &#43; Rust 编写的 stremio-core 引擎编译为 WASM 在 Web Worker 中运行。本文深入解析其 Addon 生态、UI/Core 架构、视频播放链路与本地部署方式。</description>
+    </item>
+    
+    <item>
+      <title>Fastpotify：用 Rust 写的轻量 Spotify 客户端，内存占用仅官方四分之一</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</link>
+      <pubDate>Wed, 02 Sep 2026 14:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</guid>
+      <description>Fastpotify 是一个用 Rust 和 egui 构建的原生 Spotify 客户端，通过 librespot 播放音乐，内存仅 100-250MB，支持 Spotify Connect、Winamp 皮肤、MilkDrop 可视化效果，跨平台运行。</description>
+    </item>
+    
     <item>
       <title>WalGit：一个跑在对象存储前的单二进制 Git 服务器</title>
       <link>https://blog.xlap.top/post/tech/2026-08-27/walgit/</link>

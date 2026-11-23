@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 00:04:38 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/sie/</link>
+      <pubDate>Thu, 03 Sep 2026 00:04:38 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/sie/</guid>
+      <description>SIE 是 Superlinked 开源的自托管推理引擎，通过一个集群统一服务于 Agent 所需的全部模型任务——搜索检索、文档转 Markdown、结构化输出、内容安全和 Agent 循环本身，兼容 OpenAI API，支持 100&#43; 模型按需加载。</description>
+    </item>
+    
     <item>
       <title>Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱</title>
       <link>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</link>

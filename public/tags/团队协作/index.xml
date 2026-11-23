@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 20:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TeamAI 深度解析：用 Git 把团队的 Skills、规则与知识库同步到每一个 AI Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</link>
+      <pubDate>Wed, 09 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</guid>
+      <description>TeamAI 是腾讯开源的团队级 AI 协同 CLI，以 Git 为单一信源，把 Skills、规则、MCP、Hooks 与团队知识库统一分发到 Claude Code、Cursor、Codex 等主流 AI 编程工具，并支持经验自动沉淀与代码知识图谱检索。本文从架构到实战带你全面上手。</description>
+    </item>
+    
     <item>
       <title>EdgeChat：基于 Cloudflare 全家桶的现代团队聊天系统</title>
       <link>https://blog.xlap.top/post/tech/2026-08-19/edgechat/</link>

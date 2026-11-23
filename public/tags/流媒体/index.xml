@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%81%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 12:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B5%81%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</link>
+      <pubDate>Mon, 07 Sep 2026 12:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</guid>
+      <description>Stremio Web 是 Stremio 官方开源 Web UI：React 前端 &#43; Rust 编写的 stremio-core 引擎编译为 WASM 在 Web Worker 中运行。本文深入解析其 Addon 生态、UI/Core 架构、视频播放链路与本地部署方式。</description>
+    </item>
+    
     <item>
       <title>iptv-org/iptv：一个收录全球公开 IPTV 频道的开源项目</title>
       <link>https://blog.xlap.top/post/tech/2026-06-13/iptv/</link>

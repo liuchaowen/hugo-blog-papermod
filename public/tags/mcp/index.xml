@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 21:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PI-Desktop 深度解析：把 AI 编程代理装进本地优先的桌面工作区</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</link>
+      <pubDate>Wed, 09 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</guid>
+      <description>PI-Desktop 是一个本地优先的开源桌面应用，为 AI 编程代理提供统一工作区，支持自带模型、权限审批、Plan/Goal 工作流与插件扩展，覆盖 macOS、Windows 与 Linux。</description>
+    </item>
+    
+    <item>
+      <title>TeamAI 深度解析：用 Git 把团队的 Skills、规则与知识库同步到每一个 AI Agent</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</link>
+      <pubDate>Wed, 09 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</guid>
+      <description>TeamAI 是腾讯开源的团队级 AI 协同 CLI，以 Git 为单一信源，把 Skills、规则、MCP、Hooks 与团队知识库统一分发到 Claude Code、Cursor、Codex 等主流 AI 编程工具，并支持经验自动沉淀与代码知识图谱检索。本文从架构到实战带你全面上手。</description>
+    </item>
+    
+    <item>
+      <title>Codex with ChatGPT：让 ChatGPT 负责思考，Codex 负责干活</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</link>
+      <pubDate>Wed, 02 Sep 2026 07:25:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</guid>
+      <description>Codex with ChatGPT 是一个将 ChatGPT 网页版变为 Codex 编码会话规划大脑的开源项目，通过只读 MCP 桥接实现思考与执行的分离，无需 API Key，不搞逆向代理，安全高效地复用付费订阅额度。</description>
+    </item>
+    
     <item>
       <title>Awesome MCP Servers：一份收录 3000&#43; 服务端的 MCP 生态全景清单</title>
       <link>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</link>

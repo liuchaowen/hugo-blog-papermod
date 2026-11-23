@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yt-Dlp on Blog - XLapTop</title>
+    <link>https://blog.xlap.top/tags/yt-dlp/</link>
+    <description>Recent content in Yt-Dlp on Blog - XLapTop</description>
+    <image>
+      <title>Blog - XLapTop</title>
+      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Sep 2026 13:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/yt-dlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ReClip：基于 yt-dlp 的自托管视频/音频下载器，自带极简 Web UI</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/reclip/</link>
+      <pubDate>Wed, 02 Sep 2026 13:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/reclip/</guid>
+      <description>ReClip 是一个自托管的开源视频/音频下载器，基于 yt-dlp 与 ffmpeg 构建，支持 YouTube、TikTok、Instagram 等 1000&#43; 站点，提供无需打包的纯前端 Web UI，后端仅约 150 行 Flask 代码，可一键将链接下载为 MP4 或 MP3。</description>
+    </item>
+    
+  </channel>
+</rss>

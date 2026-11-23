@@ -2,22 +2,625 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.xlap.top/tags/a2a/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
+    <loc>https://blog.xlap.top/tags/3d%E7%BA%B9%E7%90%86%E7%BB%98%E5%88%B6/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/categories/ai/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
+    <loc>https://blog.xlap.top/tags/armorpaint/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/ai/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
+    <loc>https://blog.xlap.top/post/tech/2026-09-10/armorpaint/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/gpu%E6%B8%B2%E6%9F%93/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/haxe/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/kha/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/pbr/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2026-09-10T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/claude/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/github/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/polymarket/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/solana/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/typescript/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA/</loc>
+    <lastmod>2026-09-10T19:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</loc>
+    <lastmod>2026-09-10T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+    <lastmod>2026-09-10T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D/</loc>
+    <lastmod>2026-09-10T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2026-09-10T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/ai%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/github-trending/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/mcp/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/pi-desktop/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2026-09-09T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai/</loc>
+    <lastmod>2026-09-09T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/claude-code/</loc>
+    <lastmod>2026-09-09T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</loc>
+    <lastmod>2026-09-09T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C/</loc>
+    <lastmod>2026-09-09T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</loc>
+    <lastmod>2026-09-09T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/tts/</loc>
+    <lastmod>2026-09-09T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2026-09-09T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-09-09T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/</loc>
+    <lastmod>2026-09-09T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2026-09-09T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/</loc>
+    <lastmod>2026-09-09T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2026-09-09T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2026-09-09T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-09/system-design-notes/</loc>
+    <lastmod>2026-09-09T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/agent%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2026-09-09T13:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/deepseek/</loc>
+    <lastmod>2026-09-09T13:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/</loc>
+    <lastmod>2026-09-09T13:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/android/</loc>
+    <lastmod>2026-09-08T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/electron/</loc>
+    <lastmod>2026-09-08T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-08/escrcpy/</loc>
+    <lastmod>2026-09-08T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/scrcpy/</loc>
+    <lastmod>2026-09-08T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8A%95%E5%B1%8F/</loc>
+    <lastmod>2026-09-08T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/ai/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/llm%E5%BE%AE%E8%B0%83/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/lora/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/weclone/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-08/weclone/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%95%B0%E5%AD%97%E5%88%86%E8%BA%AB/</loc>
+    <lastmod>2026-09-08T15:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/apk/</loc>
+    <lastmod>2026-09-08T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-08/web-to-app/</loc>
+    <lastmod>2026-09-08T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-08T14:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/transformer/</loc>
+    <lastmod>2026-09-08T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-08/x-algorithm-feed/</loc>
+    <lastmod>2026-09-08T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-09-08T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2026-09-08T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2026-09-07T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/browser/</loc>
+    <lastmod>2026-09-07T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/zig/</loc>
+    <lastmod>2026-09-07T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2026-09-07T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2026-09-07T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai-agent/</loc>
+    <lastmod>2026-09-07T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/camofox-browser/</loc>
+    <lastmod>2026-09-07T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%8F%8D%E6%A3%80%E6%B5%8B/</loc>
+    <lastmod>2026-09-07T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2026-09-07T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</loc>
+    <lastmod>2026-09-07T13:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/material-design/</loc>
+    <lastmod>2026-09-07T13:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-07T13:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/pwa/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/react/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/rust/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/webassembly/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
+    <lastmod>2026-09-07T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</loc>
+    <lastmod>2026-09-07T08:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/material-3/</loc>
+    <lastmod>2026-09-07T08:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2026-09-07T08:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-07T08:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/dhh/</loc>
+    <lastmod>2026-09-07T06:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/linux/</loc>
+    <lastmod>2026-09-07T06:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/omarchy/</loc>
+    <lastmod>2026-09-07T06:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/omarchy/</loc>
+    <lastmod>2026-09-07T06:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%A1%8C%E9%9D%A2%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
+    <lastmod>2026-09-07T06:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/autohedge/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/swarms/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2026-09-07T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/c&#43;&#43;/</loc>
+    <lastmod>2026-09-07T01:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/clang/</loc>
+    <lastmod>2026-09-07T01:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/llvm/</loc>
+    <lastmod>2026-09-07T01:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</loc>
+    <lastmod>2026-09-07T01:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/</loc>
+    <lastmod>2026-09-07T01:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/codex/</loc>
+    <lastmod>2026-09-06T23:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/openai/</loc>
+    <lastmod>2026-09-06T23:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-06/skills/</loc>
+    <lastmod>2026-09-06T23:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8A%80%E8%83%BD/</loc>
+    <lastmod>2026-09-06T23:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</loc>
+    <lastmod>2026-09-06T09:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/</loc>
+    <lastmod>2026-09-06T09:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</loc>
+    <lastmod>2026-09-05T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/prompt-engineering/</loc>
+    <lastmod>2026-09-05T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-05T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/fcksignups/</loc>
+    <lastmod>2026-09-05T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7%E9%9B%86/</loc>
+    <lastmod>2026-09-05T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/humanlayer/</loc>
+    <lastmod>2026-09-05T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/skills/</loc>
+    <lastmod>2026-09-05T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/amd/</loc>
+    <lastmod>2026-09-05T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/dlss/</loc>
+    <lastmod>2026-09-05T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E7%A5%9E%E7%BB%8F%E6%B8%B2%E6%9F%93/</loc>
+    <lastmod>2026-09-05T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2026-09-05T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/dlss-nr-on-amd/</loc>
+    <lastmod>2026-09-05T17:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/anthropic/</loc>
+    <lastmod>2026-09-05T07:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</loc>
+    <lastmod>2026-09-05T07:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2026-09-05T07:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/directx/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/renodx/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/renodx/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/reshade/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E6%A8%A1%E7%BB%84/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E7%9D%80%E8%89%B2%E5%99%A8/</loc>
+    <lastmod>2026-09-05T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-05/opencode/</loc>
+    <lastmod>2026-09-05T00:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2026-09-05T00:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-05T00:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-05T00:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/agent-skill/</loc>
+    <lastmod>2026-09-04T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2026-09-04T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</loc>
+    <lastmod>2026-09-04T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%8E%BBai%E5%8C%96/</loc>
+    <lastmod>2026-09-04T23:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/megatron-lm/</loc>
+    <lastmod>2026-09-04T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-04/miles/</loc>
+    <lastmod>2026-09-04T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/sglang/</loc>
+    <lastmod>2026-09-04T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%8E%E8%AE%AD%E7%BB%83/</loc>
+    <lastmod>2026-09-04T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-09-04T21:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-04/exploitarium/</loc>
+    <lastmod>2026-09-04T20:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/fuzzing/</loc>
+    <lastmod>2026-09-04T20:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/poc/</loc>
+    <lastmod>2026-09-04T20:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-09-04T20:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/</loc>
+    <lastmod>2026-09-04T20:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-04/cn-shadcn-ui/</loc>
+    <lastmod>2026-09-04T16:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/shadcn/</loc>
+    <lastmod>2026-09-04T16:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/tailwind-css/</loc>
+    <lastmod>2026-09-04T16:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2026-09-04T16:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/llm/</loc>
+    <lastmod>2026-09-03T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-03/prompts-chat/</loc>
+    <lastmod>2026-09-03T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
+    <lastmod>2026-09-03T19:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-03/portless/</loc>
+    <lastmod>2026-09-03T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-03T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2026-09-03T04:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/nuxt/</loc>
+    <lastmod>2026-09-03T03:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-03/typewords/</loc>
+    <lastmod>2026-09-03T03:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E6%9B%B2%E7%BA%BF/</loc>
+    <lastmod>2026-09-03T03:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-09-03T03:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/agent/</loc>
+    <lastmod>2026-09-03T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-03/atlas/</loc>
+    <lastmod>2026-09-03T02:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-03/sie/</loc>
+    <lastmod>2026-09-03T00:04:38+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/</loc>
+    <lastmod>2026-09-03T00:04:38+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/</loc>
+    <lastmod>2026-09-03T00:04:38+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/a%E8%82%A1/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/baostock/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/python/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%A3%9E%E4%B9%A6%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2026-09-02T23:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</loc>
+    <lastmod>2026-09-02T22:04:24+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2026-09-02T22:04:24+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</loc>
+    <lastmod>2026-09-02T22:04:24+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/fmt/</loc>
+    <lastmod>2026-09-02T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96/</loc>
+    <lastmod>2026-09-02T20:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/egui/</loc>
+    <lastmod>2026-09-02T14:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</loc>
+    <lastmod>2026-09-02T14:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/librespot/</loc>
+    <lastmod>2026-09-02T14:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/spotify/</loc>
+    <lastmod>2026-09-02T14:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/flask/</loc>
+    <lastmod>2026-09-02T13:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/reclip/</loc>
+    <lastmod>2026-09-02T13:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/yt-dlp/</loc>
+    <lastmod>2026-09-02T13:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-02T13:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai%E8%AE%AD%E7%BB%83/</loc>
+    <lastmod>2026-09-02T12:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/minimind/</loc>
+    <lastmod>2026-09-02T12:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/pytorch/</loc>
+    <lastmod>2026-09-02T12:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2026-09-02T12:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/</loc>
+    <lastmod>2026-09-02T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/ai-%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-02T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B/</loc>
+    <lastmod>2026-09-02T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-09-02T11:04:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/chatgpt/</loc>
+    <lastmod>2026-09-02T07:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/codex-with-chatgpt/</loc>
+    <lastmod>2026-09-02T07:25:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/cli%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-09-02T07:18:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/coding-agent/</loc>
+    <lastmod>2026-09-02T07:18:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/post/tech/2026-09-02/openclaude/</loc>
+    <lastmod>2026-09-02T07:18:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2026-09-02T07:18:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.xlap.top/tags/a2a/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-31/checkstyle/</loc>
@@ -27,9 +630,6 @@
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/demucs/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/github/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/java/</loc>
@@ -47,12 +647,6 @@
     <loc>https://blog.xlap.top/tags/obsidian/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/post/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/python/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/sim2real/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
@@ -62,25 +656,19 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-31/stemdeck/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/</loc>
+    <loc>https://blog.xlap.top/tags/zod/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://blog.xlap.top/post/tech/2026-08-31/zod/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc>
@@ -92,16 +680,16 @@
     <loc>https://blog.xlap.top/tags/%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E6%A0%A1%E9%AA%8C/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
@@ -125,9 +713,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-31/patent-disclosure-skill/</loc>
     <lastmod>2026-08-31T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/</loc>
-    <lastmod>2026-08-31T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-30/address/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
@@ -138,12 +723,6 @@
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</loc>
-    <lastmod>2026-08-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/chatgpt/</loc>
-    <lastmod>2026-08-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/codex/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-30/codex-chatgpt-web/</loc>
@@ -174,9 +753,6 @@
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/macos/</loc>
-    <lastmod>2026-08-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/mcp/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/multi-agent/</loc>
@@ -230,9 +806,6 @@
     <loc>https://blog.xlap.top/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2026-08-30T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A7%81%E6%9C%89%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
   </url><url>
@@ -241,9 +814,6 @@
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/ai-agent/</loc>
-    <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/aot/</loc>
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
@@ -320,19 +890,10 @@
     <loc>https://blog.xlap.top/tags/wireguard/</loc>
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/</loc>
-    <lastmod>2026-08-29T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2026-08-29T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/</loc>
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%9B%BA%E4%BB%B6%E8%A1%A5%E4%B8%81/</loc>
-    <lastmod>2026-08-29T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6/</loc>
@@ -354,9 +915,6 @@
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91/</loc>
-    <lastmod>2026-08-29T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2026-08-29T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
@@ -384,12 +942,6 @@
     <lastmod>2026-08-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/c&#43;&#43;/</loc>
-    <lastmod>2026-08-28T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/c&#43;&#43;/</loc>
-    <lastmod>2026-08-28T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/claude-code/</loc>
     <lastmod>2026-08-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-28/cumora/</loc>
@@ -426,9 +978,6 @@
     <lastmod>2026-08-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/svg/</loc>
-    <lastmod>2026-08-28T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/typescript/</loc>
     <lastmod>2026-08-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/weave/</loc>
@@ -485,9 +1034,6 @@
     <loc>https://blog.xlap.top/tags/%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/</loc>
     <lastmod>2026-08-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/agent/</loc>
-    <lastmod>2026-08-27T20:01:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-27/paperthin/</loc>
     <lastmod>2026-08-27T20:01:00+08:00</lastmod>
   </url><url>
@@ -521,9 +1067,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-27/nitter/</loc>
     <lastmod>2026-08-27T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/rust/</loc>
-    <lastmod>2026-08-27T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-27/scientific-agent-skills/</loc>
     <lastmod>2026-08-27T00:00:00+08:00</lastmod>
   </url><url>
@@ -536,16 +1079,7 @@
     <loc>https://blog.xlap.top/tags/%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8/</loc>
     <lastmod>2026-08-27T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2026-08-27T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2026-08-27T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2026-08-27T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
     <lastmod>2026-08-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF/</loc>
@@ -570,9 +1104,6 @@
     <lastmod>2026-08-26T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/agent-skills/</loc>
-    <lastmod>2026-08-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/ai%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2026-08-26T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/copilotkit/</loc>
@@ -623,12 +1154,6 @@
     <loc>https://blog.xlap.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-08-26T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2026-08-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/categories/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-08-26T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2026-08-26T00:00:00+08:00</lastmod>
   </url><url>
@@ -657,9 +1182,6 @@
     <lastmod>2026-08-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-25/gods-eye-view/</loc>
-    <lastmod>2026-08-25T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/llm/</loc>
     <lastmod>2026-08-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-25/marin/</loc>
@@ -693,9 +1215,6 @@
     <lastmod>2026-08-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2026-08-25T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2026-08-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96/</loc>
@@ -740,13 +1259,7 @@
     <loc>https://blog.xlap.top/tags/chatbot/</loc>
     <lastmod>2026-08-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/claude/</loc>
-    <lastmod>2026-08-24T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-24/claude-obsidian/</loc>
-    <lastmod>2026-08-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/deepseek/</loc>
     <lastmod>2026-08-24T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/dsh/</loc>
@@ -764,9 +1277,6 @@
     <loc>https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2026-08-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
-    <lastmod>2026-08-24T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E5%A4%9Aagent%E5%8D%8F%E5%90%8C/</loc>
     <lastmod>2026-08-24T00:00:00+08:00</lastmod>
   </url><url>
@@ -782,16 +1292,10 @@
     <loc>https://blog.xlap.top/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2026-08-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/anthropic/</loc>
-    <lastmod>2026-08-23T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/arc-agi/</loc>
     <lastmod>2026-08-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-23/arc-task-gen/</loc>
-    <lastmod>2026-08-23T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/a%E8%82%A1/</loc>
     <lastmod>2026-08-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/bitwarden/</loc>
@@ -822,9 +1326,6 @@
     <lastmod>2026-08-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2026-08-23T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</loc>
     <lastmod>2026-08-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86/</loc>
@@ -869,9 +1370,6 @@
     <loc>https://blog.xlap.top/tags/onnx/</loc>
     <lastmod>2026-08-22T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/openai/</loc>
-    <lastmod>2026-08-22T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-22/codex/</loc>
     <lastmod>2026-08-22T00:00:00+08:00</lastmod>
   </url><url>
@@ -890,9 +1388,6 @@
     <loc>https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-08-22T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/</loc>
-    <lastmod>2026-08-22T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E5%BE%AE%E8%BD%AF/</loc>
     <lastmod>2026-08-22T00:00:00+08:00</lastmod>
   </url><url>
@@ -906,12 +1401,6 @@
     <lastmod>2026-08-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/ai%E6%8E%A8%E7%90%86/</loc>
-    <lastmod>2026-08-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/electron/</loc>
-    <lastmod>2026-08-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/github-trending/</loc>
     <lastmod>2026-08-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/google-maps/</loc>
@@ -933,9 +1422,6 @@
     <lastmod>2026-08-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2026-08-21T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2026-08-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%A8%A1%E5%9E%8B%E5%A2%9E%E5%BC%BA/</loc>
@@ -1031,9 +1517,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</loc>
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/ai%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2026-08-19T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/ai%E6%99%BA%E8%83%BD%E4%BD%93/</loc>
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
@@ -1080,9 +1563,6 @@
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/langgraph/</loc>
-    <lastmod>2026-08-19T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/linux/</loc>
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/logitech/</loc>
@@ -1136,9 +1616,6 @@
     <loc>https://blog.xlap.top/tags/%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C/</loc>
-    <lastmod>2026-08-19T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86/</loc>
     <lastmod>2026-08-19T00:00:00+08:00</lastmod>
   </url><url>
@@ -1181,13 +1658,7 @@
     <loc>https://blog.xlap.top/tags/%E4%BA%A4%E6%98%93%E5%BC%95%E6%93%8E/</loc>
     <lastmod>2026-08-18T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/categories/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2026-08-18T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2026-08-18T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-18T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/agentic-commerce/</loc>
@@ -1244,9 +1715,6 @@
     <loc>https://blog.xlap.top/tags/%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2026-08-17T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-08-17T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90/</loc>
     <lastmod>2026-08-17T00:00:00+08:00</lastmod>
   </url><url>
@@ -1263,9 +1731,6 @@
     <lastmod>2026-08-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</loc>
-    <lastmod>2026-08-16T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/lora/</loc>
     <lastmod>2026-08-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-16/opensandbox/</loc>
@@ -1293,9 +1758,6 @@
     <lastmod>2026-08-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2026-08-16T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2026-08-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/</loc>
@@ -1409,9 +1871,6 @@
     <loc>https://blog.xlap.top/tags/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/</loc>
     <lastmod>2026-08-15T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2026-08-15T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/3d%E7%94%9F%E6%88%90/</loc>
     <lastmod>2026-08-14T00:00:00+08:00</lastmod>
   </url><url>
@@ -1422,9 +1881,6 @@
     <lastmod>2026-08-14T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</loc>
-    <lastmod>2026-08-14T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/cli%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-14T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</loc>
@@ -1488,9 +1944,6 @@
     <lastmod>2026-08-14T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-08-14T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-14T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F/</loc>
@@ -1574,9 +2027,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-13/photo-abstract-editorial/</loc>
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/prompt-engineering/</loc>
-    <lastmod>2026-08-13T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/react-native/</loc>
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
@@ -1590,9 +2040,6 @@
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%B1%80%E5%9F%9F%E7%BD%91/</loc>
-    <lastmod>2026-08-13T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%B7%AF%E7%94%B1/</loc>
@@ -1614,9 +2061,6 @@
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93/</loc>
-    <lastmod>2026-08-13T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-08-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/awesome-list/</loc>
@@ -1658,9 +2102,6 @@
     <loc>https://blog.xlap.top/tags/nlp/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/pytorch/</loc>
-    <lastmod>2026-08-12T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/ragflow/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
@@ -1679,9 +2120,6 @@
     <loc>https://blog.xlap.top/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/</loc>
-    <lastmod>2026-08-12T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
@@ -1689,9 +2127,6 @@
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%95%B0%E5%AD%A6%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
-    <lastmod>2026-08-12T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-11/diagram-design/</loc>
@@ -1745,9 +2180,6 @@
     <loc>https://blog.xlap.top/categories/android/</loc>
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/android/</loc>
-    <lastmod>2026-08-10T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/comfyui/</loc>
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
@@ -1793,9 +2225,6 @@
     <loc>https://blog.xlap.top/tags/ppt/</loc>
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/react/</loc>
-    <lastmod>2026-08-10T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/root/</loc>
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
@@ -1824,9 +2253,6 @@
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2026-08-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2026-08-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%B7%A8%E5%A2%83/</loc>
@@ -1904,9 +2330,6 @@
     <loc>https://blog.xlap.top/tags/%E6%8F%92%E4%BB%B6%E6%A0%87%E5%87%86/</loc>
     <lastmod>2026-08-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2026-08-09T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2026-08-09T00:00:00+08:00</lastmod>
   </url><url>
@@ -1914,9 +2337,6 @@
     <lastmod>2026-08-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%BA%BF/</loc>
-    <lastmod>2026-08-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%97%A0%E5%A4%B4%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2026-08-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/.net/</loc>
@@ -2159,9 +2579,6 @@
     <loc>https://blog.xlap.top/tags/sso/</loc>
     <lastmod>2026-08-06T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/tailwind-css/</loc>
-    <lastmod>2026-08-06T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-06/tailwindcss/</loc>
     <lastmod>2026-08-06T00:00:00+08:00</lastmod>
   </url><url>
@@ -2237,9 +2654,6 @@
     <loc>https://blog.xlap.top/tags/uber/</loc>
     <lastmod>2026-08-05T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/webassembly/</loc>
-    <lastmod>2026-08-05T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/webpack/</loc>
     <lastmod>2026-08-05T00:00:00+08:00</lastmod>
   </url><url>
@@ -2259,9 +2673,6 @@
     <lastmod>2026-08-05T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2026-08-05T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/</loc>
     <lastmod>2026-08-05T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%97%A5%E5%BF%97%E5%BA%93/</loc>
@@ -2330,13 +2741,7 @@
     <loc>https://blog.xlap.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
     <lastmod>2026-08-04T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</loc>
-    <lastmod>2026-08-04T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BA%A4%E4%BA%92%E5%BC%8F%E7%94%9F%E6%88%90/</loc>
-    <lastmod>2026-08-04T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2026-08-04T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%81%8B%E7%88%B1/</loc>
@@ -2435,9 +2840,6 @@
     <loc>https://blog.xlap.top/tags/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-08-03T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%9E%B6%E6%9E%84/</loc>
-    <lastmod>2026-08-03T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E6%8E%A7%E5%88%B6%E5%B9%B3%E9%9D%A2/</loc>
     <lastmod>2026-08-03T00:00:00+08:00</lastmod>
   </url><url>
@@ -2448,9 +2850,6 @@
     <lastmod>2026-08-03T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2026-08-03T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2026-08-03T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-03/mindwalk/</loc>
@@ -2511,9 +2910,6 @@
     <lastmod>2026-08-02T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-02/skate3recomp/</loc>
-    <lastmod>2026-08-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/tts/</loc>
     <lastmod>2026-08-02T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-02/voice-pro/</loc>
@@ -2594,9 +2990,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-08-01/oicpp/</loc>
     <lastmod>2026-08-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/polymarket/</loc>
-    <lastmod>2026-08-01T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</loc>
     <lastmod>2026-08-01T00:00:00+08:00</lastmod>
   </url><url>
@@ -2628,9 +3021,6 @@
     <lastmod>2026-08-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A1%AC%E4%BB%B6%E9%BB%91%E5%AE%A2/</loc>
-    <lastmod>2026-08-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA/</loc>
     <lastmod>2026-08-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-07-31/adhd/</loc>
@@ -2802,9 +3192,6 @@
     <lastmod>2026-07-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2026-07-30T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</loc>
     <lastmod>2026-07-30T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</loc>
@@ -3173,9 +3560,6 @@
     <loc>https://blog.xlap.top/tags/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/</loc>
     <lastmod>2026-07-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2026-07-24T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E8%AF%AD%E6%B3%95%E6%A3%80%E6%9F%A5/</loc>
     <lastmod>2026-07-24T00:00:00+08:00</lastmod>
   </url><url>
@@ -3534,9 +3918,6 @@
     <lastmod>2026-07-20T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-07-20/wrenai/</loc>
-    <lastmod>2026-07-20T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/zig/</loc>
     <lastmod>2026-07-20T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%A4%9Aagent/</loc>
@@ -3959,9 +4340,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-07-13/9router/</loc>
     <lastmod>2026-07-13T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/agent-skill/</loc>
-    <lastmod>2026-07-13T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-07-13/awesome-llm-apps/</loc>
     <lastmod>2026-07-13T00:00:00+08:00</lastmod>
   </url><url>
@@ -4176,9 +4554,6 @@
     <lastmod>2026-07-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E9%85%8D%E7%BD%AE%E8%A7%A3%E6%9E%90/</loc>
-    <lastmod>2026-07-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-07-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/</loc>
@@ -4700,9 +5075,6 @@
     <loc>https://blog.xlap.top/post/tech/2026-06-28/ppt-master/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/transformer/</loc>
-    <lastmod>2026-06-28T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
@@ -4857,9 +5229,6 @@
     <lastmod>2026-06-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2026-06-25T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/</loc>
     <lastmod>2026-06-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E6%B5%81%E9%87%8F%E6%B7%B7%E6%B7%86/</loc>
@@ -5330,12 +5699,6 @@
     <loc>https://blog.xlap.top/tags/%E5%AE%A2%E6%88%B7%E6%94%AF%E6%8C%81/</loc>
     <lastmod>2026-06-13T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
-    <lastmod>2026-06-13T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B/</loc>
-    <lastmod>2026-06-13T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/tags/%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2026-06-13T00:00:00+08:00</lastmod>
   </url><url>
@@ -5744,9 +6107,6 @@
     <loc>https://blog.xlap.top/tags/ai%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2026-06-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.xlap.top/tags/ai%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2026-06-01T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://blog.xlap.top/post/tech/2026-06-01/babysitter/</loc>
     <lastmod>2026-06-01T00:00:00+08:00</lastmod>
   </url><url>
@@ -5799,9 +6159,6 @@
     <lastmod>2026-06-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/tags/%E7%A6%BB%E7%BA%BF%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-06-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2026-06-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.xlap.top/categories/%E5%89%8D%E7%AB%AF%E8%AE%BE%E8%AE%A1/</loc>

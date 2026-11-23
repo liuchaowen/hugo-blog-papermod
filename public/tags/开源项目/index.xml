@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WeClone：用聊天记录微调 LLM，打造你的专属数字分身</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/weclone/</link>
+      <pubDate>Tue, 08 Sep 2026 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/weclone/</guid>
+      <description>WeClone 是一款开源的端到端数字分身解决方案，支持从 Telegram、微信等平台导出聊天记录，通过 LoRA 微调 Qwen2.5-VL 等大模型，部署到 Telegram、Discord 等聊天机器人，让你用真实对话数据训练出 speaking style 和你一模一样的 AI 分身。</description>
+    </item>
+    
     <item>
       <title>OneStep4.0：在 Android 上重现「一步」多窗口交互的桌面容器</title>
       <link>https://blog.xlap.top/post/tech/2026-08-10/onestep4/</link>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 01:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLVM 编译器基础设施：构建高性能编译器与工具链的完整工具集</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</link>
+      <pubDate>Mon, 07 Sep 2026 01:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</guid>
+      <description>LLVM 是业界主流的开源编译器基础设施，提供从 C/C&#43;&#43;/Objective-C 前端 Clang、C&#43;&#43; 标准库 libc&#43;&#43; 到 LLD 链接器的完整工具链，通过统一的 LLVM IR 中间表示与多层优化，将源码高效编译为高度优化的机器码。</description>
+    </item>
+    
     <item>
       <title>TypePHP：PHP 原生 AOT 编译器，将 PHP 编译成机器码</title>
       <link>https://blog.xlap.top/post/tech/2026-08-29/typephp/</link>

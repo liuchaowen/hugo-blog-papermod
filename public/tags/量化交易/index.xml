@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 04:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AutoHedge：基于 Swarm 多智能体架构的自主交易对冲基金</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</link>
+      <pubDate>Mon, 07 Sep 2026 04:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/autohedge/</guid>
+      <description>AutoHedge 是 The Swarm Corporation 开源的企业级自主智能体对冲基金，基于 Swarm 多智能体架构在 Solana 上自动完成市场分析、风险管控与下单执行。本文解析其多 Agent 流水线、技术栈选型与实战用法。</description>
+    </item>
+    
+    <item>
+      <title>Sequoia-X：基于 Python 工程化重构的 A 股量化选股系统</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</link>
+      <pubDate>Wed, 02 Sep 2026 23:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/sequoia-x/</guid>
+      <description>Sequoia-X 是一个面向 A 股市场的量化选股系统，以 OOP 架构、向量化计算和增量数据更新为核心，使用免费数据源 baostock 规避反爬，日终自动选股并推送至飞书。本文剖析其架构设计与内置的 7 类交易策略。</description>
+    </item>
+    
     <item>
       <title>同花顺 Financial-API：面向 AI Agent 与量化研究的 A 股金融数据服务</title>
       <link>https://blog.xlap.top/post/tech/2026-08-23/financial-api/</link>

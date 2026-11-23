@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 14:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebToApp：把整个 APK 工坊装进口袋，在 Android 手机上打包 Web、Node、PHP、Python 与 Go 应用</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/web-to-app/</link>
+      <pubDate>Tue, 08 Sep 2026 14:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/web-to-app/</guid>
+      <description>WebToApp 是一款开源 Android 应用，无需电脑即可在手机上把网页、HTML、Node.js、PHP、Python、Go 乃至 WordPress 打包成 APK/AAB，内置本地服务运行时、反审查网络栈与 MV3 扩展支持，并可直接签名上架 Google Play。</description>
+    </item>
+    
     <item>
       <title>Skills Manager：一个 App 统一管理 52 款 AI 编程助手的 Skills</title>
       <link>https://blog.xlap.top/post/tech/2026-08-17/skills-manager/</link>

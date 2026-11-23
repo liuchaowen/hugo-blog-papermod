@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 19:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</link>
+      <pubDate>Thu, 10 Sep 2026 19:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</guid>
+      <description>Clodds（Claude &#43; Odds）是 alsk1992 开源的 AI 交易终端，用自然语言打通 Polymarket、Kalshi 等 10 个预测市场、7 家合约交易所与 Solana/EVM 链上 DeFi，内置 118&#43; 策略、统一风控引擎、语义记忆与 21 个消息渠道，12 天为 Colosseum Hackathon 建成。</description>
+    </item>
+    
+    <item>
+      <title>DeepSeek Harness：DeepSeek AI 开源的下一代 Agent 框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/</link>
+      <pubDate>Wed, 09 Sep 2026 13:07:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/</guid>
+      <description>DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent 框架，基于一切皆插件架构和 Cordis 时空可组合性范式，提供 Web UI、桌面端、CLI 多形态运行方式，支持 Node.js 22&#43; 和 TypeScript 6。</description>
+    </item>
+    
+    <item>
+      <title>Zod 深度解析：TypeScript 优先的类型安全校验库</title>
+      <link>https://blog.xlap.top/post/tech/2026-08-31/zod/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-08-31/zod/</guid>
+      <description>Zod 是当下最流行的 TypeScript 优先 schema 校验库，能够用一份 schema 同时完成运行时数据校验与静态类型推断。本文从核心特性、技术原理、AOT 编译优化到实战用法，带你系统掌握 Zod，并理解它为何成为全栈类型安全的基石。</description>
+    </item>
+    
     <item>
       <title>开源健身插画库 workout-guide：302 个动作逐帧 SVG 与框架无关 npm 包解析</title>
       <link>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</link>

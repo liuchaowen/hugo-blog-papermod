@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MiniMind：3块钱2小时，从零训练你自己的大语言模型</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/minimind/</link>
+      <pubDate>Wed, 02 Sep 2026 12:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/minimind/</guid>
+      <description>MiniMind 是一个从零开始的大语言模型全链路开源项目，仅用3块钱成本和2小时训练时间，即可训练出约64M参数的超小语言模型，覆盖预训练、SFT、LoRA、RLHF、Tool Use、Agentic RL等完整流程。</description>
+    </item>
+    
     <item>
       <title>Marin：开源大模型训练全流程平台</title>
       <link>https://blog.xlap.top/post/tech/2026-08-25/marin/</link>

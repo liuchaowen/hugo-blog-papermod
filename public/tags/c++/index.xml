@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 01:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLVM 编译器基础设施：构建高性能编译器与工具链的完整工具集</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</link>
+      <pubDate>Mon, 07 Sep 2026 01:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</guid>
+      <description>LLVM 是业界主流的开源编译器基础设施，提供从 C/C&#43;&#43;/Objective-C 前端 Clang、C&#43;&#43; 标准库 libc&#43;&#43; 到 LLD 链接器的完整工具链，通过统一的 LLVM IR 中间表示与多层优化，将源码高效编译为高度优化的机器码。</description>
+    </item>
+    
+    <item>
+      <title>{fmt}：现代 C&#43;&#43; 格式化库的性能与优雅</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-02/fmt/</link>
+      <pubDate>Wed, 02 Sep 2026 20:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-02/fmt/</guid>
+      <description>深入解析 GitHub Trending 热门项目 {fmt}——一个快速、安全、可扩展的 C&#43;&#43; 格式化库，实现了 C&#43;&#43;20 std::format 和 C&#43;&#43;23 std::print，性能比 printf 快 50%，比 iostreams 快数倍。</description>
+    </item>
+    
     <item>
       <title>GoogleTest 深度解析：Google 的 C&#43;&#43; 单元测试框架设计与实践</title>
       <link>https://blog.xlap.top/post/tech/2026-08-28/googletest/</link>

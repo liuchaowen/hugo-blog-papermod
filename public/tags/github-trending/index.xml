@@ -11,7 +11,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 21:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/github-trending/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PI-Desktop 深度解析：把 AI 编程代理装进本地优先的桌面工作区</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</link>
+      <pubDate>Wed, 09 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/pi-desktop/</guid>
+      <description>PI-Desktop 是一个本地优先的开源桌面应用，为 AI 编程代理提供统一工作区，支持自带模型、权限审批、Plan/Goal 工作流与插件扩展，覆盖 macOS、Windows 与 Linux。</description>
+    </item>
+    
+    <item>
+      <title>系统设计面试笔记：从零到百万用户的架构修炼</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-09/system-design-notes/</link>
+      <pubDate>Wed, 09 Sep 2026 14:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-09/system-design-notes/</guid>
+      <description>liquidslr/system-design-notes 是基于 Alex Xu《System Design Interview》两卷本整理的 28 章系统设计笔记，涵盖限流、一致性哈希、分布式存储、URL 短链、聊天系统等核心面试主题，附带大量经典论文与工程实践链接。</description>
+    </item>
+    
+    <item>
+      <title>WeClone：用聊天记录微调 LLM，打造你的专属数字分身</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-08/weclone/</link>
+      <pubDate>Tue, 08 Sep 2026 15:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-08/weclone/</guid>
+      <description>WeClone 是一款开源的端到端数字分身解决方案，支持从 Telegram、微信等平台导出聊天记录，通过 LoRA 微调 Qwen2.5-VL 等大模型，部署到 Telegram、Discord 等聊天机器人，让你用真实对话数据训练出 speaking style 和你一模一样的 AI 分身。</description>
+    </item>
+    
+    <item>
+      <title>NoSignups：一个拒绝注册墙的开源工具聚合站</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/fcksignups/</link>
+      <pubDate>Sat, 05 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/fcksignups/</guid>
+      <description>NoSignups（前称 FckSignups）是一个开源的工具聚合目录，收录 200&#43; 个无需注册、无需邮箱、无追踪即可直接在浏览器中使用的工具。本文解析其 React &#43; TypeScript &#43; Vite 技术栈、工具 Schema 设计与社区贡献机制。</description>
+    </item>
+    
+    <item>
+      <title>在 AMD 显卡上跑 DLSS 5 神经渲染：DLSS-NR-on-AMD 深度解析</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/dlss-nr-on-amd/</link>
+      <pubDate>Sat, 05 Sep 2026 17:05:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/dlss-nr-on-amd/</guid>
+      <description>DLSS-NR-on-AMD 项目让 AMD Radeon RX 9000/7000 系列显卡也能用上 NVIDIA DLSS 5 神经渲染技术，通过拦截 FSR API 实现 DLSS 替换，在赛博朋克 2077 等游戏中获得接近原生 DLSS 的画质提升。</description>
+    </item>
+    
+    <item>
+      <title>OpenCode：开源 AI 编程助手，一个命令搞定全栈开发</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-05/opencode/</link>
+      <pubDate>Sat, 05 Sep 2026 00:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-05/opencode/</guid>
+      <description>OpenCode 是一个开源 AI 编程助手，支持多平台安装，提供 build 和 plan 双 Agent 模式，让开发者通过自然语言完成代码编辑、命令行操作等开发任务。</description>
+    </item>
+    
+    <item>
+      <title>sepia：基于叙事架构层面的 AI 去痕写作技能</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</link>
+      <pubDate>Fri, 04 Sep 2026 23:10:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/sepia-de-ai-writing-skill/</guid>
+      <description>sepia 是一个 Agent Skill，从叙事架构层面修复 AI 写作痕迹，支持 fiction 和专业文档两大类，覆盖 Claude Code、Codex、Grok Build、Antigravity 四大平台。</description>
+    </item>
+    
+    <item>
+      <title>Miles：面向大规模模型后训练的企业级强化学习框架</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-04/miles/</link>
+      <pubDate>Fri, 04 Sep 2026 21:04:00 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-04/miles/</guid>
+      <description>Miles 是 Radixark 开源、基于 SGLang &#43; Megatron-LM 的企业级强化学习后训练框架，支持全异步 RL、低精度训练、P2P 秒级权重同步与 MoE 路由对齐，可在千卡集群上训练万亿参数模型。</description>
+    </item>
+    
+    <item>
+      <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
+      <link>https://blog.xlap.top/post/tech/2026-09-03/sie/</link>
+      <pubDate>Thu, 03 Sep 2026 00:04:38 +0800</pubDate>
+      
+      <guid>https://blog.xlap.top/post/tech/2026-09-03/sie/</guid>
+      <description>SIE 是 Superlinked 开源的自托管推理引擎，通过一个集群统一服务于 Agent 所需的全部模型任务——搜索检索、文档转 Markdown、结构化输出、内容安全和 Agent 循环本身，兼容 OpenAI API，支持 100&#43; 模型按需加载。</description>
+    </item>
+    
     <item>
       <title>把 Google 地图时间线变成动态旅行视频：google-timeline-visualizer 技术解析</title>
       <link>https://blog.xlap.top/post/tech/2026-08-21/google-timeline-visualizer/</link>
