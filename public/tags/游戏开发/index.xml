@@ -1,79 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>游戏开发 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
+    <link>https://xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
     <description>Recent content in 游戏开发 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lighthouse：经典游戏《班卓熊大冒险》的现代重生</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</link>
+      <link>https://xlap.top/post/tech/2026-08-03/lighthouse/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-03/lighthouse/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-03/lighthouse/</guid>
       <description>Lighthouse 是 HarbourMasters 团队开发的《班卓熊大冒险》现代化移植项目，基于 libultraship 引擎重新编译，支持多平台运行、高分辨率渲染、MOD 扩展和自定义资源，让这款经典 N64 游戏在现代硬件上焕发新生。</description>
     </item>
-    
     <item>
       <title>Dear ImGui：一款让你爱不释手的 C&#43;&#43; 即时模式 GUI 库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-28/imgui/</link>
+      <link>https://xlap.top/post/tech/2026-07-28/imgui/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-28/imgui/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-28/imgui/</guid>
       <description>Dear ImGui 是一款轻量级、无依赖的 C&#43;&#43; 即时模式 GUI 库，广泛用于游戏工具开发、实时 3D 可视化和嵌入式应用中，以其极简的 API 和高效的资源消耗著称。</description>
     </item>
-    
     <item>
       <title>meshoptimizer：为 GPU 渲染而生的网格优化与压缩库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/meshoptimizer/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/meshoptimizer/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/meshoptimizer/</guid>
       <description>meshoptimizer 是 zeux 开发的高性能 C/C&#43;&#43; 网格处理库，提供顶点缓存优化、Overdraw 优化、顶点量化、Meshlet 生成、网格压缩与简化等一整套算法，能显著提升 GPU 渲染效率并降低存储与带宽开销。本文深入其架构与核心管线。</description>
     </item>
-    
     <item>
       <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>
+      <link>https://xlap.top/post/tech/2026-07-09/u3-sdk/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
       <description>深入探索 SmartlyDressedGames 开源的 U3-SDK，这是一个用于 Unturned 游戏 Mod 开发的完整 Unity SDK，包含源码、工具链和丰富的文档资源。</description>
     </item>
-    
     <item>
       <title>MCP for Unity：用自然语言控制 Unity 编辑器，AI 驱动的游戏开发新范式</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</link>
+      <link>https://xlap.top/post/tech/2026-07-05/unity-mcp/</link>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-05/unity-mcp/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-05/unity-mcp/</guid>
       <description>MCP for Unity 通过 Model Context Protocol 将 Claude、VS Code 等 AI 助手与 Unity 编辑器连接，提供 47 个 MCP 工具入口，支持资源管理、场景控制、脚本编辑、测试运行等全流程自动化，让游戏开发进入自然语言编程时代。</description>
     </item>
-    
     <item>
       <title>Unciv：开源跨平台的文明V重制版，用LibGDX打造怀旧4X策略游戏</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/unciv/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/unciv/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/unciv/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/unciv/</guid>
       <description>Unciv 是一款开源、专注于模改的 Android 和桌面端文明V重制版，使用 LibGDX 开发。它能在低配设备上流畅运行，支持多平台安装，拥有活跃的社区和丰富的模改生态。</description>
     </item>
-    
     <item>
       <title>Godot Engine：开源跨平台游戏引擎的佼佼者</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</link>
+      <link>https://xlap.top/post/tech/2026-06-02/godot-engine/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-02/godot-engine/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-02/godot-engine/</guid>
       <description>探索 Godot Engine —— 开源跨平台游戏引擎的佼佼者，全面解析其架构、特性与应用场景。</description>
     </item>
-    
   </channel>
 </rss>

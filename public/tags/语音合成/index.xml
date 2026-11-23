@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>语音合成 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</link>
+    <link>https://xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</link>
     <description>Recent content in 语音合成 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:04:24 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 22:04:24 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VoiceStudio：本地运行的语音克隆、视频配音与多引擎 TTS 工具箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/voicestudio/</link>
       <pubDate>Wed, 02 Sep 2026 22:04:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/voicestudio/</guid>
       <description>VoiceStudio 是一个本地优先的语音工具平台，支持 16 种 TTS 引擎和 11 种 ASR 引擎，覆盖 646 种语言，可在 macOS、Windows、Linux 和 Docker 上运行，无需 API Key 或订阅，让语音克隆、视频配音、听写和长篇音频制作完全在本地完成。</description>
     </item>
-    
     <item>
       <title>VibeVoice：微软开源前沿语音 AI 模型家族</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</link>
+      <link>https://xlap.top/post/tech/2026-07-30/vibevoice/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-30/vibevoice/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-30/vibevoice/</guid>
       <description>VibeVoice 是微软开源的语音 AI 模型家族，同时支持语音识别（ASR）和语音合成（TTS），涵盖长音频（60分钟）识别、流式实时合成、BitNet CPU 量化推理等前沿能力。</description>
     </item>
-    
     <item>
       <title>Hugging Face Speech-to-Speech：一站式语音对话开源引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
+      <link>https://xlap.top/post/tech/2026-07-10/speech-to-speech/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-10/speech-to-speech/</guid>
       <description>Hugging Face 开源的 speech-to-speech 是一个模块化、低延迟的语音对话流水线，支持 VAD→STT→LLM→TTS 全链路，通过 OpenAI Realtime 协议暴露 WebSocket 接口，所有组件均可替换，支持本地和云端部署。</description>
     </item>
-    
     <item>
       <title>VoxCPM2：无分词器多语言TTS系统，支持30种语言语音生成与声音设计</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</link>
+      <link>https://xlap.top/post/tech/2026-05-31/voxcpm/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-31/voxcpm/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-31/voxcpm/</guid>
       <description>OpenBMB开源的VoxCPM2是一款无分词器TTS系统，支持30种语言语音生成、声音设计与可控克隆，48kHz高保真输出，Apache 2.0商业友好许可。</description>
     </item>
-    
     <item>
       <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>
+      <link>https://xlap.top/post/tech/2026-05-29/moss-tts/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-29/moss-tts/</guid>
       <description>深入解析 OpenMOSS 团队开源的 MOSS-TTS Family，涵盖高精度语音合成、对话生成、声音设计、实时 TTS 和音效生成五大模型</description>
     </item>
-    
   </channel>
 </rss>

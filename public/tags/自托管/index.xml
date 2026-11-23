@@ -1,178 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>自托管 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/</link>
+    <link>https://xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/</link>
     <description>Recent content in 自托管 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:04:38 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 00:04:38 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E8%87%AA%E6%89%98%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-03/sie/</link>
+      <link>https://xlap.top/post/tech/2026-09-03/sie/</link>
       <pubDate>Thu, 03 Sep 2026 00:04:38 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-03/sie/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-03/sie/</guid>
       <description>SIE 是 Superlinked 开源的自托管推理引擎，通过一个集群统一服务于 Agent 所需的全部模型任务——搜索检索、文档转 Markdown、结构化输出、内容安全和 Agent 循环本身，兼容 OpenAI API，支持 100&#43; 模型按需加载。</description>
     </item>
-    
     <item>
       <title>Mailflare：基于 Cloudflare 的自托管 AI 邮件收件箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</link>
+      <link>https://xlap.top/post/tech/2026-08-31/mailflare/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-31/mailflare/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-31/mailflare/</guid>
       <description>Mailflare 是一个运行在 Cloudflare 上的自托管邮件系统，借助 Workers、D1、R2、Durable Objects 和 Email Routing 实现自定义域名的收发信、实时通知与 AI 收件箱。本文从架构、技术栈、安装与实战角度深度拆解。</description>
     </item>
-    
     <item>
       <title>Address：基于 PostgreSQL 的自托管真实住宅地址生成器</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-30/address/</link>
+      <link>https://xlap.top/post/tech/2026-08-30/address/</link>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-30/address/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-30/address/</guid>
       <description>Address 是一个自托管的真实住宅地址生成器，底层由 PostgreSQL 驱动，覆盖 27 个国家与地区的官方公开地址源。本文解析其架构、技术选型、数据同步机制与一键部署方式。</description>
     </item>
-    
     <item>
       <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</link>
+      <link>https://xlap.top/post/tech/2026-08-24/bookorbit/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-24/bookorbit/</guid>
       <description>BookOrbit 是一个 AGPL 许可的自托管阅读平台，统一管理电子书、PDF、漫画与有声书，支持 Kobo、KOReader 与网页阅读器三方双向同步，并打通 Hardcover、Readwise、StoryGraph 等外部服务。</description>
     </item>
-    
     <item>
       <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <link>https://xlap.top/post/tech/2026-08-23/vaultwarden/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
       <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
     </item>
-    
     <item>
       <title>Brigade：把你自己的「AI 军团」搬回家——自托管的多智能体操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-13/brigade/</link>
+      <link>https://xlap.top/post/tech/2026-08-13/brigade/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-13/brigade/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-13/brigade/</guid>
       <description>Brigade 是一个完全自托管的个人 AI Agent 生态：一套共享长期记忆（Tideline）的智能体「军团」，支持真实组织架构成员协作、跨模型无缝切换、1000&#43; 应用连接器与多消息渠道，所有密钥与数据都留在你自己的机器上。</description>
     </item>
-    
     <item>
       <title>Octop：腾讯开源的自托管多用户 AI 助手平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-10/octop/</link>
+      <link>https://xlap.top/post/tech/2026-08-10/octop/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-10/octop/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-10/octop/</guid>
       <description>Octop 是腾讯云开源的自托管 AI 助手平台，支持多用户、多 Agent 架构，集成 Web Dashboard、CLI、IM 通道（飞书/钉钉/QQ/Discord/企业微信）和定时任务，所有数据本地存储，隐私安全有保障。</description>
     </item>
-    
     <item>
       <title>PasarGuard：开源抗审查代理管理面板，统一管理 Xray 与 WireGuard</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</link>
+      <link>https://xlap.top/post/tech/2026-07-27/pasarguard/</link>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-27/pasarguard/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-27/pasarguard/</guid>
       <description>PasarGuard 是一个用 Python &#43; React 构建的开源抗审查代理管理面板，支持 Xray-core 与 WireGuard，提供多用户/多入站管理、流量与到期限制、订阅链接与二维码分享、TLS/REALITY 等特性，适合自建节点与订阅管理。</description>
     </item>
-    
     <item>
       <title>Karakeep：一个带 AI 的极简「万物收藏」自托管书签应用</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</link>
+      <link>https://xlap.top/post/tech/2026-07-07/karakeep/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-07/karakeep/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-07/karakeep/</guid>
       <description>Karakeep（原 Hoarder）是一款以自托管为先的「收藏一切」书签管理应用，支持链接、图片、PDF、RSS 自动抓取，并内置基于 LLM 的自动标签与摘要、全文检索、OCR、规则引擎以及 iOS/Android/浏览器全平台客户端。本文从架构、技术栈、安装使用到常见问题进行深度解析。</description>
     </item>
-    
     <item>
       <title>Immich：高性能自托管照片和视频管理解决方案</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-05/immich/</link>
+      <link>https://xlap.top/post/tech/2026-07-05/immich/</link>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-05/immich/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-05/immich/</guid>
       <description>Immich 是一个开源的高性能自托管照片和视频管理解决方案，支持自动备份、多用户、元数据查看、人脸识别、CLIP 搜索等功能，是 Google Photos 的自托管替代品。</description>
     </item>
-    
     <item>
       <title>RomM：自托管游戏 ROM 管理神器，打造专属游娱库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-04/romm/</link>
+      <link>https://xlap.top/post/tech/2026-07-04/romm/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-04/romm/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-04/romm/</guid>
       <description>RomM (ROM Manager) 是一款开源的自托管游戏 ROM 管理与游玩平台，支持 400&#43; 平台元数据 enrichment、浏览器直接运行游戏、多用户权限管理，并拥有 Playnite/Android/CFW 等多端官方客户端，是 emulator 玩家的必备宝库。</description>
     </item>
-    
     <item>
       <title>Instatic：自带可视化编辑器的自托管 CMS，输出纯净 HTML/CSS</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/instatic/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/instatic/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/instatic/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/instatic/</guid>
       <description>Instatic 是一款基于 Bun 的自托管 CMS，将可视化编辑器、内容引擎和发布器集成在单个服务器中，输出无框架运行时的语义 HTML 和紧凑 CSS，并内置 QuickJS-WASM 沙箱插件系统。</description>
     </item>
-    
     <item>
       <title>TREK: 开源自托管旅行规划协作平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-25/trek/</link>
+      <link>https://xlap.top/post/tech/2026-06-25/trek/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-25/trek/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-25/trek/</guid>
       <description>TREK 是一个功能完备的开源自托管旅行规划工具，支持实时协作、地图、日程、预算、分摊和 AI 辅助，一键 Docker 部署。</description>
     </item>
-    
     <item>
       <title>Rocket.Chat：开源安全的团队通信解决方案</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/rocket-chat/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
       <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
     </item>
-    
     <item>
       <title>TeslaMate：开源自托管 Tesla 数据记录与可视化平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</link>
+      <link>https://xlap.top/post/tech/2026-06-15/teslamate/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-15/teslamate/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-15/teslamate/</guid>
       <description>TeslaMate 是一款用 Elixir 编写的开源自托管 Tesla 数据记录工具，支持高精度行程记录、Postgres 存储、Grafana 可视化及 MQTT 集成，是 Tesla 车主进行车辆数据分析的最佳选择。</description>
     </item>
-    
     <item>
       <title>Open Notebook：开源隐私优先的 Notebook LM 替代品，支持 18&#43; AI 提供商</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</link>
+      <link>https://xlap.top/post/tech/2026-06-05/open-notebook/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-05/open-notebook/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-05/open-notebook/</guid>
       <description>Open Notebook 是一款开源、隐私优先的研究助手工具，作为 Google Notebook LM 的替代品，支持 18&#43; AI 模型提供商（OpenAI、Anthropic、Ollama 等），提供多模态内容管理、专业播客生成、全文搜索等功能，数据完全自主可控。</description>
     </item>
-    
     <item>
       <title>Hermes WebUI：为 Hermes Agent 打造的自托管 Web 界面</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/hermes-webui/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/hermes-webui/</guid>
       <description>Hermes WebUI 是为 Hermes Agent 打造的自托管 Web 界面，提供与 CLI 完全一致的体验，支持多平台访问、持久化记忆、定时任务等特性，是 OpenClaw 的有力竞争者。</description>
     </item>
-    
     <item>
       <title>Paperless-ngx：现代化开源文档管理系统完全指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</link>
+      <link>https://xlap.top/post/tech/2026-05-26/paperless-ngx/</link>
       <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-26/paperless-ngx/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-26/paperless-ngx/</guid>
       <description>Paperless-ngx 是一个强大的开源文档管理系统，能够将纸质文档转换为可搜索的数字化档案。本文深入解析其架构设计、技术栈选型、安装部署及实战经验。</description>
     </item>
-    
   </channel>
 </rss>

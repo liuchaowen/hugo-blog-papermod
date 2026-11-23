@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>语音克隆 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/</link>
+    <link>https://xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/</link>
     <description>Recent content in 语音克隆 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 16:05:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OmniVoice：支持600&#43;语言的零样本TTS语音克隆模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</link>
+      <link>https://xlap.top/post/tech/2026-09-09/omnivoice/</link>
       <pubDate>Wed, 09 Sep 2026 16:05:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-09/omnivoice/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-09/omnivoice/</guid>
       <description>OmniVoice 是 k2-fsa 团队开源的零样本多语言文本转语音模型，支持超过600种语言，基于扩散语言模型架构，支持语音克隆、语音设计和细粒度控制，推理速度 RTF 低至 0.025。</description>
     </item>
-    
     <item>
       <title>VoiceStudio：本地运行的语音克隆、视频配音与多引擎 TTS 工具箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/voicestudio/</link>
       <pubDate>Wed, 02 Sep 2026 22:04:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/voicestudio/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/voicestudio/</guid>
       <description>VoiceStudio 是一个本地优先的语音工具平台，支持 16 种 TTS 引擎和 11 种 ASR 引擎，覆盖 646 种语言，可在 macOS、Windows、Linux 和 Docker 上运行，无需 API Key 或订阅，让语音克隆、视频配音、听写和长篇音频制作完全在本地完成。</description>
     </item>
-    
   </channel>
 </rss>

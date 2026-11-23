@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>编程工具 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</link>
+    <link>https://xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in 编程工具 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAI Codex CLI：本地运行的 AI 编程助手</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-22/codex/</link>
+      <link>https://xlap.top/post/tech/2026-08-22/codex/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-22/codex/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-22/codex/</guid>
       <description>Codex CLI 是 OpenAI 推出的本地 AI 编程工具，通过命令行直接在终端中调用 GPT-4o 等模型完成代码编写、调试和重构任务，支持 Mac/Linux/Windows 多平台。</description>
     </item>
-    
     <item>
       <title>Paseo：一个接口掌控所有 AI 编程 Agent（Claude Code / Codex / Copilot）</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-20/paseo/</link>
+      <link>https://xlap.top/post/tech/2026-07-20/paseo/</link>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-20/paseo/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-20/paseo/</guid>
       <description>Paseo 是一个开源的本地 AI 编程 Agent 编排工具，通过统一接口同时管理 Claude Code、Codex、GitHub Copilot、OpenCode、Pi 等多种 Agent，支持跨设备控制与语音交互，隐私优先，无遥测无强制登录。</description>
     </item>
-    
     <item>
       <title>no-mistakes：一个 Git AI 审核门卫，让每次 PR 都干净体面</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</link>
+      <link>https://xlap.top/post/tech/2026-06-25/no-mistakes/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-25/no-mistakes/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-25/no-mistakes/</guid>
       <description>no-mistakes 是一个 Git 本地代理工具，在推送到远程之前运行 AI 驱动的自动化审核流水线，自动修复安全问题、格式化代码、生成规范 PR，解决了 AI 编程助手容易「污染」代码库的痛点。</description>
     </item>
-    
   </channel>
 </rss>

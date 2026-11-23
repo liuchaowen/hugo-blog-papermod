@@ -1,97 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>开发者工具 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</link>
+    <link>https://xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in 开发者工具 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 05 Sep 2026 23:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 23:10:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everything Claude Code：一位 Anthropic 黑客松冠军的 Claude Code 配置全家桶</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
+      <link>https://xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
       <pubDate>Sat, 05 Sep 2026 23:10:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
       <description>Everything Claude Code 是 Anthropic 黑客松冠军 Affaan Mustafa 开源的 Claude Code 配置合集，包含经过 10 个月以上生产环境打磨的 agents、skills、hooks、commands、rules 与 MCP 配置，覆盖 Token 优化、记忆持久化、验证循环与并行化等高级工程实践，支持 Windows、macOS、Linux 全平台。</description>
     </item>
-    
     <item>
       <title>HumanLayer Skills：让 Claude Code 拥有专业领域技能的扩展技能集</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-05/skills/</link>
+      <link>https://xlap.top/post/tech/2026-09-05/skills/</link>
       <pubDate>Sat, 05 Sep 2026 20:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-05/skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-05/skills/</guid>
       <description>HumanLayer 开源的 skills 项目为 Claude Code 提供了一套可插拔的专业领域技能包，覆盖 CLAUDE.md 优化、React 类型收窄、Agentic 循环构建和控制回路设计等场景，通过简单的 npx 命令即可安装并在对话中以 /skill 形式调用。</description>
     </item>
-    
     <item>
       <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/ipollowork/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/ipollowork/</guid>
       <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
     </item>
-    
     <item>
       <title>Harper：轻量级隐私优先的英语语法检查器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <link>https://xlap.top/post/tech/2026-07-24/harper/</link>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-24/harper/</guid>
       <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
     </item>
-    
     <item>
       <title>intercom/2x-skills：一个汇聚 Claude Code 高质量技能的开放市场</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/2x-skills/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/2x-skills/</guid>
       <description>2x-skills 是 Intercom 团队推出的 Claude Code 技能市场，提供代码审查、安全加固、权限分析、成本优化等一系列精选插件，帮助开发者更高效地使用 Claude Code。</description>
     </item>
-    
     <item>
       <title>DNSHE Free Domains：面向开发者的免费域名与 DNS 解析服务</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</link>
+      <link>https://xlap.top/post/tech/2026-07-13/dnshe-freedomains/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-13/dnshe-freedomains/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-13/dnshe-freedomains/</guid>
       <description>DNSHE 是一个由新加坡公益团队运营的免费域名注册和 DNS 解析平台，为开发者、开源项目和早期互联网创作者提供稳定、易用的免费域名基础设施，支持 A/AAAA/CNAME/MX/TXT 等全量 DNS 记录和 API 自动化管理。</description>
     </item>
-    
     <item>
       <title>Awesome：GitHub 上最全的开源项目资源汇总索引</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-07/awesome/</link>
+      <link>https://xlap.top/post/tech/2026-07-07/awesome/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-07/awesome/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-07/awesome/</guid>
       <description>Awesome 是由 sindresorhus 维护的 GitHub 超人气项目，汇集了各领域最优质的awesome列表索引，涵盖编程语言、前后端开发、数据科学、安全等数十个分类，是开发者发现优质开源资源的首选入口。</description>
     </item>
-    
     <item>
       <title>Exercises Dataset：含 1,324 个健身练习的多语言结构化数据集与开发者脚手架</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/exercises-dataset/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/exercises-dataset/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/exercises-dataset/</guid>
       <description>Exercises Dataset 提供 1,324 条健身练习结构化数据，覆盖 6 种语言指令，附带交互式浏览器与开发者脚手架（DB Schema、API 代码、LLM Prompt），适合健身应用后端快速搭建。</description>
     </item>
-    
     <item>
       <title>AgentsView：一站式 AI 编程助手成本追踪与分析平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</link>
+      <link>https://xlap.top/post/tech/2026-06-13/agentsview/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-13/agentsview/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-13/agentsview/</guid>
       <description>AgentsView 是一款开源的 AI 编程助手成本追踪工具，支持 Claude Code、Cursor、Copilot 等 25&#43; 主流 AI 编程工具，提供本地化部署、实时成本统计、会话浏览与全文搜索功能，帮助开发者精准掌控 AI 编程开支。</description>
     </item>
-    
   </channel>
 </rss>

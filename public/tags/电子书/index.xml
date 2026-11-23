@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>电子书 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
+    <link>https://xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
     <description>Recent content in 电子书 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:20:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 10:20:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>free-programming-books：开发者书签里值得常驻的免费编程书籍清单</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</link>
+      <link>https://xlap.top/post/tech/2026-09-10/free-programming-books/</link>
       <pubDate>Thu, 10 Sep 2026 10:20:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-10/free-programming-books/</guid>
       <description>free-programming-books 由 EbookFoundation 维护，是 GitHub 上星标近 40 万的明星开源清单，按编程语言与主题汇总了数十种语言的免费编程书籍、在线课程、题集与播客，并配套在线搜索站点。本文介绍其内容结构、使用方式与贡献方法。</description>
     </item>
-    
     <item>
       <title>BookOrbit：自托管的全格式电子书与有声书阅读管理平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</link>
+      <link>https://xlap.top/post/tech/2026-08-24/bookorbit/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-24/bookorbit/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-24/bookorbit/</guid>
       <description>BookOrbit 是一个 AGPL 许可的自托管阅读平台，统一管理电子书、PDF、漫画与有声书，支持 Kobo、KOReader 与网页阅读器三方双向同步，并打通 Hardcover、Readwise、StoryGraph 等外部服务。</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,124 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>深度学习 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+    <link>https://xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
     <description>Recent content in 深度学习 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <link>https://xlap.top/post/tech/2026-08-22/onnxruntime/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
       <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
     </item>
-    
     <item>
       <title>ComfyUI: 最强大、最模块化的 AI 内容创作引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-10/comfyui/</link>
+      <link>https://xlap.top/post/tech/2026-08-10/comfyui/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-10/comfyui/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-10/comfyui/</guid>
       <description>ComfyUI 是一个开源模块化 AI 引擎，通过可视化节点图工作流支持图像、视频、3D 模型、音频等多种模态的生成，支持 Stable Diffusion、Flux、Wan 2.1 等主流模型。</description>
     </item>
-    
     <item>
       <title>PersonaLive：实时可流式的肖像动画生成框架，支持无限长度视频</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-10/personalive/</link>
+      <link>https://xlap.top/post/tech/2026-08-10/personalive/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-10/personalive/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-10/personalive/</guid>
       <description>PersonaLive 是澳门大学、GVC Lab 等机构提出的实时可流式扩散框架，能够基于单张参考肖像图和驱动视频生成无限长度的动态肖像动画，已被 CVPR 2026 接收。</description>
     </item>
-    
     <item>
       <title>微软 TRELLIS.2：基于 O-Voxel 原生结构化潜变量的图像到 3D 生成新范式</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</link>
+      <link>https://xlap.top/post/tech/2026-08-02/trellis-2/</link>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-02/trellis-2/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-02/trellis-2/</guid>
       <description>TRELLIS.2 是微软推出的 40 亿参数图像到 3D 生成模型，提出 O-Voxel 这一「无场」稀疏体素表示，以原生、紧凑的结构化潜变量突破传统 SDF/NeRF 的拓扑限制，支持开放表面、非流形几何与完整 PBR 材质，H100 上 512³ 资产生成仅需约 3 秒。</description>
     </item>
-    
     <item>
       <title>FlashKDA：基于 CUTLASS 的高性能 Kimi Delta Attention 内核</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-30/flashkda/</link>
+      <link>https://xlap.top/post/tech/2026-07-30/flashkda/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-30/flashkda/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-30/flashkda/</guid>
       <description>FlashKDA 是 MoonshotAI 开源的高性能 KDA（Kimi Delta Attention）CUDA 内核库，基于 NVIDIA CUTLASS 构建，支持 SM90 及以上架构，提供比 Triton 实现更优的推理性能，专为 Flash Linear Attention 项目中的 chunk_kda 算子设计。</description>
     </item>
-    
     <item>
       <title>百度开源 Unlimited-OCR：一键搞定任意长度文档的高精度 OCR 模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</link>
+      <link>https://xlap.top/post/tech/2026-07-22/unlimited-ocr/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-22/unlimited-ocr/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-22/unlimited-ocr/</guid>
       <description>Unlimited-OCR 是百度开源的多格式文档 OCR 模型，支持单图、PDF、多页文档的端到端识别，基于 Transformers/vLLM/SGLang 推理，一键输出结构化文本。</description>
     </item>
-    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <link>https://xlap.top/post/tech/2026-07-04/pytorch/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-04/pytorch/</guid>
       <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
     </item>
-    
     <item>
       <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
       <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
     </item>
-    
     <item>
       <title>LingBot-Map：基于几何上下文 Transformer 的流式 3D 重建基础模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</link>
+      <link>https://xlap.top/post/tech/2026-06-28/lingbot-map/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-28/lingbot-map/</guid>
       <description>LingBot-Map 是 Robbyant 团队发布的流式 3D 重建基础模型，通过 Geometric Context Transformer 架构统一坐标定位、几何线索和长期漂移校正，支持超长序列（&amp;gt;10000 帧）的稳定推理，在多个基准上达到 SOTA 性能。</description>
     </item>
-    
     <item>
       <title>Google TimesFM：谷歌开源的时间序列基础模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/timesfm/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/timesfm/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/timesfm/</guid>
       <description>TimesFM 是 Google Research 开发的时间序列基础模型，支持 200M 参数、16K 上下文长度，可进行点预测和分位数预测，适用于金融、能源、零售等领域的时序预测任务。</description>
     </item>
-    
     <item>
       <title>Supervision — Roboflow 开源计算机视觉工具箱，让你的 CV 项目如虎添翼</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-09/supervision/</link>
+      <link>https://xlap.top/post/tech/2026-06-09/supervision/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-09/supervision/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-09/supervision/</guid>
       <description>Supervision 是 Roboflow 推出的 Python 计算机视觉工具库，提供数据加载、标注可视化、目标检测、多目标跟踪、区域计数等核心能力，支持 Ultralytics、Transformers、MMDetection 等主流模型的无缝接入，是构建 CV 应用的必备工具包。</description>
     </item>
-    
     <item>
       <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>
+      <link>https://xlap.top/post/tech/2026-05-29/moss-tts/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-29/moss-tts/</guid>
       <description>深入解析 OpenMOSS 团队开源的 MOSS-TTS Family，涵盖高精度语音合成、对话生成、声音设计、实时 TTS 和音效生成五大模型</description>
     </item>
-    
   </channel>
 </rss>

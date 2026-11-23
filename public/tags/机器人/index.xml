@@ -1,70 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>机器人 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+    <link>https://xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
     <description>Recent content in 机器人 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microduck RL：800g 双足机器人的 Sim2Real 强化学习训练框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</link>
+      <link>https://xlap.top/post/tech/2026-08-31/microduck-rl/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-31/microduck-rl/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-31/microduck-rl/</guid>
       <description>Microduck RL 是 Pollen Robotics 开源的强化学习训练框架，基于 MuJoCo Warp 和 PPO 算法，专门为 Microduck 这款约 800g、25cm 高的双足机器人打造 Sim2Real 迁移管道。</description>
     </item>
-    
     <item>
       <title>Robonix：面向具身智能的机器人操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/robonix/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/robonix/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/robonix/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/robonix/</guid>
       <description>Robonix 是一个开源的具身智能操作系统，旨在为异构机器人构建统一的「大脑」底座，让 AI 模型和技能可以跨不同机器人形态复用，无需为每个厂商 SDK 重写代码。</description>
     </item>
-    
     <item>
       <title>text-to-cad：AI驱动的CAD与机器人设计技能库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</link>
+      <link>https://xlap.top/post/tech/2026-07-21/text-to-cad/</link>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-21/text-to-cad/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-21/text-to-cad/</guid>
       <description>text-to-cad是一个开源的AI Agent技能库,专注于CAD模型生成、机器人描述文件创建和硬件设计自动化。支持STEP/STL/3MF导出、URDF/SDF/SRDF机器人文件生成、G-code切片和3D打印集成，让AI Agent能够从自然语言生成工程级CAD模型和机器人描述。</description>
     </item>
-    
     <item>
       <title>openpilot：comma.ai 开源自动驾驶辅助系统，让 300&#43; 车型秒变智能驾驶</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</link>
+      <link>https://xlap.top/post/tech/2026-06-27/openpilot/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-27/openpilot/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-27/openpilot/</guid>
       <description>openpilot 是 comma.ai 开源的机器人操作系统，当前已支持 300&#43; 车型的自动驾驶辅助功能。本文深入解析其架构设计、核心安全机制及技术实现原理。</description>
     </item>
-    
     <item>
       <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <link>https://xlap.top/post/tech/2026-06-05/cosmos/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-05/cosmos/</guid>
       <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
     </item>
-    
     <item>
       <title>Kinect4AlphaRobot</title>
-      <link>https://blog.xlap.top/post/tech/kinect4alpharobot/</link>
+      <link>https://xlap.top/post/tech/kinect4alpharobot/</link>
       <pubDate>Wed, 28 Dec 2022 10:26:24 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/kinect4alpharobot/</guid>
+      <guid>https://xlap.top/post/tech/kinect4alpharobot/</guid>
       <description>使用kinect体感控制机器人</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>免费编程书籍 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D/</link>
+    <link>https://xlap.top/tags/%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D/</link>
     <description>Recent content in 免费编程书籍 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:20:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 10:20:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E5%85%8D%E8%B4%B9%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>free-programming-books：开发者书签里值得常驻的免费编程书籍清单</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</link>
+      <link>https://xlap.top/post/tech/2026-09-10/free-programming-books/</link>
       <pubDate>Thu, 10 Sep 2026 10:20:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-10/free-programming-books/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-10/free-programming-books/</guid>
       <description>free-programming-books 由 EbookFoundation 维护，是 GitHub 上星标近 40 万的明星开源清单，按编程语言与主题汇总了数十种语言的免费编程书籍、在线课程、题集与播客，并配套在线搜索站点。本文介绍其内容结构、使用方式与贡献方法。</description>
     </item>
-    
   </channel>
 </rss>

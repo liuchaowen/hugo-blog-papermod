@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>推理引擎 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/</link>
+    <link>https://xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/</link>
     <description>Recent content in 推理引擎 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:04:38 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 00:04:38 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIE：一站式自托管推理引擎，让 AI Agent 模型调用不再碎片化</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-03/sie/</link>
+      <link>https://xlap.top/post/tech/2026-09-03/sie/</link>
       <pubDate>Thu, 03 Sep 2026 00:04:38 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-03/sie/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-03/sie/</guid>
       <description>SIE 是 Superlinked 开源的自托管推理引擎，通过一个集群统一服务于 Agent 所需的全部模型任务——搜索检索、文档转 Markdown、结构化输出、内容安全和 Agent 循环本身，兼容 OpenAI API，支持 100&#43; 模型按需加载。</description>
     </item>
-    
     <item>
       <title>微软 ONNX Runtime：跨平台机器学习推理与训练加速器全解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</link>
+      <link>https://xlap.top/post/tech/2026-08-22/onnxruntime/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-22/onnxruntime/</guid>
       <description>ONNX Runtime 是微软开源的跨平台机器学习推理与训练加速引擎，兼容 PyTorch、TensorFlow、scikit-learn 等框架导出的模型，并通过 CPU/GPU/端侧硬件执行提供高性能推理。本文从架构、执行提供者到实战部署，带你吃透这个生产级推理引擎。</description>
     </item>
-    
     <item>
       <title>DwarfStar：专精 DeepSeek V4 Flash 的轻量级本地推理引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-03/ds4/</link>
+      <link>https://xlap.top/post/tech/2026-08-03/ds4/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-03/ds4/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-03/ds4/</guid>
       <description>DwarfStar（ds4）是知名开发者 antirez 推出的超轻量原生推理引擎，专为 DeepSeek V4 Flash 优化，同时支持 GLM 5.2 和 DeepSeek V4 PRO，以极简代码和极致性能著称。</description>
     </item>
-    
     <item>
       <title>Colibrì：用25GB内存在消费级机器上运行744B参数的GLM-5.2模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-18/colibri/</link>
+      <link>https://xlap.top/post/tech/2026-07-18/colibri/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-18/colibri/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-18/colibri/</guid>
       <description>Colibrì是一个轻量级MoE运行时引擎，通过将专家层从磁盘流式加载，实现在仅需25GB RAM的消费级硬件上运行744B参数的GLM-5.2模型。本文深入分析其技术原理、架构设计与实际性能表现。</description>
     </item>
-    
     <item>
       <title>llama.cpp：纯 C/C&#43;&#43; 实现的高性能 LLM 推理引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/llama-cpp/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/llama-cpp/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/llama-cpp/</guid>
       <description>llama.cpp 是一个用纯 C/C&#43;&#43; 实现的开源项目，支持在各类硬件上进行大语言模型推理，无需依赖、支持量化、兼容数十种模型架构，是本地 LLM 部署的首选方案。</description>
     </item>
-    
   </channel>
 </rss>

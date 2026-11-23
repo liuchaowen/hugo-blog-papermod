@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>图像处理 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+    <link>https://xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
     <description>Recent content in 图像处理 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modly：用开源 AI 模型在本地把图片变成 3D 模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/modly/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/modly/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/modly/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/modly/</guid>
       <description>Modly 是一款跨平台桌面应用，基于开源 AI 模型（Hunyuan3D 2、Trellis2 等）实现在本地 GPU 上将任意图片转换为 3D mesh，全程离线运行，数据不离开设备。</description>
     </item>
-    
     <item>
       <title>OpenCV：开源计算机视觉库的深度解析与实践指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-07/opencv/</link>
+      <link>https://xlap.top/post/tech/2026-06-07/opencv/</link>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-07/opencv/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-07/opencv/</guid>
       <description>深入解析 OpenCV 这一业界标准的开源计算机视觉库，从架构设计、核心功能到实战应用，帮助开发者快速掌握这一强大的视觉处理工具。</description>
     </item>
-    
   </channel>
 </rss>

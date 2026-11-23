@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>数据采集 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</link>
+    <link>https://xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/</link>
     <description>Recent content in 数据采集 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MediaCrawler：多平台自媒体数据采集利器，一键爬取小红书、抖音、B站</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</link>
+      <link>https://xlap.top/post/tech/2026-06-26/mediacrawler/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-26/mediacrawler/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-26/mediacrawler/</guid>
       <description>MediaCrawler 是一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取，基于 Playwright 浏览器自动化框架，无需 JS 逆向即可优雅采集数据。</description>
     </item>
-    
     <item>
       <title>Scrapling：自适应智能爬虫框架，让数据采集不再头疼</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</link>
+      <link>https://xlap.top/post/tech/2026-05-31/scrapling/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-31/scrapling/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-31/scrapling/</guid>
       <description>Scrapling 是一款现代化的 Python 爬虫框架，集自适应解析、反爬虫绕过、全站并发爬取于一体。其解析器能自动应对网页结构变化，内置 StealthyFetcher 可绕过 Cloudflare Turnstile 等反爬机制，同时提供类 Scrapy 的 Spider API，是从单请求到大规模爬取的统一解决方案。</description>
     </item>
-    
   </channel>
 </rss>

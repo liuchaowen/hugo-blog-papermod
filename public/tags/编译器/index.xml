@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>编译器 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/</link>
+    <link>https://xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/</link>
     <description>Recent content in 编译器 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 01:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 01:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E7%BC%96%E8%AF%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLVM 编译器基础设施：构建高性能编译器与工具链的完整工具集</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</link>
+      <link>https://xlap.top/post/tech/2026-09-07/llvm-project/</link>
       <pubDate>Mon, 07 Sep 2026 01:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-07/llvm-project/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-07/llvm-project/</guid>
       <description>LLVM 是业界主流的开源编译器基础设施，提供从 C/C&#43;&#43;/Objective-C 前端 Clang、C&#43;&#43; 标准库 libc&#43;&#43; 到 LLD 链接器的完整工具链，通过统一的 LLVM IR 中间表示与多层优化，将源码高效编译为高度优化的机器码。</description>
     </item>
-    
     <item>
       <title>TypePHP：PHP 原生 AOT 编译器，将 PHP 编译成机器码</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-29/typephp/</link>
+      <link>https://xlap.top/post/tech/2026-08-29/typephp/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-29/typephp/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-29/typephp/</guid>
       <description>TypePHP 是一个 PHP 原生 AOT 编译器，将 PHP 源代码编译成原生机器码，无需解释器和 JIT 预热，性能提升高达 8 倍。支持原生类型系统、高精度数值、强类型容器，可生成可执行文件、PHP 扩展和共享库。</description>
     </item>
-    
     <item>
       <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/typescript/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/typescript/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/typescript/</guid>
       <description>本文基于 microsoft/TypeScript 源码与官方 README，深入解析 TypeScript 的核心特性、编译架构、tsc 与 tsserver 的构建体系，以及如何安装、使用与排错，并介绍其向 7.0（原生 Go 移植）演进的现状。</description>
     </item>
-    
     <item>
       <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <link>https://xlap.top/post/tech/2026-06-14/swc/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-14/swc/</guid>
       <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
     </item>
-    
     <item>
       <title>Build Your Own X：从零实现你最喜欢的技术——程序员进阶的终极资源清单</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</link>
+      <link>https://xlap.top/post/tech/2026-05-29/build-your-own-x/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-29/build-your-own-x/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-29/build-your-own-x/</guid>
       <description>codecrafters-io/build-your-own-x 是 GitHub 上最著名的自学资源清单之一，收录了 30&#43; 个技术方向、数百篇『从零实现』风格的深度教程，涵盖编译器、操作系统、数据库、神经网络、Docker、Git 等核心领域，是程序员系统性提升底层能力的必读项目。</description>
     </item>
-    
   </channel>
 </rss>

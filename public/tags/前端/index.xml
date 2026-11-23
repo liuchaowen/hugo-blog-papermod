@@ -1,97 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>前端 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/</link>
+    <link>https://xlap.top/tags/%E5%89%8D%E7%AB%AF/</link>
     <description>Recent content in 前端 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 04:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>portless：用稳定的 .localhost 域名取代开发端口号，给本地开发一个真正的 HTTPS 体验</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-03/portless/</link>
+      <link>https://xlap.top/post/tech/2026-09-03/portless/</link>
       <pubDate>Thu, 03 Sep 2026 04:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-03/portless/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-03/portless/</guid>
       <description>portless 是 Vercel 实验室出品的本地开发代理工具，用 https://myapp.localhost 这样的稳定命名 URL 取代 localhost:3000 这类易变端口号，默认开启 HTTP/2 &#43; HTTPS，支持 monorepo、子域名、Git worktree、Tailscale/ngrok 共享，让本地开发与生产环境的域名结构保持一致。</description>
     </item>
-    
     <item>
       <title>htmx：用 HTML 属性为网页注入 AJAX、WebSocket 与现代交互能力</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-30/htmx/</link>
+      <link>https://xlap.top/post/tech/2026-08-30/htmx/</link>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-30/htmx/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-30/htmx/</guid>
       <description>htmx 是一款仅约 14KB、零依赖的 JavaScript 库，它让你直接在 HTML 属性中发起 AJAX、CSS 过渡、WebSocket 与 SSE 请求，从而用超文本的简洁语法构建现代交互式用户界面。本文从动机、技术原理、快速上手到实战与排错，系统梳理 htmx 的核心能力。</description>
     </item>
-    
     <item>
       <title>screenshot-to-code：用 AI 将截图、Figma 与录屏一键转换为可运行代码</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-29/screenshot-to-code/</link>
+      <link>https://xlap.top/post/tech/2026-08-29/screenshot-to-code/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-29/screenshot-to-code/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-29/screenshot-to-code/</guid>
       <description>screenshot-to-code 是一个开源 AI 工具，可以把截图、线框图、Figma 设计和网站录屏转换为干净、可运行的代码（HTML&#43;Tailwind、React、Vue 等）。本文拆解其架构设计、技术栈选型、本地部署与实战用法。</description>
     </item>
-    
     <item>
       <title>免费领取你的专属子域名：Stackryze FreeDomains 项目解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-24/freedomains/</link>
+      <link>https://xlap.top/post/tech/2026-07-24/freedomains/</link>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-24/freedomains/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-24/freedomains/</guid>
       <description>FreeDomains 是 Stackryze 推出的免费托管子域名服务，面向开发者、学生与开源社区，支持 .indevs.in、.sryze.cc 等后缀，可指向任意托管商且完全无锁定。本文解析其架构、技术栈与本地部署方式。</description>
     </item>
-    
     <item>
       <title>Clypra：基于 Tauri v2 &#43; Rust &#43; React 19 的免费开源专业视频编辑器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/clypra/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/clypra/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/clypra/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/clypra/</guid>
       <description>Clypra 是一款采用 Tauri v2、React 19 与 Rust 构建的跨平台开源视频编辑器，MIT 协议永久免费，支持硬件加速解码、多轨时间线与可选的 AI 增强能力。</description>
     </item>
-    
     <item>
       <title>HyperFrames：用 HTML 写视频的开源框架，AI Agent 的视频生产利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</link>
+      <link>https://xlap.top/post/tech/2026-06-22/hyperframes/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-22/hyperframes/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-22/hyperframes/</guid>
       <description>HyperFrames 是 HeyGen 开源的一款 HTML-to-Video 框架，支持将 HTML、CSS、动画转换为确定性 MP4 视频。本文深入解析其技术架构、与 Remotion 的对比，以及在 AI Agent 视频生产中的应用。</description>
     </item>
-    
     <item>
       <title>Cypress：现代 Web 应用测试的革命性工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-15/cypress/</link>
+      <link>https://xlap.top/post/tech/2026-06-15/cypress/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-15/cypress/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-15/cypress/</guid>
       <description>深入解析 Cypress 这款现代化的前端测试框架，探讨其架构设计、核心技术栈、安装使用方法，以及相比传统测试工具的优势。Cypress 为浏览器端测试带来了全新的开发体验。</description>
     </item>
-    
     <item>
       <title>1742 个开发者作品集灵感库：让我找到做个人网站的方向了</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/developer-portfolios/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/developer-portfolios/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/developer-portfolios/</guid>
       <description>GitHub Trending 热门项目 developer-portfolios 评测：收录全球 1742&#43; 开发者个人作品集，覆盖 React/Vue/Next.js/Framer 等主流技术栈，提供可直接复制的设计参考，帮助你快速搭建专业级个人主页。</description>
     </item>
-    
     <item>
       <title>Taste Skill：让 AI 生成的前端界面摆脱「千篇一律」的 Agent Skills 框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</link>
+      <link>https://xlap.top/post/tech/2026-05-26/taste-skill/</link>
       <pubDate>Tue, 26 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-26/taste-skill/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-26/taste-skill/</guid>
       <description>Taste Skill 是一套可移植的 Agent Skills，专门解决 AI 生成前端界面千篇一律的问题，提供更强的布局、排版、动效和间距控制。</description>
     </item>
-    
   </channel>
 </rss>

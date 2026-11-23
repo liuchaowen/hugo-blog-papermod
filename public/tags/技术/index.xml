@@ -1,133 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/</link>
+    <link>https://xlap.top/tags/%E6%8A%80%E6%9C%AF/</link>
     <description>Recent content in 技术 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesome MCP Servers：一份收录 3000&#43; 服务端的 MCP 生态全景清单</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</link>
+      <link>https://xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</link>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-30/awesome-mcp-servers/</guid>
       <description>awesome-mcp-servers 是 punkpeye 维护的 MCP 服务器精选清单，收录 3000&#43; 个覆盖数据库、浏览器自动化、云平台的 Model Context Protocol 服务端，并配套 Glama 在线目录，是接入 MCP 生态的首选入口。</description>
     </item>
-    
     <item>
       <title>EmDash：用 Astro &#43; Cloudflare 重写 WordPress 的现代 CMS</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-27/emdash/</link>
+      <link>https://xlap.top/post/tech/2026-08-27/emdash/</link>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-27/emdash/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-27/emdash/</guid>
       <description>EmDash 是基于 Astro 与 Cloudflare 的全栈 TypeScript CMS，借鉴 WordPress 的插件生态与后台体验，却以无服务器、类型安全的架构重建，并用沙箱化 Worker 隔离解决插件安全隐患。</description>
     </item>
-    
     <item>
       <title>Amadeus Node：基于 Erlang 的高性能区块链节点实现</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-19/node/</link>
+      <link>https://xlap.top/post/tech/2026-08-19/node/</link>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-19/node/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-19/node/</guid>
       <description>Amadeus Node 是一个基于 Erlang/OTP 构建的高性能区块链节点项目，支持本地测试网、智能合约部署和自动更新，适合区块链研究与开发学习。</description>
     </item>
-    
     <item>
       <title>LLM Wiki：让大模型自动为你构建个人知识库的桌面应用</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</link>
+      <link>https://xlap.top/post/tech/2026-07-16/llm-wiki/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-16/llm-wiki/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-16/llm-wiki/</guid>
       <description>LLM Wiki 是由 nashsu 基于 Karpathy 提出的 LLM Wiki 模式实现的跨平台桌面应用，用 Tauri v2 &#43; React 19 构建。它不再每次查询都从头检索，而是让大模型渐进式地解析你的文档、生成结构化 Wiki、维护知识图谱，并把知识沉淀为持久可复用的个人知识库。</description>
     </item>
-    
     <item>
       <title>Awesome Agent Skills：AI代理技能的权威资源库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/awesome-agent-skills/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/awesome-agent-skills/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/awesome-agent-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/awesome-agent-skills/</guid>
       <description>精选1497&#43;个AI代理技能，由Anthropic、Google、Vercel、Stripe等顶级团队贡献，兼容Claude Code、Gemini CLI、Cursor等主流AI工具</description>
     </item>
-    
     <item>
       <title>Hiring Agent：基于 LLM 的开源简历评分系统，解析 PDF 并输出可解释评估报告</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</link>
+      <link>https://xlap.top/post/tech/2026-06-24/hiring-agent/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-24/hiring-agent/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-24/hiring-agent/</guid>
       <description>Hiring Agent 是 InterviewStreet 开源的简历评估工具，通过 LLM 解析 PDF 简历为结构化 JSON，结合 GitHub 开源贡献信号，输出带证据链的客观评分。支持 Ollama 本地模型和 Google Gemini，适用于技术招聘初筛场景。</description>
     </item>
-    
     <item>
       <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <link>https://xlap.top/post/tech/2026-06-22/deer-flow/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-22/deer-flow/</guid>
       <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
     </item>
-    
     <item>
       <title>LTX-2：首个基于 DiT 的音视频基础模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</link>
+      <link>https://xlap.top/post/tech/2026-06-20/ltx-2/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-20/ltx-2/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-20/ltx-2/</guid>
       <description>Lightricks 推出的首个 DiT 音视频基础模型，同步音频视频、高保真度、多种性能模式，支持 API 访问和开源访问</description>
     </item>
-    
     <item>
       <title>OpenMontage：首个开源的 Agentic 视频制作系统深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</link>
+      <link>https://xlap.top/post/tech/2026-06-20/openmontage/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-20/openmontage/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-20/openmontage/</guid>
       <description>深度解析 OpenMontage，一个开源的 agentic 视频制作系统，支持从参考视频或纯文本提示到完整视频的生产流程，涵盖 12 条流水线、52 个工具与 400&#43; 智能体技能。</description>
     </item>
-    
     <item>
       <title>ASP.NET Core：微软开源的跨平台高性能 Web 框架深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</link>
+      <link>https://xlap.top/post/tech/2026-06-19/aspnetcore/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-19/aspnetcore/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-19/aspnetcore/</guid>
       <description>深入解析 ASP.NET Core 的架构设计、模块化组件、跨平台能力及其在现代云原生应用中的应用，从源码角度理解这套微软开源 Web 框架的核心设计理念。</description>
     </item>
-    
     <item>
       <title>Hyper-Extract：智能知识提取与进化框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</link>
+      <link>https://xlap.top/post/tech/2026-06-19/hyper-extract/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-19/hyper-extract/</guid>
       <description>Hyper-Extract 是一个基于 LLM 的智能知识提取框架，支持8种知识结构、10&#43;提取引擎和80&#43;YAML模板，能将非结构化文档转化为结构化的知识图谱、超图等多种格式。</description>
     </item>
-    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
       <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
     </item>
-    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
       <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
     </item>
-    
   </channel>
 </rss>

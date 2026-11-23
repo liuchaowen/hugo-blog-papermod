@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>商业智能 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/</link>
+    <link>https://xlap.top/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/</link>
     <description>Recent content in 商业智能 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 07:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anthropic 商业 Agent 蓝图：用 Claude 构建购物与商家双智能体</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</link>
+      <link>https://xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</link>
       <pubDate>Sat, 05 Sep 2026 07:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-05/anthropic-commerce-agents/</guid>
       <description>Anthropic 开源的 commerce-agents 项目提供了一套完整的商业 Agent 参考实现，包含购物 Agent 和商家 Agent 两个角色，覆盖零售、旅游、电信、娱乐四大垂直场景，基于 Claude Messages API、Agent SDK 和 Managed Agents 三种运行时。</description>
     </item>
-    
   </channel>
 </rss>
