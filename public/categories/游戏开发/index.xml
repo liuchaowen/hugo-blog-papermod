@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>游戏开发 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
+    <link>https://xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
     <description>Recent content in 游戏开发 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gen1Recomp：用 LÖVE2D 原生重写宝可梦红/蓝/黄，无需模拟器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</link>
+      <link>https://xlap.top/post/tech/2026-07-30/gen1recomp/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-30/gen1recomp/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-30/gen1recomp/</guid>
       <description>Gen1Recomp 是一个完全手写的 LÖVE2D 游戏引擎，逐帧还原 Game Boy 宝可梦红、蓝、黄的运行逻辑，ROM 数据仅用于初始化，引擎本身完全独立运行。</description>
     </item>
-    
     <item>
       <title>U3-SDK：Unturned 开源游戏开发套件完全指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</link>
+      <link>https://xlap.top/post/tech/2026-07-09/u3-sdk/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-09/u3-sdk/</guid>
       <description>深入探索 SmartlyDressedGames 开源的 U3-SDK，这是一个用于 Unturned 游戏 Mod 开发的完整 Unity SDK，包含源码、工具链和丰富的文档资源。</description>
     </item>
-    
   </channel>
 </rss>

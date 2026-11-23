@@ -1,433 +1,344 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Claude Code on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/claude-code/</link>
+    <link>https://xlap.top/tags/claude-code/</link>
     <description>Recent content in Claude Code on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Sep 2026 20:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TeamAI 深度解析：用 Git 把团队的 Skills、规则与知识库同步到每一个 AI Agent</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</link>
+      <link>https://xlap.top/post/tech/2026-09-09/teamai-cli/</link>
       <pubDate>Wed, 09 Sep 2026 20:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-09/teamai-cli/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-09/teamai-cli/</guid>
       <description>TeamAI 是腾讯开源的团队级 AI 协同 CLI，以 Git 为单一信源，把 Skills、规则、MCP、Hooks 与团队知识库统一分发到 Claude Code、Cursor、Codex 等主流 AI 编程工具，并支持经验自动沉淀与代码知识图谱检索。本文从架构到实战带你全面上手。</description>
     </item>
-    
     <item>
       <title>mattpocock/skills：给 AI 编程助手装上「工程师大脑」</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</link>
+      <link>https://xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</link>
       <pubDate>Sun, 06 Sep 2026 09:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-06/mattpocock-skills-agent-skills/</guid>
       <description>mattpocock/skills 是 TypeScript 大神 Matt Pocock 开源的 AI Agent 技能集，包含 grill-me、TDD、代码审查等 20&#43; 实战技能，旨在解决 AI 编程中的对齐偏差、冗余表达、代码质量和架构腐化四大痛点。</description>
     </item>
-    
     <item>
       <title>Everything Claude Code：一位 Anthropic 黑客松冠军的 Claude Code 配置全家桶</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
+      <link>https://xlap.top/post/tech/2026-09-05/everything-claude-code/</link>
       <pubDate>Sat, 05 Sep 2026 23:10:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-05/everything-claude-code/</guid>
       <description>Everything Claude Code 是 Anthropic 黑客松冠军 Affaan Mustafa 开源的 Claude Code 配置合集，包含经过 10 个月以上生产环境打磨的 agents、skills、hooks、commands、rules 与 MCP 配置，覆盖 Token 优化、记忆持久化、验证循环与并行化等高级工程实践，支持 Windows、macOS、Linux 全平台。</description>
     </item>
-    
     <item>
       <title>HumanLayer Skills：让 Claude Code 拥有专业领域技能的扩展技能集</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-05/skills/</link>
+      <link>https://xlap.top/post/tech/2026-09-05/skills/</link>
       <pubDate>Sat, 05 Sep 2026 20:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-05/skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-05/skills/</guid>
       <description>HumanLayer 开源的 skills 项目为 Claude Code 提供了一套可插拔的专业领域技能包，覆盖 CLAUDE.md 优化、React 类型收窄、Agentic 循环构建和控制回路设计等场景，通过简单的 npx 命令即可安装并在对话中以 /skill 形式调用。</description>
     </item>
-    
     <item>
       <title>Academic Research Skills：把 Claude Code 变成覆盖学术研究全流程的 AI 副驾驶</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/academic-research-skills/</link>
       <pubDate>Wed, 02 Sep 2026 11:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/academic-research-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/academic-research-skills/</guid>
       <description>Academic Research Skills (ARS) 是一套为 Claude Code 打造的学术研究技能套件，用 Deep Research、Academic Paper、Reviewer 与 Pipeline 四个技能把文献调研、论文写作、同行评审到投稿的全流程串联起来，并以强制性的完整性校验门（integrity gate）对抗 AI 幻觉与学术不端。</description>
     </item>
-    
     <item>
       <title>JetBrains 发布 go-modern-guidelines：让 AI 编码助手写出地道 Go 代码</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</link>
+      <link>https://xlap.top/post/tech/2026-08-28/go-modern-guidelines/</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-28/go-modern-guidelines/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-28/go-modern-guidelines/</guid>
       <description>JetBrains 开源 go-modern-guidelines 项目，为 AI 编码代理提供从 Go 1.0 到 1.27 的现代 Go 编码规范，解决 AI 训练数据滞后和频率偏差两大痛点，让 Claude Code、Cursor 等工具自动生成符合最新语言特性的高质量 Go 代码。</description>
     </item>
-    
     <item>
       <title>Garden Skills：为 AI 编程 Agent 打造的生产级技能集合</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</link>
+      <link>https://xlap.top/post/tech/2026-08-26/garden-skills/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-26/garden-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-26/garden-skills/</guid>
       <description>Garden Skills 是由 ConardLi 开源的一套面向 Claude Code、Cursor、Codex 等 AI 编程 Agent 的生产级技能集合，涵盖网页演示、前端设计、图像生成、知识库检索和文章编辑五大核心领域，每个技能都附带完整的 SKILL.md 规范、主题模板和实战案例。</description>
     </item>
-    
     <item>
       <title>Ponytail：AI Agent 懒惰资深开发模式，代码减少 54%</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-25/ponytail/</link>
+      <link>https://xlap.top/post/tech/2026-08-25/ponytail/</link>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-25/ponytail/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-25/ponytail/</guid>
       <description>Ponytail 是一个 AI Agent 插件，通过懒惰资深开发者思维模式，减少不必要的代码生成。实测显示平均减少 54% 代码量，降低 20% 成本，加快 27% 执行速度，同时保持 100% 安全性。</description>
     </item>
-    
     <item>
       <title>Claude Plugins Community：Anthropic 官方托管的 Claude Code 社区插件市场</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</link>
+      <link>https://xlap.top/post/tech/2026-08-23/claude-plugins-community/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-23/claude-plugins-community/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-23/claude-plugins-community/</guid>
       <description>Claude Plugins Community 是 Anthropic 官方维护的 Claude Code / Claude Cowork 社区插件市场只读镜像。所有插件均经过自动安全扫描与人工审核，开发者只需一条命令即可订阅整个市场并安装数百个社区插件，覆盖 DeFi、电商、API 安全、可访问性、团队协作等场景。</description>
     </item>
-    
     <item>
       <title>Ruflo：Claude Code 的 AI Agent 编排框架深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</link>
+      <link>https://xlap.top/post/tech/2026-08-22/ruflo/</link>
       <pubDate>Sat, 22 Aug 2026 08:10:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-22/ruflo/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-22/ruflo/</guid>
       <description>Ruflo 是一个面向 Claude Code 和 Codex 的 Agent 元框架，提供 100&#43; 专业 Agent、自学习内存、联邦通信和企业级安全防护。本文深入解析其架构原理、核心组件和实战应用。</description>
     </item>
-    
     <item>
       <title>Learn Harness Engineering：如何构建让 AI 编码 Agent 稳定可靠工作的环境</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-20/learn-harness-engineering/</link>
+      <link>https://xlap.top/post/tech/2026-08-20/learn-harness-engineering/</link>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-20/learn-harness-engineering/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-20/learn-harness-engineering/</guid>
       <description>Learn Harness Engineering 是一门关于 AI 编码 Agent 环境工程的实战课程，涵盖 14 节讲座、8 个项目，教你从零构建包含指令系统、状态管理、验证机制和生命周期控制的完整 Harness，引用 OpenAI 与 Anthropic 官方工程实践。</description>
     </item>
-    
     <item>
       <title>Munder Difflin：多智能体协作办公系统，让 AI 克隆体 7x24 小时代你工作</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</link>
+      <link>https://xlap.top/post/tech/2026-08-18/munder-difflin/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-18/munder-difflin/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-18/munder-difflin/</guid>
       <description>Munder Difflin 是一款免费开源的桌面应用，将 Claude Code、OpenAI Codex、xAI Grok 等终端 AI 工具包装成具备记忆、邮箱和办公桌位的智能体，由你的克隆体 Michael 协调整个团队在本地机器上自主协作，实现真正的多智能体自动化办公。</description>
     </item>
-    
     <item>
       <title>Claude Code 工程化实战：极客时间万订阅专栏深度解读</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</link>
+      <link>https://xlap.top/post/tech/2026-08-15/claude-code-engineering/</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-15/claude-code-engineering/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-15/claude-code-engineering/</guid>
       <description>极客时间《Claude Code 工程化实战》专栏，23 讲覆盖 SubAgent、Skills、MCP、Headless、SDK、Hooks 全链路工程化实践，上线即登总榜第一。</description>
     </item>
-    
     <item>
       <title>ResumeSkills：AI驱动的求职简历技能库，让简历优化智能化</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/resumeskills/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/resumeskills/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/resumeskills/</guid>
       <description>ResumeSkills 是一个面向 Claude Code 等 AI 助手的技能集合，包含 20 个专业简历优化技能，覆盖 ATS 优化、面试准备、薪资谈判等求职全流程，帮助求职者提升 2-3 倍面试机会。</description>
     </item>
-    
     <item>
       <title>LifeOS：一个把 AI 变成你专属生活操作系统的新项目</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-11/lifeos/</link>
+      <link>https://xlap.top/post/tech/2026-08-11/lifeos/</link>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-11/lifeos/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-11/lifeos/</guid>
       <description>LifeOS 是由 Daniel Miessler 推出的 AI 驱动个人操作系统，通过持久记忆、自定义技能、智能路由和自我进化机制，让 AI 真正了解你、记住你、帮助你从现状走向理想状态。支持 TypeScript &#43; Bun，构建在通用原语之上，跨 Claude Code、Cursor 等主流 AI 编码助手运行。</description>
     </item>
-    
     <item>
       <title>Guizang PPT Skill：让 Claude Code / Codex 一键产出单文件 HTML 网页 PPT</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
+      <link>https://xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-10/guizang-ppt-skill/</guid>
       <description>Guizang PPT Skill 是一个面向 Claude Code / Codex 等 Agent 环境的网页 PPT 技能，能生成单文件 HTML 横向翻页 PPT、PPT 配图与多平台封面，并内置完整的排练与演讲者模式。本文拆解其双视觉系统、版式锁定机制与本地演讲者运行时。</description>
     </item>
-    
     <item>
       <title>ADHD：让 AI 编程代理突破「思维定势」的开源技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-31/adhd/</link>
+      <link>https://xlap.top/post/tech/2026-07-31/adhd/</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-31/adhd/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-31/adhd/</guid>
       <description>ADHD 是一个为 AI 编程代理设计的开源技能，通过并行发散思考和独立评分机制，让 AI 在设计决策、模糊调试、API 命名等任务上显著提升创意广度和陷阱检测能力。</description>
     </item>
-    
     <item>
       <title>Claude Scholar：面向 AI 科研人员的半自动化研究助理工作流</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/claude-scholar/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/claude-scholar/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/claude-scholar/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/claude-scholar/</guid>
       <description>深度解析 GitHub Trending 项目 Claude Scholar：基于 Claude Code / Codex CLI / Kimi Code 的半自动化科研助理，覆盖文献综述、实验分析、论文写作、Rebuttal 全流程，含安装与实战指南。</description>
     </item>
-    
     <item>
       <title>jCodeMunch MCP：节省95% Token的GitHub代码检索神器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/jcodemunch-mcp/</guid>
       <description>jCodeMunch MCP 是一款基于 tree-sitter AST 解析的高效 GitHub 代码检索 MCP Server，可将 AI 代码探索的 Token 消耗削减 95% 以上，兼容 Claude Code、Cursor、VS Code 等主流 AI 编程工具。</description>
     </item>
-    
     <item>
       <title>Claude SEO：为 Claude Code 打造的开源 AI 搜索引擎优化技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</link>
+      <link>https://xlap.top/post/tech/2026-07-23/claude-seo/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-23/claude-seo/</guid>
       <description>Claude SEO 是面向 Claude Code 的开源 SEO 分析插件，基于 25 个子技能与 18 个专家 Agent 并行审计技术 SEO、内容质量、结构化数据与 AI 搜索优化，并输出带可证伪性校验的优先级行动计划。</description>
     </item>
-    
     <item>
       <title>opencodex：一款通用大模型代理网关，让 Codex 自由切换任意 LLM</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</link>
+      <link>https://xlap.top/post/tech/2026-07-22/opencodex/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-22/opencodex/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-22/opencodex/</guid>
       <description>opencodex 是一个开源的本地代理工具，它将 OpenAI Codex 的 Responses API 翻译为任意 LLM 提供商的协议，让 Claude Code、Codex CLI/App/SDK 都能无缝使用 Anthropic、Google、DeepSeek、GLM、Qwen 等 40&#43; 模型。</description>
     </item>
-    
     <item>
       <title>intercom/2x-skills：一个汇聚 Claude Code 高质量技能的开放市场</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/2x-skills/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/2x-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/2x-skills/</guid>
       <description>2x-skills 是 Intercom 团队推出的 Claude Code 技能市场，提供代码审查、安全加固、权限分析、成本优化等一系列精选插件，帮助开发者更高效地使用 Claude Code。</description>
     </item>
-    
     <item>
       <title>Hallmark：让 AI 生成的设计拒绝「AI 味」的设计技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/hallmark/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/hallmark/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/hallmark/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/hallmark/</guid>
       <description>Hallmark 是 Together AI 推出的一个面向 Claude Code、Cursor 和 Codex 的设计技能，它通过 20 套主题、四种动词与 57 项「AI 味」检测关卡，让大模型生成的 UI 看起来像人工打磨而非模板套壳。本文解析其架构、用法与安装方式。</description>
     </item>
-    
     <item>
       <title>Free Claude Code：用本地代理让 Claude Code 和 Codex 畅连所有 AI 提供商</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-13/free-claude-code/</link>
+      <link>https://xlap.top/post/tech/2026-07-13/free-claude-code/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-13/free-claude-code/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-13/free-claude-code/</guid>
       <description>Free Claude Code 是一个开源本地代理工具，将 Claude Code 和 Codex 与 OpenAI 兼容的 AI 提供商桥接起来，支持 NVIDIA NIM、OpenRouter、Gemini、DeepSeek 等 24&#43; 云端及本地模型，让你在不花一分钱的情况下自由使用最强 AI 编程助手。</description>
     </item>
-    
     <item>
       <title>Claude Code Templates：打造你的 AI 编程助手工具箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/claude-code-templates/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/claude-code-templates/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/claude-code-templates/</guid>
       <description>Claude Code Templates 是一个开源项目，为 Anthropic 的 Claude Code 提供即用型配置模板，包含 100 多个 AI 代理、自定义命令、设置、钩子和 MCP 集成，帮助你快速构建高效的 AI 辅助开发工作流。</description>
     </item>
-    
     <item>
       <title>planning-with-files：让AI编程助手不再失忆的持久化规划技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</link>
+      <link>https://xlap.top/post/tech/2026-07-06/planning-with-files/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-06/planning-with-files/</guid>
       <description>一个为AI编程助手设计的持久化文件规划技能，通过三文件模式解决上下文丢失、目标漂移等问题，让Agent在/clear或崩溃后自动恢复任务进度。</description>
     </item>
-    
     <item>
       <title>354 个生产级 Claude Code 技能包：覆盖 13 个 AI 编程工具的超全开源技能库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</link>
+      <link>https://xlap.top/post/tech/2026-07-05/claude-skills/</link>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-05/claude-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-05/claude-skills/</guid>
       <description>探索 alirezarezvani/claude-skills——最全面的开源 Claude Code 技能库，包含 354 个生产级技能、96 个智能体和 102 个命令，支持 Claude Code、OpenAI Codex、Gemini CLI 等 13 个 AI 编程工具。</description>
     </item>
-    
     <item>
       <title>Awesome Claude Code：Claude Code 生态资源大全，打造你的 AI 编程终极武器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>
+      <link>https://xlap.top/post/tech/2026-07-05/awesome-claude-code/</link>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-05/awesome-claude-code/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-05/awesome-claude-code/</guid>
       <description>GitHub Trending 热门项目 awesome-claude-code 是一个精心策划的 Claude Code 生态资源清单，涵盖官方文档、技能系统、插件生态、多智能体编排、安全工具、设计引擎等 17 个分类，帮助开发者快速构建高效的 AI 辅助编程工作流。</description>
     </item>
-    
     <item>
       <title>Caveman：让 AI 编程助手减少 75% 输出 Token 的 Claude Code 技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-02/caveman/</link>
+      <link>https://xlap.top/post/tech/2026-07-02/caveman/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-02/caveman/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-02/caveman/</guid>
       <description>Caveman 是一个 Claude Code 技能/插件，支持 30&#43; AI 编程助手，通过精简输出语言减少约 75% 的输出 Token，同时保持完整的技术准确性。本文深度解析其工作原理、安装方式、实际收益和技术实现。</description>
     </item>
-    
     <item>
       <title>AWS Agent Toolkit for AWS：让 AI 编码代理无缝玩转 AWS 全栈服务</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
+      <link>https://xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-26/agent-toolkit-for-aws/</guid>
       <description>AWS 官方推出的 Agent Toolkit for AWS，为 Claude Code、Codex、Cursor、Kiro 等主流 AI 编码代理提供统一的 AWS 工具、知识和安全护栏，支持 300&#43; AWS 服务，覆盖构建、部署、监控全流程。</description>
     </item>
-    
     <item>
       <title>AI Berkshire：用 Claude Code 打造你的私人投研团队</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-25/ai-berkshire/</link>
+      <link>https://xlap.top/post/tech/2026-06-25/ai-berkshire/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-25/ai-berkshire/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-25/ai-berkshire/</guid>
       <description>AI Berkshire 是一套基于 Claude Code 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化，通过 AI Agent 实现专业级投资研究，两年实盘收益超 180%，大幅跑赢全球主要指数。</description>
     </item>
-    
     <item>
       <title>Claude Code 最佳实践：从 Vibe Coding 到 Agentic Engineering</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
+      <link>https://xlap.top/post/tech/2026-06-24/claude-code-best-practice/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-24/claude-code-best-practice/</guid>
       <description>探索 GitHub Trending #1 项目 claude-code-best-practice，系统学习 Claude Code 的 Subagents、Commands、Skills、Workflows 等核心功能的最佳实践，助力从传统编码向智能化工程转型。</description>
     </item>
-    
     <item>
       <title>AI Website Cloner Template：用 AI 编程助手一键克隆任意网站</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>
+      <link>https://xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-23/ai-website-cloner-template/</guid>
       <description>一个强大的 Next.js 模板项目，配合 Claude Code 等 AI 编程助手，可以逆向工程任意网站，自动提取设计令牌、资源，并重建为现代化的 Next.js 代码库。支持平台迁移、丢失源码恢复、技术学习等多种场景。</description>
     </item>
-    
     <item>
       <title>Claude Code Plugins 官方插件目录：Claude Code 的插件生态系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
+      <link>https://xlap.top/post/tech/2026-06-23/claude-plugins-official/</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-23/claude-plugins-official/</guid>
       <description>Anthropic 推出的 Claude Code 官方插件目录，为 Claude Code 提供标准化插件市场，支持 MCP 服务器集成、自定义命令和技能包，构建可扩展的 AI 编程助手生态。</description>
     </item>
-    
     <item>
       <title>Skills For Real Engineers：Matt Pocock 的 AI 编程技能体系</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/skills/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/skills/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/skills/</guid>
       <description>深入解析 Matt Pocock 开源的 Skills 项目——一套专为 AI 编程时代设计的可组合 Agent 技能体系，解决 AI 编码中的对齐、冗余、调试与架构退化四大核心问题。</description>
     </item>
-    
     <item>
       <title>Claude How To：周末掌握 Claude Code 完整指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</link>
+      <link>https://xlap.top/post/tech/2026-06-09/claude-howto/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-09/claude-howto/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-09/claude-howto/</guid>
       <description>一份结构化的 Claude Code 教程，通过可视化教程、可复制模板和引导式学习路径，教你从基础命令到代理编排、钩子、技能和 MCP 服务器的完整用法。</description>
     </item>
-    
     <item>
       <title>Personal AI Infrastructure：构建你的个人 AI 生命操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/personal-ai-infrastructure/</guid>
       <description>深入解析 Daniel Miessler 的 Personal AI Infrastructure (PAI) 项目——一个完整的个人 AI 生命操作系统，通过统一的 Pulse 守护进程、DA 数字助手身份层和 Algorithm v6.3.0 算法，帮助用户从当前状态迈向理想状态。包含 45 个技能、171 个工作流和完整的内存系统。</description>
     </item>
-    
     <item>
       <title>last30days-skill：基于真实用户互动的多源AI研究引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</link>
+      <link>https://xlap.top/post/tech/2026-06-05/last30days-skill/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-05/last30days-skill/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-05/last30days-skill/</guid>
       <description>一个能够并行搜索 Reddit、X、YouTube、TikTok、Polymarket 等多个平台的 AI Agent 技能，通过用户点赞、评论、资金投注等真实互动数据对信息评分，生成基于&amp;#34;人民搜索&amp;#34;而非&amp;#34;编辑搜索&amp;#34;的深度研究报告。</description>
     </item>
-    
     <item>
       <title>Impeccable：让 AI 生成的前端设计不再「千篇一律」</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/impeccable/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/impeccable/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/impeccable/</guid>
       <description>Impeccable 是一套面向 AI 编程助手的设计技能包，提供 7 大设计领域参考文件、23 条设计命令和 27 条反模式规则，从根本上解决 AI 生成前端界面同质化严重的问题。</description>
     </item>
-    
     <item>
       <title>Compound Engineering Plugin：让每个工程单元都比上一个更容易</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</link>
+      <link>https://xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</link>
       <pubDate>Fri, 29 May 2026 06:01:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-29/compound-engineering-plugin/</guid>
       <description>深入解析 Compound Engineering Plugin：通过 AI Skills 和 Agents 实现工程工作的复利式增长。每个工程单元都让后续工作变得更简单，而非更难。</description>
     </item>
-    
     <item>
       <title>Claude Code Harness：让 Claude Code 工作有迹可循的工程化框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</link>
+      <link>https://xlap.top/post/tech/2026-05-28/claude-code-harness/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-28/claude-code-harness/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-28/claude-code-harness/</guid>
       <description>Claude Code Harness 为 Claude Code 提供了一套纪律化的交付循环，通过 5 个动词技能（Plan、Work、Review、Sync、Release）将散乱的 Agent 工作转化为可追踪、可验证、可发布的工程流程。</description>
     </item>
-    
     <item>
       <title>Harness：让 Claude Code 秒变多智能体协作工厂</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-28/harness/</link>
+      <link>https://xlap.top/post/tech/2026-05-28/harness/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-28/harness/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-28/harness/</guid>
       <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Harness&lt;/strong&gt; 是 revfactory 团队开源的 Claude Code 插件（Marketplace ID: &lt;code&gt;harness-marketplace&lt;/code&gt;），它的核心定位是 &lt;strong&gt;&amp;ldquo;Team-Architecture Factory&amp;rdquo;（智能体团队架构工厂）&lt;/strong&gt;。只需对 Claude Code 说一句「build a harness for this project」，它就能自动分析你的领域描述，把复杂任务分解为一组协调工作的专业智能体（Agent），并为它们生成配套的 Skills。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/ralph/</link>
       <pubDate>Wed, 27 May 2026 14:50:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/ralph/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/ralph/</guid>
       <description>Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。</description>
     </item>
-    
     <item>
       <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/claude-mem/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/claude-mem/</guid>
       <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
     </item>
-    
     <item>
       <title>ECC 深度技术解析：AI Agent 工作的原生操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-25/ecc/</link>
+      <link>https://xlap.top/post/tech/2026-05-25/ecc/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-25/ecc/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-25/ecc/</guid>
       <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ECC&lt;/strong&gt;（Everything Claude Code）是一个为 AI Agent 工作流设计的原生操作系统，在 GitHub 上获得了惊人的 &lt;strong&gt;182K+ stars&lt;/strong&gt; 和 &lt;strong&gt;28K+ forks&lt;/strong&gt;，拥有 &lt;strong&gt;170+ 贡献者&lt;/strong&gt;。该项目起源于 Anthropic 黑客松的获奖作品，经过 10+ 个月的密集日常使用和产品构建演进，已成为一个完整的生产级系统。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <link>https://xlap.top/post/tech/2026-05-25/understand-anything/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-25/understand-anything/</guid>
       <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

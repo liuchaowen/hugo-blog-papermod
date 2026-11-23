@@ -1,160 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>安全 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/</link>
+    <link>https://xlap.top/categories/%E5%AE%89%E5%85%A8/</link>
     <description>Recent content in 安全 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/categories/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>User Scanner：465&#43; 扫描向量的 2-in-1 邮箱与用户名 OSINT 情报套件</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</link>
+      <link>https://xlap.top/post/tech/2026-08-30/user-scanner/</link>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-30/user-scanner/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-30/user-scanner/</guid>
       <description>kaifcodec/user-scanner 是一个集邮箱与用户名情报于一体的 OSINT 侦察套件，覆盖 465&#43; 扫描向量、支持跨扫描枢转、Hudson Rock 泄密情报查询、MCP 服务与多格式报告导出。本文从架构、技术原理到实战用法进行深度拆解。</description>
     </item>
-    
     <item>
       <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <link>https://xlap.top/post/tech/2026-08-23/vaultwarden/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
       <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
     </item>
-    
     <item>
       <title>DeepSec：Vercel 开源的 AI 驱动漏洞扫描器，专为大型代码库设计</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/deepsec/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/deepsec/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/deepsec/</guid>
       <description>DeepSec 是 Vercel Labs 开源的 Agent 驱动漏洞扫描器，支持在自有基础设施中运行，针对大型代码库进行深度安全审计，使用顶级 AI 模型在最思考级别下分析代码，可并行分布式执行、断点续传，帮助企业发现潜伏已久的隐蔽漏洞。</description>
     </item>
-    
     <item>
       <title>Claude-BugHunter: 让 Claude Code 变身漏洞猎手的 82 个技能包</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
+      <link>https://xlap.top/post/tech/2026-08-12/claude-bughunter/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-12/claude-bughunter/</guid>
       <description>Claude-BugHunter 是一个为 Claude Code 打造的漏洞挖掘与红队技能包，包含 82 个技能、15 个斜杠命令，覆盖 Web 安全、API 测试、企业身份平台、GraphQL、OAuth 等 24 个漏洞类别的 681 个公开 HackerOne 报告模式，让 AI 助手从通用聊天机器人变身为专业安全研究员。</description>
     </item>
-    
     <item>
       <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <link>https://xlap.top/post/tech/2026-08-06/authentik/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-06/authentik/</guid>
       <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
     </item>
-    
     <item>
       <title>ADR：Uber开源的企业级AI代理安全检测与响应系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/adr/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/adr/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/adr/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/adr/</guid>
       <description>ADR是Uber开源的企业级AI代理安全系统，通过观测代理行为、评估安全防御、检测威胁并阻止不安全操作，保护Cursor、Claude Code等AI编码工具和客户服务代理的安全性，已在Uber生产环境部署，论文被MLSys 2026接收。</description>
     </item>
-    
     <item>
       <title>VVAH：Visa开源的AI驱动漏洞发现与验证框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</link>
+      <link>https://xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-03/visa-vulnerability-agentic-harness/</guid>
       <description>Visa开源的VVAH是一个基于前沿AI模型的自主漏洞发现、修复和验证框架，采用四阶段十一级流水线设计，从代码摄取到验证修复全流程自动化，支持多模型后端。</description>
     </item>
-    
     <item>
       <title>reverse-skill：AI 代码助手逆向渗透技能路由包</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</link>
+      <link>https://xlap.top/post/tech/2026-07-31/reverse-skill/</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-31/reverse-skill/</guid>
       <description>reverse-skill 是一个专为 AI Agent（Claude Code、Cursor、Cline 等）设计的逆向工程 / 渗透测试技能路由包，通过 38 个场景化 Skill 自动路由 &#43; 按需工具链自举 &#43; 可进化经验库，让 AI 在面对 APK、JS 加密、固件、CTF 等任务时不再盲猜命令。</description>
     </item>
-    
     <item>
       <title>PentAGI：用 AI Agent 打造全自动渗透测试平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</link>
+      <link>https://xlap.top/post/tech/2026-07-10/pentagi/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-10/pentagi/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-10/pentagi/</guid>
       <description>PentAGI 是一款基于大语言模型的自主渗透测试平台，通过 AI Agent 协调 20&#43; 专业安全工具，在 Docker 沙盒中自动完成信息收集、漏洞发现到报告生成的完整渗透测试流程。</description>
     </item>
-    
     <item>
       <title>手把手加固 Linux 服务器：一份持续演进的安全实战指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-10/how-to-secure-a-linux-server/</link>
+      <link>https://xlap.top/post/tech/2026-07-10/how-to-secure-a-linux-server/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-10/how-to-secure-a-linux-server/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-10/how-to-secure-a-linux-server/</guid>
       <description>How-To-Secure-A-Linux-Server 是 GitHub 上一份持续更新的 Linux 服务器安全加固指南，覆盖 SSH 加固、UFW 防火墙、Fail2Ban/CrowdSec 入侵防御、审计与监控等完整防线。本文梳理其核心思路与可落地的操作清单。</description>
     </item>
-    
     <item>
       <title>CUPP：交互式社工密码字典生成利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/cupp/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/cupp/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/cupp/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/cupp/</guid>
       <description>CUPP（Common User Passwords Profiler）是一款经典的交互式社工密码分析工具，通过收集目标个人信息生成高度定制化的密码字典，支持 1337 模式和海量词库下载，广泛用于渗透测试与安全审计。</description>
     </item>
-    
     <item>
       <title>Strix：开源 AI 安全测试 Agent，像黑客一样发现并修复应用漏洞</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-29/strix/</link>
+      <link>https://xlap.top/post/tech/2026-06-29/strix/</link>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-29/strix/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-29/strix/</guid>
       <description>Strix 是一款开源的自主 AI 安全测试工具，模拟真实黑客行为动态运行代码、发现漏洞并通过 PoC 验证，适用于应用安全测试、渗透测试、Bug Bounty 自动化和 CI/CD 集成场景。</description>
     </item>
-    
     <item>
       <title>SimpleX Chat：首个无用户标识的隐私即时通讯平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</link>
+      <link>https://xlap.top/post/tech/2026-06-26/simplex-chat/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-26/simplex-chat/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-26/simplex-chat/</guid>
       <description>SimpleX Chat 是全球首个完全不使用任何用户标识符的即时通讯平台，通过双棘轮端到端加密和单向消息队列设计，实现了身份、联系人、元数据的完全隐私保护，通过了 Trail of Bits 安全审计，并支持量子抗性密钥交换。</description>
     </item>
-    
     <item>
       <title>SkillSpector：NVIDIA 开源 AI Agent 技能安全扫描工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</link>
+      <link>https://xlap.top/post/tech/2026-06-14/skillspector/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-14/skillspector/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-14/skillspector/</guid>
       <description>SkillSpector 是 NVIDIA 开源的安全扫描工具，专门检测 AI Agent 技能（如 Claude Code、Cursor）中的漏洞、恶意模式和供应链风险，支持 64 种漏洞模式，涵盖提示注入、权限提升等 16 大类别。</description>
     </item>
-    
     <item>
       <title>GhostTrack：开源 OSINT 信息收集工具深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/ghosttrack/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/ghosttrack/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/ghosttrack/</guid>
       <description>GhostTrack 是一款基于 Python 的开源 OSINT 工具，集成了 IP 地址追踪、手机号码查询和社交媒体用户名搜索三大功能，适合安全研究人员进行合法的信息收集工作。</description>
     </item>
-    
     <item>
       <title>Trivy：一款全能的容器与云原生安全扫描工具深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-04/trivy/</link>
+      <link>https://xlap.top/post/tech/2026-06-04/trivy/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-04/trivy/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-04/trivy/</guid>
       <description>深入解析 Aqua Security 开源的 Trivy 安全扫描器，探讨其如何在容器镜像、文件系统、Kubernetes 集群等多种目标中发现漏洞、配置错误和敏感信息，以及其架构设计与实际应用。</description>
     </item>
-    
   </channel>
 </rss>

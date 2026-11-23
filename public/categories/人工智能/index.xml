@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>人工智能 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <link>https://xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
     <description>Recent content in 人工智能 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>J-Space Cognition Suite V3.6：让AI拥有深度推理与长期任务能力的推理时控制系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</link>
+      <link>https://xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</link>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-21/j-space-cognition-suite-v3-6/</guid>
       <description>J-Space Cognition Suite V3.6 是一个模型无关的推理时控制系统，通过选择性加载工作空间、广播中心和元认知控制等机制，显著提升大模型的深度推理、长期任务执行、工具使用和恢复能力，在多个基准测试中实现了2-3倍的效率提升。</description>
     </item>
-    
     <item>
       <title>SenseNova-U1：原生统一多模态大模型，端到端实现理解与生成</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-19/sensenova-u1/</link>
+      <link>https://xlap.top/post/tech/2026-07-19/sensenova-u1/</link>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-19/sensenova-u1/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-19/sensenova-u1/</guid>
       <description>SenseNova-U1 是商汤科技开源的原生多模态大模型，采用创新的 NEO-unify 架构，无需视觉编码器(VE)和变分自编码器(VAE)，实现真正的端到端统一理解与生成。在多个基准测试中达到开源SOTA性能，支持文生图、图像编辑、交错图文生成等任务。</description>
     </item>
-    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <link>https://xlap.top/post/tech/2026-07-04/pytorch/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-04/pytorch/</guid>
       <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
     </item>
-    
     <item>
       <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
       <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
     </item>
-    
     <item>
       <title>MOSS-TTS Family：开源高质量语音与声音生成模型家族深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</link>
+      <link>https://xlap.top/post/tech/2026-05-29/moss-tts/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-29/moss-tts/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-29/moss-tts/</guid>
       <description>深入解析 OpenMOSS 团队开源的 MOSS-TTS Family，涵盖高精度语音合成、对话生成、声音设计、实时 TTS 和音效生成五大模型</description>
     </item>
-    
   </channel>
 </rss>

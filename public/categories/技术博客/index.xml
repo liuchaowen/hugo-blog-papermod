@@ -1,103 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术博客 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 技术博客 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>amnezia-client — Amnezia VPN Client (Desktop&#43;Mobile)</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/amnezia-client/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/amnezia-client/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/amnezia-client/</guid>
       <description>(https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
 (https://gitpod.io/https://github.com/amnezia-vpn/amnezia-client)</description>
     </item>
-    
     <item>
       <title>bitchat-android — bluetooth mesh chat, IRC vibes</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/bitchat-android/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/bitchat-android/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/bitchat-android/</guid>
       <description>&amp;lt;palign=&amp;#34;center&amp;#34;
 &amp;lt;imgsrc=&amp;#34;https://github.com/user-attachments/assets/188c42f8-d249-4a72-b27a-e2b4f10a00a8&amp;#34;alt=&amp;#34;BitchatAndroidLogo&amp;#34;width=&amp;#34;480&amp;#34;
 &amp;lt;/p</description>
     </item>
-    
     <item>
       <title>jenkins — Jenkins automation server</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/jenkins/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/jenkins/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/jenkins/</guid>
       <description>&amp;lt;ahref=&amp;#34;https://jenkins.io&amp;#34;
 &amp;lt;imgwidth=&amp;#34;400&amp;#34;src=&amp;#34;https://www.jenkins.io/images/jenkins-logo-title-dark.svg&amp;#34;alt=&amp;#34;Jenkinslogo&amp;#34;
 &amp;lt;/a</description>
     </item>
-    
     <item>
       <title>node — Node.js JavaScript runtime ✨🐢🚀✨</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/node/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/node/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/node/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/node/</guid>
       <description>Node.jsisanopen-source,cross-platformJavaScriptruntimeenvironment.</description>
     </item>
-    
     <item>
       <title>t3code — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/t3code/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/t3code/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/t3code/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/t3code/</guid>
       <description>T3CodeisaminimalwebGUIforcodingagents(currentlyCodex,Claude,Cursor,andOpenCode,morecomingsoon).</description>
     </item>
-    
     <item>
       <title>grok2api — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/grok2api/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/grok2api/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/grok2api/</guid>
       <description>&amp;lt;palign=&amp;#34;center&amp;#34;
 &amp;lt;imgalt=&amp;#34;Grok2API&amp;#34;src=&amp;#34;./frontend/public/grok2api.png&amp;#34;width=&amp;#34;720&amp;#34;/
 &amp;lt;/p</description>
     </item>
-    
     <item>
       <title>SharpEmu — 一个实验性的 PlayStation 5 模拟器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/sharpemu/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/sharpemu/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/sharpemu/</guid>
       <description>SharpEmu 是一个从零开发的实验性 PlayStation 5 模拟器，基于 C#/.NET SDK，已能加载真实游戏 eboot.bin 文件并部分运行《恶魔之魂》等游戏。</description>
     </item>
-    
     <item>
       <title>asio — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/asio/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/asio/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/asio/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/asio/</guid>
       <description>Visithttps://think-async.com/orseepackageddoc/index.htmlforAPI
 documentationandatutorial.</description>
     </item>
-    
     <item>
       <title>tailscale — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/tailscale/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/tailscale/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/tailscale/</guid>
       <description>ThisrepositorycontainsthemajorityofTailscale&amp;#39;sopensourcecode.
 Notably,itincludesthetailscaleddaemonand
 thetailscaleCLItool.ThetailscaleddaemonrunsonLinux,Windows,
@@ -105,22 +91,18 @@ thetailscaleCLItool.ThetailscaleddaemonrunsonLinux,Windows,
 onFreeBSDandOpenBSD.TheTailscaleiOSandAndroidappsusethisrepo&amp;#39;s
 code,butthisrepodoesn&amp;#39;tcontainthemobileGUIcode.</description>
     </item>
-    
     <item>
       <title>autoremesher — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</link>
+      <link>https://xlap.top/post/tech/2026-07-09/autoremesher/</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-09/autoremesher/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-09/autoremesher/</guid>
       <description>AutoRemesherisacross-platformautomaticquadremeshingtoolthatconvertshigh-polygonmeshesintocleanquad-basedtopology.Itisbuiltontopoflibraries:,,and.</description>
     </item>
-    
     <item>
       <title>CodexBar — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</link>
+      <link>https://xlap.top/post/tech/2026-07-06/codexbar/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-06/codexbar/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-06/codexbar/</guid>
       <description>(https://github.com/steipete/CodexBar/releases/latest)
 (https://github.com/steipete/CodexBar/releases/latest)
 (https://github.com/steipete/homebrew-tap)
@@ -128,46 +110,37 @@ code,butthisrepodoesn&amp;#39;tcontainthemobileGUIcode.</description>
 (LICENSE)
 (https://codexbar.app)</description>
     </item>
-    
     <item>
       <title>codex-plugin-cc — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</link>
+      <link>https://xlap.top/post/tech/2026-07-03/codex-plugin-cc/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-03/codex-plugin-cc/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-03/codex-plugin-cc/</guid>
       <description>UseCodexfrominsideClaudeCodeforcodereviewsortodelegatetaskstoCodex.</description>
     </item>
-    
     <item>
       <title>penpot — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/penpot/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/penpot/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/penpot/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/penpot/</guid>
       <description>&amp;lt;imgwidth=&amp;#34;100%&amp;#34;src=&amp;#34;https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602&amp;#34;/</description>
     </item>
-    
     <item>
       <title>system-prompts-and-models-of-ai-tools — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</link>
+      <link>https://xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-09/system-prompts-and-models-of-ai-tools/</guid>
       <description>&amp;lt;palign=&amp;#34;center&amp;#34;
 &amp;lt;ahref=&amp;#34;https://github.com/latitude-dev/latitude-llm&amp;#34;
 &amp;lt;imgsrc=&amp;#34;assets/latitude-dark.png&amp;#34;alt=&amp;#34;LatitudeLogo&amp;#34;width=&amp;#34;700&amp;#34;/
 &amp;lt;/a
 &amp;lt;/p</description>
     </item>
-    
     <item>
       <title>Ralph：让 AI 编码工具自主循环跑完所有 PRD 任务的量产神器</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/ralph/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/ralph/</link>
       <pubDate>Wed, 27 May 2026 14:50:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/ralph/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/ralph/</guid>
       <description>Ralph 是一个开源的自主 AI Agent 循环工具，让 AI 编码工具（Amp 或 Claude Code）反复运行，直到所有 PRD 任务全部完成。每次迭代都是全新的实例，通过 git 历史、progress.txt 和 prd.json 保持记忆。</description>
     </item>
-    
   </channel>
 </rss>
