@@ -1,60 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>人工智能 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <link>https://xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
     <description>Recent content in 人工智能 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenJarvis：让个人 AI 真正运行在你的个人设备上</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</link>
+      <link>https://xlap.top/post/tech/2026-08-03/openjarvis/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-03/openjarvis/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-03/openjarvis/</guid>
       <description>OpenJarvis 是斯坦福 Hazy Research 开源的本地优先（local-first）个人 AI 框架，用共享原语、以能耗/FLOPs/延迟/成本为第一约束的评测体系，以及基于本地轨迹的学习闭环，让人人都能在本地设备上构建默认离线运行、按需上云的个人智能体。</description>
     </item>
-    
     <item>
       <title>Maths, CS &amp; AI Compendium：从零构建数学、计算机与 AI 直觉的开源教材</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</link>
+      <link>https://xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-15/maths-cs-ai-compendium/</guid>
       <description>Maths, CS &amp;amp; AI Compendium 是 Henry Ndubuaku 开源的非传统教材，从直觉出发系统讲解数学、计算机与人工智能，覆盖向量、矩阵、微积分、概率、机器学习、深度学习、NLP、计算机视觉、GPU 编程、ML 系统设计等 18 个章节，并附带一个可接入任意 AI 助手的 MCP 知识库服务器。</description>
     </item>
-    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <link>https://xlap.top/post/tech/2026-07-04/pytorch/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-04/pytorch/</guid>
       <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
     </item>
-    
     <item>
       <title>Anthropic Cybersecurity Skills: AI 智能体的网络安全技能库</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>
+      <link>https://xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-25/anthropic-cybersecurity-skills/</guid>
       <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Anthropic Cybersecurity Skills&lt;/strong&gt; 是一个面向 AI 智能体的网络安全技能库，收录了 &lt;strong&gt;754 个生产级安全技能&lt;/strong&gt;，覆盖 &lt;strong&gt;26 个安全领域&lt;/strong&gt;，同时映射到五大行业框架：MITRE ATT&amp;amp;CK、NIST CSF 2.0、MITRE ATLAS、MITRE D3FEND 和 NIST AI RMF。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>AITools.Uno,弄了个AI导航网站</title>
-      <link>https://blog.xlap.top/post/tech/aitools/</link>
+      <link>https://xlap.top/post/tech/aitools/</link>
       <pubDate>Thu, 27 Feb 2025 17:06:57 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/aitools/</guid>
+      <guid>https://xlap.top/post/tech/aitools/</guid>
       <description>&lt;p&gt;VanNav - 基于Go导航网站开源项目
 
 
@@ -71,15 +65,12 @@
 &lt;p&gt;闲来无事，折腾不止。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://aitools.uno&#34;&gt;[点击前往]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>初次体验PandaGPT读一本书</title>
-      <link>https://blog.xlap.top/post/life/pandagpt/</link>
+      <link>https://xlap.top/post/life/pandagpt/</link>
       <pubDate>Fri, 24 Mar 2023 12:04:46 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/life/pandagpt/</guid>
+      <guid>https://xlap.top/post/life/pandagpt/</guid>
       <description>体验了一下PandaGPT，对于不想花费太多精力去功利性阅读的人来说，它能很好的满足你对信息获取的需求。</description>
     </item>
-    
   </channel>
 </rss>

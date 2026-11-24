@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>WeClone on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/weclone/</link>
+    <link>https://xlap.top/tags/weclone/</link>
     <description>Recent content in WeClone on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/weclone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 15:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/weclone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WeClone：用聊天记录微调 LLM，打造你的专属数字分身</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-08/weclone/</link>
+      <link>https://xlap.top/post/tech/2026-09-08/weclone/</link>
       <pubDate>Tue, 08 Sep 2026 15:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-08/weclone/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-08/weclone/</guid>
       <description>WeClone 是一款开源的端到端数字分身解决方案，支持从 Telegram、微信等平台导出聊天记录，通过 LoRA 微调 Qwen2.5-VL 等大模型，部署到 Telegram、Discord 等聊天机器人，让你用真实对话数据训练出 speaking style 和你一模一样的 AI 分身。</description>
     </item>
-    
   </channel>
 </rss>

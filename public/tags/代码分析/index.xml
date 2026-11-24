@@ -1,71 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>代码分析 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/</link>
+    <link>https://xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/</link>
     <description>Recent content in 代码分析 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitNexus：把代码库编译成知识图谱，让 AI Agent 不再「盲改」代码</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</link>
+      <link>https://xlap.top/post/tech/2026-08-29/gitnexus/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-29/gitnexus/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-29/gitnexus/</guid>
       <description>GitNexus（Akon Labs）将任意代码库索引为知识图谱（依赖、调用链、聚类、执行流），再通过 17 个智能 MCP 工具暴露给 Cursor、Claude Code、Codex 等 AI 编程 Agent。本文深入解析其架构、技术栈、MCP 工具与实战用法。</description>
     </item>
-    
     <item>
       <title>calldiff：一个 Git 风格的代码调用链路 Diff 工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/calldiff/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/calldiff/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/calldiff/</guid>
       <description>calldiff 是一款通过 tree-sitter 解析代码 AST、对比 git 提交间函数调用关系变化的 CLI 工具，支持 22 种编程语言，输出结构化树形 diff，专为 AI 代码审查场景设计。</description>
     </item>
-    
     <item>
       <title>Code-Graph-RAG：用知识图谱 &#43; RAG 彻底搞懂你的代码库</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
+      <link>https://xlap.top/post/tech/2026-08-09/code-graph-rag/</link>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-09/code-graph-rag/</guid>
       <description>Code-Graph-RAG 是一款开源的多语言代码库 RAG 工具，基于 Tree-sitter 解析代码 AST，构建到 Memgraph 图数据库中，再用自然语言驱动 AI 查询、编辑和优化代码，支持 12 种编程语言。</description>
     </item>
-    
     <item>
       <title>Graphify：将代码库转化为可查询的知识图谱</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/graphify/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/graphify/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/graphify/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/graphify/</guid>
       <description>Graphify 是一款 AI 编程助手技能，可将整个项目（代码、文档、PDF、图片、视频）映射为知识图谱。通过 tree-sitter AST 解析代码实现完全本地化处理，无需 LLM 即可构建代码关系图，支持 40&#43; 种编程语言。提供交互式 graph.html 可视化、graph.json 查询接口以及 explain、path、query 三种核心查询命令。</description>
     </item>
-    
     <item>
       <title>codebase-memory-mcp：毫秒级代码知识图谱引擎，让 AI 编程代理真正读懂你的代码库</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
+      <link>https://xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-17/codebase-memory-mcp/</guid>
       <description>codebase-memory-mcp 是一个纯 C 实现的代码智能引擎，支持 158 种语言的 tree-sitter AST 解析与 Hybrid LSP 语义类型推断，可在毫秒内构建跨文件调用链知识图谱，为 AI 编程代理提供结构化代码理解能力。</description>
     </item>
-    
     <item>
       <title>Understand Anything：把任意代码库变成可交互知识图谱</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</link>
+      <link>https://xlap.top/post/tech/2026-05-25/understand-anything/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-25/understand-anything/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-25/understand-anything/</guid>
       <description>&lt;h2 id=&#34;一项目概述&#34;&gt;一、项目概述&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Understand Anything&lt;/strong&gt; 是一个 Claude Code 插件，它能将任意代码库、知识库或文档转化为可交互的知识图谱——你可以在上面探索、搜索、提问。当你加入一个新团队，面对 20 万行代码无从下手时，它能帮你从&amp;quot;盲目读代码&amp;quot;切换到&amp;quot;看清全局&amp;quot;。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

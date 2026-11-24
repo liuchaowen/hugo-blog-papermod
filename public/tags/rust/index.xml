@@ -1,511 +1,404 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rust on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/rust/</link>
+    <link>https://xlap.top/tags/rust/</link>
     <description>Recent content in Rust on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 12:05:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stremio Web：Rust 引擎编译 WASM 的开源流媒体 Web 端架构</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</link>
+      <link>https://xlap.top/post/tech/2026-09-07/stremio-web/</link>
       <pubDate>Mon, 07 Sep 2026 12:05:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-07/stremio-web/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-07/stremio-web/</guid>
       <description>Stremio Web 是 Stremio 官方开源 Web UI：React 前端 &#43; Rust 编写的 stremio-core 引擎编译为 WASM 在 Web Worker 中运行。本文深入解析其 Addon 生态、UI/Core 架构、视频播放链路与本地部署方式。</description>
     </item>
-    
     <item>
       <title>Fastpotify：用 Rust 写的轻量 Spotify 客户端，内存占用仅官方四分之一</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/fastpotify/</link>
       <pubDate>Wed, 02 Sep 2026 14:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/fastpotify/</guid>
       <description>Fastpotify 是一个用 Rust 和 egui 构建的原生 Spotify 客户端，通过 librespot 播放音乐，内存仅 100-250MB，支持 Spotify Connect、Winamp 皮肤、MilkDrop 可视化效果，跨平台运行。</description>
     </item>
-    
     <item>
       <title>WalGit：一个跑在对象存储前的单二进制 Git 服务器</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-27/walgit/</link>
+      <link>https://xlap.top/post/tech/2026-08-27/walgit/</link>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-27/walgit/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-27/walgit/</guid>
       <description>WalGit 是 tobi 开源的单二进制 Git 服务器，用对象存储（S3/GCS）作为唯一真相源，以写前日志（WAL）&#43; 比较并交换（CAS）取代数据库与主从协商，让无状态、可横向扩展的 Git 托管在比仓库更小的机器上稳定运行。本文拆解其架构与关键技术。</description>
     </item>
-    
     <item>
       <title>QzoneArchive：安全归档你的QQ空间记忆，一个跨平台本地工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</link>
+      <link>https://xlap.top/post/tech/2026-08-26/qzonearchive/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-26/qzonearchive/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-26/qzonearchive/</guid>
       <description>QzoneArchive 是一款用 Rust &#43; Tauri 2 &#43; Vue 3 构建的跨平台桌面和移动端工具，可以安全地将QQ空间动态、照片、视频与互动记录归档到本地SQLite数据库，支持断点续传、频率保护、HTML导出和媒体时光轴等功能，所有数据完全本地存储，不上传任何服务器。</description>
     </item>
-    
     <item>
       <title>Vaultwarden：轻量级自托管密码管理服务器的最佳选择</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</link>
+      <link>https://xlap.top/post/tech/2026-08-23/vaultwarden/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-23/vaultwarden/</guid>
       <description>Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器替代实现，资源占用极低，完美适配个人和小团队的私有化部署需求，支持完整的密码管理功能包括多因素认证、组织管理、附件存储等。</description>
     </item>
-    
     <item>
       <title>terminal-browser：在终端里跑浏览器的奇思妙想</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-21/terminal-browser/</link>
+      <link>https://xlap.top/post/tech/2026-08-21/terminal-browser/</link>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-21/terminal-browser/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-21/terminal-browser/</guid>
       <description>terminal-browser 是一个把完整 Chromium 浏览器嵌入终端的项目，借助 kitty graphics 协议在终端窗口内渲染像素，配合 Electron offscreen rendering 实现零延迟的终端浏览器体验。</description>
     </item>
-    
     <item>
       <title>OpenLogi：用 Rust 重写 Logitech Options&#43;，本地优先的罗技鼠标驱动替代方案</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-19/openlogi/</link>
+      <link>https://xlap.top/post/tech/2026-08-19/openlogi/</link>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-19/openlogi/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-19/openlogi/</guid>
       <description>OpenLogi 是一个用 Rust 编写的 Logitech Options&#43; 本地替代方案，支持 Bolt/Unifying 接收器、蓝牙直连和 USB 有线设备，提供按键重映射、DPI 调节、SmartShift 滚轮控制和 RGB 灯光配置，无需账户、无遥测、跨平台支持 macOS/Linux/Windows。</description>
     </item>
-    
     <item>
       <title>HydraDB：构建在对象存储之上的 Rust 分布式图数据库</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</link>
+      <link>https://xlap.top/post/tech/2026-08-18/hydradb/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-18/hydradb/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-18/hydradb/</guid>
       <description>HydraDB 是一个用 Rust 编写、以 S3 对象存储为持久化真相源的分布式图数据库。它把存储与计算彻底分离，用 SlateDB 保存图数据，提供快照一致的 OpenCypher 查询、GraphBLAS 遍历、Neo4j 兼容的 Bolt 协议与 HTTPS 查询 API。本文深入解析其架构、技术原理、上手方式与实战用法。</description>
     </item>
-    
     <item>
       <title>NautilusTrader：一款 Rust 原生生产级多资产交易引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</link>
+      <link>https://xlap.top/post/tech/2026-08-18/nautilus-trader/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-18/nautilus-trader/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-18/nautilus-trader/</guid>
       <description>NautilusTrader 是一款开源生产级 Rust 原生交易引擎，支持多资产、多交易所的量化策略研究、回测与实盘运行，Python 作为策略控制平面，Rust 作为高性能执行核心。</description>
     </item>
-    
     <item>
       <title>RustDesk：Rust 写的远程桌面神器，开箱即用</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</link>
+      <link>https://xlap.top/post/tech/2026-08-15/rustdesk/</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-15/rustdesk/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-15/rustdesk/</guid>
       <description>RustDesk 是一款用 Rust 编写的远程桌面解决方案，跨平台支持 Windows、macOS、Linux、Android 和 iOS，无需配置即可开箱即用，支持文件传输、剪贴板同步、TCP 隧道等功能，数据完全自主可控。</description>
     </item>
-    
     <item>
       <title>Zeron：本地优先的 AI 编程代理控制引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-15/comet/</link>
+      <link>https://xlap.top/post/tech/2026-08-15/comet/</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-15/comet/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-15/comet/</guid>
       <description>Zeron 是一个开源的本地优先引擎，让你完全控制 Claude Code、Cursor、Codex 等 AI 编程代理。支持离线运行、多设备可选同步，采用 CRDT 技术实现跨设备实时协作，适合追求隐私和自主权的开发者。</description>
     </item>
-    
     <item>
       <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</link>
+      <link>https://xlap.top/post/tech/2026-08-13/anydoc/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-13/anydoc/</guid>
       <description>anydoc 是 Firecrawl 团队开源的 Rust 库，支持 14 种文档格式（Word、Excel、PPT、PDF、RTF、EPUB 等）在单数字毫秒级转换为统一的 GitHub-Flavored Markdown，提供 Node.js、Python、WASM 多语言绑定，并可作为 Agent Skill 直接集成到 AI 编程助手中。</description>
     </item>
-    
     <item>
       <title>Nasiko：一个开源的 AI Agent 控制平面，一键部署任何 A2A 智能体</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</link>
+      <link>https://xlap.top/post/tech/2026-08-13/nasiko/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-13/nasiko/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-13/nasiko/</guid>
       <description>Nasiko 是由 Nasiko-Labs 开发的开源 AI Agent 控制平面，通过单一二进制程序为所有 Agent 提供路由、工具访问、密钥管理与可观测性，彻底解决多 Agent 协作时的运维难题。</description>
     </item>
-    
     <item>
       <title>NVIDIA Switchyard：用 Rust 构建统一多后端的 LLM 流量代理与路由网关</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-13/switchyard/</link>
+      <link>https://xlap.top/post/tech/2026-08-13/switchyard/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-13/switchyard/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-13/switchyard/</guid>
       <description>Switchyard 是 NVIDIA NeMo 推出的 Rust LLM 流量代理与库，支持 OpenAI / Anthropic / OpenAI Responses 协议互转、多后端路由（随机、LLM 分类器、信号驱动阶段路由等）以及 Prometheus 可观测指标，让你的编码智能体无缝对接任意 OpenAI 兼容端点。</description>
     </item>
-    
     <item>
       <title>Macro：一站式团队工作平台，邮件、消息、文档、任务、CRM 一体化管理</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-12/macro/</link>
+      <link>https://xlap.top/post/tech/2026-08-12/macro/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-12/macro/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-12/macro/</guid>
       <description>Macro 是由 macro-inc 打造的 all-in-one 工作操作系统，将邮件、消息、文档、任务、Agent、CRM 统一到一个极速界面，支持团队级记忆与 MCP 集成。</description>
     </item>
-    
     <item>
       <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-09/celld/</link>
+      <link>https://xlap.top/post/tech/2026-08-09/celld/</link>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-09/celld/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-09/celld/</guid>
       <description>celld 是 Deno 官方开源的 daemon，可将 Cloudflare Workers 和 Durable Objects 运行在你自己的机器上。每个对象都是一个独立的 SQLite 数据库，通过 S3 兼容存储桶实现去中心化协调，无需控制平面或共识协议。</description>
     </item>
-    
     <item>
       <title>Obscura：Rust 编写的轻量级无头浏览器，为 AI 代理和爬虫而生</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-09/obscura/</link>
+      <link>https://xlap.top/post/tech/2026-08-09/obscura/</link>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-09/obscura/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-09/obscura/</guid>
       <description>Obscura 是一个完全使用 Rust 编写的开源无头浏览器引擎，无需 Chromium，仅 30MB 内存占用，支持 Puppeteer 和 Playwright 协议，内置反检测和 CDP，是 AI 代理自动化和大规模爬虫的理想选择。</description>
     </item>
-    
     <item>
       <title>mise：用一个 CLI 管理所有开发工具、环境变量和任务</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-08/mise/</link>
+      <link>https://xlap.top/post/tech/2026-08-08/mise/</link>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-08/mise/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-08/mise/</guid>
       <description>mise（发音 /mɪz/，来自法语 mise-en-place）是一款用 Rust 编写的开发环境管理工具，一站式统一管理开发工具版本、环境变量和任务脚本，替代 asdf、direnv、make 等多种工具。</description>
     </item>
-    
     <item>
       <title>Authentik：一个开源的身份认证中台，支持 SSO/SAML/OIDC/LDAP/RADIUS</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-06/authentik/</link>
+      <link>https://xlap.top/post/tech/2026-08-06/authentik/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-06/authentik/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-06/authentik/</guid>
       <description>Authentik 是一个用 Python（Rust）构建的开源身份提供商（IdP），支持 SAML、OAuth2/OIDC、LDAP、RADIUS 等全部主流认证协议，提供可视化的应用管理与细粒度权限控制，可替代 Okta、Auth0、Entra ID 等商业方案，自托管部署从个人实验室到生产集群均可覆盖。</description>
     </item>
-    
     <item>
       <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/deno/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/deno/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/deno/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/deno/</guid>
       <description>Deno 是由 Node.js 原作者 Ryan Dahl 打造的下一代 JavaScript/TypeScript 运行时，基于 V8、Rust 和 Tokio 构建，默认安全、TypeScript 原生支持、开箱即用。本文深入解析其架构设计与核心特性。</description>
     </item>
-    
     <item>
       <title>Robonix：面向具身智能的机器人操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/robonix/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/robonix/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/robonix/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/robonix/</guid>
       <description>Robonix 是一个开源的具身智能操作系统，旨在为异构机器人构建统一的「大脑」底座，让 AI 模型和技能可以跨不同机器人形态复用，无需为每个厂商 SDK 重写代码。</description>
     </item>
-    
     <item>
       <title>pdf-inspector: 极速 PDF 分类与文本提取，Rust 编写的本地智能解析库</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
+      <link>https://xlap.top/post/tech/2026-08-02/pdf-inspector/</link>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-02/pdf-inspector/</guid>
       <description>pdf-inspector 是 Firecrawl 开源的 Rust 库，能在 200ms 内完成 PDF 类型判定（文本型/扫描型/混合型），并直接输出结构化 Markdown。零 OCR、零云服务、多语言绑定，适合大规模文档处理流水线。</description>
     </item>
-    
     <item>
       <title>Herdr：终端里的 AI Agent 多路复用器</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-01/herdr/</link>
+      <link>https://xlap.top/post/tech/2026-08-01/herdr/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-01/herdr/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-01/herdr/</guid>
       <description>Herdr 是一款专为 AI 编程助手设计的终端多路复用器，提供实时终端视图、会话持久化、纯 Socket API 等能力，让 AI Agent 的工作流管理更加高效。</description>
     </item>
-    
     <item>
       <title>Polymarket-5min-bot：Polymarket 5分钟预测市场套利机器人</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</link>
+      <link>https://xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-01/polymarket-5min-bot/</guid>
       <description>一个用 Rust 编写的 Polymarket 加密货币涨跌预测市场套利机器人，通过监控订单簿实时发现 YES&#43;NO 价差套利机会，支持自动化交易与风险控制。</description>
     </item>
-    
     <item>
       <title>Kuna：用 Rust 重写 Ghidra，一个为 AI Agent 而生的反编译器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-31/kuna/</link>
+      <link>https://xlap.top/post/tech/2026-07-31/kuna/</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-31/kuna/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-31/kuna/</guid>
       <description>Kuna 是一个由 LLM 自主迭代打磨的 agent-first 反编译器，用 Rust 从 Ghidra 移植而来，可编译为 WebAssembly 在浏览器中运行，并在控制流结构化指标上逼近 IDA Pro。本文拆解它的分阶段管线设计、可调选项体系与自动精炼闭环。</description>
     </item>
-    
     <item>
       <title>tuicr：在终端里像 GitHub PR 一样做代码审查的 Rust TUI 神器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</link>
+      <link>https://xlap.top/post/tech/2026-07-31/tuicr/</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-31/tuicr/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-31/tuicr/</guid>
       <description>tuicr 是一款用 Rust 编写的终端代码审查工具，提供 GitHub 风格连续 diff、Vim 键位、行级评论，并可一键将审查结果推送到 GitHub/GitLab 或导出给 AI 编程助手。</description>
     </item>
-    
     <item>
       <title>Nowhere：一个端口同时支持 TCP 与 UDP 传输的开源中继工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-29/nowhere/</link>
+      <link>https://xlap.top/post/tech/2026-07-29/nowhere/</link>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-29/nowhere/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-29/nowhere/</guid>
       <description>Nowhere 是一个用 Rust 编写的加密中继工具，通过单一服务端口同时支持 TLS/TCP 和 QUIC/UDP 两种传输方式，并允许上传和下载方向独立选择不同传输载体。</description>
     </item>
-    
     <item>
       <title>OpenHuman：一个本地优先、会记住一切的 AI 个人超智能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</link>
+      <link>https://xlap.top/post/tech/2026-07-27/openhuman/</link>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-27/openhuman/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-27/openhuman/</guid>
       <description>OpenHuman 是 tinyhumansai 开源的个人 AI 超智能项目，集持久记忆、多智能体编排与深度研究于一体，本地优先且重视隐私。本文从架构、核心技术栈与实战角度深入剖析这个项目。</description>
     </item>
-    
     <item>
       <title>Harper：轻量级隐私优先的英语语法检查器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-24/harper/</link>
+      <link>https://xlap.top/post/tech/2026-07-24/harper/</link>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-24/harper/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-24/harper/</guid>
       <description>Harper 是由 Automattic 开源的英语语法检查工具，完全本地运行无需联网，内存占用仅为 LanguageTool 的 1/50，毫秒级响应，支持 WebAssembly、Obsidian 插件和多编辑器集成。</description>
     </item>
-    
     <item>
       <title>Dioxus 0.8：用 Rust 写跨平台应用，一套代码覆盖 Web、桌面、移动端</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</link>
+      <link>https://xlap.top/post/tech/2026-07-23/dioxus/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-23/dioxus/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-23/dioxus/</guid>
       <description>Dioxus 是一个用 Rust 编写的跨平台 UI 框架，支持 Web、桌面、移动端、SSR 等平台，一套代码多端运行。本文深入解析其核心理念、技术架构与快速上手指南。</description>
     </item>
-    
     <item>
       <title>OmniGet：一款支持 1800&#43; 站点的全能开源下载器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-23/omniget/</link>
+      <link>https://xlap.top/post/tech/2026-07-23/omniget/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-23/omniget/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-23/omniget/</guid>
       <description>OmniGet 是一款跨平台开源桌面应用，一站式下载 Udemy 在线课程、YouTube/B站视频、音乐、电子书，支持 1800&#43; 站点，全程无需命令行，GitHub 开源免费。</description>
     </item>
-    
     <item>
       <title>Pumpkin：用 Rust 重写 Minecraft 服务器，性能与兼容兼得</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-23/pumpkin/</link>
+      <link>https://xlap.top/post/tech/2026-07-23/pumpkin/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-23/pumpkin/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-23/pumpkin/</guid>
       <description>Pumpkin 是一个完全使用 Rust 编写的 Minecraft 服务器实现，兼顾极致性能与最新版本兼容性，支持 Java 和 Bedrock 双版本，代码质量与架构设计均值得深入研究。</description>
     </item>
-    
     <item>
       <title>llmfit：智能匹配你的硬件与大语言模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-22/llmfit/</link>
+      <link>https://xlap.top/post/tech/2026-07-22/llmfit/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-22/llmfit/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-22/llmfit/</guid>
       <description>llmfit 是一款终端工具，能够自动检测你的硬件配置（RAM、CPU、GPU），并对数百个 LLM 模型进行评分，告诉你哪些模型能在你的机器上流畅运行。支持交互式 TUI 和 CLI 模式，适配多 GPU、MoE 架构和动态量化选择。</description>
     </item>
-    
     <item>
       <title>Topcoat：Rust 全栈框架的新选择</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-20/topcoat/</link>
+      <link>https://xlap.top/post/tech/2026-07-20/topcoat/</link>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-20/topcoat/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-20/topcoat/</guid>
       <description>Topcoat 是 Tokio 团队推出的模块化全栈 Rust 框架，主打服务端渲染、客户端响应式和零样板代码。支持信号驱动的客户端交互、模块化路由、内置 Tailwind 集成，让构建现代 Web 应用更高效。</description>
     </item>
-    
     <item>
       <title>Clypra：基于 Tauri v2 &#43; Rust &#43; React 19 的免费开源专业视频编辑器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/clypra/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/clypra/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/clypra/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/clypra/</guid>
       <description>Clypra 是一款采用 Tauri v2、React 19 与 Rust 构建的跨平台开源视频编辑器，MIT 协议永久免费，支持硬件加速解码、多轨时间线与可选的 AI 增强能力。</description>
     </item>
-    
     <item>
       <title>OpenCut：一套代码跨三端，开源视频编辑器进入 Rust 时代</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-13/opencut/</link>
+      <link>https://xlap.top/post/tech/2026-07-13/opencut/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-13/opencut/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-13/opencut/</guid>
       <description>OpenCut 是一个完全重写的开源视频编辑器，基于 Rust 核心实现 Web、桌面和移动端三端合一，内置插件架构、MCP 服务器和自动化批量渲染能力。</description>
     </item>
-    
     <item>
       <title>dcg：一款防止 AI 编程助手误删代码的 Rust 安全钩子</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-12/destructive-command-guard/</link>
+      <link>https://xlap.top/post/tech/2026-07-12/destructive-command-guard/</link>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-12/destructive-command-guard/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-12/destructive-command-guard/</guid>
       <description>dcg（Destructive Command Guard）是一款高性能的 Rust 工具，通过预执行钩子拦截 AI 编程助手（Claude Code、Codex CLI、Cursor 等）的危险命令，防止意外删除代码。目前已支持 12&#43; 款主流 AI 编程工具，支持 Linux、macOS 和 Windows。</description>
     </item>
-    
     <item>
       <title>pgrust: 用 Rust 从头重写 Postgres，已通过 46000&#43; 回归测试</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</link>
+      <link>https://xlap.top/post/tech/2026-07-12/pgrust/</link>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-12/pgrust/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-12/pgrust/</guid>
       <description>pgrust 是一个用 Rust 从头重写 Postgres 的开源项目，目标兼容 Postgres 18.3，已通过超过 46000 条回归测试。它与 Postgres 磁盘兼容，可直接启动现有数据目录，并已在事务负载上比 Postgres 快 50%、分析负载上快约 300 倍。</description>
     </item>
-    
     <item>
       <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <link>https://xlap.top/post/tech/2026-07-10/bun/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-10/bun/</guid>
       <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
     </item>
-    
     <item>
       <title>DBX：仅 15MB 却支持 60&#43; 数据库的 Rust 桌面管理器，内置 AI 助手的数据库瑞士军刀</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-02/dbx/</link>
+      <link>https://xlap.top/post/tech/2026-07-02/dbx/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-02/dbx/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-02/dbx/</guid>
       <description>DBX 是一款用 Rust 编写的轻量级数据库管理工具，仅 15MB 大小，支持 60&#43; 数据库类型，内置 AI SQL 助手、MCP 协议集成，支持桌面端、Docker 自托管和 Web 端使用。</description>
     </item>
-    
     <item>
       <title>Karukan：基于神经网络的现代日语输入法引擎深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-02/karukan/</link>
+      <link>https://xlap.top/post/tech/2026-07-02/karukan/</link>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-02/karukan/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-02/karukan/</guid>
       <description>深入解析 Karukan 项目——一个面向 Linux 和 macOS 的现代日语输入法，采用 GPT-2 架构与 llama.cpp 推理引擎实现高质量假名汉字转换，支持实时转换、上下文感知与学习功能。</description>
     </item>
-    
     <item>
       <title>herdr——为 AI 编程助手打造的终端工作区管理器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/herdr/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/herdr/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/herdr/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/herdr/</guid>
       <description>herdr 是一款用 Rust 开发的终端工作区管理器，专为 AI 编程助手设计。它类似 tmux，但原生感知 Agent 状态，让你在一个终端里同时运行多个编程助手，实时查看谁在等待、谁在工作、谁已完成。</description>
     </item>
-    
     <item>
       <title>dbt Core v2.0：用 Rust 重写的数据转换利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</link>
+      <link>https://xlap.top/post/tech/2026-06-28/dbt-core/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-28/dbt-core/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-28/dbt-core/</guid>
       <description>dbt Core v2.0 是数据转换工具 dbt 的全新版本，采用 Rust 重写带来性能飞跃，解析和编译速度大幅提升，支持 Parquet 格式产物，安装更便捷。</description>
     </item>
-    
     <item>
       <title>jcode：新一代编码代理工具，极致性能与多会话协作</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-21/jcode/</link>
+      <link>https://xlap.top/post/tech/2026-06-21/jcode/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-21/jcode/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-21/jcode/</guid>
       <description>jcode 是一款用 Rust 构建的新一代编码代理工具（Coding Agent Harness），主打极致性能、多会话协作、智能记忆系统和 Swarm 多智能体协同，RAM 占用仅为同类工具的 1/6，启动速度最快可达 14ms。</description>
     </item>
-    
     <item>
       <title>Pake：一键将网页打包成轻量桌面应用</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-20/pake/</link>
+      <link>https://xlap.top/post/tech/2026-06-20/pake/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-20/pake/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-20/pake/</guid>
       <description>Pake 是一个基于 Rust Tauri 构建的桌面应用打包工具，能将任意网页一键转换为跨平台桌面应用，体积比 Electron 小近 20 倍，支持 macOS、Windows 和 Linux。</description>
     </item>
-    
     <item>
       <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>
+      <link>https://xlap.top/post/tech/2026-06-20/turso/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-20/turso/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-20/turso/</guid>
       <description>Turso Database 是一个用 Rust 从零重写的 SQLite 兼容数据库，支持 MVCC 并发写入、向量搜索、变更数据捕获等现代特性，并提供 MCP Server 模式让 AI 助手直接操作数据库。</description>
     </item>
-    
     <item>
       <title>Iroh：基于公钥直连的去中心化网络框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-17/iroh/</link>
+      <link>https://xlap.top/post/tech/2026-06-17/iroh/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-17/iroh/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-17/iroh/</guid>
       <description>Iroh 是由 n0-computer 开发的 Rust 网络框架，基于 QUIC 协议实现公钥直连、NAT 穿透和自动中继，提供 blob 传输、发布订阅和最终一致 KV 存储等可组合协议，让去中心化组网变得简单高效。</description>
     </item>
-    
     <item>
       <title>Universal Android Debloater NG：跨平台 Rust 安卓去 bloater，为隐私与性能而生</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</link>
+      <link>https://xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</link>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-16/universal-android-debloater-next-generation/</guid>
       <description>UAD-ng 是一个基于 Rust、使用 Iced GUI 框架开发的跨平台安卓去 bloatware 工具，专注于通过删除不必要和可疑的系统应用来提升设备隐私、安全与性能。</description>
     </item>
-    
     <item>
       <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <link>https://xlap.top/post/tech/2026-06-14/swc/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-14/swc/</guid>
       <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
     </item>
-    
     <item>
       <title>Goose：Linux 基金会旗下的开源原生 AI 代理</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/goose/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/goose/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/goose/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/goose/</guid>
       <description>深入了解 Goose——一个由 Linux 基金会 Agentic AI Foundation 托管的开源原生 AI 代理。它提供桌面应用、CLI 和 API 三种形态，支持 15&#43; 大语言模型提供商和 70&#43; MCP 扩展，采用 Rust 构建，兼具性能与可移植性。</description>
     </item>
-    
     <item>
       <title>pg_durable：在 PostgreSQL 内实现持久化工作流编排</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/pg-durable/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/pg-durable/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/pg-durable/</guid>
       <description>微软开源的 pg_durable 扩展将持久化执行模式带入 PostgreSQL，用 SQL DSL 定义工作流步骤，自动检查点恢复，无需外部编排服务。</description>
     </item>
-    
     <item>
       <title>turbovec：基于 Google TurboQuant 的高性能向量搜索引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/turbovec/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/turbovec/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/turbovec/</guid>
       <description>turbovec 是一款基于 Google Research TurboQuant 算法的 Rust 向量搜索引擎，支持 Python 绑定。它可以将 10M 文档的向量数据从 31GB 压缩到 4GB，搜索速度超过 FAISS，无需训练阶段，支持在线 ingestion 和搜索时过滤，适合构建隐私敏感、低延迟的 RAG 系统。</description>
     </item>
-    
     <item>
       <title>FFF：为人类和 AI Agent 重新定义的极速文件搜索引擎</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-02/fff/</link>
+      <link>https://xlap.top/post/tech/2026-06-02/fff/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-02/fff/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-02/fff/</guid>
       <description>FFF 是一个 Rust 编写的文件搜索工具库，支持 MCP Server、Neovim 插件、Node SDK 和 C 语言库等多种接口。相比 ripgrep 和 fzf，它通过常驻内存索引、frecency 排序和抗拼写错误匹配，在重复搜索场景下实现亚 10ms 响应。</description>
     </item>
-    
     <item>
       <title>oh-my-pi：把 IDE 能力接入编码智能体的终极方案</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
+      <link>https://xlap.top/post/tech/2026-06-02/oh-my-pi/</link>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-02/oh-my-pi/</guid>
       <description>深入解析 oh-my‑pi（omp）——一个将 LSP、DAP、真实浏览器和文件系统全部接入编码智能体的开源项目。基于 Pi 构建，内置 32 种工具、支持 40&#43; AI 提供商，用 ~27k 行 Rust 实现核心引擎，让智能体真正「懂」你的代码库。</description>
     </item>
-    
     <item>
       <title>iii：零集成架构的后端统一运行时</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-28/iii/</link>
+      <link>https://xlap.top/post/tech/2026-05-28/iii/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-28/iii/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-28/iii/</guid>
       <description>iii 是一个革命性的后端统一运行时，通过 Worker、Function、Trigger 三个原语将队列、定时任务、HTTP、状态管理、可观测性等基础设施统一到一个实时系统表面，实现零集成的服务编排体验。</description>
     </item>
-    
   </channel>
 </rss>

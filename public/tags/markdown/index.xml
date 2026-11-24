@@ -1,54 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Markdown on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/markdown/</link>
+    <link>https://xlap.top/tags/markdown/</link>
     <description>Recent content in Markdown on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>anydoc：用 Rust 将任意文档一键转为干净 Markdown 的开源利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</link>
+      <link>https://xlap.top/post/tech/2026-08-13/anydoc/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-13/anydoc/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-13/anydoc/</guid>
       <description>anydoc 是 Firecrawl 团队开源的 Rust 库，支持 14 种文档格式（Word、Excel、PPT、PDF、RTF、EPUB 等）在单数字毫秒级转换为统一的 GitHub-Flavored Markdown，提供 Node.js、Python、WASM 多语言绑定，并可作为 Agent Skill 直接集成到 AI 编程助手中。</description>
     </item>
-    
     <item>
       <title>doc7：用本地视觉语言模型把任意文档转成 AI 可读的 Markdown</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-08/doc7/</link>
+      <link>https://xlap.top/post/tech/2026-08-08/doc7/</link>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-08/doc7/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-08/doc7/</guid>
       <description>doc7 是一款开源文档转换工具，通过本地部署的视觉语言模型（VLM）将 PDF、Office 文件、扫描件、图片等任意格式文档转换为结构化 Markdown，无需云 API，按页计费彻底成为历史。</description>
     </item>
-    
     <item>
       <title>Tolaria：开源跨平台的 Markdown 知识库管理工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</link>
+      <link>https://xlap.top/post/tech/2026-06-08/tolaria/</link>
       <pubDate>Mon, 08 Jun 2026 10:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-08/tolaria/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-08/tolaria/</guid>
       <description>&lt;h1 id=&#34;tolaria开源跨平台的-markdown-知识库管理工具&#34;&gt;Tolaria：开源跨平台的 Markdown 知识库管理工具&lt;/h1&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/refactoringhq/tolaria&#34;&gt;Tolaria&lt;/a&gt; 是一款支持 macOS、Windows 和 Linux 的桌面应用程序，专门用于管理 &lt;strong&gt;Markdown 知识库&lt;/strong&gt;。无论是构建第二大脑、管理个人知识，还是为 AI 整理公司文档，Tolaria 都能胜任。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MarkItDown：微软开源的万能文档转 Markdown 利器</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</link>
+      <link>https://xlap.top/post/tech/2026-05-28/markitdown/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-28/markitdown/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-28/markitdown/</guid>
       <description>MarkItDown 是微软开源的轻量级 Python 工具，支持 PDF、Word、Excel、PPT、图片、音频等十余种格式一键转为 Markdown，专为 LLM 文本分析流水线设计。</description>
     </item>
-    
   </channel>
 </rss>

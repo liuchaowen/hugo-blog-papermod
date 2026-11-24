@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Material Design on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/material-design/</link>
+    <link>https://xlap.top/tags/material-design/</link>
     <description>Recent content in Material Design on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:10:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/material-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 13:10:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/material-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M3E Canvas：在浏览器里拼装 Material 3 Expressive 界面，一键生成 AI 编程提示词</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</link>
+      <link>https://xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</link>
       <pubDate>Mon, 07 Sep 2026 13:10:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-07/m3e-canvas-material-3-expressive-design-tool/</guid>
       <description>M3E Canvas 是一个开源的 Material 3 Expressive 界面设计工具，支持拖放组件、磁吸连接、屏幕导航、主题切换，并能将设计转化为自然语言提示词，配合 Claude Code、Cursor 等 AI 编程工具使用。</description>
     </item>
-    
   </channel>
 </rss>

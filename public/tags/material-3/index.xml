@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Material 3 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/material-3/</link>
+    <link>https://xlap.top/tags/material-3/</link>
     <description>Recent content in Material 3 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/material-3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 08:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/material-3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M3E Canvas：浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</link>
+      <link>https://xlap.top/post/tech/2026-09-07/m3e-canvas/</link>
       <pubDate>Mon, 07 Sep 2026 08:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-07/m3e-canvas/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-07/m3e-canvas/</guid>
       <description>M3E Canvas 是一个开源的浏览器端设计工具，支持拖拽绘制 Material 3 Expressive 风格的界面原型，自动生成结构化提示词供 Claude Code、Codex 等 AI 编程工具使用，实现从设计到代码的无缝衔接。</description>
     </item>
-    
   </channel>
 </rss>

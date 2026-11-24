@@ -1,97 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PyTorch on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/pytorch/</link>
+    <link>https://xlap.top/tags/pytorch/</link>
     <description>Recent content in PyTorch on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 12:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MiniMind：3块钱2小时，从零训练你自己的大语言模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/minimind/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/minimind/</link>
       <pubDate>Wed, 02 Sep 2026 12:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/minimind/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/minimind/</guid>
       <description>MiniMind 是一个从零开始的大语言模型全链路开源项目，仅用3块钱成本和2小时训练时间，即可训练出约64M参数的超小语言模型，覆盖预训练、SFT、LoRA、RLHF、Tool Use、Agentic RL等完整流程。</description>
     </item>
-    
     <item>
       <title>Hugging Face Transformers：连接整个 ML 生态的模型定义框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-12/transformers/</link>
+      <link>https://xlap.top/post/tech/2026-08-12/transformers/</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-12/transformers/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-12/transformers/</guid>
       <description>Transformers 是 Hugging Face 开源的模型定义框架，统一的模型定义让它成为 PyTorch 训练框架、vLLM 等推理引擎与各类建模库之间的枢纽。本文从源码视角解析其架构设计、Pipeline 快速上手与工程实践要点。</description>
     </item>
-    
     <item>
       <title>FaceSwap：开源深度学习换脸工具完全指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</link>
+      <link>https://xlap.top/post/tech/2026-07-30/faceswap/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-30/faceswap/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-30/faceswap/</guid>
       <description>FaceSwap 是 deepfakes 团队开源的深度学习换脸工具，支持提取、训练、转换三大核心流程，基于 PyTorch/TensorFlow 深度学习框架，可运行于 NVIDIA GPU、AMD ROCm 及 Apple Silicon 等多平台。</description>
     </item>
-    
     <item>
       <title>Pocket TTS：Kyutai 开源 100M 参数 CPU 高性能文本转语音模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</link>
+      <link>https://xlap.top/post/tech/2026-07-08/pocket-tts/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-08/pocket-tts/</guid>
       <description>Pocket TTS 是 Kyutai Labs 开源的轻量级文本转语音模型，仅 100M 参数、在 CPU 上即可达到 6 倍实时速度，支持流式输出、语音克隆和多语言，pip 一键安装即可在本地运行。</description>
     </item>
-    
     <item>
       <title>PyTorch：深度学习领域的首选框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</link>
+      <link>https://xlap.top/post/tech/2026-07-04/pytorch/</link>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-04/pytorch/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-04/pytorch/</guid>
       <description>PyTorch 是由 Meta AI 开发的开源深度学习框架，提供强大的 GPU 加速张量计算和动态神经网络构建能力，以其 Python 优先的设计理念和灵活的动态计算图著称，已成为学术界和工业界最受欢迎的深度学习平台之一。</description>
     </item>
-    
     <item>
       <title>Microsoft AI for Beginners：12周系统化人工智能课程，从符号AI到深度学习的完整学习路径</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
+      <link>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-01/ai-for-beginners/</guid>
       <description>深入解析 Microsoft AI for Beginners 课程体系：涵盖符号AI、神经网络、计算机视觉、自然语言处理等核心技术，包含24节课程、可执行Jupyter Notebook、实战Lab，支持PyTorch和TensorFlow双框架，适合AI初学者构建完整知识体系。</description>
     </item>
-    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/train-llm-from-scratch/</guid>
       <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型，支持13M到2B&#43;参数规模。</description>
     </item>
-    
     <item>
       <title>从零训练大语言模型：单GPU实现百万到十亿参数LLM完整指南</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
+      <link>https://xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-01/train-lm-from-scratch/</guid>
       <description>详细介绍如何使用PyTorch从零实现Transformer模型并训练大语言模型。</description>
     </item>
-    
     <item>
       <title>stable-worldmodel：世界模型研究的可复现平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
+      <link>https://xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
       <description>stable-worldmodel 是一个面向世界模型研究的统一平台，提供数据收集、训练和模型预测控制评估的标准化接口，支持多种环境和基线实现，大幅提升研究代码的可复现性。</description>
     </item>
-    
   </channel>
 </rss>

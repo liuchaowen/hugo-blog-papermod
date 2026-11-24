@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spring Boot on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/spring-boot/</link>
+    <link>https://xlap.top/tags/spring-boot/</link>
     <description>Recent content in Spring Boot on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>融光：Agent 驱动的视频创作平台，剧本到成片一站式搞定</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/ai-fusion-video/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/ai-fusion-video/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/ai-fusion-video/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/ai-fusion-video/</guid>
       <description>融光（ai-fusion-video）是一款面向视频创作者的 Agent 驱动创作平台，将项目、剧本、分镜、素材及图片与视频生成整合在统一工作区，基于 Java 21 &#43; Spring Boot 3.5 &#43; Next.js 16 构建，支持 Docker 一键部署。</description>
     </item>
-    
     <item>
       <title>SkillHub：一个企业级开源 Agent 技能仓库，让团队共享 AI 能力</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</link>
+      <link>https://xlap.top/post/tech/2026-07-20/skillhub/</link>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-20/skillhub/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-20/skillhub/</guid>
       <description>SkillHub 是科大讯飞开源的企业级 Agent 技能注册与分发平台，支持自托管、语义化版本、团队命名空间、RBAC 权限管理，配合 CLI 一键安装 / 搜索 / 发布技能，适合在企业防火墙内搭建私有 AI 技能市场。</description>
     </item>
-    
     <item>
       <title>Stirling PDF：功能最全的开源 PDF 处理平台，支持 50&#43; 工具私有化部署</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
+      <link>https://xlap.top/post/tech/2026-06-22/stirling-pdf/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-22/stirling-pdf/</guid>
       <description>Stirling PDF 是一个功能强大的开源 PDF 编辑平台，提供 50 多种 PDF 处理工具，支持桌面端、浏览器和自托管服务器部署，无需将文档发送到外部服务即可完成编辑、签名、转换等操作。</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SEO on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/seo/</link>
+    <link>https://xlap.top/tags/seo/</link>
     <description>Recent content in SEO on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/seo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Claude SEO：为 Claude Code 打造的开源 AI 搜索引擎优化技能</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</link>
+      <link>https://xlap.top/post/tech/2026-07-23/claude-seo/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-23/claude-seo/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-23/claude-seo/</guid>
       <description>Claude SEO 是面向 Claude Code 的开源 SEO 分析插件，基于 25 个子技能与 18 个专家 Agent 并行审计技术 SEO、内容质量、结构化数据与 AI 搜索优化，并输出带可证伪性校验的优先级行动计划。</description>
     </item>
-    
     <item>
       <title>OpenSEO：开源替代 Semrush/Ahrefs 的 AI 友好型 SEO 工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</link>
+      <link>https://xlap.top/post/tech/2026-06-26/open-seo/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-26/open-seo/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-26/open-seo/</guid>
       <description>OpenSEO 是一款开源 SEO 工具，旨在替代 Semrush 和 Ahrefs 等昂贵且臃肿的商业产品。它采用按量付费模式，支持 MCP 协议与 AI Agent 集成，内置关键词研究、排名追踪、域名分析、反链查询、站点审计等完整 SEO 工作流，并可自部署于 Docker 或 Cloudflare。</description>
     </item>
-    
   </channel>
 </rss>

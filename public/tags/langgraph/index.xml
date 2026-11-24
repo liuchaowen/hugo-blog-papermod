@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LangGraph on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/langgraph/</link>
+    <link>https://xlap.top/tags/langgraph/</link>
     <description>Recent content in LangGraph on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI 智能体实战速成指南：从零到企业级落地的系统性学习路线</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</link>
+      <link>https://xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</link>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-19/ai-agents-from-zero/</guid>
       <description>全网首个系统开源的 AI 智能体教程，涵盖大模型基础、LangChain/LangGraph 框架、企业级 RAG/Agent 实战、微调实践和面试题库，提供完整源码和可运行案例，适合零基础到工程化落地的全链路学习。</description>
     </item>
-    
     <item>
       <title>MAC (Multi-Agent CAD)：用 1% 的 Token 生成可 3D 打印的模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</link>
+      <link>https://xlap.top/post/tech/2026-08-08/multi-agent-cad/</link>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-08/multi-agent-cad/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-08/multi-agent-cad/</guid>
       <description>清华 IEI Lab 开源的 Multi-Agent CAD 框架，用 4 个 Agent &#43; LangGraph 状态机把文本转 CAD 的 Token 消耗压到 1/116、成本降到 1/13，特征通过率反而提升到 99.3%。本文深入解析其结构化状态传递、确定性翻译器与白盒可审计设计。</description>
     </item>
-    
     <item>
       <title>AI Hedge Fund：多智能体协作的 AI 对冲基金系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/ai-hedge-fund/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/ai-hedge-fund/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/ai-hedge-fund/</guid>
       <description>一个基于多智能体架构的 AI 对冲基金概念验证项目，融合了巴菲特、芒格、达摩达兰等13位投资大师的投资哲学，通过基本面、技术面、情绪分析等多维度信号辅助投资决策。</description>
     </item>
-    
     <item>
       <title>DeerFlow 2.0：字节跳动的开源超级 Agent Harness 深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</link>
+      <link>https://xlap.top/post/tech/2026-06-22/deer-flow/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-22/deer-flow/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-22/deer-flow/</guid>
       <description>DeerFlow 2.0 是字节跳动开源的超级 Agent Harness，基于 LangGraph 和 LangChain 彻底重构，支持子 Agent 编排、长期记忆、沙箱执行和可扩展技能。</description>
     </item>
-    
     <item>
       <title>Production Agentic RAG Course：从零构建生产级 RAG 系统的完整实战课程</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
+      <link>https://xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-03/production-agentic-rag-course/</guid>
       <description>一个从基础到高级的 RAG 系统实战课程，涵盖基础设施搭建、数据管道、关键词搜索、混合检索、LLM 集成、生产监控到智能体 RAG 的完整技术栈，采用 &amp;#39;先关键词后向量&amp;#39; 的专业路径，教你像大厂一样构建生产级 RAG 系统。</description>
     </item>
-    
   </channel>
 </rss>

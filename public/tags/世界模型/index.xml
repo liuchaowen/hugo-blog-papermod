@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>世界模型 on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/</link>
+    <link>https://xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/</link>
     <description>Recent content in 世界模型 on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HelixWorld：实时交互式音视频世界模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</link>
+      <link>https://xlap.top/post/tech/2026-08-28/helixworld/</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-28/helixworld/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-28/helixworld/</guid>
       <description>HelixWorld 1.0 是 Noiz AI 推出的实时交互式音视频世界模型，支持图像与提示词输入，实现画面与声音同步更新，空间声场随视角转动，音频不再是后期添加的配乐。</description>
     </item>
-    
     <item>
       <title>World Models 101：免费互动课程，一次性搞清楚什么是世界模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</link>
+      <link>https://xlap.top/post/tech/2026-08-26/worldmodels101/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-26/worldmodels101/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-26/worldmodels101/</guid>
       <description>World Models 101 是一个免费的互动课程，用 9 个章节、约两小时，带你从零搞懂世界模型（World Model）的五种定义、核心原理与最新前沿进展，无需注册，随学随用。</description>
     </item>
-    
     <item>
       <title>ABot-World：用单张桌面 GPU 实现无限交互式世界仿真</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</link>
+      <link>https://xlap.top/post/tech/2026-08-04/abot-world/</link>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-04/abot-world/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-04/abot-world/</guid>
       <description>ABot-World 是高德地图 CV 团队开源的项目，仅需一块 NVIDIA RTX 5090 桌面 GPU（19GB 显存）即可在 720P 分辨率、16 FPS、1.2s 延迟下实现无限动作条件化的交互式世界仿真，为游戏引擎和自动驾驶仿真提供了全新的端到端可微分替代方案。</description>
     </item>
-    
     <item>
       <title>NVIDIA Cosmos 3：统一物理AI的世界模型平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</link>
+      <link>https://xlap.top/post/tech/2026-06-05/cosmos/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-05/cosmos/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-05/cosmos/</guid>
       <description>NVIDIA Cosmos 3 是一个开放的世界模型、数据集和工具平台，通过统一的Mixture-of-Transformers架构处理语言、图像、视频、音频和动作序列，为机器人、自动驾驶和智能基础设施构建物理AI。</description>
     </item>
-    
     <item>
       <title>stable-worldmodel：世界模型研究的可复现平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
+      <link>https://xlap.top/post/tech/2026-05-31/stable-worldmodel/</link>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-31/stable-worldmodel/</guid>
       <description>stable-worldmodel 是一个面向世界模型研究的统一平台，提供数据收集、训练和模型预测控制评估的标准化接口，支持多种环境和基线实现，大幅提升研究代码的可复现性。</description>
     </item>
-    
   </channel>
 </rss>

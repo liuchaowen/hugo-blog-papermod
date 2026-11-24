@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SQLite on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/sqlite/</link>
+    <link>https://xlap.top/tags/sqlite/</link>
     <description>Recent content in SQLite on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>celld：Deno 官方开源的自托管分布式 Durable Objects 运行时</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-09/celld/</link>
+      <link>https://xlap.top/post/tech/2026-08-09/celld/</link>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-09/celld/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-09/celld/</guid>
       <description>celld 是 Deno 官方开源的 daemon，可将 Cloudflare Workers 和 Durable Objects 运行在你自己的机器上。每个对象都是一个独立的 SQLite 数据库，通过 S3 兼容存储桶实现去中心化协调，无需控制平面或共识协议。</description>
     </item>
-    
     <item>
       <title>Turso Database：用 Rust 重写 SQLite 的野心与实现</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-20/turso/</link>
+      <link>https://xlap.top/post/tech/2026-06-20/turso/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-20/turso/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-20/turso/</guid>
       <description>Turso Database 是一个用 Rust 从零重写的 SQLite 兼容数据库，支持 MVCC 并发写入、向量搜索、变更数据捕获等现代特性，并提供 MCP Server 模式让 AI 助手直接操作数据库。</description>
     </item>
-    
   </channel>
 </rss>

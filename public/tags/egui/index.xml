@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Egui on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/egui/</link>
+    <link>https://xlap.top/tags/egui/</link>
     <description>Recent content in Egui on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:04:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/egui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 14:04:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/egui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fastpotify：用 Rust 写的轻量 Spotify 客户端，内存占用仅官方四分之一</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</link>
+      <link>https://xlap.top/post/tech/2026-09-02/fastpotify/</link>
       <pubDate>Wed, 02 Sep 2026 14:04:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-02/fastpotify/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-02/fastpotify/</guid>
       <description>Fastpotify 是一个用 Rust 和 egui 构建的原生 Spotify 客户端，通过 librespot 播放音乐，内存仅 100-250MB，支持 Spotify Connect、Winamp 皮肤、MilkDrop 可视化效果，跨平台运行。</description>
     </item>
-    
   </channel>
 </rss>

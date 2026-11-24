@@ -1,259 +1,208 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TypeScript on Blog - XLapTop</title>
-    <link>https://blog.xlap.top/tags/typescript/</link>
+    <link>https://xlap.top/tags/typescript/</link>
     <description>Recent content in TypeScript on Blog - XLapTop</description>
     <image>
       <title>Blog - XLapTop</title>
-      <url>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xlap.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:05:00 +0800</lastBuildDate><atom:link href="https://blog.xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Sep 2026 19:05:00 +0800</lastBuildDate>
+    <atom:link href="https://xlap.top/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clodds：Claude 驱动的自托管 AI 交易终端，一个人也能撮合 10 个预测市场</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</link>
+      <link>https://xlap.top/post/tech/2026-09-10/cloddsbot/</link>
       <pubDate>Thu, 10 Sep 2026 19:05:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-10/cloddsbot/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-10/cloddsbot/</guid>
       <description>Clodds（Claude &#43; Odds）是 alsk1992 开源的 AI 交易终端，用自然语言打通 Polymarket、Kalshi 等 10 个预测市场、7 家合约交易所与 Solana/EVM 链上 DeFi，内置 118&#43; 策略、统一风控引擎、语义记忆与 21 个消息渠道，12 天为 Colosseum Hackathon 建成。</description>
     </item>
-    
     <item>
       <title>DeepSeek Harness：DeepSeek AI 开源的下一代 Agent 框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/</link>
+      <link>https://xlap.top/post/tech/2026-09-09/deepseek-harness/</link>
       <pubDate>Wed, 09 Sep 2026 13:07:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-09-09/deepseek-harness/</guid>
+      <guid>https://xlap.top/post/tech/2026-09-09/deepseek-harness/</guid>
       <description>DeepSeek Harness（dsh）是 DeepSeek AI 开源的 Agent 框架，基于一切皆插件架构和 Cordis 时空可组合性范式，提供 Web UI、桌面端、CLI 多形态运行方式，支持 Node.js 22&#43; 和 TypeScript 6。</description>
     </item>
-    
     <item>
       <title>Zod 深度解析：TypeScript 优先的类型安全校验库</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-31/zod/</link>
+      <link>https://xlap.top/post/tech/2026-08-31/zod/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-31/zod/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-31/zod/</guid>
       <description>Zod 是当下最流行的 TypeScript 优先 schema 校验库，能够用一份 schema 同时完成运行时数据校验与静态类型推断。本文从核心特性、技术原理、AOT 编译优化到实战用法，带你系统掌握 Zod，并理解它为何成为全栈类型安全的基石。</description>
     </item>
-    
     <item>
       <title>开源健身插画库 workout-guide：302 个动作逐帧 SVG 与框架无关 npm 包解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</link>
+      <link>https://xlap.top/post/tech/2026-08-28/workout-guide/</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-28/workout-guide/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-28/workout-guide/</guid>
       <description>workout-guide 是 Bryl Lim 维护的开源健身动作插画库，包含 302 个动作、每个动作 3 帧共 906 张透明 SVG，并提供类型安全的框架无关 npm 包与可搜索静态画廊。本文解析其 monorepo 架构、资源生成管线与集成方式。</description>
     </item>
-    
     <item>
       <title>MyContext：一个连接工作数据与 AI 智能的个人上下文记忆层</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</link>
+      <link>https://xlap.top/post/tech/2026-08-18/mycontext/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-18/mycontext/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-18/mycontext/</guid>
       <description>MyContext 是一个本地优先的个人工作上下文记忆系统，将散落在 IM、文档、日历、会议中的信息持续整理为私有、可演进的个人知识图谱，让大模型和 AI Agent 能够真正理解你的工作上下文。</description>
     </item>
-    
     <item>
       <title>ChartGPU：一个基于 WebGPU 的高性能图表渲染库</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</link>
+      <link>https://xlap.top/post/tech/2026-08-16/chartgpu/</link>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-16/chartgpu/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-16/chartgpu/</guid>
       <description>ChartGPU 是一个基于 WebGPU 的高性能图表渲染库，支持百万级数据点实时流式更新、多图表共享 GPU 设备、2D/3D 图表渲染，零 npm 运行时依赖，MIT 协议开源。</description>
     </item>
-    
     <item>
       <title>Cordis：面向时空可组合性的元框架</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-15/cordis/</link>
+      <link>https://xlap.top/post/tech/2026-08-15/cordis/</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-15/cordis/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-15/cordis/</guid>
       <description>cordiverse/cordis 是一个主打「时空可组合性（Spatiotemporal Composability）」的元框架，目前处于早期活跃开发阶段，API 尚不稳定。本文基于其仓库结构与工具链，解析其 monorepo 架构、构建体系与设计取向。</description>
     </item>
-    
     <item>
       <title>holaOS：一个让你和AI代理共享工作空间的本地优先操作系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/holaos/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/holaos/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/holaos/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/holaos/</guid>
       <description>holaOS 是一个本地优先的桌面操作系统，让你可以在同一个工作空间中运行任意 AI 代理（Claude Code、Codex 等），共享内存、工具和文件，支持内置前沿模型或自带 API Key。</description>
     </item>
-    
     <item>
       <title>iPolloWork：一个本地优先的 AI 可视化工作台，让 AI 协作真正可编辑</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</link>
+      <link>https://xlap.top/post/tech/2026-08-14/ipollowork/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-14/ipollowork/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-14/ipollowork/</guid>
       <description>iPolloWork 是一个开源本地优先 AI 工作台，将一个目标转化为可编辑的代码、文档、PPT、网站、设计和视频，是 Codex/Claude Code 的开源替代方案。</description>
     </item>
-    
     <item>
       <title>Bright Data CLI：把整个网页数据采集栈搬进终端</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-07/cli/</link>
+      <link>https://xlap.top/post/tech/2026-08-07/cli/</link>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-07/cli/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-07/cli/</guid>
       <description>Bright Data CLI 是一个用 TypeScript 编写的 npm 命令行工具，把 Web Unlocker、SERP API、Web Scraper API、Scraping Browser 与 AI 自愈爬虫统一封装成一条 brightdata 命令。本文从架构设计、守护进程模型、AI 自愈闭环到实战用法与常见坑，做一次完整拆解。</description>
     </item>
-    
     <item>
       <title>Deno 2.x：更安全、更现代的 JavaScript/TypeScript 运行时</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/deno/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/deno/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/deno/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/deno/</guid>
       <description>Deno 是由 Node.js 原作者 Ryan Dahl 打造的下一代 JavaScript/TypeScript 运行时，基于 V8、Rust 和 Tokio 构建，默认安全、TypeScript 原生支持、开箱即用。本文深入解析其架构设计与核心特性。</description>
     </item>
-    
     <item>
       <title>SlackCLI：用 TypeScript 与 Bun 打造的开发者友好 Slack 命令行工具</title>
-      <link>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</link>
+      <link>https://xlap.top/post/tech/2026-08-05/slackcli/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-08-05/slackcli/</guid>
+      <guid>https://xlap.top/post/tech/2026-08-05/slackcli/</guid>
       <description>SlackCLI 是一款基于 TypeScript 与 Bun 构建的开源 Slack 命令行工具，支持标准 App Token 与浏览器会话 Token 双认证、多工作区管理、会话/消息/Canvas 操作，并可通过 cURL 自动提取浏览器令牌，非常适合 AI Agent 与自动化流程集成。</description>
     </item>
-    
     <item>
       <title>Baileys：基于 WebSocket 的 WhatsApp Web API TypeScript 库</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-30/baileys/</link>
+      <link>https://xlap.top/post/tech/2026-07-30/baileys/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-30/baileys/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-30/baileys/</guid>
       <description>Baileys 是一个轻量级的 TypeScript 库，通过 WebSocket 协议与 WhatsApp Web API 交互，支持完整的消息收发、群组管理、媒体处理等功能，适合构建 WhatsApp 自动化工具和机器人。</description>
     </item>
-    
     <item>
       <title>t3code — 开源项目深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-26/t3code/</link>
+      <link>https://xlap.top/post/tech/2026-07-26/t3code/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-26/t3code/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-26/t3code/</guid>
       <description>T3CodeisaminimalwebGUIforcodingagents(currentlyCodex,Claude,Cursor,andOpenCode,morecomingsoon).</description>
     </item>
-    
     <item>
       <title>img2threejs: 一张图片重建可交互的 Three.js 3D 模型</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</link>
+      <link>https://xlap.top/post/tech/2026-07-21/img2threejs/</link>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-21/img2threejs/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-21/img2threejs/</guid>
       <description>img2threejs 是一个 AI 驱动的 3D 重建工具，只需提供一张物体参考图，即可自动生成代码级的 Three.js 模型，支持硬表面物体和角色两类重建路径，带有动画层级和交互能力。</description>
     </item>
-    
     <item>
       <title>NitroStack：企业级 TypeScript 框架，一站式构建生产级 MCP 服务器</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</link>
+      <link>https://xlap.top/post/tech/2026-07-18/nitrostack/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-18/nitrostack/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-18/nitrostack/</guid>
       <description>NitroStack 是一个面向企业的 TypeScript 框架，用于构建生产级 MCP（Model Context Protocol）服务器，支持装饰器、依赖注入和 UI Widget，开箱即用。</description>
     </item>
-    
     <item>
       <title>Toonflow：AI 短剧漫剧一站式工作台，把小说秒变视频</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</link>
+      <link>https://xlap.top/post/tech/2026-07-14/toonflow-app/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-14/toonflow-app/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-14/toonflow-app/</guid>
       <description>Toonflow 是一款开源 AI 短剧漫剧工具，通过决策层、执行层、监督层三层 Agent 协作，实现从小说文本到分镜、素材、视频的全流程自动化，支持本地部署与云端使用。</description>
     </item>
-    
     <item>
       <title>TypeScript 6.0：让 JavaScript 拥有工业级类型安全的大型应用语言</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-11/typescript/</link>
+      <link>https://xlap.top/post/tech/2026-07-11/typescript/</link>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-11/typescript/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-11/typescript/</guid>
       <description>本文基于 microsoft/TypeScript 源码与官方 README，深入解析 TypeScript 的核心特性、编译架构、tsc 与 tsserver 的构建体系，以及如何安装、使用与排错，并介绍其向 7.0（原生 Go 移植）演进的现状。</description>
     </item>
-    
     <item>
       <title>Bun 1.x：集运行时、包管理器、测试器于一体的 JavaScript 工具箱</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-10/bun/</link>
+      <link>https://xlap.top/post/tech/2026-07-10/bun/</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-10/bun/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-10/bun/</guid>
       <description>Bun 是一个用 Rust 编写的全栈 JavaScript/TypeScript 工具链，内置运行时、包管理器、测试器和构建器，号称 Node.js 的直接替代品。本文深入解析其架构设计、核心特性与实战用法。</description>
     </item>
-    
     <item>
       <title>Prisma：下一代 Node.js 与 TypeScript ORM 深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-07-08/prisma/</link>
+      <link>https://xlap.top/post/tech/2026-07-08/prisma/</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-07-08/prisma/</guid>
+      <guid>https://xlap.top/post/tech/2026-07-08/prisma/</guid>
       <description>Prisma 是面向 Node.js 与 TypeScript 的下一代 ORM，包含自动生成、类型安全的 Prisma Client、声明式 Prisma Migrate 与可视化 Prisma Studio。本文从架构、技术原理、快速上手到实战示例，带你深入理解 Prisma 如何重塑数据库访问层。</description>
     </item>
-    
     <item>
       <title>Flue：下一代自主Agent开发框架，让AI真正拥有自主能力</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-19/flue/</link>
+      <link>https://xlap.top/post/tech/2026-06-19/flue/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-19/flue/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-19/flue/</guid>
       <description>Flue是Astro团队推出的Agent Harness框架，提供完整的TypeScript工具链，让开发者能够构建真正自主的AI Agent，支持会话管理、工具调用、沙箱执行和持久化等核心能力</description>
     </item>
-    
     <item>
       <title>World Monitor：AI 驱动的实时全球情报态势感知平台</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-19/worldmonitor/</link>
+      <link>https://xlap.top/post/tech/2026-06-19/worldmonitor/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-19/worldmonitor/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-19/worldmonitor/</guid>
       <description>World Monitor 是一个开源的实时全球情报仪表盘，聚合 500&#43; 新闻源、56 种地图图层、29 个交易所金融数据，通过 AI 合成简报，支持本地 Ollama 运行，覆盖地缘政治、金融、能源等多领域态势感知。</description>
     </item>
-    
     <item>
       <title>Rocket.Chat：开源安全的团队通信解决方案</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</link>
+      <link>https://xlap.top/post/tech/2026-06-18/rocket-chat/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-18/rocket-chat/</guid>
       <description>Rocket.Chat 是一个用 TypeScript 开发的开源团队通信平台，提供自托管、云部署和隔离部署等多种选项。支持实时聊天、语音通话、联邦通信等功能，被德国铁路、美国海军等组织信任使用。</description>
     </item>
-    
     <item>
       <title>SWC：用 Rust 重写的超快 JavaScript/TypeScript 编译器</title>
-      <link>https://blog.xlap.top/post/tech/2026-06-14/swc/</link>
+      <link>https://xlap.top/post/tech/2026-06-14/swc/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-06-14/swc/</guid>
+      <guid>https://xlap.top/post/tech/2026-06-14/swc/</guid>
       <description>SWC（Speedy Web Compiler）是基于 Rust 的高性能 JavaScript/TypeScript 编译器，可替代 Babel 实现转译与压缩，速度提升 20 倍以上，已被 Next.js、Turbopack 等主流工具链广泛采用。</description>
     </item>
-    
     <item>
       <title>Claude-Mem：为 Claude Code 构建的持久化记忆压缩系统</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/claude-mem/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/claude-mem/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/claude-mem/</guid>
       <description>Claude-Mem 是一款为 Claude Code 打造的持久化记忆压缩系统，通过自动捕获工具使用观察、生成语义摘要，实现跨会话的上下文保持，让 AI 助手能够持续记忆项目知识。</description>
     </item>
-    
     <item>
       <title>OpenStock：开源股票市场交易平台技术深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/openstock/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/openstock/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/openstock/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/openstock/</guid>
       <description>深入解析 OpenStock 开源股票平台的技术架构、核心功能实现与部署方案</description>
     </item>
-    
     <item>
       <title>Twenty：可代码化定制的企业级开源 CRM 平台技术深度解析</title>
-      <link>https://blog.xlap.top/post/tech/2026-05-27/twenty/</link>
+      <link>https://xlap.top/post/tech/2026-05-27/twenty/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
-      
-      <guid>https://blog.xlap.top/post/tech/2026-05-27/twenty/</guid>
+      <guid>https://xlap.top/post/tech/2026-05-27/twenty/</guid>
       <description>深入解析 Twenty 开源 CRM 的架构设计、技术栈选型与技术实现细节</description>
     </item>
-    
   </channel>
 </rss>
